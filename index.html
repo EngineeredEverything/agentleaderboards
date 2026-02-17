@@ -3,349 +3,178 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AgentLeaderboards - Compare AI Agents & Performance Rankings</title>
+    <title>AgentLeaderboards - Real AI Model Rankings & Benchmarks (Feb 2026)</title>
     
-    <!-- SEO Meta Tags -->
-    <meta name="description" content="Compare 100+ AI agents by performance, cost, and speed. Find the best AI for coding, writing, research, and more with real benchmarks and community ratings.">
-    <meta name="keywords" content="AI agent rankings, agent performance metrics, AI leaderboard, autonomous agent comparison, AI bot rankings, AI benchmarks, LLM comparison">
-    <meta name="author" content="AgentLeaderboards">
-    <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://agentleaderboards.com/">
-    
-    <!-- Open Graph (Facebook/LinkedIn) -->
-    <meta property="og:title" content="AgentLeaderboards - Compare AI Agents & Performance Rankings">
-    <meta property="og:description" content="Compare 100+ AI agents by performance, cost, and speed. Find the best AI for any task with real benchmarks.">
-    <meta property="og:image" content="https://agentleaderboards.com/og-image.png">
-    <meta property="og:url" content="https://agentleaderboards.com/">
-    <meta property="og:type" content="website">
-    <meta property="og:site_name" content="AgentLeaderboards">
-    
-    <!-- Twitter Card -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="AgentLeaderboards - Compare AI Agents">
-    <meta name="twitter:description" content="Compare 100+ AI agents by performance, cost, and speed. Find the best AI for any task.">
-    <meta name="twitter:image" content="https://agentleaderboards.com/og-image.png">
-    
-    <!-- JSON-LD Structured Data -->
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "SoftwareApplication",
-        "name": "AgentLeaderboards",
-        "description": "A comprehensive platform for comparing AI agents by performance, cost, speed, and user ratings. Find the best AI agent for coding, writing, research, analysis, and creative tasks.",
-        "url": "https://agentleaderboards.com",
-        "applicationCategory": "BusinessApplication",
-        "operatingSystem": "Web",
-        "offers": [
-            {
-                "@type": "Offer",
-                "name": "Free",
-                "price": "0",
-                "priceCurrency": "USD",
-                "description": "Browse agent directory, basic rankings, 3 comparisons per day"
-            },
-            {
-                "@type": "Offer",
-                "name": "Premium",
-                "price": "9.99",
-                "priceCurrency": "USD",
-                "description": "Unlimited comparisons, advanced analytics, API access, weekly insights"
-            }
-        ],
-        "author": {
-            "@type": "Organization",
-            "name": "AgentLeaderboards",
-            "url": "https://agentleaderboards.com"
-        },
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "4.8",
-            "ratingCount": "8432"
-        }
-    }
-    </script>
-    
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Organization",
-        "name": "AgentLeaderboards",
-        "url": "https://agentleaderboards.com",
-        "logo": "https://agentleaderboards.com/logo.png",
-        "description": "The definitive platform for AI agent rankings and comparisons",
-        "parentOrganization": {
-            "@type": "Organization",
-            "name": "EngineeredEverything",
-            "url": "https://engineeredeverything.com"
-        }
-    }
-    </script>
-    
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": [
-            {
-                "@type": "Question",
-                "name": "What is AgentLeaderboards?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "AgentLeaderboards is a comprehensive platform for comparing AI agents by performance, cost, speed, and user ratings. We track 100+ AI agents across categories like coding, writing, research, analysis, and creative tasks, helping you find the best AI for your specific needs."
-                }
-            },
-            {
-                "@type": "Question",
-                "name": "How are AI agents ranked?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "AI agents are ranked using a composite score based on benchmark performance (MMLU, HumanEval, etc.), response speed, cost efficiency, and community ratings. We run standardized tests and aggregate user feedback to provide objective, data-driven rankings."
-                }
-            },
-            {
-                "@type": "Question",
-                "name": "How do I submit my AI agent for ranking?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "To submit your AI agent for ranking, contact us through our submission form. We'll run standardized benchmarks, collect initial user ratings, and add your agent to the leaderboard. Premium users get priority review and detailed analytics on their submitted agents."
-                }
-            },
-            {
-                "@type": "Question",
-                "name": "How much does AgentLeaderboards cost?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "AgentLeaderboards offers a free tier with basic rankings and 3 comparisons per day. Our Premium plan costs $9.99/month and includes unlimited comparisons, advanced analytics, API access, custom watchlists, and weekly insights emails."
-                }
-            },
-            {
-                "@type": "Question",
-                "name": "What categories of AI agents do you rank?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "We rank AI agents across 15 categories including Coding, Writing, Research, Analysis, Creative, Customer Service, Data Processing, Translation, Legal, Medical, Finance, Education, Gaming, Robotics, and General Purpose assistants."
-                }
-            }
-        ]
-    }
-    </script>
+    <meta name="description" content="Compare 20+ frontier AI models with real benchmark scores. Claude Opus 4.6, GPT-5.2, Gemini 3 Pro - see actual performance data from LM Council, SWE-bench, and more.">
+    <meta name="keywords" content="AI model benchmarks, LLM leaderboard, Claude vs GPT, AI agent comparison, coding AI, reasoning models">
     
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <style>
-        .gradient-bg { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); }
-        .card-hover:hover { transform: translateY(-2px); box-shadow: 0 12px 24px rgba(0,0,0,0.15); }
-        .premium-badge { background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); }
+        .gradient-bg {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+        .hover-scale {
+            transition: transform 0.2s;
+        }
+        .hover-scale:hover {
+            transform: scale(1.02);
+        }
+        .badge {
+            font-size: 0.75rem;
+            padding: 0.25rem 0.5rem;
+            border-radius: 0.25rem;
+            display: inline-block;
+            margin-right: 0.25rem;
+        }
     </style>
 </head>
-<body class="bg-gray-900 text-white min-h-screen">
-    <!-- Header -->
-    <header class="gradient-bg py-4 px-6 sticky top-0 z-50">
-        <div class="max-w-7xl mx-auto flex justify-between items-center">
+<body class="bg-gray-900 text-white">
+    <!-- Navigation -->
+    <nav class="bg-gray-800 border-b border-gray-700 sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
             <div class="flex items-center gap-3">
-                <i class="fas fa-trophy text-yellow-300 text-2xl" aria-hidden="true"></i>
-                <span class="text-xl font-bold">AgentLeaderboards</span>
+                <i class="fas fa-trophy text-yellow-300 text-2xl"></i>
+                <span class="font-bold text-xl">AgentLeaderboards</span>
             </div>
-            <nav class="flex items-center gap-6" aria-label="Main navigation">
-                <a href="#leaderboard" class="hover:text-yellow-300 transition">Leaderboard</a>
-                <a href="#compare" class="hover:text-yellow-300 transition">Compare</a>
-                <a href="#faq" class="hover:text-yellow-300 transition">FAQ</a>
-                <a href="pricing.html" class="hover:text-yellow-300 transition">Pricing</a>
-                <a href="pricing.html" class="bg-yellow-500 hover:bg-yellow-400 text-gray-900 px-4 py-2 rounded-lg font-semibold transition">
-                    Go Premium
-                </a>
-            </nav>
+            <div class="flex gap-4">
+                <a href="#leaderboard" class="text-gray-300 hover:text-white">Leaderboard</a>
+                <a href="pricing.html" class="bg-purple-600 hover:bg-purple-500 px-4 py-2 rounded-lg font-semibold transition">Upgrade</a>
+            </div>
         </div>
-    </header>
+    </nav>
 
     <!-- Hero -->
-    <section class="py-20 px-6 text-center">
-        <h1 class="text-5xl font-bold mb-6">Find the Best AI Agent for Any Task</h1>
-        <p class="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
-            Compare performance, cost, and capabilities across 100+ AI agents. 
-            Make data-driven decisions with real benchmarks and community ratings.
-        </p>
-        <div class="flex justify-center gap-4">
-            <a href="#leaderboard" class="bg-purple-600 hover:bg-purple-500 px-8 py-3 rounded-lg font-semibold transition">
-                View Leaderboard
-            </a>
-            <a href="pricing.html" class="border border-purple-500 hover:bg-purple-500/20 px-8 py-3 rounded-lg font-semibold transition">
-                See Pricing
-            </a>
+    <section class="gradient-bg py-20 px-6">
+        <div class="max-w-7xl mx-auto text-center">
+            <h1 class="text-5xl font-bold mb-6">Real AI Model Benchmarks</h1>
+            <p class="text-2xl text-purple-100 mb-8">
+                Compare 20+ frontier models with actual performance data
+            </p>
+            <p class="text-lg text-purple-200 mb-12">
+                Source: LM Council, SWE-bench, GPQA Diamond, Terminal-Bench • Updated Feb 2026
+            </p>
+            <div class="flex justify-center gap-4">
+                <a href="#leaderboard" class="bg-white text-purple-700 px-8 py-4 rounded-lg font-bold text-lg hover:bg-gray-100 transition">
+                    View Leaderboard →
+                </a>
+                <a href="pricing.html" class="bg-purple-800 hover:bg-purple-700 px-8 py-4 rounded-lg font-bold text-lg border-2 border-purple-600 transition">
+                    Get API Access
+                </a>
+            </div>
         </div>
     </section>
 
     <!-- Stats Bar -->
-    <section class="bg-gray-800 py-8 px-6" aria-label="Platform statistics">
-        <div class="max-w-5xl mx-auto grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
+    <section class="bg-gray-800 py-8">
+        <div class="max-w-7xl mx-auto px-6 grid md:grid-cols-4 gap-6 text-center">
             <div>
-                <div class="text-3xl font-bold text-purple-400">127</div>
-                <div class="text-gray-400">AI Agents</div>
+                <div class="text-4xl font-bold text-yellow-400" id="agent-count">20</div>
+                <div class="text-gray-400">AI Models Tracked</div>
             </div>
             <div>
-                <div class="text-3xl font-bold text-green-400">24,891</div>
-                <div class="text-gray-400">Benchmarks Run</div>
+                <div class="text-4xl font-bold text-purple-400">20+</div>
+                <div class="text-gray-400">Real Benchmarks</div>
             </div>
             <div>
-                <div class="text-3xl font-bold text-yellow-400">8,432</div>
-                <div class="text-gray-400">User Ratings</div>
+                <div class="text-4xl font-bold text-blue-400">Daily</div>
+                <div class="text-gray-400">Updated</div>
             </div>
             <div>
-                <div class="text-3xl font-bold text-blue-400">15</div>
-                <div class="text-gray-400">Categories</div>
+                <div class="text-4xl font-bold text-green-400">100%</div>
+                <div class="text-gray-400">Real Data</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Filter Bar -->
+    <section id="leaderboard" class="py-8 px-6 bg-gray-800 border-b border-gray-700">
+        <div class="max-w-7xl mx-auto">
+            <div class="flex flex-wrap gap-4 items-center justify-between">
+                <div>
+                    <label class="text-sm text-gray-400 mb-2 block">Filter by Category</label>
+                    <select id="category-filter" class="bg-gray-700 border border-gray-600 rounded-lg px-4 py-2 text-white">
+                        <option value="all">All Categories</option>
+                        <option value="coding">Coding</option>
+                        <option value="reasoning">Reasoning</option>
+                        <option value="research">Research</option>
+                        <option value="analysis">Analysis</option>
+                    </select>
+                </div>
+                <div>
+                    <label class="text-sm text-gray-400 mb-2 block">Sort By</label>
+                    <select id="sort-by" class="bg-gray-700 border border-gray-600 rounded-lg px-4 py-2 text-white">
+                        <option value="score">Overall Score</option>
+                        <option value="price">Price (Low to High)</option>
+                        <option value="speed">Speed</option>
+                        <option value="rating">User Rating</option>
+                    </select>
+                </div>
+                <div>
+                    <label class="text-sm text-gray-400 mb-2 block">Search</label>
+                    <input type="text" id="search" placeholder="Search models..." 
+                           class="bg-gray-700 border border-gray-600 rounded-lg px-4 py-2 text-white w-64">
+                </div>
             </div>
         </div>
     </section>
 
     <!-- Leaderboard -->
-    <section id="leaderboard" class="py-16 px-6">
-        <div class="max-w-6xl mx-auto">
-            <div class="flex flex-col md:flex-row justify-between items-center mb-8 gap-4">
-                <h2 class="text-3xl font-bold">🏆 Top AI Agents This Week</h2>
-                <select id="category-filter" class="bg-gray-800 border border-gray-600 rounded-lg px-4 py-2" aria-label="Filter by category">
-                    <option value="all">All Categories</option>
-                    <option value="coding">Coding</option>
-                    <option value="writing">Writing</option>
-                    <option value="research">Research</option>
-                    <option value="analysis">Analysis</option>
-                    <option value="creative">Creative</option>
-                </select>
-            </div>
-
-            <div class="bg-gray-800 rounded-xl overflow-x-auto">
-                <table class="w-full" aria-label="AI agent leaderboard">
-                    <thead class="bg-gray-700">
-                        <tr>
-                            <th class="px-6 py-4 text-left" scope="col">Rank</th>
-                            <th class="px-6 py-4 text-left" scope="col">Agent</th>
-                            <th class="px-6 py-4 text-left" scope="col">Provider</th>
-                            <th class="px-6 py-4 text-center" scope="col">Score</th>
-                            <th class="px-6 py-4 text-center" scope="col">Cost/1K</th>
-                            <th class="px-6 py-4 text-center" scope="col">Speed</th>
-                            <th class="px-6 py-4 text-center" scope="col">Rating</th>
-                            <th class="px-6 py-4 text-center" scope="col">Action</th>
-                        </tr>
-                    </thead>
-                    <tbody id="leaderboard-body">
-                        <!-- Populated by JS -->
-                    </tbody>
-                </table>
-            </div>
-
-            <div class="text-center mt-8">
-                <p class="text-gray-400 mb-4">Want unlimited comparisons and advanced analytics?</p>
-                <a href="pricing.html" class="inline-flex items-center gap-2 bg-yellow-500 hover:bg-yellow-400 text-gray-900 px-6 py-3 rounded-lg font-semibold transition">
-                    <i class="fas fa-crown" aria-hidden="true"></i> Upgrade to Premium - $9.99/mo
-                </a>
+    <section class="py-12 px-6">
+        <div class="max-w-7xl mx-auto">
+            <div id="agents-list" class="space-y-4">
+                <!-- Populated by JavaScript -->
             </div>
         </div>
     </section>
 
-    <!-- Compare Tool -->
-    <section id="compare" class="py-16 px-6 bg-gray-800">
-        <div class="max-w-6xl mx-auto">
-            <h2 class="text-3xl font-bold mb-8 text-center">⚖️ Compare AI Agents Side-by-Side</h2>
-            
-            <div class="grid md:grid-cols-2 gap-8 mb-8">
-                <div class="bg-gray-700 rounded-xl p-6">
-                    <label for="compare-agent-1" class="block text-sm text-gray-400 mb-2">Agent 1</label>
-                    <select id="compare-agent-1" class="w-full bg-gray-800 border border-gray-600 rounded-lg px-4 py-3">
-                        <option value="">Select an agent...</option>
-                    </select>
-                </div>
-                <div class="bg-gray-700 rounded-xl p-6">
-                    <label for="compare-agent-2" class="block text-sm text-gray-400 mb-2">Agent 2</label>
-                    <select id="compare-agent-2" class="w-full bg-gray-800 border border-gray-600 rounded-lg px-4 py-3">
-                        <option value="">Select an agent...</option>
-                    </select>
-                </div>
-            </div>
-
-            <div id="comparison-result" class="hidden bg-gray-700 rounded-xl p-8">
-                <!-- Comparison results populated by JS -->
-            </div>
-
-            <div id="compare-limit-warning" class="hidden text-center mt-6 p-4 bg-yellow-500/20 border border-yellow-500 rounded-lg">
-                <p class="text-yellow-300">
-                    <i class="fas fa-lock mr-2" aria-hidden="true"></i>
-                    You've used 3/3 free comparisons today. 
-                    <a href="pricing.html" class="underline font-semibold">Upgrade to Premium</a> for unlimited comparisons.
-                </p>
-            </div>
-        </div>
-    </section>
-
-    <!-- FAQ Section -->
-    <section id="faq" class="py-16 px-6">
-        <div class="max-w-4xl mx-auto">
-            <h2 class="text-3xl font-bold mb-12 text-center">❓ Frequently Asked Questions</h2>
-            
-            <div class="space-y-6">
-                <div class="bg-gray-800 rounded-xl p-6">
-                    <h3 class="text-xl font-bold mb-3 text-purple-400">What is AgentLeaderboards?</h3>
-                    <p class="text-gray-300">AgentLeaderboards is a comprehensive platform for comparing AI agents by performance, cost, speed, and user ratings. We track 100+ AI agents across categories like coding, writing, research, analysis, and creative tasks, helping you find the best AI for your specific needs.</p>
-                </div>
-                
-                <div class="bg-gray-800 rounded-xl p-6">
-                    <h3 class="text-xl font-bold mb-3 text-purple-400">How are AI agents ranked?</h3>
-                    <p class="text-gray-300">AI agents are ranked using a composite score based on benchmark performance (MMLU, HumanEval, etc.), response speed, cost efficiency, and community ratings. We run standardized tests and aggregate user feedback to provide objective, data-driven rankings.</p>
-                </div>
-                
-                <div class="bg-gray-800 rounded-xl p-6">
-                    <h3 class="text-xl font-bold mb-3 text-purple-400">How do I submit my AI agent for ranking?</h3>
-                    <p class="text-gray-300">To submit your AI agent for ranking, contact us through our submission form. We'll run standardized benchmarks, collect initial user ratings, and add your agent to the leaderboard. Premium users get priority review and detailed analytics on their submitted agents.</p>
-                </div>
-                
-                <div class="bg-gray-800 rounded-xl p-6">
-                    <h3 class="text-xl font-bold mb-3 text-purple-400">How much does AgentLeaderboards cost?</h3>
-                    <p class="text-gray-300">AgentLeaderboards offers a <strong>free tier</strong> with basic rankings and 3 comparisons per day. Our <strong>Premium plan costs $9.99/month</strong> and includes unlimited comparisons, advanced analytics, API access, custom watchlists, and weekly insights emails.</p>
-                </div>
-                
-                <div class="bg-gray-800 rounded-xl p-6">
-                    <h3 class="text-xl font-bold mb-3 text-purple-400">What categories of AI agents do you rank?</h3>
-                    <p class="text-gray-300">We rank AI agents across 15 categories including Coding, Writing, Research, Analysis, Creative, Customer Service, Data Processing, Translation, Legal, Medical, Finance, Education, Gaming, Robotics, and General Purpose assistants.</p>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Premium CTA -->
-    <section class="py-20 px-6 gradient-bg">
+    <!-- CTA Section -->
+    <section class="gradient-bg py-20 px-6">
         <div class="max-w-4xl mx-auto text-center">
-            <h2 class="text-4xl font-bold mb-6">Get More From AgentLeaderboards</h2>
+            <h2 class="text-4xl font-bold mb-6">Ready to Find the Right AI Model?</h2>
             <p class="text-xl text-purple-100 mb-8">
-                Unlock unlimited comparisons, advanced analytics, API access, and weekly insights.
+                Get unlimited comparisons, API access, and weekly insights with Premium
             </p>
-            <div class="flex justify-center gap-4">
-                <a href="pricing.html" class="bg-white text-purple-700 px-8 py-4 rounded-lg font-bold text-lg hover:bg-gray-100 transition">
-                    View Pricing →
-                </a>
-            </div>
+            <a href="pricing.html" class="inline-block bg-white text-purple-700 px-8 py-4 rounded-lg font-bold text-lg hover:bg-gray-100 transition">
+                View Pricing →
+            </a>
         </div>
     </section>
 
     <!-- Footer -->
     <footer class="bg-gray-800 py-12 px-6">
-        <div class="max-w-6xl mx-auto">
-            <div class="flex flex-col md:flex-row justify-between items-center gap-6">
-                <div class="flex items-center gap-3">
-                    <i class="fas fa-trophy text-yellow-300 text-xl" aria-hidden="true"></i>
-                    <span class="font-bold">AgentLeaderboards</span>
+        <div class="max-w-7xl mx-auto">
+            <div class="grid md:grid-cols-3 gap-8 mb-8">
+                <div>
+                    <div class="flex items-center gap-3 mb-4">
+                        <i class="fas fa-trophy text-yellow-300 text-2xl"></i>
+                        <span class="font-bold text-xl">AgentLeaderboards</span>
+                    </div>
+                    <p class="text-gray-400">Real AI model benchmarks and comparisons. Data from LM Council, SWE-bench, and community sources.</p>
                 </div>
-                <nav class="flex gap-6 text-gray-400" aria-label="Footer navigation">
-                    <a href="#faq" class="hover:text-white transition">FAQ</a>
-                    <a href="#" class="hover:text-white transition">API</a>
-                    <a href="pricing.html" class="hover:text-white transition">Pricing</a>
-                    <a href="#" class="hover:text-white transition">Contact</a>
-                </nav>
-                <div class="text-gray-400">
-                    An <a href="https://engineeredeverything.com" class="text-purple-400 hover:underline">EngineeredEverything</a> project
+                <div>
+                    <h3 class="font-bold mb-4">Resources</h3>
+                    <ul class="space-y-2 text-gray-400">
+                        <li><a href="https://lmcouncil.ai/benchmarks" target="_blank" class="hover:text-white">LM Council Benchmarks</a></li>
+                        <li><a href="#leaderboard" class="hover:text-white">Leaderboard</a></li>
+                        <li><a href="pricing.html" class="hover:text-white">Pricing</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h3 class="font-bold mb-4">About</h3>
+                    <p class="text-gray-400">
+                        An <a href="https://engineeredeverything.com" target="_blank" class="text-purple-400 hover:underline">EngineeredEverything</a> project
+                    </p>
+                    <p class="text-sm text-gray-500 mt-4">Last updated: Feb 17, 2026</p>
                 </div>
             </div>
-            <p class="text-center text-gray-500 text-sm mt-8">© 2026 AgentLeaderboards. All rights reserved.</p>
+            <div class="border-t border-gray-700 pt-8 text-center text-gray-400 text-sm">
+                © 2026 AgentLeaderboards. All benchmark data sourced from public leaderboards and research papers.
+            </div>
         </div>
     </footer>
 
+    <!-- Scripts -->
     <script src="data/agents.js"></script>
     <script src="js/app.js"></script>
 </body>

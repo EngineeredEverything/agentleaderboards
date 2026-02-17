@@ -1,184 +1,324 @@
-// AgentLeaderboards App
-(function() {
-    const STORAGE_KEY = 'agentleaderboards_comparisons';
-    const MAX_FREE_COMPARISONS = 3;
+// AgentLeaderboards - Main App Logic
 
-    // Get today's comparison count
-    function getComparisonsToday() {
-        const data = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
-        const today = new Date().toDateString();
-        if (data.date !== today) {
-            return 0;
+let filteredAgents = [...AGENTS];
+let currentSort = 'score';
+let currentCategory = 'all';
+
+document.addEventListener('DOMContentLoaded', function() {
+    // Update agent count
+    document.getElementById('agent-count').textContent = AGENTS.length;
+    
+    // Initial render
+    renderAgents();
+    
+    // Event listeners
+    document.getElementById('category-filter').addEventListener('change', (e) => {
+        currentCategory = e.target.value;
+        filterAndRender();
+    });
+    
+    document.getElementById('sort-by').addEventListener('change', (e) => {
+        currentSort = e.target.value;
+        filterAndRender();
+    });
+    
+    document.getElementById('search').addEventListener('input', (e) => {
+        filterAndRender();
+    });
+});
+
+function filterAndRender() {
+    const searchTerm = document.getElementById('search').value.toLowerCase();
+    
+    // Filter by category
+    filteredAgents = AGENTS.filter(agent => {
+        if (currentCategory !== 'all' && agent.category !== currentCategory) {
+            return false;
         }
-        return data.count || 0;
-    }
-
-    // Increment comparison count
-    function incrementComparisons() {
-        const today = new Date().toDateString();
-        const data = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
-        if (data.date !== today) {
-            data.date = today;
-            data.count = 1;
-        } else {
-            data.count = (data.count || 0) + 1;
+        
+        // Filter by search
+        if (searchTerm) {
+            const searchable = `${agent.name} ${agent.provider} ${agent.description}`.toLowerCase();
+            if (!searchable.includes(searchTerm)) {
+                return false;
+            }
         }
-        localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
-        return data.count;
+        
+        return true;
+    });
+    
+    // Sort
+    filteredAgents.sort((a, b) => {
+        switch (currentSort) {
+            case 'score':
+                return b.score - a.score;
+            case 'price':
+                return a.priceInput - b.priceInput;
+            case 'rating':
+                return b.rating - a.rating;
+            case 'speed':
+                const speedOrder = { 'Very Fast': 0, 'Fast': 1, 'Medium': 2, 'Slow': 3 };
+                return speedOrder[a.speed] - speedOrder[b.speed];
+            default:
+                return 0;
+        }
+    });
+    
+    renderAgents();
+}
+
+function renderAgents() {
+    const container = document.getElementById('agents-list');
+    
+    if (filteredAgents.length === 0) {
+        container.innerHTML = `
+            <div class="text-center py-12">
+                <i class="fas fa-search text-6xl text-gray-600 mb-4"></i>
+                <p class="text-xl text-gray-400">No agents found matching your criteria</p>
+            </div>
+        `;
+        return;
     }
+    
+    let html = '';
+    filteredAgents.forEach((agent, index) => {
+        html += renderAgentCard(agent, index + 1);
+    });
+    
+    container.innerHTML = html;
+}
 
-    // Render leaderboard
-    function renderLeaderboard(filter = 'all') {
-        const tbody = document.getElementById('leaderboard-body');
-        if (!tbody) return;
-
-        const filtered = filter === 'all' 
-            ? AGENTS 
-            : AGENTS.filter(a => a.category === filter || a.category === 'all');
-
-        const sorted = [...filtered].sort((a, b) => b.score - a.score);
-
-        tbody.innerHTML = sorted.map((agent, idx) => `
-            <tr class="border-b border-gray-700 hover:bg-gray-700/50 transition">
-                <td class="px-6 py-4">
-                    <span class="text-2xl font-bold ${idx === 0 ? 'text-yellow-400' : idx === 1 ? 'text-gray-300' : idx === 2 ? 'text-orange-400' : 'text-gray-500'}">
-                        ${idx + 1}
-                    </span>
-                </td>
-                <td class="px-6 py-4">
-                    <div class="font-semibold">${agent.name}</div>
-                    <div class="flex gap-1 mt-1">
-                        ${agent.badges.map(b => `<span class="text-xs bg-purple-600 px-2 py-0.5 rounded">${b}</span>`).join('')}
-                    </div>
-                </td>
-                <td class="px-6 py-4 text-gray-400">${agent.provider}</td>
-                <td class="px-6 py-4 text-center">
-                    <span class="text-lg font-bold ${agent.score >= 90 ? 'text-green-400' : agent.score >= 85 ? 'text-yellow-400' : 'text-gray-400'}">
-                        ${agent.score}
-                    </span>
-                </td>
-                <td class="px-6 py-4 text-center text-gray-300">${agent.cost}</td>
-                <td class="px-6 py-4 text-center">
-                    <span class="px-2 py-1 rounded text-sm ${
-                        agent.speed === 'Fastest' ? 'bg-green-600' :
-                        agent.speed === 'Fast' ? 'bg-green-600/60' :
-                        agent.speed === 'Medium' ? 'bg-yellow-600/60' : 'bg-red-600/60'
-                    }">${agent.speed}</span>
-                </td>
-                <td class="px-6 py-4 text-center">
-                    <div class="flex items-center justify-center gap-1">
-                        <i class="fas fa-star text-yellow-400"></i>
-                        <span class="font-semibold">${agent.rating}</span>
-                        <span class="text-gray-500 text-sm">(${agent.ratingCount})</span>
-                    </div>
-                </td>
-                <td class="px-6 py-4 text-center">
-                    <button class="text-purple-400 hover:text-purple-300 transition" onclick="addToCompare(${agent.id})">
-                        <i class="fas fa-plus-circle"></i> Compare
-                    </button>
-                </td>
-            </tr>
+function renderAgentCard(agent, rank) {
+    // Get benchmark entries
+    const benchmarkHTML = Object.entries(agent.benchmarks || {})
+        .slice(0, 5) // Show top 5 benchmarks
+        .map(([name, score]) => `
+            <div class="flex justify-between items-center py-2 border-b border-gray-700 last:border-0">
+                <span class="text-sm text-gray-400">${name}</span>
+                <span class="text-sm font-semibold text-white">${score}${typeof score === 'number' && score < 100 ? '%' : ''}</span>
+            </div>
         `).join('');
+    
+    // Badges
+    const badgesHTML = agent.badges.map(badge => {
+        const colors = {
+            'Top Rated': 'bg-yellow-900 text-yellow-300',
+            'Best Value': 'bg-green-900 text-green-300',
+            'Coding Specialist': 'bg-blue-900 text-blue-300',
+            '#1 Coding': 'bg-purple-900 text-purple-300',
+            '#1 SWE-bench': 'bg-purple-900 text-purple-300',
+            '#1 Codex': 'bg-purple-900 text-purple-300',
+            'Popular': 'bg-orange-900 text-orange-300',
+            'Budget Friendly': 'bg-green-900 text-green-300',
+            'Fastest': 'bg-blue-900 text-blue-300',
+            'Open Source': 'bg-gray-700 text-gray-300',
+            'Real-time Data': 'bg-red-900 text-red-300',
+            'Deep Reasoning': 'bg-indigo-900 text-indigo-300',
+            'Long Context': 'bg-teal-900 text-teal-300',
+            'Multi-modal': 'bg-pink-900 text-pink-300'
+        };
+        const colorClass = colors[badge] || 'bg-gray-700 text-gray-300';
+        return `<span class="badge ${colorClass}">${badge}</span>`;
+    }).join('');
+    
+    // Speed indicator
+    const speedColors = {
+        'Very Fast': 'text-green-400',
+        'Fast': 'text-blue-400',
+        'Medium': 'text-yellow-400',
+        'Slow': 'text-red-400'
+    };
+    
+    // Rating stars
+    const fullStars = Math.floor(agent.rating);
+    const hasHalfStar = agent.rating % 1 >= 0.5;
+    let starsHTML = '';
+    for (let i = 0; i < fullStars; i++) {
+        starsHTML += '<i class="fas fa-star text-yellow-400"></i>';
     }
-
-    // Populate compare dropdowns
-    function populateCompareDropdowns() {
-        const select1 = document.getElementById('compare-agent-1');
-        const select2 = document.getElementById('compare-agent-2');
-        if (!select1 || !select2) return;
-
-        const options = AGENTS.map(a => `<option value="${a.id}">${a.name} (${a.provider})</option>`).join('');
-        select1.innerHTML = '<option value="">Select an agent...</option>' + options;
-        select2.innerHTML = '<option value="">Select an agent...</option>' + options;
-
-        select1.addEventListener('change', handleCompare);
-        select2.addEventListener('change', handleCompare);
+    if (hasHalfStar) {
+        starsHTML += '<i class="fas fa-star-half-alt text-yellow-400"></i>';
     }
-
-    // Handle comparison
-    function handleCompare() {
-        const select1 = document.getElementById('compare-agent-1');
-        const select2 = document.getElementById('compare-agent-2');
-        const result = document.getElementById('comparison-result');
-        const warning = document.getElementById('compare-limit-warning');
-
-        if (!select1.value || !select2.value) {
-            result.classList.add('hidden');
-            return;
-        }
-
-        // Check comparison limit
-        const comparisons = getComparisonsToday();
-        if (comparisons >= MAX_FREE_COMPARISONS) {
-            warning.classList.remove('hidden');
-            result.classList.add('hidden');
-            return;
-        }
-
-        warning.classList.add('hidden');
-        incrementComparisons();
-
-        const agent1 = AGENTS.find(a => a.id === parseInt(select1.value));
-        const agent2 = AGENTS.find(a => a.id === parseInt(select2.value));
-
-        result.classList.remove('hidden');
-        result.innerHTML = `
-            <h3 class="text-xl font-bold mb-6 text-center">Comparison Results</h3>
-            <div class="grid grid-cols-3 gap-4 text-center">
-                <div class="font-semibold text-lg">${agent1.name}</div>
-                <div class="text-gray-400">vs</div>
-                <div class="font-semibold text-lg">${agent2.name}</div>
-
-                <div class="text-3xl font-bold ${agent1.score > agent2.score ? 'text-green-400' : 'text-gray-400'}">${agent1.score}</div>
-                <div class="text-gray-500">Score</div>
-                <div class="text-3xl font-bold ${agent2.score > agent1.score ? 'text-green-400' : 'text-gray-400'}">${agent2.score}</div>
-
-                <div class="${parseFloat(agent1.cost.slice(1)) < parseFloat(agent2.cost.slice(1)) ? 'text-green-400' : ''}">${agent1.cost}</div>
-                <div class="text-gray-500">Cost/1K</div>
-                <div class="${parseFloat(agent2.cost.slice(1)) < parseFloat(agent1.cost.slice(1)) ? 'text-green-400' : ''}">${agent2.cost}</div>
-
-                <div>${agent1.speed}</div>
-                <div class="text-gray-500">Speed</div>
-                <div>${agent2.speed}</div>
-
-                <div class="flex items-center justify-center gap-1">
-                    <i class="fas fa-star text-yellow-400"></i> ${agent1.rating}
+    const emptyStars = 5 - Math.ceil(agent.rating);
+    for (let i = 0; i < emptyStars; i++) {
+        starsHTML += '<i class="far fa-star text-gray-600"></i>';
+    }
+    
+    return `
+        <div class="bg-gray-800 rounded-2xl p-6 hover-scale">
+            <!-- Header -->
+            <div class="flex items-start justify-between mb-4">
+                <div class="flex items-start gap-4 flex-1">
+                    <div class="bg-gray-700 rounded-full w-16 h-16 flex items-center justify-center text-2xl font-bold text-purple-400">
+                        #${rank}
+                    </div>
+                    <div class="flex-1">
+                        <h3 class="text-2xl font-bold mb-1">${agent.name}</h3>
+                        <p class="text-gray-400 mb-2">${agent.provider} • ${agent.released}</p>
+                        <div class="mb-2">${badgesHTML}</div>
+                        <p class="text-gray-300 text-sm">${agent.description}</p>
+                    </div>
                 </div>
-                <div class="text-gray-500">Rating</div>
-                <div class="flex items-center justify-center gap-1">
-                    <i class="fas fa-star text-yellow-400"></i> ${agent2.rating}
+                <div class="text-right">
+                    <div class="text-3xl font-bold text-purple-400 mb-1">${agent.score}</div>
+                    <div class="text-sm text-gray-400">Overall Score</div>
                 </div>
             </div>
-            <p class="text-center text-gray-400 text-sm mt-6">
-                ${MAX_FREE_COMPARISONS - getComparisonsToday()} free comparisons remaining today
-            </p>
-        `;
+            
+            <!-- Stats Grid -->
+            <div class="grid md:grid-cols-4 gap-4 mb-4 p-4 bg-gray-700 rounded-lg">
+                <div>
+                    <div class="text-xs text-gray-400 mb-1">Pricing</div>
+                    <div class="font-semibold text-sm">${agent.pricing}</div>
+                </div>
+                <div>
+                    <div class="text-xs text-gray-400 mb-1">Speed</div>
+                    <div class="font-semibold text-sm ${speedColors[agent.speed] || 'text-white'}">${agent.speed}</div>
+                </div>
+                <div>
+                    <div class="text-xs text-gray-400 mb-1">Context</div>
+                    <div class="font-semibold text-sm">${agent.context}</div>
+                </div>
+                <div>
+                    <div class="text-xs text-gray-400 mb-1">User Rating</div>
+                    <div class="flex items-center gap-2">
+                        <div class="text-sm">${starsHTML}</div>
+                        <span class="text-xs text-gray-400">(${agent.ratingCount.toLocaleString()})</span>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Benchmarks -->
+            ${benchmarkHTML ? `
+            <div class="mt-4">
+                <div class="flex items-center justify-between mb-3">
+                    <h4 class="font-semibold text-sm text-gray-300">Key Benchmarks</h4>
+                    <a href="${agent.source}" target="_blank" class="text-xs text-purple-400 hover:underline">
+                        <i class="fas fa-external-link-alt mr-1"></i>Source
+                    </a>
+                </div>
+                <div class="bg-gray-700 rounded-lg p-4">
+                    ${benchmarkHTML}
+                </div>
+            </div>
+            ` : ''}
+            
+            <!-- Actions -->
+            <div class="mt-4 flex gap-3">
+                <button onclick="viewDetails('${agent.id}')" 
+                        class="flex-1 bg-purple-600 hover:bg-purple-500 px-4 py-3 rounded-lg font-semibold transition">
+                    View Details
+                </button>
+                <button onclick="startComparison('${agent.id}')" 
+                        class="flex-1 bg-gray-700 hover:bg-gray-600 px-4 py-3 rounded-lg font-semibold transition">
+                    <i class="fas fa-balance-scale mr-2"></i>Compare
+                </button>
+            </div>
+        </div>
+    `;
+}
+
+function viewDetails(agentId) {
+    const agent = AGENTS.find(a => a.id === agentId);
+    if (!agent) return;
+    
+    // Create modal with full details
+    const benchmarksList = Object.entries(agent.benchmarks || {})
+        .map(([name, score]) => `
+            <tr class="border-b border-gray-700">
+                <td class="py-3 pr-4 text-gray-300">${name}</td>
+                <td class="py-3 text-right font-semibold">${score}${typeof score === 'number' && score < 100 ? '%' : ''}</td>
+                <td class="py-3 pl-4 text-gray-400 text-sm">${BENCHMARKS[name]?.description || ''}</td>
+            </tr>
+        `).join('');
+    
+    const modal = `
+        <div id="agent-modal" class="fixed inset-0 bg-black bg-opacity-75 z-50 flex items-center justify-center p-6" onclick="closeModal(event)">
+            <div class="bg-gray-800 rounded-2xl p-8 max-w-4xl w-full max-h-[90vh] overflow-y-auto" onclick="event.stopPropagation()">
+                <div class="flex justify-between items-start mb-6">
+                    <div>
+                        <h2 class="text-3xl font-bold mb-2">${agent.name}</h2>
+                        <p class="text-gray-400">${agent.provider} • ${agent.released}</p>
+                    </div>
+                    <button onclick="closeModal()" class="text-gray-400 hover:text-white text-2xl">×</button>
+                </div>
+                
+                <div class="mb-6">
+                    <h3 class="font-bold mb-2">Description</h3>
+                    <p class="text-gray-300">${agent.description}</p>
+                </div>
+                
+                <div class="grid md:grid-cols-2 gap-6 mb-6">
+                    <div class="bg-gray-700 rounded-lg p-4">
+                        <h3 class="font-bold mb-3">Specifications</h3>
+                        <div class="space-y-2 text-sm">
+                            <div class="flex justify-between"><span class="text-gray-400">Overall Score</span><span class="font-semibold">${agent.score}</span></div>
+                            <div class="flex justify-between"><span class="text-gray-400">Pricing</span><span class="font-semibold">${agent.pricing}</span></div>
+                            <div class="flex justify-between"><span class="text-gray-400">Speed</span><span class="font-semibold">${agent.speed}</span></div>
+                            <div class="flex justify-between"><span class="text-gray-400">Context Window</span><span class="font-semibold">${agent.context}</span></div>
+                            <div class="flex justify-between"><span class="text-gray-400">Category</span><span class="font-semibold capitalize">${agent.category}</span></div>
+                        </div>
+                    </div>
+                    
+                    <div class="bg-gray-700 rounded-lg p-4">
+                        <h3 class="font-bold mb-3">Community Rating</h3>
+                        <div class="text-center">
+                            <div class="text-5xl font-bold text-purple-400 mb-2">${agent.rating}</div>
+                            <div class="text-sm text-gray-400 mb-2">out of 5.0</div>
+                            <div class="text-sm text-gray-400">${agent.ratingCount.toLocaleString()} ratings</div>
+                        </div>
+                    </div>
+                </div>
+                
+                ${benchmarksList ? `
+                <div class="mb-6">
+                    <h3 class="font-bold mb-3">Full Benchmark Results</h3>
+                    <div class="bg-gray-700 rounded-lg p-4 overflow-x-auto">
+                        <table class="w-full text-sm">
+                            <thead>
+                                <tr class="border-b border-gray-600">
+                                    <th class="text-left py-2 pr-4 text-gray-400">Benchmark</th>
+                                    <th class="text-right py-2 text-gray-400">Score</th>
+                                    <th class="text-left py-2 pl-4 text-gray-400">Description</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                ${benchmarksList}
+                            </tbody>
+                        </table>
+                    </div>
+                    <p class="text-xs text-gray-500 mt-2">
+                        <i class="fas fa-external-link-alt mr-1"></i>
+                        <a href="${agent.source}" target="_blank" class="hover:underline">View source data</a>
+                    </p>
+                </div>
+                ` : ''}
+                
+                <div class="flex gap-3">
+                    <button onclick="startComparison('${agent.id}')" 
+                            class="flex-1 bg-purple-600 hover:bg-purple-500 px-6 py-3 rounded-lg font-semibold transition">
+                        <i class="fas fa-balance-scale mr-2"></i>Compare with Another
+                    </button>
+                    <button onclick="closeModal()" 
+                            class="bg-gray-700 hover:bg-gray-600 px-6 py-3 rounded-lg font-semibold transition">
+                        Close
+                    </button>
+                </div>
+            </div>
+        </div>
+    `;
+    
+    document.body.insertAdjacentHTML('beforeend', modal);
+}
+
+function closeModal(event) {
+    if (!event || event.target.id === 'agent-modal') {
+        const modal = document.getElementById('agent-modal');
+        if (modal) modal.remove();
     }
+}
 
-    // Category filter
-    function setupCategoryFilter() {
-        const filter = document.getElementById('category-filter');
-        if (!filter) return;
-        filter.addEventListener('change', (e) => renderLeaderboard(e.target.value));
-    }
-
-    // Initialize
-    document.addEventListener('DOMContentLoaded', function() {
-        renderLeaderboard();
-        populateCompareDropdowns();
-        setupCategoryFilter();
-    });
-
-    // Global function for inline onclick
-    window.addToCompare = function(id) {
-        const select1 = document.getElementById('compare-agent-1');
-        const select2 = document.getElementById('compare-agent-2');
-        if (!select1.value) {
-            select1.value = id;
-        } else if (!select2.value) {
-            select2.value = id;
-            handleCompare();
-        }
-        document.getElementById('compare').scrollIntoView({ behavior: 'smooth' });
-    };
-})();
+function startComparison(agentId) {
+    alert('Comparison feature coming soon! Sign up for early access to get notified when it launches.');
+    // TODO: Implement comparison tool
+}
