@@ -1,0 +1,147 @@
+// Agent data for AgentLeaderboards
+const AGENTS = [
+    {
+        id: 1,
+        name: "Claude 3.5 Sonnet",
+        provider: "Anthropic",
+        category: "coding",
+        score: 94.2,
+        cost: "$3.00",
+        speed: "Fast",
+        rating: 4.9,
+        ratingCount: 1247,
+        badges: ["Top Rated", "Best Value"]
+    },
+    {
+        id: 2,
+        name: "GPT-4 Turbo",
+        provider: "OpenAI",
+        category: "all",
+        score: 92.8,
+        cost: "$10.00",
+        speed: "Medium",
+        rating: 4.7,
+        ratingCount: 2341,
+        badges: ["Popular"]
+    },
+    {
+        id: 3,
+        name: "Claude 3 Opus",
+        provider: "Anthropic",
+        category: "research",
+        score: 96.1,
+        cost: "$15.00",
+        speed: "Slow",
+        rating: 4.8,
+        ratingCount: 892,
+        badges: ["Highest Accuracy"]
+    },
+    {
+        id: 4,
+        name: "Gemini 1.5 Pro",
+        provider: "Google",
+        category: "analysis",
+        score: 91.4,
+        cost: "$3.50",
+        speed: "Fast",
+        rating: 4.5,
+        ratingCount: 1583,
+        badges: []
+    },
+    {
+        id: 5,
+        name: "Llama 3 70B",
+        provider: "Meta",
+        category: "coding",
+        score: 88.6,
+        cost: "$0.90",
+        speed: "Fast",
+        rating: 4.4,
+        ratingCount: 2104,
+        badges: ["Budget Friendly"]
+    },
+    {
+        id: 6,
+        name: "Mistral Large",
+        provider: "Mistral AI",
+        category: "writing",
+        score: 87.3,
+        cost: "$2.00",
+        speed: "Fast",
+        rating: 4.3,
+        ratingCount: 756,
+        badges: []
+    },
+    {
+        id: 7,
+        name: "Cohere Command R+",
+        provider: "Cohere",
+        category: "research",
+        score: 85.9,
+        cost: "$3.00",
+        speed: "Medium",
+        rating: 4.2,
+        ratingCount: 412,
+        badges: ["RAG Specialist"]
+    },
+    {
+        id: 8,
+        name: "Perplexity Sonar",
+        provider: "Perplexity",
+        category: "research",
+        score: 84.2,
+        cost: "$5.00",
+        speed: "Fast",
+        rating: 4.6,
+        ratingCount: 1893,
+        badges: ["Live Search"]
+    },
+    {
+        id: 9,
+        name: "Claude 3 Haiku",
+        provider: "Anthropic",
+        category: "all",
+        score: 82.1,
+        cost: "$0.25",
+        speed: "Fastest",
+        rating: 4.5,
+        ratingCount: 3201,
+        badges: ["Speed King", "Budget Friendly"]
+    },
+    {
+        id: 10,
+        name: "GPT-4o",
+        provider: "OpenAI",
+        category: "creative",
+        score: 93.5,
+        cost: "$5.00",
+        speed: "Fast",
+        rating: 4.8,
+        ratingCount: 4521,
+        badges: ["Multimodal"]
+    },
+    {
+        id: 11,
+        name: "Grok-2",
+        provider: "xAI",
+        category: "creative",
+        score: 86.4,
+        cost: "$2.00",
+        speed: "Fast",
+        rating: 4.1,
+        ratingCount: 678,
+        badges: ["Real-time Data"]
+    },
+    {
+        id: 12,
+        name: "DeepSeek Coder",
+        provider: "DeepSeek",
+        category: "coding",
+        score: 89.7,
+        cost: "$0.14",
+        speed: "Fast",
+        rating: 4.6,
+        ratingCount: 1245,
+        badges: ["Code Specialist", "Budget Friendly"]
+    }
+];
