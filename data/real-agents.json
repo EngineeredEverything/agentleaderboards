@@ -1,0 +1,164 @@
+{
+  "agents": [
+    {
+      "id": "claude-opus-4-6",
+      "name": "Claude Opus 4.6",
+      "provider": "Anthropic",
+      "category": "coding",
+      "benchmarks": {
+        "simplebench": 67.6,
+        "swe_bench_verified": 62.2,
+        "gpqa_diamond": 90.5,
+        "terminal_bench": 69.9,
+        "math_level_5": 97.2,
+        "frontiermath": 40.0
+      },
+      "avgScore": 71.2,
+      "pricing": {
+        "input": 15.00,
+        "output": 75.00,
+        "unit": "per million tokens"
+      },
+      "context": "200k tokens",
+      "speed": "Medium",
+      "released": "2026-02",
+      "features": ["Extended thinking", "Tool use", "Vision"],
+      "realData": true,
+      "sourceUrl": "https://lmcouncil.ai/benchmarks"
+    },
+    {
+      "id": "gpt-5-2-high",
+      "name": "GPT-5.2 (high)",
+      "provider": "OpenAI",
+      "category": "all",
+      "benchmarks": {
+        "simplebench": 61.6,
+        "gpqa_diamond": 88.2,
+        "gso": 27.4,
+        "webdev_arena": 1480,
+        "otis_mock_aime": 96.1,
+        "math_level_5": 98.1,
+        "frontiermath": 40.3,
+        "weirdml_v2": 72.2
+      },
+      "avgScore": 70.5,
+      "pricing": {
+        "input": 10.00,
+        "output": 30.00,
+        "unit": "per million tokens"
+      },
+      "context": "400k tokens",
+      "speed": "Fast",
+      "released": "2025-08",
+      "features": ["Reasoning", "Tool use", "Vision"],
+      "realData": true,
+      "sourceUrl": "https://lmcouncil.ai/benchmarks"
+    },
+    {
+      "id": "gemini-3-pro",
+      "name": "Gemini 3 Pro Preview",
+      "provider": "Google",
+      "category": "research",
+      "benchmarks": {
+        "humanity_last_exam": 37.52,
+        "simplebench": 76.4,
+        "gpqa_diamond": 92.6,
+        "weirdml_v2": 69.9,
+        "vpct": 91.0,
+        "geobench": 3893
+      },
+      "avgScore": 72.1,
+      "pricing": {
+        "input": 3.50,
+        "output": 10.50,
+        "unit": "per million tokens"
+      },
+      "context": "1M tokens",
+      "speed": "Fast",
+      "released": "2026-01",
+      "features": ["Multi-modal", "Long context", "Live grounding"],
+      "realData": true,
+      "sourceUrl": "https://lmcouncil.ai/benchmarks"
+    },
+    {
+      "id": "claude-sonnet-4-5",
+      "name": "Claude Sonnet 4.5",
+      "provider": "Anthropic",
+      "category": "coding",
+      "benchmarks": {
+        "metr_time_horizons": 113.3,
+        "swe_bench_verified": 64.8,
+        "deep_research_bench": 57.7,
+        "math_level_5": 97.7,
+        "terminal_bench": 60.3
+      },
+      "avgScore": 78.8,
+      "pricing": {
+        "input": 3.00,
+        "output": 15.00,
+        "unit": "per million tokens"
+      },
+      "context": "200k tokens",
+      "speed": "Fast",
+      "released": "2026-01",
+      "features": ["Coding specialist", "Tool use", "Vision"],
+      "realData": true,
+      "sourceUrl": "https://lmcouncil.ai/benchmarks"
+    },
+    {
+      "id": "grok-4",
+      "name": "Grok 4",
+      "provider": "xAI",
+      "category": "all",
+      "benchmarks": {
+        "metr_time_horizons": 110.1,
+        "balrog": 43.6,
+        "fiction_livebench": 96.9
+      },
+      "avgScore": 83.5,
+      "pricing": {
+        "input": 5.00,
+        "output": 15.00,
+        "unit": "per million tokens"
+      },
+      "context": "128k tokens",
+      "speed": "Fast",
+      "released": "2025-12",
+      "features": ["Real-time data", "X integration", "Long reasoning"],
+      "realData": true,
+      "sourceUrl": "https://lmcouncil.ai/benchmarks"
+    },
+    {
+      "id": "o3-high",
+      "name": "o3 (high)",
+      "provider": "OpenAI",
+      "category": "reasoning",
+      "benchmarks": {
+        "humanity_last_exam": 20.32,
+        "gdpval": 30.8,
+        "gso": 8.8,
+        "math_level_5": 97.8,
+        "fiction_livebench": 100.0,
+        "geobench": 3789
+      },
+      "avgScore": 59.8,
+      "pricing": {
+        "input": 20.00,
+        "output": 100.00,
+        "unit": "per million tokens"
+      },
+      "context": "128k tokens",
+      "speed": "Slow",
+      "released": "2025-04",
+      "features": ["Deep reasoning", "Step-by-step", "Math specialist"],
+      "realData": true,
+      "sourceUrl": "https://lmcouncil.ai/benchmarks"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2026-02-17",
+    "source": "LM Council Benchmarks",
+    "benchmarkCount": 20,
+    "agentCount": 6
+  }
+}
