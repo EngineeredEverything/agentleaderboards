@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About - AgentLeaderboards | Methodology & Data Sources</title>
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        .gradient-bg {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+    </style>
+</head>
+<body class="bg-gray-900 text-white">
+    <!-- Navigation -->
+    <nav class="bg-gray-800 border-b border-gray-700 sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
+            <a href="index.html" class="flex items-center gap-3">
+                <i class="fas fa-trophy text-yellow-300 text-2xl"></i>
+                <span class="font-bold text-xl">AgentLeaderboards</span>
+            </a>
+            <div class="flex gap-4">
+                <a href="index.html" class="text-gray-300 hover:text-white">Leaderboard</a>
+                <a href="about.html" class="text-white">About</a>
+                <a href="pricing.html" class="text-gray-300 hover:text-white">Pricing</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero -->
+    <section class="gradient-bg py-20 px-6">
+        <div class="max-w-4xl mx-auto text-center">
+            <h1 class="text-5xl font-bold mb-6">About AgentLeaderboards</h1>
+            <p class="text-xl text-purple-100">
+                Real AI model benchmarks from authoritative sources
+            </p>
+        </div>
+    </section>
+
+    <!-- Content -->
+    <section class="py-12 px-6">
+        <div class="max-w-4xl mx-auto space-y-12">
+            <!-- Mission -->
+            <div class="bg-gray-800 rounded-2xl p-8">
+                <h2 class="text-3xl font-bold mb-4">Our Mission</h2>
+                <p class="text-gray-300 text-lg leading-relaxed">
+                    With the explosion of AI models released every week—often with exaggerated claims—it's hard to find 
+                    objective, trustworthy performance data. AgentLeaderboards aggregates real benchmark scores from 
+                    authoritative sources to help you make informed decisions about which AI model to use.
+                </p>
+            </div>
+
+            <!-- Data Sources -->
+            <div class="bg-gray-800 rounded-2xl p-8">
+                <h2 class="text-3xl font-bold mb-6">Data Sources</h2>
+                <div class="space-y-6">
+                    <div>
+                        <h3 class="text-xl font-bold text-purple-400 mb-2">
+                            <i class="fas fa-database mr-2"></i>
+                            Hugging Face Open LLM Leaderboard
+                        </h3>
+                        <p class="text-gray-300 mb-3">
+                            The gold standard for open-source LLM evaluation. We reference their benchmarks including:
+                        </p>
+                        <ul class="list-disc list-inside text-gray-400 space-y-2 ml-4">
+                            <li><strong>IFEval</strong> - Instruction following accuracy</li>
+                            <li><strong>BBH (Big Bench Hard)</strong> - 23 challenging reasoning tasks</li>
+                            <li><strong>MATH Lvl 5</strong> - Competition-level mathematics</li>
+                            <li><strong>GPQA</strong> - PhD-level science questions</li>
+                            <li><strong>MuSR</strong> - Multi-step soft reasoning (1000+ word problems)</li>
+                            <li><strong>MMLU-PRO</strong> - Professional-level general knowledge</li>
+                        </ul>
+                        <p class="text-sm text-gray-500 mt-3">
+                            <i class="fas fa-external-link-alt mr-1"></i>
+                            <a href="https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard" target="_blank" class="text-purple-400 hover:underline">
+                                Visit Hugging Face Open LLM Leaderboard
+                            </a>
+                        </p>
+                    </div>
+
+                    <div>
+                        <h3 class="text-xl font-bold text-purple-400 mb-2">
+                            <i class="fas fa-flask mr-2"></i>
+                            LM Council Benchmarks
+                        </h3>
+                        <p class="text-gray-300 mb-3">
+                            Curated by AI Explained, featuring benchmarks from Epoch AI and Scale AI:
+                        </p>
+                        <ul class="list-disc list-inside text-gray-400 space-y-2 ml-4">
+                            <li><strong>Humanity's Last Exam</strong> - 2,500 hardest multi-modal questions</li>
+                            <li><strong>SimpleBench</strong> - Common-sense reasoning without memorization</li>
+                            <li><strong>SWE-bench Verified</strong> - Real GitHub bug fixes</li>
+                            <li><strong>Terminal-Bench 2.0</strong> - Terminal-based coding tasks</li>
+                            <li><strong>FrontierMath</strong> - Research-level mathematics</li>
+                            <li><strong>METR Time Horizons</strong> - Agent task duration capabilities</li>
+                        </ul>
+                        <p class="text-sm text-gray-500 mt-3">
+                            <i class="fas fa-external-link-alt mr-1"></i>
+                            <a href="https://lmcouncil.ai/benchmarks" target="_blank" class="text-purple-400 hover:underline">
+                                Visit LM Council Benchmarks
+                            </a>
+                        </p>
+                    </div>
+
+                    <div>
+                        <h3 class="text-xl font-bold text-purple-400 mb-2">
+                            <i class="fas fa-users mr-2"></i>
+                            Community Sources
+                        </h3>
+                        <p class="text-gray-300 mb-3">
+                            We also track community benchmarks and user ratings from:
+                        </p>
+                        <ul class="list-disc list-inside text-gray-400 space-y-2 ml-4">
+                            <li>LM Arena (human preference testing)</li>
+                            <li>WebDev Arena (website quality ratings)</li>
+                            <li>Chatbot Arena (chat performance)</li>
+                            <li>Independent research papers and preprints</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Methodology -->
+            <div class="bg-gray-800 rounded-2xl p-8">
+                <h2 class="text-3xl font-bold mb-6">Methodology</h2>
+                
+                <div class="space-y-6">
+                    <div>
+                        <h3 class="text-xl font-bold mb-3">How We Calculate Overall Scores</h3>
+                        <p class="text-gray-300 mb-4">
+                            Our "Overall Score" is a weighted average of performance across multiple benchmarks, 
+                            normalized to a 0-100 scale. We prioritize:
+                        </p>
+                        <ul class="list-disc list-inside text-gray-400 space-y-2 ml-4">
+                            <li>Benchmarks with high correlation to real-world performance</li>
+                            <li>Tasks that are difficult to game or memorize</li>
+                            <li>Multiple evaluation types (reasoning, knowledge, coding, instruction-following)</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h3 class="text-xl font-bold mb-3">Data Freshness</h3>
+                        <p class="text-gray-300">
+                            We update benchmarks daily from public leaderboards. When a new model is released, 
+                            it typically appears within 24-48 hours of being evaluated by authoritative sources.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h3 class="text-xl font-bold mb-3">Pricing Data</h3>
+                        <p class="text-gray-300">
+                            All pricing information is sourced from official provider documentation and updated 
+                            regularly. Prices are shown as input/output cost per million tokens (USD).
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Transparency -->
+            <div class="bg-gray-800 rounded-2xl p-8">
+                <h2 class="text-3xl font-bold mb-6">Transparency & Limitations</h2>
+                
+                <div class="space-y-4 text-gray-300">
+                    <p>
+                        <strong>What we do:</strong> Aggregate and present real benchmark data from trusted sources.
+                    </p>
+                    <p>
+                        <strong>What we don't do:</strong> Run our own benchmarks or modify scores.
+                    </p>
+                    <p class="text-gray-400 text-sm">
+                        <strong>Limitations:</strong> 
+                        Benchmarks are proxies for real-world performance and may not reflect your specific use case. 
+                        Always test models on your own data before making critical decisions.
+                    </p>
+                    <p class="text-gray-400 text-sm">
+                        <strong>Bias acknowledgment:</strong> 
+                        Benchmark datasets may contain biases. We display multiple benchmarks to provide a 
+                        more complete picture.
+                    </p>
+                </div>
+            </div>
+
+            <!-- Contact -->
+            <div class="bg-gray-800 rounded-2xl p-8">
+                <h2 class="text-3xl font-bold mb-4">Questions or Feedback?</h2>
+                <p class="text-gray-300 mb-4">
+                    AgentLeaderboards is an <a href="https://engineeredeverything.com" target="_blank" class="text-purple-400 hover:underline">EngineeredEverything</a> project.
+                </p>
+                <p class="text-gray-400">
+                    Found an error? Have a suggestion? Want to submit a benchmark?<br>
+                    Contact us at: <a href="mailto:contact@agentleaderboards.com" class="text-purple-400 hover:underline">contact@agentleaderboards.com</a>
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 py-12 px-6">
+        <div class="max-w-7xl mx-auto text-center text-gray-400">
+            <p>© 2026 AgentLeaderboards. All benchmark data sourced from public leaderboards and research papers.</p>
+            <p class="text-sm mt-2">Last updated: Feb 17, 2026</p>
+        </div>
+    </footer>
+</body>
+</html>
