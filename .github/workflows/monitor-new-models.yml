@@ -1,0 +1,99 @@
+name: Monitor New AI Models
+
+on:
+  schedule:
+    # Run daily at 9 AM UTC
+    - cron: '0 9 * * *'
+  workflow_dispatch: # Allow manual trigger
+  
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          
+      - name: Run model monitor
+        id: monitor
+        run: |
+          cd scripts
+          node monitor-new-models.js > monitor-output.txt 2>&1
+          cat monitor-output.txt
+          
+      - name: Check for new models
+        id: check
+        run: |
+          if grep -q "NOTABLE NEW MODELS" scripts/monitor-output.txt; then
+            echo "new_models=true" >> $GITHUB_OUTPUT
+            echo "🚨 New models found!"
+          else
+            echo "new_models=false" >> $GITHUB_OUTPUT
+            echo "ℹ️ No new models"
+          fi
+          
+      - name: Create issue for new models
+        if: steps.check.outputs.new_models == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const report = JSON.parse(fs.readFileSync('data/new-models-report.json', 'utf8'));
+            
+            const body = `## 🚨 New AI Models Detected
+            
+            **Monitoring Date:** ${new Date(report.timestamp).toLocaleString()}
+            
+            ### Notable New Models (${report.newModels.length})
+            
+            ${report.newModels.map(m => `
+            - **${m.name}**
+              - Source: ${m.source}
+              - URL: ${m.url}
+              ${m.downloads ? `- Downloads: ${m.downloads.toLocaleString()}` : ''}
+            `).join('\n')}
+            
+            ### Recent Papers (${report.recentPapers.length})
+            
+            ${report.recentPapers.slice(0, 5).map(p => `
+            - [${p.title}](${p.url})
+            `).join('\n')}
+            
+            ---
+            
+            **Action Required:** Review and add benchmark data to leaderboard
+            
+            <details>
+            <summary>Full Report</summary>
+            
+            \`\`\`json
+            ${JSON.stringify(report, null, 2)}
+            \`\`\`
+            
+            </details>
+            `;
+            
+            github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `🚨 New AI Models Found: ${new Date().toISOString().split('T')[0]}`,
+              body: body,
+              labels: ['new-model', 'automated']
+            });
+            
+      - name: Commit report
+        run: |
+          git config user.name "AgentLeaderboards Bot"
+          git config user.email "bot@agentleaderboards.com"
+          git add data/new-models-report.json || true
+          git commit -m "chore: update new models report [skip ci]" || true
+          git push || true

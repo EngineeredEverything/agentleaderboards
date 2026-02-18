@@ -105,6 +105,32 @@ const AGENTS = [
         source: "https://lmcouncil.ai/benchmarks"
     },
     {
+        id: "kimi-k25",
+        name: "Kimi K2.5",
+        provider: "Moonshot AI",
+        category: "coding",
+        score: 89.3,
+        benchmarks: {
+            "SWE-bench Verified": 76.8,
+            "GPQA Diamond": 87.6,
+            "AIME 2025": 96.1,
+            "HMMT 2025": 95.4,
+            "Humanity's Last Exam": 50.2,
+            "BrowseComp": 74.9
+        },
+        pricing: "$0.60 / $2.50 per 1M tokens",
+        priceInput: 0.60,
+        priceOutput: 2.50,
+        speed: "Fast",
+        context: "256K tokens",
+        rating: 4.8,
+        ratingCount: 234,
+        badges: ["#1 SWE-bench", "Agent Swarm", "Open Weights"],
+        description: "Revolutionary Agent Swarm technology with 100 parallel agents, exceptional at coding and multi-step reasoning",
+        released: "Jan 2026",
+        source: "https://www.codecademy.com/article/kimi-k-2-5-complete-guide-to-moonshots-ai-model"
+    },
+    {
         id: "grok-4",
         name: "Grok 4",
         provider: "xAI",
