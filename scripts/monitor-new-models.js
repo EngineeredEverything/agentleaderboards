@@ -253,6 +253,37 @@ async function monitorNewModels() {
     return report;
 }
 
+// Auto-add integration
+const AUTO_ADD_ENABLED = process.env.AUTO_ADD_MODELS !== 'false';
+
+async function processNewModels(newModels) {
+    if (!AUTO_ADD_ENABLED) {
+        console.log('\n⚠️  Auto-add is disabled. Set AUTO_ADD_MODELS=true to enable.');
+        return;
+    }
+    
+    if (newModels.length === 0) {
+        console.log('\nℹ️  No new models to process.');
+        return;
+    }
+    
+    console.log('\n🤖 AUTO-ADD MODE ENABLED');
+    console.log('Processing new models automatically...\n');
+    
+    // Import auto-add module
+    const { autoAddModel } = require('./auto-add-model.js');
+    
+    for (const model of newModels) {
+        try {
+            console.log(`\n${'='.repeat(60)}`);
+            await autoAddModel(model.id, model);
+            console.log(`${'='.repeat(60)}\n`);
+        } catch (error) {
+            console.error(`❌ Failed to auto-add ${model.id}:`, error.message);
+        }
+    }
+}
+
 // CLI interface
 if (require.main === module) {
     monitorNewModels()
