@@ -246,8 +246,8 @@ async function monitorNewModels() {
             if (m.downloads) console.log(`      Downloads: ${m.downloads.toLocaleString()}`);
         });
         
-        // TODO: Send notification (Telegram, email, etc.)
-        console.log('\n📧 Notification would be sent here (not implemented yet)');
+        // Auto-add notable models
+        await processNewModels(notable);
     }
     
     return report;
@@ -266,4 +266,4 @@ if (require.main === module) {
         });
 }
 
-module.exports = { monitorNewModels, loadExistingModels };
+module.exports = { monitorNewModels, loadExistingModels, processNewModels };

@@ -25,6 +25,8 @@ jobs:
           
       - name: Run model monitor
         id: monitor
+        env:
+          AUTO_ADD_MODELS: true  # Enable automatic model addition
         run: |
           cd scripts
           node monitor-new-models.js > monitor-output.txt 2>&1
