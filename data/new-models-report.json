@@ -1,8 +1,68 @@
 {
-  "timestamp": "2026-02-18T09:00:40.180Z",
+  "timestamp": "2026-02-19T09:43:21.171Z",
   "existingCount": 21,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents",
+      "date": "2026-02-18T18:46:14.000Z",
+      "url": "http://arxiv.org/abs/2602.16699v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Align Once, Benefit Multilingually: Enforcing Multilingual Consistency for LLM Safety Alignment",
+      "date": "2026-02-18T18:01:23.000Z",
+      "url": "http://arxiv.org/abs/2602.16660v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Who can we trust? LLM-as-a-jury for Comparative Assessment",
+      "date": "2026-02-18T17:04:02.000Z",
+      "url": "http://arxiv.org/abs/2602.16610v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Supercharging Agenda Setting Research: The ParlaCAP Dataset of 28 European Parliaments and a Scalable Multilingual LLM-Based Classification",
+      "date": "2026-02-18T15:04:30.000Z",
+      "url": "http://arxiv.org/abs/2602.16516v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "From Growing to Looping: A Unified View of Iterative Computation in LLMs",
+      "date": "2026-02-18T14:25:16.000Z",
+      "url": "http://arxiv.org/abs/2602.16490v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Label-Consistent Data Generation for Aspect-Based Sentiment Analysis Using LLM Agents",
+      "date": "2026-02-18T11:38:11.000Z",
+      "url": "http://arxiv.org/abs/2602.16379v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Helpful to a Fault: Measuring Illicit Assistance in Multi-Turn, Multilingual LLM Agents",
+      "date": "2026-02-18T10:31:19.000Z",
+      "url": "http://arxiv.org/abs/2602.16346v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Are LLMs Ready to Replace Bangla Annotators?",
+      "date": "2026-02-18T07:36:41.000Z",
+      "url": "http://arxiv.org/abs/2602.16241v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLMs Exhibit Significantly Lower Uncertainty in Creative Writing Than Professional Writers",
+      "date": "2026-02-18T03:19:12.000Z",
+      "url": "http://arxiv.org/abs/2602.16162v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "CLAA: Cross-Layer Attention Aggregation for Accelerating LLM Prefill",
+      "date": "2026-02-17T22:08:16.000Z",
+      "url": "http://arxiv.org/abs/2602.16054v1",
+      "source": "arxiv"
+    },
     {
       "title": "*-PLUIE: Personalisable metric with Llm Used for Improved Evaluation",
       "date": "2026-02-17T18:10:00.000Z",
@@ -24,7 +84,7 @@
     {
       "title": "STAPO: Stabilizing Reinforcement Learning for LLMs by Silencing Rare Spurious Tokens",
       "date": "2026-02-17T14:46:48.000Z",
-      "url": "http://arxiv.org/abs/2602.15620v1",
+      "url": "http://arxiv.org/abs/2602.15620v2",
       "source": "arxiv"
     },
     {
@@ -61,66 +121,6 @@
       "title": "Text Style Transfer with Parameter-efficient LLM Finetuning and Round-trip Translation",
       "date": "2026-02-16T18:52:43.000Z",
       "url": "http://arxiv.org/abs/2602.15013v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Counterfactual Fairness Evaluation of LLM-Based Contact Center Agent Quality Assurance System",
-      "date": "2026-02-16T17:56:18.000Z",
-      "url": "http://arxiv.org/abs/2602.14970v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Tool-Aware Planning in Contact Center AI: Evaluating LLMs through Lineage-Guided Query Decomposition",
-      "date": "2026-02-16T17:36:05.000Z",
-      "url": "http://arxiv.org/abs/2602.14955v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Multi-Agent Comedy Club: Investigating Community Discussion Effects on LLM Humor Generation",
-      "date": "2026-02-16T14:25:31.000Z",
-      "url": "http://arxiv.org/abs/2602.14770v2",
-      "source": "arxiv"
-    },
-    {
-      "title": "Cognitive networks reconstruct mindsets about STEM subjects and educational contexts in almost 1000 high-schoolers, University students and LLM-based digital twins",
-      "date": "2026-02-16T13:49:21.000Z",
-      "url": "http://arxiv.org/abs/2602.14749v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Rethinking the Role of LLMs in Time Series Forecasting",
-      "date": "2026-02-16T13:39:09.000Z",
-      "url": "http://arxiv.org/abs/2602.14744v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Crowdsourcing Piedmontese to Test LLMs on Non-Standard Orthography",
-      "date": "2026-02-16T12:02:29.000Z",
-      "url": "http://arxiv.org/abs/2602.14675v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Assessing Large Language Models for Medical QA: Zero-Shot and LLM-as-a-Judge Evaluation",
-      "date": "2026-02-16T08:53:23.000Z",
-      "url": "http://arxiv.org/abs/2602.14564v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Explainable Token-level Noise Filtering for LLM Fine-tuning Datasets",
-      "date": "2026-02-16T07:49:33.000Z",
-      "url": "http://arxiv.org/abs/2602.14536v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Beyond Translation: Evaluating Mathematical Reasoning Capabilities of LLMs in Sinhala and Tamil",
-      "date": "2026-02-16T07:08:37.000Z",
-      "url": "http://arxiv.org/abs/2602.14517v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Parameter-Efficient Fine-Tuning of LLMs with Mixture of Space Experts",
-      "date": "2026-02-16T06:07:32.000Z",
-      "url": "http://arxiv.org/abs/2602.14490v1",
       "source": "arxiv"
     }
   ],
