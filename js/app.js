@@ -319,6 +319,5 @@ function closeModal(event) {
 }
 
 function startComparison(agentId) {
-    alert('Comparison feature coming soon! Sign up for early access to get notified when it launches.');
-    // TODO: Implement comparison tool
+    window.location.href = 'compare.html?agent=' + encodeURIComponent(agentId);
 }

@@ -37,8 +37,10 @@
                 <i class="fas fa-trophy text-yellow-300 text-2xl"></i>
                 <span class="font-bold text-xl">AgentLeaderboards</span>
             </div>
-            <div class="flex gap-4">
-                <a href="#leaderboard" class="text-gray-300 hover:text-white">Leaderboard</a>
+            <div class="flex gap-4 items-center">
+                <a href="index.html" class="text-white font-semibold">Leaderboard</a>
+                <a href="compare.html" class="text-gray-300 hover:text-white">Compare</a>
+                <a href="calculator.html" class="text-gray-300 hover:text-white">Calculator</a>
                 <a href="about.html" class="text-gray-300 hover:text-white">About</a>
                 <a href="pricing.html" class="bg-purple-600 hover:bg-purple-500 px-4 py-2 rounded-lg font-semibold transition">Upgrade</a>
             </div>
@@ -146,6 +148,30 @@
             </a>
         </div>
     </section>
+
+    <!-- Email Signup -->
+    <section class="bg-gray-800 py-16 px-6 border-t border-gray-700">
+        <div class="max-w-2xl mx-auto text-center">
+            <h2 class="text-3xl font-bold mb-4"><i class="fas fa-envelope mr-2 text-purple-400"></i>Get Weekly AI Model Rankings</h2>
+            <p class="text-gray-300 mb-6">Stay updated with the latest benchmark results, new model releases, and price changes — delivered to your inbox every week.</p>
+            <form id="email-form" action="https://formspree.io/f/xeoqgpqe" method="POST" class="flex flex-col sm:flex-row gap-3 justify-center">
+                <input type="email" name="email" required placeholder="your@email.com"
+                       class="bg-gray-700 border border-gray-600 rounded-lg px-4 py-3 text-white w-full sm:w-80 focus:border-purple-500 focus:outline-none">
+                <button type="submit" class="bg-purple-600 hover:bg-purple-500 px-6 py-3 rounded-lg font-semibold transition whitespace-nowrap">
+                    <i class="fas fa-paper-plane mr-2"></i>Subscribe
+                </button>
+            </form>
+            <p id="email-success" class="text-green-400 mt-4 hidden"><i class="fas fa-check-circle mr-1"></i>Thanks! You'll get our next weekly update.</p>
+            <p class="text-xs text-gray-500 mt-3">No spam, unsubscribe anytime. We respect your inbox.</p>
+        </div>
+    </section>
+    <script>
+        document.getElementById('email-form').addEventListener('submit', function(e) {
+            e.preventDefault();
+            fetch(this.action, { method: 'POST', body: new FormData(this), headers: { 'Accept': 'application/json' } })
+                .then(r => { if (r.ok) { this.reset(); document.getElementById('email-success').classList.remove('hidden'); } });
+        });
+    </script>
 
     <!-- Footer -->
     <footer class="bg-gray-800 py-12 px-6">

@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cheapest AI APIs in 2026: Cost Comparison | AgentLeaderboards</title>
+    <meta name="description" content="Complete cost comparison of 21+ AI APIs sorted by price. Find the cheapest LLM for your use case — from $0.075/1M tokens (Gemini Flash) to premium models.">
+    <meta name="keywords" content="cheapest AI API, LLM pricing comparison 2026, cheap AI models, AI API cost, budget AI models">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://agentleaderboards.com/cheapest-ai-api.html">
+    <meta property="og:title" content="Cheapest AI APIs in 2026: Cost Comparison">
+    <meta property="og:description" content="All 21+ AI models sorted by price. Find the cheapest API for your needs.">
+    <meta property="og:url" content="https://agentleaderboards.com/cheapest-ai-api.html">
+    <meta property="og:type" content="article">
+    <meta name="twitter:card" content="summary_large_image">
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Cheapest AI APIs in 2026: Cost Comparison",
+        "description": "Complete pricing comparison of 21+ AI APIs sorted from cheapest to most expensive",
+        "datePublished": "2026-02-19",
+        "dateModified": "2026-02-19",
+        "author": { "@type": "Organization", "name": "AgentLeaderboards" },
+        "publisher": { "@type": "Organization", "name": "AgentLeaderboards", "url": "https://agentleaderboards.com" }
+    }
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        .gradient-bg { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); }
+    </style>
+</head>
+<body class="bg-gray-900 text-white min-h-screen">
+    <!-- Navigation -->
+    <nav class="bg-gray-800 border-b border-gray-700 sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
+            <a href="index.html" class="flex items-center gap-3">
+                <i class="fas fa-trophy text-yellow-300 text-2xl"></i>
+                <span class="font-bold text-xl">AgentLeaderboards</span>
+            </a>
+            <div class="flex gap-4 items-center">
+                <a href="index.html" class="text-gray-300 hover:text-white">Leaderboard</a>
+                <a href="compare.html" class="text-gray-300 hover:text-white">Compare</a>
+                <a href="calculator.html" class="text-gray-300 hover:text-white">Calculator</a>
+                <a href="about.html" class="text-gray-300 hover:text-white">About</a>
+                <a href="pricing.html" class="bg-purple-600 hover:bg-purple-500 px-4 py-2 rounded-lg font-semibold transition">Upgrade</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero -->
+    <section class="gradient-bg py-16 px-6">
+        <div class="max-w-4xl mx-auto text-center">
+            <h1 class="text-5xl font-bold mb-4"><i class="fas fa-tags mr-3"></i>Cheapest AI APIs in 2026</h1>
+            <p class="text-2xl text-purple-100 mb-2">Complete Cost Comparison</p>
+            <p class="text-purple-200">All 21 models sorted by input price — cheapest first</p>
+        </div>
+    </section>
+
+    <section class="py-12 px-6">
+        <div class="max-w-5xl mx-auto" id="content"></div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 py-12 px-6">
+        <div class="max-w-7xl mx-auto text-center text-gray-400 text-sm">
+            <p>© 2026 AgentLeaderboards. All pricing data from official provider documentation.</p>
+            <p class="mt-2">An <a href="https://engineeredeverything.com" class="text-purple-400 hover:underline">EngineeredEverything</a> project</p>
+        </div>
+    </footer>
+
+    <script src="data/agents.js"></script>
+    <script>
+    const sorted = [...AGENTS].sort((a, b) => a.priceInput - b.priceInput);
+    const speedColors = { 'Very Fast': 'text-green-400', 'Fast': 'text-blue-400', 'Medium': 'text-yellow-400', 'Slow': 'text-red-400' };
+
+    let tableRows = '';
+    sorted.forEach((m, i) => {
+        const isCheapest = i === 0;
+        tableRows += `
+        <tr class="border-b border-gray-700 ${isCheapest ? 'bg-green-900/20' : ''} hover:bg-gray-750">
+            <td class="py-4 px-4 font-bold ${isCheapest ? 'text-green-400' : 'text-gray-500'}">#${i + 1}</td>
+            <td class="py-4 px-4">
+                <div class="font-bold">${m.name}</div>
+                <div class="text-xs text-gray-400">${m.provider}</div>
+            </td>
+            <td class="py-4 px-4 text-center font-mono ${isCheapest ? 'text-green-400 font-bold' : ''}">$${m.priceInput < 1 ? m.priceInput.toFixed(3) : m.priceInput.toFixed(2)}</td>
+            <td class="py-4 px-4 text-center font-mono">$${m.priceOutput < 1 ? m.priceOutput.toFixed(3) : m.priceOutput.toFixed(2)}</td>
+            <td class="py-4 px-4 text-center">${m.context}</td>
+            <td class="py-4 px-4 text-center ${speedColors[m.speed] || ''}">${m.speed}</td>
+            <td class="py-4 px-4 text-center font-bold">${m.score}</td>
+            <td class="py-4 px-4 text-center">
+                <a href="compare.html?agent=${m.id}" class="text-purple-400 hover:underline text-xs">Compare</a>
+            </td>
+        </tr>`;
+    });
+
+    // Value score: score per dollar of input price
+    const valueRanked = [...AGENTS].sort((a, b) => (b.score / b.priceInput) - (a.score / a.priceInput));
+    let valueRows = '';
+    valueRanked.slice(0, 5).forEach((m, i) => {
+        const valueScore = (m.score / m.priceInput).toFixed(1);
+        valueRows += `
+        <div class="flex items-center justify-between p-4 bg-gray-700 rounded-lg">
+            <div class="flex items-center gap-3">
+                <span class="font-bold ${i === 0 ? 'text-green-400' : 'text-gray-400'}">#${i + 1}</span>
+                <div>
+                    <span class="font-bold">${m.name}</span>
+                    <span class="text-gray-400 text-sm ml-2">${m.provider}</span>
+                </div>
+            </div>
+            <div class="text-right">
+                <div class="font-bold">${valueScore} pts/$</div>
+                <div class="text-xs text-gray-400">Score ${m.score} · $${m.priceInput}/1M in</div>
+            </div>
+        </div>`;
+    });
+
+    document.getElementById('content').innerHTML = `
+        <!-- Key Insight -->
+        <div class="bg-green-900/30 border border-green-800 rounded-2xl p-6 mb-8">
+            <h2 class="text-xl font-bold mb-2"><i class="fas fa-lightbulb text-green-400 mr-2"></i>Cheapest Option</h2>
+            <p class="text-lg"><strong class="text-green-400">${sorted[0].name}</strong> by ${sorted[0].provider} at just <strong class="text-green-400">$${sorted[0].priceInput}/1M input tokens</strong> — ${((sorted[sorted.length - 1].priceInput / sorted[0].priceInput)).toFixed(0)}x cheaper than the most expensive model.</p>
+        </div>
+
+        <!-- Full Price Table -->
+        <div class="bg-gray-800 rounded-2xl p-6 mb-8">
+            <h2 class="text-2xl font-bold mb-4">All Models by Price</h2>
+            <div class="overflow-x-auto">
+                <table class="w-full text-sm">
+                    <thead><tr class="border-b border-gray-600">
+                        <th class="py-2 px-4 text-left text-gray-400">#</th>
+                        <th class="py-2 px-4 text-left text-gray-400">Model</th>
+                        <th class="py-2 px-4 text-center text-gray-400">Input/1M</th>
+                        <th class="py-2 px-4 text-center text-gray-400">Output/1M</th>
+                        <th class="py-2 px-4 text-center text-gray-400">Context</th>
+                        <th class="py-2 px-4 text-center text-gray-400">Speed</th>
+                        <th class="py-2 px-4 text-center text-gray-400">Score</th>
+                        <th class="py-2 px-4 text-center text-gray-400"></th>
+                    </tr></thead>
+                    <tbody>${tableRows}</tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- Best Value -->
+        <div class="bg-gray-800 rounded-2xl p-6 mb-8">
+            <h2 class="text-2xl font-bold mb-4"><i class="fas fa-gem mr-2 text-yellow-400"></i>Best Value (Score per Dollar)</h2>
+            <p class="text-gray-400 text-sm mb-4">Performance score divided by input price — higher is better value.</p>
+            <div class="space-y-3">${valueRows}</div>
+        </div>
+
+        <!-- CTAs -->
+        <div class="text-center py-8">
+            <h2 class="text-2xl font-bold mb-4">Calculate Your Exact Monthly Cost</h2>
+            <div class="flex flex-wrap gap-4 justify-center">
+                <a href="calculator.html" class="bg-purple-600 hover:bg-purple-500 px-8 py-3 rounded-lg font-semibold transition">
+                    <i class="fas fa-calculator mr-2"></i>Price Calculator
+                </a>
+                <a href="compare.html" class="bg-gray-700 hover:bg-gray-600 px-8 py-3 rounded-lg font-semibold transition">
+                    <i class="fas fa-balance-scale mr-2"></i>Compare Models
+                </a>
+                <a href="index.html" class="bg-gray-700 hover:bg-gray-600 px-8 py-3 rounded-lg font-semibold transition">
+                    <i class="fas fa-trophy mr-2"></i>Full Leaderboard
+                </a>
+            </div>
+        </div>
+    `;
+    </script>
+</body>
+</html>

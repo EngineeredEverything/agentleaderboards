@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Claude vs GPT-5: 2026 Benchmark Comparison | AgentLeaderboards</title>
+    <meta name="description" content="Claude Opus 4.6 vs GPT-5.2 head-to-head comparison. See real benchmark scores from GPQA Diamond, MATH Level 5, SWE-bench, and more. Updated Feb 2026.">
+    <meta name="keywords" content="Claude vs GPT, Claude Opus 4.6 vs GPT-5, AI model comparison 2026, Anthropic vs OpenAI benchmarks">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://agentleaderboards.com/claude-vs-gpt.html">
+    <meta property="og:title" content="Claude vs GPT-5: 2026 Benchmark Comparison">
+    <meta property="og:description" content="Head-to-head benchmark comparison of Claude and GPT-5 models with real performance data.">
+    <meta property="og:url" content="https://agentleaderboards.com/claude-vs-gpt.html">
+    <meta property="og:type" content="article">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Claude vs GPT-5: 2026 Benchmark Comparison">
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Claude vs GPT-5: 2026 Benchmark Comparison",
+        "description": "Head-to-head benchmark comparison of Anthropic's Claude and OpenAI's GPT-5 models",
+        "datePublished": "2026-02-19",
+        "dateModified": "2026-02-19",
+        "author": { "@type": "Organization", "name": "AgentLeaderboards" },
+        "publisher": { "@type": "Organization", "name": "AgentLeaderboards", "url": "https://agentleaderboards.com" }
+    }
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        .gradient-bg { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); }
+        .winner-cell { background: rgba(34, 197, 94, 0.15); }
+    </style>
+</head>
+<body class="bg-gray-900 text-white min-h-screen">
+    <!-- Navigation -->
+    <nav class="bg-gray-800 border-b border-gray-700 sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
+            <a href="index.html" class="flex items-center gap-3">
+                <i class="fas fa-trophy text-yellow-300 text-2xl"></i>
+                <span class="font-bold text-xl">AgentLeaderboards</span>
+            </a>
+            <div class="flex gap-4 items-center">
+                <a href="index.html" class="text-gray-300 hover:text-white">Leaderboard</a>
+                <a href="compare.html" class="text-gray-300 hover:text-white">Compare</a>
+                <a href="calculator.html" class="text-gray-300 hover:text-white">Calculator</a>
+                <a href="about.html" class="text-gray-300 hover:text-white">About</a>
+                <a href="pricing.html" class="bg-purple-600 hover:bg-purple-500 px-4 py-2 rounded-lg font-semibold transition">Upgrade</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero -->
+    <section class="gradient-bg py-16 px-6">
+        <div class="max-w-4xl mx-auto text-center">
+            <h1 class="text-5xl font-bold mb-4">Claude vs GPT-5</h1>
+            <p class="text-2xl text-purple-100 mb-2">2026 Benchmark Comparison</p>
+            <p class="text-purple-200">Real performance data from LM Council and community benchmarks</p>
+        </div>
+    </section>
+
+    <section class="py-12 px-6">
+        <div class="max-w-5xl mx-auto" id="content"></div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 py-12 px-6">
+        <div class="max-w-7xl mx-auto text-center text-gray-400 text-sm">
+            <p>© 2026 AgentLeaderboards. All benchmark data sourced from public leaderboards and research papers.</p>
+            <p class="mt-2">An <a href="https://engineeredeverything.com" class="text-purple-400 hover:underline">EngineeredEverything</a> project</p>
+        </div>
+    </footer>
+
+    <script src="data/agents.js"></script>
+    <script>
+    const claudeModels = AGENTS.filter(a => a.provider === 'Anthropic').sort((a, b) => b.score - a.score);
+    const gptModels = AGENTS.filter(a => a.provider === 'OpenAI').sort((a, b) => b.score - a.score);
+
+    // Flagship comparison
+    const claude = AGENTS.find(a => a.id === 'claude-opus-46');
+    const gpt = AGENTS.find(a => a.id === 'gpt-52-high');
+
+    // Collect shared benchmarks
+    const allBench = new Set([...Object.keys(claude.benchmarks), ...Object.keys(gpt.benchmarks)]);
+    let rows = '';
+    allBench.forEach(b => {
+        const c = claude.benchmarks[b];
+        const g = gpt.benchmarks[b];
+        const cWin = c !== undefined && g !== undefined && c > g;
+        const gWin = c !== undefined && g !== undefined && g > c;
+        rows += `<tr class="border-b border-gray-700">
+            <td class="py-3 px-4">${b}</td>
+            <td class="py-3 px-4 text-center ${cWin ? 'winner-cell font-bold text-green-400' : ''}">${c !== undefined ? c : '—'}</td>
+            <td class="py-3 px-4 text-center ${gWin ? 'winner-cell font-bold text-green-400' : ''}">${g !== undefined ? g : '—'}</td>
+        </tr>`;
+    });
+
+    // All Claude vs GPT models
+    let allModelsHTML = '';
+    const allClaudeGPT = [...claudeModels, ...gptModels].sort((a, b) => b.score - a.score);
+    allClaudeGPT.forEach((m, i) => {
+        allModelsHTML += `<tr class="border-b border-gray-700">
+            <td class="py-3 px-4 font-bold">#${i + 1}</td>
+            <td class="py-3 px-4">${m.name}</td>
+            <td class="py-3 px-4 ${m.provider === 'Anthropic' ? 'text-purple-400' : 'text-green-400'}">${m.provider}</td>
+            <td class="py-3 px-4 text-center font-bold">${m.score}</td>
+            <td class="py-3 px-4 text-right text-sm">${m.pricing}</td>
+        </tr>`;
+    });
+
+    document.getElementById('content').innerHTML = `
+        <!-- Quick Summary -->
+        <div class="grid md:grid-cols-2 gap-6 mb-10">
+            <div class="bg-gray-800 rounded-2xl p-6 border border-purple-500/50">
+                <div class="flex items-center gap-3 mb-4">
+                    <div class="w-12 h-12 bg-purple-600 rounded-full flex items-center justify-center font-bold text-lg">A</div>
+                    <div>
+                        <h2 class="text-2xl font-bold">${claude.name}</h2>
+                        <p class="text-gray-400">${claude.provider} · ${claude.released}</p>
+                    </div>
+                </div>
+                <div class="text-4xl font-bold text-purple-400 mb-2">${claude.score}</div>
+                <p class="text-gray-300 text-sm">${claude.description}</p>
+                <div class="mt-4 text-sm text-gray-400">
+                    <p>💰 ${claude.pricing}</p>
+                    <p>⚡ ${claude.speed} · 📐 ${claude.context}</p>
+                </div>
+            </div>
+            <div class="bg-gray-800 rounded-2xl p-6 border border-green-500/50">
+                <div class="flex items-center gap-3 mb-4">
+                    <div class="w-12 h-12 bg-green-600 rounded-full flex items-center justify-center font-bold text-lg">O</div>
+                    <div>
+                        <h2 class="text-2xl font-bold">${gpt.name}</h2>
+                        <p class="text-gray-400">${gpt.provider} · ${gpt.released}</p>
+                    </div>
+                </div>
+                <div class="text-4xl font-bold text-green-400 mb-2">${gpt.score}</div>
+                <p class="text-gray-300 text-sm">${gpt.description}</p>
+                <div class="mt-4 text-sm text-gray-400">
+                    <p>💰 ${gpt.pricing}</p>
+                    <p>⚡ ${gpt.speed} · 📐 ${gpt.context}</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Benchmark Table -->
+        <div class="bg-gray-800 rounded-2xl p-6 mb-10">
+            <h2 class="text-2xl font-bold mb-4">Head-to-Head Benchmarks</h2>
+            <div class="overflow-x-auto">
+                <table class="w-full text-sm">
+                    <thead><tr class="border-b border-gray-600">
+                        <th class="py-2 px-4 text-left text-gray-400">Benchmark</th>
+                        <th class="py-2 px-4 text-center text-purple-400">${claude.name}</th>
+                        <th class="py-2 px-4 text-center text-green-400">${gpt.name}</th>
+                    </tr></thead>
+                    <tbody>${rows}</tbody>
+                </table>
+            </div>
+            <p class="text-xs text-gray-500 mt-3">Green highlighted cells indicate the winner for each benchmark. "—" means the model wasn't evaluated on that benchmark.</p>
+        </div>
+
+        <!-- Pricing -->
+        <div class="bg-gray-800 rounded-2xl p-6 mb-10">
+            <h2 class="text-2xl font-bold mb-4">💰 Pricing Comparison</h2>
+            <div class="overflow-x-auto">
+                <table class="w-full text-sm">
+                    <thead><tr class="border-b border-gray-600">
+                        <th class="py-2 px-4 text-left text-gray-400">Metric</th>
+                        <th class="py-2 px-4 text-center text-purple-400">Claude</th>
+                        <th class="py-2 px-4 text-center text-green-400">GPT-5</th>
+                    </tr></thead>
+                    <tbody>
+                        <tr class="border-b border-gray-700"><td class="py-3 px-4">Input / 1M tokens</td><td class="py-3 px-4 text-center ${claude.priceInput < gpt.priceInput ? 'text-green-400 font-bold' : ''}">$${claude.priceInput}</td><td class="py-3 px-4 text-center ${gpt.priceInput < claude.priceInput ? 'text-green-400 font-bold' : ''}">$${gpt.priceInput}</td></tr>
+                        <tr class="border-b border-gray-700"><td class="py-3 px-4">Output / 1M tokens</td><td class="py-3 px-4 text-center ${claude.priceOutput < gpt.priceOutput ? 'text-green-400 font-bold' : ''}">$${claude.priceOutput}</td><td class="py-3 px-4 text-center ${gpt.priceOutput < claude.priceOutput ? 'text-green-400 font-bold' : ''}">$${gpt.priceOutput}</td></tr>
+                        <tr><td class="py-3 px-4">Context Window</td><td class="py-3 px-4 text-center">${claude.context}</td><td class="py-3 px-4 text-center">${gpt.context}</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- Use Case Recommendations -->
+        <div class="bg-gray-800 rounded-2xl p-6 mb-10">
+            <h2 class="text-2xl font-bold mb-4">🎯 When to Use Each</h2>
+            <div class="grid md:grid-cols-2 gap-6">
+                <div class="bg-gray-700 rounded-lg p-5">
+                    <h3 class="font-bold text-purple-400 mb-3">Choose Claude When:</h3>
+                    <ul class="space-y-2 text-gray-300 text-sm">
+                        <li>✅ Complex coding & software engineering tasks</li>
+                        <li>✅ Extended thinking / deep reasoning</li>
+                        <li>✅ Safety and reliability matter</li>
+                        <li>✅ You prefer the Anthropic ecosystem</li>
+                    </ul>
+                </div>
+                <div class="bg-gray-700 rounded-lg p-5">
+                    <h3 class="font-bold text-green-400 mb-3">Choose GPT-5 When:</h3>
+                    <ul class="space-y-2 text-gray-300 text-sm">
+                        <li>✅ Mathematics and quantitative reasoning</li>
+                        <li>✅ Larger context window needed (400K)</li>
+                        <li>✅ Better price-to-performance ratio needed</li>
+                        <li>✅ Integration with OpenAI ecosystem</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- All Models -->
+        <div class="bg-gray-800 rounded-2xl p-6 mb-10">
+            <h2 class="text-2xl font-bold mb-4">All Anthropic & OpenAI Models Ranked</h2>
+            <div class="overflow-x-auto">
+                <table class="w-full text-sm">
+                    <thead><tr class="border-b border-gray-600">
+                        <th class="py-2 px-4 text-left text-gray-400">Rank</th>
+                        <th class="py-2 px-4 text-left text-gray-400">Model</th>
+                        <th class="py-2 px-4 text-left text-gray-400">Provider</th>
+                        <th class="py-2 px-4 text-center text-gray-400">Score</th>
+                        <th class="py-2 px-4 text-right text-gray-400">Pricing</th>
+                    </tr></thead>
+                    <tbody>${allModelsHTML}</tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- CTAs -->
+        <div class="text-center py-8">
+            <h2 class="text-2xl font-bold mb-4">Want a deeper comparison?</h2>
+            <div class="flex flex-wrap gap-4 justify-center">
+                <a href="compare.html?agent1=claude-opus-46&agent2=gpt-52-high" class="bg-purple-600 hover:bg-purple-500 px-8 py-3 rounded-lg font-semibold transition">
+                    <i class="fas fa-balance-scale mr-2"></i>Interactive Compare Tool
+                </a>
+                <a href="calculator.html" class="bg-gray-700 hover:bg-gray-600 px-8 py-3 rounded-lg font-semibold transition">
+                    <i class="fas fa-calculator mr-2"></i>Price Calculator
+                </a>
+                <a href="index.html" class="bg-gray-700 hover:bg-gray-600 px-8 py-3 rounded-lg font-semibold transition">
+                    <i class="fas fa-trophy mr-2"></i>Full Leaderboard
+                </a>
+            </div>
+        </div>
+    `;
+    </script>
+</body>
+</html>

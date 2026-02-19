@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Best AI Models for Coding in 2026 | AgentLeaderboards</title>
+    <meta name="description" content="Ranked list of the best AI models for coding in 2026. Compare SWE-bench, Terminal-Bench, and HumanEval scores for Claude, GPT-5 Codex, Kimi K2.5, and more.">
+    <meta name="keywords" content="best AI for coding, AI coding models 2026, SWE-bench rankings, best LLM for programming, coding AI comparison">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://agentleaderboards.com/best-ai-for-coding.html">
+    <meta property="og:title" content="Best AI Models for Coding in 2026">
+    <meta property="og:description" content="Ranked list of top coding AI models with real benchmark data from SWE-bench, Terminal-Bench and more.">
+    <meta property="og:url" content="https://agentleaderboards.com/best-ai-for-coding.html">
+    <meta property="og:type" content="article">
+    <meta name="twitter:card" content="summary_large_image">
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Best AI Models for Coding in 2026",
+        "description": "Comprehensive ranking of AI coding models based on SWE-bench, Terminal-Bench, and other real benchmarks",
+        "datePublished": "2026-02-19",
+        "dateModified": "2026-02-19",
+        "author": { "@type": "Organization", "name": "AgentLeaderboards" },
+        "publisher": { "@type": "Organization", "name": "AgentLeaderboards", "url": "https://agentleaderboards.com" }
+    }
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        .gradient-bg { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); }
+    </style>
+</head>
+<body class="bg-gray-900 text-white min-h-screen">
+    <!-- Navigation -->
+    <nav class="bg-gray-800 border-b border-gray-700 sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
+            <a href="index.html" class="flex items-center gap-3">
+                <i class="fas fa-trophy text-yellow-300 text-2xl"></i>
+                <span class="font-bold text-xl">AgentLeaderboards</span>
+            </a>
+            <div class="flex gap-4 items-center">
+                <a href="index.html" class="text-gray-300 hover:text-white">Leaderboard</a>
+                <a href="compare.html" class="text-gray-300 hover:text-white">Compare</a>
+                <a href="calculator.html" class="text-gray-300 hover:text-white">Calculator</a>
+                <a href="about.html" class="text-gray-300 hover:text-white">About</a>
+                <a href="pricing.html" class="bg-purple-600 hover:bg-purple-500 px-4 py-2 rounded-lg font-semibold transition">Upgrade</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero -->
+    <section class="gradient-bg py-16 px-6">
+        <div class="max-w-4xl mx-auto text-center">
+            <h1 class="text-5xl font-bold mb-4"><i class="fas fa-code mr-3"></i>Best AI Models for Coding</h1>
+            <p class="text-2xl text-purple-100 mb-2">2026 Rankings</p>
+            <p class="text-purple-200">Based on SWE-bench, Terminal-Bench, Aider Polyglot, and more</p>
+        </div>
+    </section>
+
+    <section class="py-12 px-6">
+        <div class="max-w-5xl mx-auto" id="content"></div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 py-12 px-6">
+        <div class="max-w-7xl mx-auto text-center text-gray-400 text-sm">
+            <p>© 2026 AgentLeaderboards. All benchmark data sourced from public leaderboards and research papers.</p>
+            <p class="mt-2">An <a href="https://engineeredeverything.com" class="text-purple-400 hover:underline">EngineeredEverything</a> project</p>
+        </div>
+    </footer>
+
+    <script src="data/agents.js"></script>
+    <script>
+    const codingBenchmarks = ['SWE-bench Verified', 'Terminal-Bench 2.0', 'Aider Polyglot', 'WebDev Arena'];
+
+    // Get coding models (category=coding or has coding benchmarks)
+    let codingModels = AGENTS.filter(a => {
+        if (a.category === 'coding') return true;
+        return codingBenchmarks.some(b => a.benchmarks[b] !== undefined);
+    }).sort((a, b) => b.score - a.score);
+
+    let cardsHTML = '';
+    codingModels.forEach((m, i) => {
+        const benchRows = codingBenchmarks.map(b => {
+            const score = m.benchmarks[b];
+            return score !== undefined ? `<div class="flex justify-between py-1 border-b border-gray-600 last:border-0"><span class="text-gray-400 text-xs">${b}</span><span class="font-bold text-sm">${score}</span></div>` : '';
+        }).filter(Boolean).join('');
+
+        const allBenchRows = Object.entries(m.benchmarks).map(([name, score]) =>
+            `<div class="flex justify-between py-1 border-b border-gray-600 last:border-0"><span class="text-gray-400 text-xs">${name}</span><span class="font-bold text-sm">${score}</span></div>`
+        ).join('');
+
+        cardsHTML += `
+        <div class="bg-gray-800 rounded-2xl p-6 border ${i === 0 ? 'border-yellow-500' : 'border-gray-700'} mb-4">
+            <div class="flex items-start justify-between mb-4">
+                <div class="flex items-start gap-4">
+                    <div class="bg-gray-700 rounded-full w-14 h-14 flex items-center justify-center text-xl font-bold ${i === 0 ? 'text-yellow-400' : i < 3 ? 'text-purple-400' : 'text-gray-400'}">#${i + 1}</div>
+                    <div>
+                        <h3 class="text-xl font-bold">${m.name}</h3>
+                        <p class="text-gray-400 text-sm">${m.provider} · ${m.released}</p>
+                        <p class="text-gray-300 text-sm mt-1">${m.description}</p>
+                    </div>
+                </div>
+                <div class="text-right">
+                    <div class="text-3xl font-bold text-purple-400">${m.score}</div>
+                    <div class="text-xs text-gray-400">Overall Score</div>
+                </div>
+            </div>
+            <div class="grid md:grid-cols-2 gap-4">
+                <div class="bg-gray-700 rounded-lg p-4">
+                    <h4 class="text-xs text-gray-400 mb-2 font-semibold uppercase">Coding Benchmarks</h4>
+                    ${benchRows || allBenchRows}
+                </div>
+                <div class="bg-gray-700 rounded-lg p-4">
+                    <h4 class="text-xs text-gray-400 mb-2 font-semibold uppercase">Details</h4>
+                    <div class="space-y-2 text-sm">
+                        <div class="flex justify-between"><span class="text-gray-400">Pricing</span><span>${m.pricing}</span></div>
+                        <div class="flex justify-between"><span class="text-gray-400">Speed</span><span>${m.speed}</span></div>
+                        <div class="flex justify-between"><span class="text-gray-400">Context</span><span>${m.context}</span></div>
+                    </div>
+                </div>
+            </div>
+            <div class="mt-4 flex gap-3">
+                <a href="compare.html?agent=${m.id}" class="text-sm text-purple-400 hover:underline"><i class="fas fa-balance-scale mr-1"></i>Compare</a>
+                <a href="calculator.html" class="text-sm text-gray-400 hover:underline"><i class="fas fa-calculator mr-1"></i>Cost Calculator</a>
+            </div>
+        </div>`;
+    });
+
+    document.getElementById('content').innerHTML = `
+        <div class="bg-gray-800 rounded-2xl p-6 mb-8">
+            <h2 class="text-2xl font-bold mb-3">Key Coding Benchmarks Explained</h2>
+            <div class="grid md:grid-cols-2 gap-4 text-sm">
+                <div class="bg-gray-700 rounded-lg p-4">
+                    <h3 class="font-bold text-purple-400 mb-1">SWE-bench Verified</h3>
+                    <p class="text-gray-400">Can the model fix real GitHub issues? Tests practical software engineering ability.</p>
+                </div>
+                <div class="bg-gray-700 rounded-lg p-4">
+                    <h3 class="font-bold text-purple-400 mb-1">Terminal-Bench 2.0</h3>
+                    <p class="text-gray-400">Terminal-based coding assignments and debugging tasks.</p>
+                </div>
+                <div class="bg-gray-700 rounded-lg p-4">
+                    <h3 class="font-bold text-purple-400 mb-1">Aider Polyglot</h3>
+                    <p class="text-gray-400">Multi-language code editing and generation tasks.</p>
+                </div>
+                <div class="bg-gray-700 rounded-lg p-4">
+                    <h3 class="font-bold text-purple-400 mb-1">WebDev Arena</h3>
+                    <p class="text-gray-400">Human-judged website quality from AI-generated code.</p>
+                </div>
+            </div>
+        </div>
+
+        <h2 class="text-2xl font-bold mb-6">Top Coding Models Ranked</h2>
+        ${cardsHTML}
+
+        <div class="text-center py-8">
+            <h2 class="text-2xl font-bold mb-4">Compare Any Two Coding Models</h2>
+            <div class="flex flex-wrap gap-4 justify-center">
+                <a href="compare.html" class="bg-purple-600 hover:bg-purple-500 px-8 py-3 rounded-lg font-semibold transition">
+                    <i class="fas fa-balance-scale mr-2"></i>Compare Tool
+                </a>
+                <a href="calculator.html" class="bg-gray-700 hover:bg-gray-600 px-8 py-3 rounded-lg font-semibold transition">
+                    <i class="fas fa-calculator mr-2"></i>Price Calculator
+                </a>
+                <a href="index.html" class="bg-gray-700 hover:bg-gray-600 px-8 py-3 rounded-lg font-semibold transition">
+                    <i class="fas fa-trophy mr-2"></i>Full Leaderboard
+                </a>
+            </div>
+        </div>
+    `;
+    </script>
+</body>
+</html>

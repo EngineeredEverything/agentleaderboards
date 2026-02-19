@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Compare AI Models - AgentLeaderboards | Side-by-Side Benchmark Comparison</title>
+    <meta name="description" content="Compare any two AI models side-by-side. See benchmark scores, pricing, speed, and get recommendations for coding, reasoning, and research use cases.">
+    <meta name="keywords" content="AI model comparison, Claude vs GPT, LLM benchmark comparison, AI agent compare tool">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://agentleaderboards.com/compare.html">
+    <meta property="og:title" content="Compare AI Models - AgentLeaderboards">
+    <meta property="og:description" content="Side-by-side AI model comparison with real benchmark data.">
+    <meta property="og:url" content="https://agentleaderboards.com/compare.html">
+    <meta property="og:type" content="website">
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "AgentLeaderboards Compare Tool",
+        "url": "https://agentleaderboards.com/compare.html",
+        "description": "Compare AI models side-by-side with real benchmark scores",
+        "applicationCategory": "UtilitiesApplication"
+    }
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        .gradient-bg { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); }
+        .winner { background: rgba(34, 197, 94, 0.15); border-left: 3px solid #22c55e; }
+        .loser { opacity: 0.7; }
+        .score-bar { transition: width 0.6s ease; }
+    </style>
+</head>
+<body class="bg-gray-900 text-white min-h-screen">
+    <!-- Navigation -->
+    <nav class="bg-gray-800 border-b border-gray-700 sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
+            <a href="index.html" class="flex items-center gap-3">
+                <i class="fas fa-trophy text-yellow-300 text-2xl"></i>
+                <span class="font-bold text-xl">AgentLeaderboards</span>
+            </a>
+            <div class="flex gap-4 items-center">
+                <a href="index.html" class="text-gray-300 hover:text-white">Leaderboard</a>
+                <a href="compare.html" class="text-white font-semibold">Compare</a>
+                <a href="calculator.html" class="text-gray-300 hover:text-white">Calculator</a>
+                <a href="about.html" class="text-gray-300 hover:text-white">About</a>
+                <a href="pricing.html" class="bg-purple-600 hover:bg-purple-500 px-4 py-2 rounded-lg font-semibold transition">Upgrade</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero -->
+    <section class="gradient-bg py-12 px-6">
+        <div class="max-w-7xl mx-auto text-center">
+            <h1 class="text-4xl font-bold mb-4"><i class="fas fa-balance-scale mr-3"></i>Compare AI Models</h1>
+            <p class="text-xl text-purple-100">Side-by-side benchmark comparison with real performance data</p>
+        </div>
+    </section>
+
+    <!-- Selectors -->
+    <section class="py-8 px-6 bg-gray-800 border-b border-gray-700">
+        <div class="max-w-5xl mx-auto">
+            <div class="grid md:grid-cols-2 gap-8 items-end">
+                <div>
+                    <label class="text-sm text-gray-400 mb-2 block">Agent 1</label>
+                    <select id="agent1-select" class="w-full bg-gray-700 border border-gray-600 rounded-lg px-4 py-3 text-white text-lg">
+                        <option value="">Select a model...</option>
+                    </select>
+                </div>
+                <div>
+                    <label class="text-sm text-gray-400 mb-2 block">Agent 2</label>
+                    <select id="agent2-select" class="w-full bg-gray-700 border border-gray-600 rounded-lg px-4 py-3 text-white text-lg">
+                        <option value="">Select a model...</option>
+                    </select>
+                </div>
+            </div>
+            <div class="text-center mt-6">
+                <button id="compare-btn" onclick="runComparison()" class="bg-purple-600 hover:bg-purple-500 px-8 py-3 rounded-lg font-semibold text-lg transition">
+                    <i class="fas fa-balance-scale mr-2"></i>Compare Now
+                </button>
+                <p class="text-sm text-gray-500 mt-2" id="comparisons-remaining"></p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Comparison Result -->
+    <section class="py-12 px-6">
+        <div class="max-w-5xl mx-auto" id="comparison-result">
+            <div class="text-center text-gray-500 py-20">
+                <i class="fas fa-balance-scale text-6xl mb-4"></i>
+                <p class="text-xl">Select two models above to compare them</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Upgrade Modal (hidden by default) -->
+    <div id="upgrade-modal" class="fixed inset-0 bg-black bg-opacity-75 z-50 hidden items-center justify-center p-6">
+        <div class="bg-gray-800 rounded-2xl p-8 max-w-md w-full text-center">
+            <i class="fas fa-lock text-yellow-400 text-5xl mb-4"></i>
+            <h2 class="text-2xl font-bold mb-3">Daily Limit Reached</h2>
+            <p class="text-gray-300 mb-6">You've used your 3 free comparisons today. Upgrade to Premium for unlimited comparisons.</p>
+            <a href="pricing.html" class="inline-block bg-yellow-500 hover:bg-yellow-400 text-gray-900 px-8 py-3 rounded-lg font-bold text-lg transition mb-3">
+                Upgrade to Premium →
+            </a>
+            <p class="text-sm text-gray-500">Comparisons reset at midnight UTC</p>
+            <button onclick="document.getElementById('upgrade-modal').classList.add('hidden');document.getElementById('upgrade-modal').classList.remove('flex');" class="mt-4 text-gray-400 hover:text-white text-sm">Close</button>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 py-12 px-6 mt-12">
+        <div class="max-w-7xl mx-auto text-center text-gray-400 text-sm">
+            <p>© 2026 AgentLeaderboards. All benchmark data sourced from public leaderboards and research papers.</p>
+            <p class="mt-2">An <a href="https://engineeredeverything.com" class="text-purple-400 hover:underline">EngineeredEverything</a> project</p>
+        </div>
+    </footer>
+
+    <script src="data/agents.js"></script>
+    <script>
+    // Populate dropdowns
+    const agent1Select = document.getElementById('agent1-select');
+    const agent2Select = document.getElementById('agent2-select');
+
+    AGENTS.sort((a, b) => a.name.localeCompare(b.name)).forEach(agent => {
+        const opt1 = new Option(`${agent.name} (${agent.provider})`, agent.id);
+        const opt2 = new Option(`${agent.name} (${agent.provider})`, agent.id);
+        agent1Select.add(opt1);
+        agent2Select.add(opt2);
+    });
+
+    // Pre-select from URL params
+    const params = new URLSearchParams(window.location.search);
+    if (params.get('agent') || params.get('agent1')) {
+        agent1Select.value = params.get('agent') || params.get('agent1');
+    }
+    if (params.get('agent2')) {
+        agent2Select.value = params.get('agent2');
+    }
+
+    // Show remaining comparisons
+    function getComparisonsToday() {
+        const key = 'al_comparisons_' + new Date().toISOString().slice(0, 10);
+        return parseInt(localStorage.getItem(key) || '0');
+    }
+    function incrementComparisons() {
+        const key = 'al_comparisons_' + new Date().toISOString().slice(0, 10);
+        const count = getComparisonsToday() + 1;
+        localStorage.setItem(key, count);
+        return count;
+    }
+    function updateRemainingText() {
+        const used = getComparisonsToday();
+        const remaining = Math.max(0, 3 - used);
+        document.getElementById('comparisons-remaining').textContent = `${remaining} free comparison${remaining !== 1 ? 's' : ''} remaining today`;
+    }
+    updateRemainingText();
+
+    function runComparison() {
+        const id1 = agent1Select.value;
+        const id2 = agent2Select.value;
+        if (!id1 || !id2) { alert('Please select two models to compare.'); return; }
+        if (id1 === id2) { alert('Please select two different models.'); return; }
+
+        // Check rate limit
+        if (getComparisonsToday() >= 3) {
+            const modal = document.getElementById('upgrade-modal');
+            modal.classList.remove('hidden');
+            modal.classList.add('flex');
+            return;
+        }
+
+        incrementComparisons();
+        updateRemainingText();
+
+        const a1 = AGENTS.find(a => a.id === id1);
+        const a2 = AGENTS.find(a => a.id === id2);
+        renderComparison(a1, a2);
+    }
+
+    function renderComparison(a1, a2) {
+        // Collect all benchmarks from both
+        const allBenchmarks = new Set([...Object.keys(a1.benchmarks || {}), ...Object.keys(a2.benchmarks || {})]);
+
+        let benchmarkRows = '';
+        let a1Wins = 0, a2Wins = 0;
+        allBenchmarks.forEach(bench => {
+            const s1 = a1.benchmarks[bench];
+            const s2 = a2.benchmarks[bench];
+            let winClass1 = '', winClass2 = '', icon = '';
+            if (s1 !== undefined && s2 !== undefined) {
+                if (s1 > s2) { winClass1 = 'winner'; winClass2 = 'loser'; a1Wins++; icon = '🏆'; }
+                else if (s2 > s1) { winClass2 = 'winner'; winClass1 = 'loser'; a2Wins++; icon = '🏆'; }
+            }
+            benchmarkRows += `
+                <tr class="border-b border-gray-700">
+                    <td class="py-3 px-4 ${winClass1}">${s1 !== undefined ? `<span class="font-semibold">${s1}</span>${winClass1 === 'winner' ? ' ' + icon : ''}` : '<span class="text-gray-600">N/A</span>'}</td>
+                    <td class="py-3 px-4 text-center text-gray-400 text-sm">${bench}</td>
+                    <td class="py-3 px-4 text-right ${winClass2}">${s2 !== undefined ? `${winClass2 === 'winner' ? icon + ' ' : ''}<span class="font-semibold">${s2}</span>` : '<span class="text-gray-600">N/A</span>'}</td>
+                </tr>`;
+        });
+
+        // Cost comparison
+        const cheaperInput = a1.priceInput < a2.priceInput ? 'a1' : a1.priceInput > a2.priceInput ? 'a2' : 'tie';
+        const cheaperOutput = a1.priceOutput < a2.priceOutput ? 'a1' : a1.priceOutput > a2.priceOutput ? 'a2' : 'tie';
+
+        // Speed comparison
+        const speedOrder = { 'Very Fast': 4, 'Fast': 3, 'Medium': 2, 'Slow': 1 };
+        const fasterAgent = speedOrder[a1.speed] > speedOrder[a2.speed] ? 'a1' : speedOrder[a1.speed] < speedOrder[a2.speed] ? 'a2' : 'tie';
+
+        // Overall score bars
+        const maxScore = Math.max(a1.score, a2.score, 100);
+
+        // Recommendations
+        const codingBenchmarks = ['SWE-bench Verified', 'Terminal-Bench 2.0', 'Aider Polyglot'];
+        const reasoningBenchmarks = ['GPQA Diamond', 'MATH Level 5', 'FrontierMath', 'SimpleBench'];
+        const researchBenchmarks = ['Humanity\'s Last Exam', 'DeepResearchBench', 'BrowseComp'];
+
+        function avgScore(agent, benchList) {
+            const scores = benchList.map(b => agent.benchmarks[b]).filter(s => s !== undefined);
+            return scores.length > 0 ? scores.reduce((a, b) => a + b, 0) / scores.length : 0;
+        }
+
+        const codingA1 = avgScore(a1, codingBenchmarks), codingA2 = avgScore(a2, codingBenchmarks);
+        const reasoningA1 = avgScore(a1, reasoningBenchmarks), reasoningA2 = avgScore(a2, reasoningBenchmarks);
+        const researchA1 = avgScore(a1, researchBenchmarks), researchA2 = avgScore(a2, researchBenchmarks);
+
+        function recLabel(s1, s2, n1, n2) {
+            if (s1 === 0 && s2 === 0) return 'Insufficient data';
+            if (s1 > s2) return n1;
+            if (s2 > s1) return n2;
+            return 'Tie';
+        }
+
+        const container = document.getElementById('comparison-result');
+        container.innerHTML = `
+            <!-- Header Cards -->
+            <div class="grid md:grid-cols-2 gap-6 mb-8">
+                <div class="bg-gray-800 rounded-2xl p-6 text-center border ${a1.score >= a2.score ? 'border-green-500' : 'border-gray-700'}">
+                    <h2 class="text-2xl font-bold mb-1">${a1.name}</h2>
+                    <p class="text-gray-400 mb-3">${a1.provider}</p>
+                    <div class="text-4xl font-bold text-purple-400">${a1.score}</div>
+                    <p class="text-sm text-gray-400">Overall Score</p>
+                </div>
+                <div class="bg-gray-800 rounded-2xl p-6 text-center border ${a2.score >= a1.score ? 'border-green-500' : 'border-gray-700'}">
+                    <h2 class="text-2xl font-bold mb-1">${a2.name}</h2>
+                    <p class="text-gray-400 mb-3">${a2.provider}</p>
+                    <div class="text-4xl font-bold text-purple-400">${a2.score}</div>
+                    <p class="text-sm text-gray-400">Overall Score</p>
+                </div>
+            </div>
+
+            <!-- Score Bars -->
+            <div class="bg-gray-800 rounded-2xl p-6 mb-8">
+                <h3 class="font-bold text-lg mb-4">Overall Score Comparison</h3>
+                <div class="space-y-4">
+                    <div>
+                        <div class="flex justify-between text-sm mb-1"><span>${a1.name}</span><span class="font-bold">${a1.score}</span></div>
+                        <div class="w-full bg-gray-700 rounded-full h-6">
+                            <div class="bg-purple-500 h-6 rounded-full score-bar flex items-center justify-end pr-2 text-xs font-bold" style="width: ${(a1.score / maxScore) * 100}%">${a1.score}</div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="flex justify-between text-sm mb-1"><span>${a2.name}</span><span class="font-bold">${a2.score}</span></div>
+                        <div class="w-full bg-gray-700 rounded-full h-6">
+                            <div class="bg-blue-500 h-6 rounded-full score-bar flex items-center justify-end pr-2 text-xs font-bold" style="width: ${(a2.score / maxScore) * 100}%">${a2.score}</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Benchmark Table -->
+            <div class="bg-gray-800 rounded-2xl p-6 mb-8">
+                <h3 class="font-bold text-lg mb-4">Head-to-Head Benchmarks</h3>
+                <p class="text-sm text-gray-400 mb-4">${a1Wins} wins for ${a1.name} · ${a2Wins} wins for ${a2.name}</p>
+                <div class="overflow-x-auto">
+                    <table class="w-full text-sm">
+                        <thead>
+                            <tr class="border-b border-gray-600">
+                                <th class="py-2 px-4 text-left text-purple-400">${a1.name}</th>
+                                <th class="py-2 px-4 text-center text-gray-400">Benchmark</th>
+                                <th class="py-2 px-4 text-right text-blue-400">${a2.name}</th>
+                            </tr>
+                        </thead>
+                        <tbody>${benchmarkRows}</tbody>
+                    </table>
+                </div>
+            </div>
+
+            <!-- Cost & Speed Comparison -->
+            <div class="grid md:grid-cols-2 gap-6 mb-8">
+                <div class="bg-gray-800 rounded-2xl p-6">
+                    <h3 class="font-bold text-lg mb-4"><i class="fas fa-dollar-sign mr-2 text-green-400"></i>Cost Comparison</h3>
+                    <table class="w-full text-sm">
+                        <tr class="border-b border-gray-700">
+                            <td class="py-3 text-gray-400">Input / 1M tokens</td>
+                            <td class="py-3 text-right ${cheaperInput === 'a1' ? 'text-green-400 font-bold' : ''}">$${a1.priceInput}</td>
+                            <td class="py-3 text-right ${cheaperInput === 'a2' ? 'text-green-400 font-bold' : ''}">$${a2.priceInput}</td>
+                        </tr>
+                        <tr class="border-b border-gray-700">
+                            <td class="py-3 text-gray-400">Output / 1M tokens</td>
+                            <td class="py-3 text-right ${cheaperOutput === 'a1' ? 'text-green-400 font-bold' : ''}">$${a1.priceOutput}</td>
+                            <td class="py-3 text-right ${cheaperOutput === 'a2' ? 'text-green-400 font-bold' : ''}">$${a2.priceOutput}</td>
+                        </tr>
+                        <tr>
+                            <td class="py-3 text-gray-400">Context Window</td>
+                            <td class="py-3 text-right">${a1.context}</td>
+                            <td class="py-3 text-right">${a2.context}</td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="bg-gray-800 rounded-2xl p-6">
+                    <h3 class="font-bold text-lg mb-4"><i class="fas fa-bolt mr-2 text-yellow-400"></i>Speed Comparison</h3>
+                    <div class="space-y-4">
+                        <div class="flex justify-between items-center p-3 rounded-lg ${fasterAgent === 'a1' ? 'bg-green-900/30 border border-green-800' : 'bg-gray-700'}">
+                            <span>${a1.name}</span>
+                            <span class="font-bold">${a1.speed}</span>
+                        </div>
+                        <div class="flex justify-between items-center p-3 rounded-lg ${fasterAgent === 'a2' ? 'bg-green-900/30 border border-green-800' : 'bg-gray-700'}">
+                            <span>${a2.name}</span>
+                            <span class="font-bold">${a2.speed}</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Recommendations -->
+            <div class="bg-gray-800 rounded-2xl p-6 mb-8">
+                <h3 class="font-bold text-lg mb-4"><i class="fas fa-lightbulb mr-2 text-yellow-400"></i>Best For...</h3>
+                <div class="grid md:grid-cols-3 gap-4">
+                    <div class="bg-gray-700 rounded-lg p-4 text-center">
+                        <i class="fas fa-code text-blue-400 text-2xl mb-2"></i>
+                        <div class="text-sm text-gray-400 mb-1">Coding</div>
+                        <div class="font-bold">${recLabel(codingA1, codingA2, a1.name, a2.name)}</div>
+                    </div>
+                    <div class="bg-gray-700 rounded-lg p-4 text-center">
+                        <i class="fas fa-brain text-purple-400 text-2xl mb-2"></i>
+                        <div class="text-sm text-gray-400 mb-1">Reasoning</div>
+                        <div class="font-bold">${recLabel(reasoningA1, reasoningA2, a1.name, a2.name)}</div>
+                    </div>
+                    <div class="bg-gray-700 rounded-lg p-4 text-center">
+                        <i class="fas fa-flask text-green-400 text-2xl mb-2"></i>
+                        <div class="text-sm text-gray-400 mb-1">Research</div>
+                        <div class="font-bold">${recLabel(researchA1, researchA2, a1.name, a2.name)}</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- CTA -->
+            <div class="text-center py-8">
+                <a href="calculator.html" class="inline-block bg-purple-600 hover:bg-purple-500 px-8 py-3 rounded-lg font-semibold transition mr-4">
+                    <i class="fas fa-calculator mr-2"></i>Price Calculator
+                </a>
+                <a href="index.html" class="inline-block bg-gray-700 hover:bg-gray-600 px-8 py-3 rounded-lg font-semibold transition">
+                    <i class="fas fa-trophy mr-2"></i>Full Leaderboard
+                </a>
+            </div>
+        `;
+    }
+
+    // Auto-compare if both params provided
+    if (params.get('agent1') && params.get('agent2')) {
+        setTimeout(runComparison, 100);
+    }
+    </script>
+</body>
+</html>
