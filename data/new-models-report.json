@@ -1,12 +1,78 @@
 {
-  "timestamp": "2026-02-19T09:43:21.171Z",
+  "timestamp": "2026-02-20T09:38:43.821Z",
   "existingCount": 21,
   "newModels": [],
   "recentPapers": [
     {
+      "title": "The Cascade Equivalence Hypothesis: When Do Speech LLMs Behave Like ASR$\\rightarrow$LLM Pipelines?",
+      "date": "2026-02-19T18:22:39.000Z",
+      "url": "http://arxiv.org/abs/2602.17598v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "KLong: Training LLM Agent for Extremely Long-horizon Tasks",
+      "date": "2026-02-19T17:01:08.000Z",
+      "url": "http://arxiv.org/abs/2602.17547v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Using LLMs for Knowledge Component-level Correctness Labeling in Open-ended Coding Problems",
+      "date": "2026-02-19T16:58:34.000Z",
+      "url": "http://arxiv.org/abs/2602.17542v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "What Do LLMs Associate with Your Name? A Human-Centered Black-Box Audit of Personal Data",
+      "date": "2026-02-19T15:53:29.000Z",
+      "url": "http://arxiv.org/abs/2602.17483v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Small LLMs for Medical NLP: a Systematic Analysis of Few-Shot, Constraint Decoding, Fine-Tuning and Continual Pre-Training in Italian",
+      "date": "2026-02-19T15:38:46.000Z",
+      "url": "http://arxiv.org/abs/2602.17475v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "DAVE: A Policy-Enforcing LLM Spokesperson for Secure Multi-Document Data Sharing",
+      "date": "2026-02-19T14:43:48.000Z",
+      "url": "http://arxiv.org/abs/2602.17413v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Same Meaning, Different Scores: Lexical and Syntactic Sensitivity in LLM Evaluation",
+      "date": "2026-02-19T12:24:42.000Z",
+      "url": "http://arxiv.org/abs/2602.17316v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Quantifying and Mitigating Socially Desirable Responding in LLMs: A Desirability-Matched Graded Forced-Choice Psychometric Study",
+      "date": "2026-02-19T11:07:24.000Z",
+      "url": "http://arxiv.org/abs/2602.17262v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Mechanistic Interpretability of Cognitive Complexity in LLMs via Linear Probing using Bloom's Taxonomy",
+      "date": "2026-02-19T10:19:04.000Z",
+      "url": "http://arxiv.org/abs/2602.17229v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Exploring LLMs for User Story Extraction from Mockups",
+      "date": "2026-02-19T01:42:45.000Z",
+      "url": "http://arxiv.org/abs/2602.16997v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "References Improve LLM Alignment in Non-Verifiable Domains",
+      "date": "2026-02-18T19:03:34.000Z",
+      "url": "http://arxiv.org/abs/2602.16802v1",
+      "source": "arxiv"
+    },
+    {
       "title": "Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents",
       "date": "2026-02-18T18:46:14.000Z",
-      "url": "http://arxiv.org/abs/2602.16699v1",
+      "url": "http://arxiv.org/abs/2602.16699v2",
       "source": "arxiv"
     },
     {
@@ -42,85 +108,19 @@
     {
       "title": "Helpful to a Fault: Measuring Illicit Assistance in Multi-Turn, Multilingual LLM Agents",
       "date": "2026-02-18T10:31:19.000Z",
-      "url": "http://arxiv.org/abs/2602.16346v1",
+      "url": "http://arxiv.org/abs/2602.16346v2",
       "source": "arxiv"
     },
     {
       "title": "Are LLMs Ready to Replace Bangla Annotators?",
       "date": "2026-02-18T07:36:41.000Z",
-      "url": "http://arxiv.org/abs/2602.16241v1",
+      "url": "http://arxiv.org/abs/2602.16241v2",
       "source": "arxiv"
     },
     {
       "title": "LLMs Exhibit Significantly Lower Uncertainty in Creative Writing Than Professional Writers",
       "date": "2026-02-18T03:19:12.000Z",
       "url": "http://arxiv.org/abs/2602.16162v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "CLAA: Cross-Layer Attention Aggregation for Accelerating LLM Prefill",
-      "date": "2026-02-17T22:08:16.000Z",
-      "url": "http://arxiv.org/abs/2602.16054v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "*-PLUIE: Personalisable metric with Llm Used for Improved Evaluation",
-      "date": "2026-02-17T18:10:00.000Z",
-      "url": "http://arxiv.org/abs/2602.15778v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Under-resourced studies of under-resourced languages: lemmatization and POS-tagging with LLM annotators for historical Armenian, Georgian, Greek and Syriac",
-      "date": "2026-02-17T17:34:32.000Z",
-      "url": "http://arxiv.org/abs/2602.15753v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLM-to-Speech: A Synthetic Data Pipeline for Training Dialectal Text-to-Speech Models",
-      "date": "2026-02-17T15:58:27.000Z",
-      "url": "http://arxiv.org/abs/2602.15675v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "STAPO: Stabilizing Reinforcement Learning for LLMs by Silencing Rare Spurious Tokens",
-      "date": "2026-02-17T14:46:48.000Z",
-      "url": "http://arxiv.org/abs/2602.15620v2",
-      "source": "arxiv"
-    },
-    {
-      "title": "ExpertWeaver: Unlocking the Inherent MoE in Dense LLMs with GLU Activation Patterns",
-      "date": "2026-02-17T11:50:58.000Z",
-      "url": "http://arxiv.org/abs/2602.15521v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "In Agents We Trust, but Who Do Agents Trust? Latent Source Preferences Steer LLM Generations",
-      "date": "2026-02-17T09:45:22.000Z",
-      "url": "http://arxiv.org/abs/2602.15456v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Measuring Social Integration Through Participation: Categorizing Organizations and Leisure Activities in the Displaced Karelians Interview Archive using LLMs",
-      "date": "2026-02-17T08:59:13.000Z",
-      "url": "http://arxiv.org/abs/2602.15436v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Mnemis: Dual-Route Retrieval on Hierarchical Graphs for Long-Term LLM Memory",
-      "date": "2026-02-17T02:44:03.000Z",
-      "url": "http://arxiv.org/abs/2602.15313v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "ScrapeGraphAI-100k: A Large-Scale Dataset for LLM-Based Web Information Extraction",
-      "date": "2026-02-16T20:56:59.000Z",
-      "url": "http://arxiv.org/abs/2602.15189v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Text Style Transfer with Parameter-efficient LLM Finetuning and Round-trip Translation",
-      "date": "2026-02-16T18:52:43.000Z",
-      "url": "http://arxiv.org/abs/2602.15013v1",
       "source": "arxiv"
     }
   ],
