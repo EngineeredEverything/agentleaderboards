@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard - AgentLeaderboards</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        .gradient-bg {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+    </style>
+</head>
+<body class="bg-gray-900 text-white">
+    <!-- Navigation -->
+    <nav class="bg-gray-800 border-b border-gray-700 sticky top-0 z-50">
+        <div class="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
+            <a href="index.html" class="flex items-center gap-3">
+                <i class="fas fa-trophy text-yellow-300 text-2xl"></i>
+                <span class="font-bold text-xl">AgentLeaderboards</span>
+            </a>
+            <div class="flex items-center gap-4">
+                <span id="user-email" class="text-gray-300 text-sm"></span>
+                <button id="signout-btn" class="text-gray-300 hover:text-white">
+                    <i class="fas fa-sign-out-alt"></i> Sign Out
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Dashboard -->
+    <section class="py-12 px-6">
+        <div class="max-w-6xl mx-auto">
+            <h1 class="text-4xl font-bold mb-8">Your Dashboard</h1>
+
+            <!-- Stats Cards -->
+            <div class="grid md:grid-cols-3 gap-6 mb-12">
+                <!-- Tier Card -->
+                <div class="bg-gray-800 rounded-2xl p-6">
+                    <div class="flex items-center gap-3 mb-2">
+                        <i class="fas fa-crown text-yellow-400 text-2xl"></i>
+                        <h3 class="text-lg font-bold">Account Tier</h3>
+                    </div>
+                    <p id="user-tier" class="text-3xl font-bold text-yellow-400">Loading...</p>
+                    <p class="text-sm text-gray-400 mt-2">Current plan</p>
+                </div>
+
+                <!-- Comparisons Card -->
+                <div class="bg-gray-800 rounded-2xl p-6">
+                    <div class="flex items-center gap-3 mb-2">
+                        <i class="fas fa-chart-bar text-purple-400 text-2xl"></i>
+                        <h3 class="text-lg font-bold">Comparisons Today</h3>
+                    </div>
+                    <p id="comparisons-remaining" class="text-3xl font-bold text-purple-400">Loading...</p>
+                    <p class="text-sm text-gray-400 mt-2">Remaining today</p>
+                </div>
+
+                <!-- Total Comparisons Card -->
+                <div class="bg-gray-800 rounded-2xl p-6">
+                    <div class="flex items-center gap-3 mb-2">
+                        <i class="fas fa-history text-blue-400 text-2xl"></i>
+                        <h3 class="text-lg font-bold">Total Comparisons</h3>
+                    </div>
+                    <p id="total-comparisons" class="text-3xl font-bold text-blue-400">Loading...</p>
+                    <p class="text-sm text-gray-400 mt-2">All time</p>
+                </div>
+            </div>
+
+            <!-- Upgrade CTA (for free users) -->
+            <div id="upgrade-cta" class="hidden gradient-bg rounded-2xl p-8 mb-12">
+                <div class="flex items-center justify-between">
+                    <div>
+                        <h3 class="text-2xl font-bold mb-2">Upgrade to Premium</h3>
+                        <p class="text-purple-100 mb-4">Get unlimited comparisons, API access, and advanced analytics for $9.99/month</p>
+                        <a href="pricing.html" class="inline-block bg-white text-purple-700 px-6 py-3 rounded-lg font-bold hover:bg-gray-100 transition">
+                            View Plans →
+                        </a>
+                    </div>
+                    <i class="fas fa-rocket text-8xl text-white opacity-20 hidden md:block"></i>
+                </div>
+            </div>
+
+            <!-- Quick Actions -->
+            <div class="grid md:grid-cols-2 gap-6 mb-12">
+                <a href="index.html#compare" class="bg-gray-800 hover:bg-gray-700 rounded-2xl p-6 transition block">
+                    <div class="flex items-center gap-4">
+                        <i class="fas fa-balance-scale text-yellow-400 text-3xl"></i>
+                        <div>
+                            <h3 class="text-xl font-bold mb-1">New Comparison</h3>
+                            <p class="text-gray-400 text-sm">Compare two AI agents side-by-side</p>
+                        </div>
+                    </div>
+                </a>
+
+                <a href="index.html" class="bg-gray-800 hover:bg-gray-700 rounded-2xl p-6 transition block">
+                    <div class="flex items-center gap-4">
+                        <i class="fas fa-trophy text-yellow-400 text-3xl"></i>
+                        <div>
+                            <h3 class="text-xl font-bold mb-1">View Leaderboard</h3>
+                            <p class="text-gray-400 text-sm">Browse all AI agents and rankings</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+
+            <!-- Comparison History -->
+            <div class="bg-gray-800 rounded-2xl p-8">
+                <h2 class="text-2xl font-bold mb-6">Recent Comparisons</h2>
+                <div id="comparison-history">
+                    <p class="text-gray-400">Loading...</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 py-12 px-6">
+        <div class="max-w-6xl mx-auto flex justify-between items-center">
+            <div class="flex items-center gap-3">
+                <i class="fas fa-trophy text-yellow-300 text-xl"></i>
+                <span class="font-bold">AgentLeaderboards</span>
+            </div>
+            <div class="text-gray-400">
+                An <a href="https://engineeredeverything.com" class="text-purple-400 hover:underline">EngineeredEverything</a> project
+            </div>
+        </div>
+    </footer>
+
+    <!-- Firebase SDK -->
+    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-auth-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-firestore-compat.js"></script>
+    <script src="js/firebase-config.js"></script>
+    <script src="js/dashboard.js"></script>
+</body>
+</html>
