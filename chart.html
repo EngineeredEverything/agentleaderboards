@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Intelligence vs Cost Chart - AgentLeaderboards | Best Value AI Models</title>
+    <meta name="description" content="See which AI models give the best intelligence per dollar. Interactive scatter plot comparing benchmark scores vs API pricing for 20+ frontier models.">
+    <meta name="keywords" content="AI model value, best AI for cost, intelligence vs price, LLM value comparison">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://agentleaderboards.com/chart.html">
+    <meta property="og:title" content="Intelligence vs Cost - AgentLeaderboards">
+    <meta property="og:description" content="Which AI model gives the best intelligence per dollar? Interactive scatter chart.">
+    <meta property="og:url" content="https://agentleaderboards.com/chart.html">
+    <meta property="og:type" content="website">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        .gradient-bg { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); }
+        #chart-container { position: relative; width: 100%; }
+        canvas { cursor: crosshair; }
+        .tooltip {
+            position: absolute;
+            background: rgba(17, 24, 39, 0.95);
+            border: 1px solid #4B5563;
+            border-radius: 8px;
+            padding: 10px 14px;
+            pointer-events: none;
+            display: none;
+            z-index: 100;
+            min-width: 180px;
+            font-size: 13px;
+        }
+        .quadrant-label {
+            position: absolute;
+            font-size: 11px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            opacity: 0.35;
+            pointer-events: none;
+        }
+    </style>
+</head>
+<body class="bg-gray-900 text-white min-h-screen">
+
+    <!-- Navigation -->
+    <nav class="bg-gray-800 border-b border-gray-700 sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
+            <a href="index.html" class="flex items-center gap-3">
+                <i class="fas fa-trophy text-yellow-300 text-2xl"></i>
+                <span class="font-bold text-xl">AgentLeaderboards</span>
+            </a>
+            <div class="flex gap-4 items-center">
+                <a href="index.html" class="text-gray-300 hover:text-white">Leaderboard</a>
+                <a href="compare.html" class="text-gray-300 hover:text-white">Compare</a>
+                <a href="calculator.html" class="text-gray-300 hover:text-white">Calculator</a>
+                <a href="chart.html" class="text-white font-semibold">Value Chart</a>
+                <a href="about.html" class="text-gray-300 hover:text-white">About</a>
+                <a href="pricing.html" class="bg-purple-600 hover:bg-purple-500 px-4 py-2 rounded-lg font-semibold transition">Upgrade</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero -->
+    <section class="gradient-bg py-12 px-6">
+        <div class="max-w-4xl mx-auto text-center">
+            <h1 class="text-4xl font-bold mb-4"><i class="fas fa-chart-scatter mr-3"></i>Intelligence vs Cost</h1>
+            <p class="text-xl text-purple-100">Which AI models give you the best performance per dollar?</p>
+            <p class="text-sm text-purple-300 mt-2">Top-right = best absolute performance · Bottom-right = best value</p>
+        </div>
+    </section>
+
+    <!-- Chart -->
+    <section class="py-10 px-6">
+        <div class="max-w-5xl mx-auto">
+
+            <!-- Filter Buttons -->
+            <div class="flex flex-wrap gap-3 mb-6 justify-center">
+                <button onclick="filterCategory('all')" id="btn-all" class="cat-btn px-4 py-2 rounded-lg text-sm font-semibold bg-purple-600 text-white transition">All</button>
+                <button onclick="filterCategory('coding')" id="btn-coding" class="cat-btn px-4 py-2 rounded-lg text-sm font-semibold bg-gray-700 text-gray-300 hover:bg-gray-600 transition">Coding</button>
+                <button onclick="filterCategory('reasoning')" id="btn-reasoning" class="cat-btn px-4 py-2 rounded-lg text-sm font-semibold bg-gray-700 text-gray-300 hover:bg-gray-600 transition">Reasoning</button>
+                <button onclick="filterCategory('research')" id="btn-research" class="cat-btn px-4 py-2 rounded-lg text-sm font-semibold bg-gray-700 text-gray-300 hover:bg-gray-600 transition">Research</button>
+                <button onclick="filterCategory('analysis')" id="btn-analysis" class="cat-btn px-4 py-2 rounded-lg text-sm font-semibold bg-gray-700 text-gray-300 hover:bg-gray-600 transition">Analysis</button>
+            </div>
+
+            <!-- Canvas Chart -->
+            <div class="bg-gray-800 rounded-xl p-4 relative" id="chart-container">
+                <canvas id="scatterChart"></canvas>
+                <div class="tooltip" id="tooltip"></div>
+            </div>
+
+            <!-- Legend -->
+            <div class="flex flex-wrap gap-6 justify-center mt-6 text-sm text-gray-400">
+                <div class="flex items-center gap-2"><span class="w-3 h-3 rounded-full bg-blue-400 inline-block"></span> Coding</div>
+                <div class="flex items-center gap-2"><span class="w-3 h-3 rounded-full bg-purple-400 inline-block"></span> Reasoning</div>
+                <div class="flex items-center gap-2"><span class="w-3 h-3 rounded-full bg-green-400 inline-block"></span> Research</div>
+                <div class="flex items-center gap-2"><span class="w-3 h-3 rounded-full bg-yellow-400 inline-block"></span> Analysis</div>
+                <div class="flex items-center gap-2"><span class="w-3 h-3 rounded-full bg-gray-400 inline-block"></span> General</div>
+            </div>
+
+            <p class="text-center text-xs text-gray-500 mt-3">
+                X-axis: Input price per 1M tokens (log scale) · Y-axis: Overall benchmark score · Hover dots for details
+            </p>
+        </div>
+    </section>
+
+    <!-- Value Leaders Table -->
+    <section class="py-10 px-6 bg-gray-800 border-t border-gray-700">
+        <div class="max-w-4xl mx-auto">
+            <h2 class="text-2xl font-bold mb-6 text-center">🏆 Best Value Models</h2>
+            <p class="text-gray-400 text-center mb-8">Ranked by performance score ÷ cost (higher = more intelligence per dollar)</p>
+            <div id="value-table" class="space-y-3"></div>
+        </div>
+    </section>
+
+    <!-- CTA -->
+    <section class="gradient-bg py-16 px-6">
+        <div class="max-w-2xl mx-auto text-center">
+            <h2 class="text-3xl font-bold mb-4">Get Full API Access</h2>
+            <p class="text-purple-100 mb-6">Access all benchmark data, historical trends, and cost comparisons via API.</p>
+            <div class="flex gap-4 justify-center">
+                <a href="pricing.html" class="bg-white text-purple-700 px-6 py-3 rounded-lg font-bold hover:bg-gray-100 transition">View Pricing →</a>
+                <a href="compare.html" class="bg-purple-800 hover:bg-purple-700 border-2 border-purple-600 px-6 py-3 rounded-lg font-bold transition">Compare Models</a>
+            </div>
+        </div>
+    </section>
+
+    <footer class="bg-gray-800 border-t border-gray-700 py-8 px-6">
+        <div class="max-w-4xl mx-auto text-center text-gray-400 text-sm">
+            © 2026 AgentLeaderboards · Data: <a href="https://lmcouncil.ai/benchmarks" target="_blank" class="hover:text-white">LM Council</a> · <a href="about.html" class="hover:text-white">Methodology</a>
+        </div>
+    </footer>
+
+    <script src="data/agents.js"></script>
+    <script>
+    const CATEGORY_COLORS = {
+        coding:    '#60a5fa',  // blue
+        reasoning: '#a78bfa',  // purple
+        research:  '#4ade80',  // green
+        analysis:  '#facc15',  // yellow
+        all:       '#9ca3af',  // gray
+        creative:  '#f472b6',  // pink
+    };
+
+    let currentFilter = 'all';
+    let hoveredIdx = -1;
+
+    function getColor(cat) {
+        return CATEGORY_COLORS[cat] || CATEGORY_COLORS.all;
+    }
+
+    function getVisibleAgents() {
+        return AGENTS.filter(a => currentFilter === 'all' || a.category === currentFilter);
+    }
+
+    function filterCategory(cat) {
+        currentFilter = cat;
+        document.querySelectorAll('.cat-btn').forEach(b => {
+            b.classList.replace('bg-purple-600', 'bg-gray-700');
+            b.classList.replace('text-white', 'text-gray-300');
+        });
+        const btn = document.getElementById('btn-' + cat);
+        if (btn) {
+            btn.classList.replace('bg-gray-700', 'bg-purple-600');
+            btn.classList.replace('text-gray-300', 'text-white');
+        }
+        drawChart();
+        renderValueTable();
+    }
+
+    function drawChart() {
+        const canvas = document.getElementById('scatterChart');
+        const container = document.getElementById('chart-container');
+        const w = container.clientWidth - 32;
+        const h = Math.min(520, Math.max(380, w * 0.55));
+        canvas.width = w;
+        canvas.height = h;
+
+        const ctx = canvas.getContext('2d');
+        ctx.clearRect(0, 0, w, h);
+
+        const PAD = { left: 70, right: 40, top: 30, bottom: 55 };
+        const chartW = w - PAD.left - PAD.right;
+        const chartH = h - PAD.top - PAD.bottom;
+
+        const agents = getVisibleAgents();
+        const prices = agents.map(a => a.priceInput || 0.1);
+        const scores = agents.map(a => a.score || 0);
+
+        const minPrice = 0.05, maxPrice = 25;
+        const minScore = 60, maxScore = 100;
+
+        function xPos(price) {
+            const logMin = Math.log10(minPrice);
+            const logMax = Math.log10(maxPrice);
+            return PAD.left + ((Math.log10(Math.max(price, minPrice)) - logMin) / (logMax - logMin)) * chartW;
+        }
+        function yPos(score) {
+            return PAD.top + chartH - ((score - minScore) / (maxScore - minScore)) * chartH;
+        }
+
+        // Grid
+        ctx.strokeStyle = '#374151';
+        ctx.lineWidth = 1;
+        const scoreGridLines = [65, 70, 75, 80, 85, 90, 95, 100];
+        scoreGridLines.forEach(s => {
+            const y = yPos(s);
+            ctx.beginPath(); ctx.moveTo(PAD.left, y); ctx.lineTo(PAD.left + chartW, y);
+            ctx.stroke();
+            ctx.fillStyle = '#6B7280'; ctx.font = '11px sans-serif'; ctx.textAlign = 'right';
+            ctx.fillText(s, PAD.left - 8, y + 4);
+        });
+
+        const priceGridLines = [0.1, 0.5, 1, 3, 5, 10, 20];
+        priceGridLines.forEach(p => {
+            const x = xPos(p);
+            ctx.beginPath(); ctx.moveTo(x, PAD.top); ctx.lineTo(x, PAD.top + chartH);
+            ctx.stroke();
+            ctx.fillStyle = '#6B7280'; ctx.font = '11px sans-serif'; ctx.textAlign = 'center';
+            ctx.fillText('$' + p, x, PAD.top + chartH + 18);
+        });
+
+        // Axes labels
+        ctx.fillStyle = '#9CA3AF'; ctx.font = '13px sans-serif'; ctx.textAlign = 'center';
+        ctx.fillText('Input Price per 1M tokens (log scale)', PAD.left + chartW / 2, h - 8);
+
+        ctx.save();
+        ctx.translate(16, PAD.top + chartH / 2);
+        ctx.rotate(-Math.PI / 2);
+        ctx.fillText('Benchmark Score', 0, 0);
+        ctx.restore();
+
+        // Quadrant shading
+        const midX = xPos(3);
+        const midY = yPos(82);
+        ctx.fillStyle = 'rgba(34,197,94,0.04)';
+        ctx.fillRect(PAD.left, PAD.top, midX - PAD.left, midY - PAD.top); // top-left: high score, low price
+        ctx.fillStyle = 'rgba(239,68,68,0.04)';
+        ctx.fillRect(midX, midY, chartW - (midX - PAD.left), chartH - (midY - PAD.top)); // bottom-right: low score, high price
+
+        // Best-value zone label
+        ctx.fillStyle = '#4ade80'; ctx.font = 'bold 10px sans-serif'; ctx.textAlign = 'left';
+        ctx.fillText('◀ BEST VALUE', PAD.left + 8, PAD.top + 16);
+        ctx.fillStyle = '#ef4444'; ctx.textAlign = 'right';
+        ctx.fillText('POOR VALUE ▶', PAD.left + chartW - 8, PAD.top + chartH - 8);
+
+        // Dots
+        canvas._dotPositions = [];
+        agents.forEach((agent, i) => {
+            const x = xPos(agent.priceInput || 0.1);
+            const y = yPos(agent.score || 75);
+            const r = hoveredIdx === i ? 10 : 7;
+            const color = getColor(agent.category);
+
+            ctx.beginPath();
+            ctx.arc(x, y, r, 0, Math.PI * 2);
+            ctx.fillStyle = color + (hoveredIdx === i ? 'ff' : 'cc');
+            ctx.fill();
+            ctx.strokeStyle = hoveredIdx === i ? '#fff' : color;
+            ctx.lineWidth = hoveredIdx === i ? 2 : 1;
+            ctx.stroke();
+
+            // Label for hovered
+            if (hoveredIdx === i) {
+                ctx.fillStyle = '#fff';
+                ctx.font = 'bold 12px sans-serif';
+                ctx.textAlign = x > PAD.left + chartW * 0.7 ? 'right' : 'left';
+                const lx = x > PAD.left + chartW * 0.7 ? x - 14 : x + 14;
+                ctx.fillText(agent.name, lx, y - 12);
+            }
+
+            canvas._dotPositions.push({ x, y, agent, i });
+        });
+    }
+
+    function renderValueTable() {
+        const agents = getVisibleAgents();
+        const ranked = [...agents]
+            .map(a => ({
+                ...a,
+                valuePer: a.score / Math.max(a.priceInput || 0.1, 0.01)
+            }))
+            .sort((a, b) => b.valuePer - a.valuePer)
+            .slice(0, 8);
+
+        const table = document.getElementById('value-table');
+        const maxVal = ranked[0]?.valuePer || 1;
+
+        table.innerHTML = ranked.map((a, i) => {
+            const pct = Math.round((a.valuePer / maxVal) * 100);
+            const medal = i === 0 ? '🥇' : i === 1 ? '🥈' : i === 2 ? '🥉' : `#${i+1}`;
+            const color = getColor(a.category);
+            return `
+            <div class="bg-gray-900 rounded-lg p-4 flex items-center gap-4">
+                <div class="text-2xl w-10 text-center">${medal}</div>
+                <div class="flex-1">
+                    <div class="font-semibold">${a.name} <span class="text-xs text-gray-400 ml-1">${a.provider}</span></div>
+                    <div class="text-sm text-gray-400">Score: ${a.score} · $${a.priceInput}/1M tokens</div>
+                    <div class="mt-2 bg-gray-700 rounded-full h-2">
+                        <div class="h-2 rounded-full transition-all" style="width:${pct}%; background:${color}"></div>
+                    </div>
+                </div>
+                <div class="text-right">
+                    <div class="font-bold text-green-400">${Math.round(a.valuePer)}</div>
+                    <div class="text-xs text-gray-500">score/$</div>
+                </div>
+            </div>`;
+        }).join('');
+    }
+
+    // Mouse hover
+    document.getElementById('scatterChart').addEventListener('mousemove', function(e) {
+        const rect = this.getBoundingClientRect();
+        const mx = e.clientX - rect.left;
+        const my = e.clientY - rect.top;
+        const tooltip = document.getElementById('tooltip');
+
+        let found = -1;
+        let minDist = 20;
+        (this._dotPositions || []).forEach((d, i) => {
+            const dist = Math.hypot(d.x - mx, d.y - my);
+            if (dist < minDist) { minDist = dist; found = i; }
+        });
+
+        if (found !== -1) {
+            hoveredIdx = found;
+            const d = this._dotPositions[found];
+            const a = d.agent;
+            tooltip.style.display = 'block';
+            tooltip.style.left = (mx + 16) + 'px';
+            tooltip.style.top = (my - 10) + 'px';
+            tooltip.innerHTML = `
+                <div class="font-bold text-white mb-1">${a.name}</div>
+                <div class="text-gray-400 text-xs mb-2">${a.provider} · ${a.category}</div>
+                <div class="text-yellow-300">Score: <b>${a.score}</b></div>
+                <div class="text-blue-300">Price: <b>$${a.priceInput}</b>/1M in · <b>$${a.priceOutput}</b>/1M out</div>
+                <div class="text-green-300">Rating: <b>${a.rating}⭐</b></div>
+                <div class="text-purple-300">Speed: <b>${a.speed}</b></div>
+            `;
+            drawChart();
+        } else {
+            if (hoveredIdx !== -1) { hoveredIdx = -1; drawChart(); }
+            tooltip.style.display = 'none';
+        }
+    });
+
+    document.getElementById('scatterChart').addEventListener('mouseleave', function() {
+        hoveredIdx = -1;
+        document.getElementById('tooltip').style.display = 'none';
+        drawChart();
+    });
+
+    document.getElementById('scatterChart').addEventListener('click', function() {
+        if (hoveredIdx !== -1 && this._dotPositions[hoveredIdx]) {
+            const agent = this._dotPositions[hoveredIdx].agent;
+            window.location.href = 'compare.html?a=' + agent.id;
+        }
+    });
+
+    window.addEventListener('resize', () => { drawChart(); });
+
+    // Init
+    drawChart();
+    renderValueTable();
+    </script>
+</body>
+</html>

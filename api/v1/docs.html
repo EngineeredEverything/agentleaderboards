@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API Documentation - AgentLeaderboards</title>
+    <meta name="description" content="AgentLeaderboards API documentation. Access real AI model benchmark data programmatically.">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body class="bg-gray-900 text-white min-h-screen">
+    <nav class="bg-gray-800 border-b border-gray-700 sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
+            <a href="/index.html" class="flex items-center gap-3">
+                <i class="fas fa-trophy text-yellow-300 text-2xl"></i>
+                <span class="font-bold text-xl">AgentLeaderboards</span>
+            </a>
+            <div class="flex gap-4 items-center">
+                <a href="/index.html" class="text-gray-300 hover:text-white">Leaderboard</a>
+                <a href="/compare.html" class="text-gray-300 hover:text-white">Compare</a>
+                <a href="/calculator.html" class="text-gray-300 hover:text-white">Calculator</a>
+                <a href="/pricing.html" class="bg-purple-600 hover:bg-purple-500 px-4 py-2 rounded-lg font-semibold transition">Upgrade</a>
+            </div>
+        </div>
+    </nav>
+
+    <div class="max-w-4xl mx-auto px-6 py-16">
+        <div class="mb-12">
+            <h1 class="text-4xl font-bold mb-4"><i class="fas fa-code text-purple-400 mr-3"></i>API Documentation</h1>
+            <p class="text-xl text-gray-300">Access real AI model benchmark data programmatically. No auth required for the public endpoint.</p>
+        </div>
+
+        <!-- Base URL -->
+        <div class="bg-gray-800 rounded-xl p-6 mb-8">
+            <h2 class="text-xl font-bold mb-3 text-purple-400">Base URL</h2>
+            <code class="text-green-400 text-lg">https://agentleaderboards.com/api/v1/</code>
+        </div>
+
+        <!-- Endpoints -->
+        <div class="space-y-8">
+
+            <!-- GET /agents.json -->
+            <div class="bg-gray-800 rounded-xl p-6">
+                <div class="flex items-center gap-3 mb-4">
+                    <span class="bg-green-700 text-green-100 px-3 py-1 rounded font-mono text-sm font-bold">GET</span>
+                    <code class="text-yellow-300 text-lg">/api/v1/agents.json</code>
+                </div>
+                <p class="text-gray-300 mb-4">Returns all AI models with benchmark scores, pricing, and metadata.</p>
+
+                <h3 class="font-semibold text-gray-200 mb-2">Example Request</h3>
+                <pre class="bg-gray-900 rounded-lg p-4 text-sm text-green-300 overflow-x-auto mb-4">curl https://agentleaderboards.com/api/v1/agents.json</pre>
+
+                <h3 class="font-semibold text-gray-200 mb-2">Example Response</h3>
+                <pre class="bg-gray-900 rounded-lg p-4 text-sm text-blue-300 overflow-x-auto">{
+  "meta": {
+    "version": "1.0",
+    "generated": "2026-03-01T00:00:00.000Z",
+    "total": 21,
+    "source": "AgentLeaderboards — https://agentleaderboards.com"
+  },
+  "agents": [
+    {
+      "id": "claude-sonnet-45",
+      "name": "Claude Sonnet 4.5",
+      "provider": "Anthropic",
+      "category": "coding",
+      "score": 94.2,
+      "benchmarks": {
+        "SWE-bench Verified": 64.8,
+        "MATH Level 5": 97.7
+      },
+      "pricing": "$3 / $15 per 1M tokens",
+      "priceInput": 3.00,
+      "priceOutput": 15.00,
+      "speed": "Fast",
+      "context": "200K tokens",
+      "rating": 4.9
+    }
+  ]
+}</pre>
+            </div>
+
+            <!-- GET /agents/:id -->
+            <div class="bg-gray-800 rounded-xl p-6">
+                <div class="flex items-center gap-3 mb-4">
+                    <span class="bg-green-700 text-green-100 px-3 py-1 rounded font-mono text-sm font-bold">GET</span>
+                    <code class="text-yellow-300 text-lg">/api/v1/agents.json</code>
+                    <span class="text-gray-400 text-sm">then filter client-side by id</span>
+                </div>
+                <p class="text-gray-300 mb-4">Filter by model id in your app. All data is returned in one payload for speed.</p>
+                <pre class="bg-gray-900 rounded-lg p-4 text-sm text-green-300 overflow-x-auto">const data = await fetch('https://agentleaderboards.com/api/v1/agents.json').then(r => r.json());
+const claude = data.agents.find(a => a.id === 'claude-sonnet-45');
+const coding = data.agents.filter(a => a.category === 'coding').sort((a,b) => b.score - a.score);</pre>
+            </div>
+
+            <!-- Feedback -->
+            <div class="bg-gray-800 rounded-xl p-6">
+                <div class="flex items-center gap-3 mb-4">
+                    <span class="bg-blue-700 text-blue-100 px-3 py-1 rounded font-mono text-sm font-bold">POST</span>
+                    <code class="text-yellow-300 text-lg">/api/v1/feedback</code>
+                </div>
+                <p class="text-gray-300 mb-4">Submit feedback about data accuracy, missing models, or issues.</p>
+                <pre class="bg-gray-900 rounded-lg p-4 text-sm text-green-300 overflow-x-auto">curl -X POST https://agentleaderboards.com/api/v1/feedback \
+  -H "Content-Type: application/json" \
+  -d '{
+    "source": "agent",
+    "agent_name": "MyBot",
+    "rating": 5,
+    "feedback": "Great data, accurate benchmarks",
+    "page": "/api/v1/agents.json"
+  }'</pre>
+            </div>
+
+        </div>
+
+        <!-- Rate Limits -->
+        <div class="bg-gray-800 rounded-xl p-6 mt-8">
+            <h2 class="text-xl font-bold mb-4 text-purple-400">Rate Limits & Premium</h2>
+            <div class="grid md:grid-cols-2 gap-6">
+                <div>
+                    <h3 class="font-semibold text-gray-200 mb-2">Free</h3>
+                    <ul class="text-gray-400 space-y-1 text-sm">
+                        <li><i class="fas fa-check text-green-400 mr-2"></i>Full dataset access</li>
+                        <li><i class="fas fa-check text-green-400 mr-2"></i>No auth required</li>
+                        <li><i class="fas fa-check text-green-400 mr-2"></i>Daily-updated data</li>
+                        <li><i class="fas fa-times text-red-400 mr-2"></i>No real-time updates</li>
+                        <li><i class="fas fa-times text-red-400 mr-2"></i>No historical trends</li>
+                    </ul>
+                </div>
+                <div>
+                    <h3 class="font-semibold text-gray-200 mb-2">Premium — $9.99/mo</h3>
+                    <ul class="text-gray-400 space-y-1 text-sm">
+                        <li><i class="fas fa-check text-green-400 mr-2"></i>Everything in Free</li>
+                        <li><i class="fas fa-check text-green-400 mr-2"></i>Historical benchmark data</li>
+                        <li><i class="fas fa-check text-green-400 mr-2"></i>Score trend over time</li>
+                        <li><i class="fas fa-check text-green-400 mr-2"></i>Webhook alerts (new models)</li>
+                        <li><i class="fas fa-check text-green-400 mr-2"></i>CSV/JSON export</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="mt-6">
+                <a href="/pricing.html" class="bg-purple-600 hover:bg-purple-500 px-6 py-3 rounded-lg font-semibold transition inline-block">
+                    Get Premium API Access →
+                </a>
+            </div>
+        </div>
+
+        <!-- Data Sources -->
+        <div class="bg-gray-800 rounded-xl p-6 mt-8">
+            <h2 class="text-xl font-bold mb-4 text-purple-400">Data Sources</h2>
+            <ul class="space-y-2 text-gray-300">
+                <li><a href="https://lmcouncil.ai/benchmarks" target="_blank" class="text-purple-400 hover:underline">LM Council Benchmarks</a> — GPQA Diamond, Terminal-Bench, SWE-bench</li>
+                <li><a href="https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard" target="_blank" class="text-purple-400 hover:underline">Hugging Face Open LLM Leaderboard</a> — Open weights models</li>
+                <li><a href="https://www.swebench.com" target="_blank" class="text-purple-400 hover:underline">SWE-bench</a> — Software engineering benchmarks</li>
+                <li>Community-verified benchmarks from model cards and research papers</li>
+            </ul>
+        </div>
+    </div>
+
+    <footer class="bg-gray-800 border-t border-gray-700 py-8 px-6 mt-16">
+        <div class="max-w-4xl mx-auto text-center text-gray-400 text-sm">
+            © 2026 AgentLeaderboards · <a href="/about.html" class="hover:text-white">About</a> · <a href="/pricing.html" class="hover:text-white">Pricing</a>
+        </div>
+    </footer>
+</body>
+</html>

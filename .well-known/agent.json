@@ -1,0 +1,27 @@
+{
+  "name": "AgentLeaderboards",
+  "description": "The definitive leaderboard for tracking, comparing, and ranking AI models. Real benchmark data from LM Council, SWE-bench, Hugging Face, and community sources.",
+  "url": "https://agentleaderboards.com",
+  "capabilities": [
+    "Browse leaderboard of 20+ frontier AI models",
+    "Side-by-side model comparison",
+    "API cost calculator",
+    "Benchmark data by category (coding, reasoning, research, analysis)",
+    "Daily updates with new model releases",
+    "Premium API access to structured benchmark data"
+  ],
+  "api": "/api/v1/agents",
+  "api_docs": "/api/v1/docs",
+  "sitemap": "/sitemap.xml",
+  "contact": "hi@agentleaderboards.com",
+  "accepts_agent_traffic": true,
+  "feedback_endpoint": "/api/v1/feedback",
+  "data_sources": [
+    "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
+    "https://lmcouncil.ai/benchmarks",
+    "https://www.swebench.com"
+  ],
+  "update_frequency": "daily",
+  "schema_version": "1.0",
+  "last_updated": "2026-03-01"
+}
