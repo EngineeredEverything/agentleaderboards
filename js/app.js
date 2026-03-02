@@ -3,6 +3,38 @@
 let filteredAgents = [...AGENTS];
 let currentSort = 'score';
 let currentCategory = 'all';
+let currentTab = 'capability'; // 'capability' | 'value'
+
+function switchTab(tab) {
+    currentTab = tab;
+
+    // Update tab button styles
+    document.querySelectorAll('.tab-btn').forEach(b => {
+        b.classList.remove('bg-purple-600', 'text-white', 'shadow-lg');
+        b.classList.add('bg-gray-700', 'text-gray-300');
+    });
+    const active = document.getElementById('tab-' + tab);
+    if (active) {
+        active.classList.remove('bg-gray-700', 'text-gray-300');
+        active.classList.add('bg-purple-600', 'text-white', 'shadow-lg');
+    }
+
+    // Show/hide descriptions
+    document.getElementById('tab-desc-capability').classList.toggle('hidden', tab !== 'capability');
+    document.getElementById('tab-desc-value').classList.toggle('hidden', tab !== 'value');
+
+    // Adjust sort dropdown default
+    const sortSel = document.getElementById('sort-by');
+    if (tab === 'value') {
+        currentSort = 'value';
+        sortSel.value = 'score'; // keep dropdown unchanged but override sort
+    } else {
+        currentSort = 'score';
+        sortSel.value = 'score';
+    }
+
+    filterAndRender();
+}
 
 document.addEventListener('DOMContentLoaded', function() {
     // Update agent count
@@ -51,8 +83,11 @@ function filterAndRender() {
     });
     
     // Sort
+    const effectiveSort = currentTab === 'value' ? 'value' : currentSort;
     filteredAgents.sort((a, b) => {
-        switch (currentSort) {
+        switch (effectiveSort) {
+            case 'value':
+                return (b.valueScore || 0) - (a.valueScore || 0);
             case 'score':
                 return b.score - a.score;
             case 'price':
@@ -147,12 +182,22 @@ function renderAgentCard(agent, rank) {
         starsHTML += '<i class="far fa-star text-gray-600"></i>';
     }
     
+    const isValueMode = currentTab === 'value';
+    const cardBorder = isValueMode ? 'border-2 border-green-500' : '';
+    const scoreBadge = isValueMode && agent.valueScore
+        ? `<div class="text-3xl font-bold text-green-400 mb-1">${agent.valueScore}</div>
+           <div class="text-sm text-gray-400">pts per $</div>
+           <div class="text-lg font-semibold text-purple-400 mt-1">${agent.score}</div>
+           <div class="text-xs text-gray-500">capability</div>`
+        : `<div class="text-3xl font-bold text-purple-400 mb-1">${agent.score}</div>
+           <div class="text-sm text-gray-400">Capability Score</div>`;
+
     return `
-        <div class="bg-gray-800 rounded-2xl p-6 hover-scale">
+        <div class="bg-gray-800 rounded-2xl p-6 hover-scale ${cardBorder}">
             <!-- Header -->
             <div class="flex items-start justify-between mb-4">
                 <div class="flex items-start gap-4 flex-1">
-                    <div class="bg-gray-700 rounded-full w-16 h-16 flex items-center justify-center text-2xl font-bold text-purple-400">
+                    <div class="bg-gray-700 rounded-full w-16 h-16 flex items-center justify-center text-2xl font-bold ${isValueMode ? 'text-green-400' : 'text-purple-400'}">
                         #${rank}
                     </div>
                     <div class="flex-1">
@@ -163,8 +208,7 @@ function renderAgentCard(agent, rank) {
                     </div>
                 </div>
                 <div class="text-right">
-                    <div class="text-3xl font-bold text-purple-400 mb-1">${agent.score}</div>
-                    <div class="text-sm text-gray-400">Overall Score</div>
+                    ${scoreBadge}
                 </div>
             </div>
             

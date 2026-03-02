@@ -98,9 +98,33 @@
         </div>
     </section>
 
-    <!-- Filter Bar -->
+    <!-- Leaderboard Tabs + Filter Bar -->
     <section id="leaderboard" class="py-8 px-6 bg-gray-800 border-b border-gray-700">
         <div class="max-w-7xl mx-auto">
+
+            <!-- Tab switcher -->
+            <div class="flex gap-3 mb-8">
+                <button id="tab-capability" onclick="switchTab('capability')"
+                    class="tab-btn flex items-center gap-2 px-6 py-3 rounded-xl font-bold text-base transition bg-purple-600 text-white shadow-lg">
+                    🏆 Most Capable
+                </button>
+                <button id="tab-value" onclick="switchTab('value')"
+                    class="tab-btn flex items-center gap-2 px-6 py-3 rounded-xl font-bold text-base transition bg-gray-700 text-gray-300 hover:bg-gray-600">
+                    💰 Best Value
+                </button>
+            </div>
+
+            <!-- Tab description -->
+            <div id="tab-desc-capability" class="mb-6 p-4 bg-gray-700 rounded-lg text-sm text-gray-300">
+                <strong class="text-white">Most Capable</strong> — Ranked by weighted benchmark score across GPQA Diamond, SWE-bench, MATH, Humanity's Last Exam, and more.
+                <a href="about.html" class="text-purple-400 hover:underline ml-1">Methodology →</a>
+            </div>
+            <div id="tab-desc-value" class="mb-6 p-4 bg-gray-700 rounded-lg text-sm text-gray-300 hidden">
+                <strong class="text-white">Best Value</strong> — Ranked by capability score ÷ cost (pts per $1/1M tokens). Shows which models give the most intelligence per dollar.
+                <a href="chart.html" class="text-purple-400 hover:underline ml-1">See scatter chart →</a>
+            </div>
+
+            <!-- Filters -->
             <div class="flex flex-wrap gap-4 items-center justify-between">
                 <div>
                     <label class="text-sm text-gray-400 mb-2 block">Filter by Category</label>
@@ -123,7 +147,7 @@
                 </div>
                 <div>
                     <label class="text-sm text-gray-400 mb-2 block">Search</label>
-                    <input type="text" id="search" placeholder="Search models..." 
+                    <input type="text" id="search" placeholder="Search models..."
                            class="bg-gray-700 border border-gray-600 rounded-lg px-4 py-2 text-white w-64">
                 </div>
             </div>
