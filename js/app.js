@@ -8,6 +8,9 @@ document.addEventListener('DOMContentLoaded', function() {
     // Update agent count
     document.getElementById('agent-count').textContent = AGENTS.length;
     
+    // Sort by score on initial load
+    filteredAgents.sort((a, b) => b.score - a.score);
+    
     // Initial render
     renderAgents();
     
