@@ -1,8 +1,80 @@
 {
-  "timestamp": "2026-03-04T09:38:15.048Z",
+  "timestamp": "2026-03-05T09:40:16.063Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "The Company You Keep: How LLMs Respond to Dark Triad Traits",
+      "date": "2026-03-04T17:19:22.000Z",
+      "url": "http://arxiv.org/abs/2603.04299v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Memex(RL): Scaling Long-Horizon LLM Agents via Indexed Experience Memory",
+      "date": "2026-03-04T16:45:06.000Z",
+      "url": "http://arxiv.org/abs/2603.04257v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Code Fingerprints: Disentangled Attribution of LLM-Generated Code",
+      "date": "2026-03-04T15:58:36.000Z",
+      "url": "http://arxiv.org/abs/2603.04212v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "BeamPERL: Parameter-Efficient RL with Verifiable Rewards Specializes Compact LLMs for Structured Beam Mechanics Reasoning",
+      "date": "2026-03-04T14:42:43.000Z",
+      "url": "http://arxiv.org/abs/2603.04124v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "FINEST: Improving LLM Responses to Sensitive Topics Through Fine-Grained Evaluation",
+      "date": "2026-03-04T14:41:54.000Z",
+      "url": "http://arxiv.org/abs/2603.04123v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Who Judges the Judge? Evaluating LLM-as-a-Judge for French Medical open-ended QA",
+      "date": "2026-03-04T13:12:30.000Z",
+      "url": "http://arxiv.org/abs/2603.04033v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "On the Suitability of LLM-Driven Agents for Dark Pattern Audits",
+      "date": "2026-03-04T09:32:49.000Z",
+      "url": "http://arxiv.org/abs/2603.03881v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Assessing the Effectiveness of LLMs in Delivering Cognitive Behavioral Therapy",
+      "date": "2026-03-04T09:15:14.000Z",
+      "url": "http://arxiv.org/abs/2603.03862v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "CONCUR: Benchmarking LLMs for Concurrent Code Generation",
+      "date": "2026-03-04T03:22:26.000Z",
+      "url": "http://arxiv.org/abs/2603.03683v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Tucano 2 Cool: Better Open Source LLMs for Portuguese",
+      "date": "2026-03-03T21:56:50.000Z",
+      "url": "http://arxiv.org/abs/2603.03543v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "SafeCRS: Personalized Safety Alignment for LLM-Based Conversational Recommender Systems",
+      "date": "2026-03-03T21:46:53.000Z",
+      "url": "http://arxiv.org/abs/2603.03536v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Farther the Shift, Sparser the Representation: Analyzing OOD Mechanisms in LLMs",
+      "date": "2026-03-03T18:48:15.000Z",
+      "url": "http://arxiv.org/abs/2603.03415v1",
+      "source": "arxiv"
+    },
     {
       "title": "Understanding and Mitigating Dataset Corruption in LLM Steering",
       "date": "2026-03-03T18:00:49.000Z",
@@ -36,7 +108,7 @@
     {
       "title": "LaTeX Compilation: Challenges in the Era of LLMs",
       "date": "2026-03-03T11:25:47.000Z",
-      "url": "http://arxiv.org/abs/2603.02873v1",
+      "url": "http://arxiv.org/abs/2603.02873v2",
       "source": "arxiv"
     },
     {
@@ -49,78 +121,6 @@
       "title": "From Solver to Tutor: Evaluating the Pedagogical Intelligence of LLMs with KMP-Bench",
       "date": "2026-03-03T09:14:57.000Z",
       "url": "http://arxiv.org/abs/2603.02775v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "ITLC at SemEval-2026 Task 11: Normalization and Deterministic Parsing for Formal Reasoning in LLMs",
-      "date": "2026-03-03T07:02:45.000Z",
-      "url": "http://arxiv.org/abs/2603.02676v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Real-Time Generation of Game Video Commentary with Multimodal LLMs: Pause-Aware Decoding Approaches",
-      "date": "2026-03-03T06:39:04.000Z",
-      "url": "http://arxiv.org/abs/2603.02655v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "ExpGuard: LLM Content Moderation in Specialized Domains",
-      "date": "2026-03-03T04:09:49.000Z",
-      "url": "http://arxiv.org/abs/2603.02588v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Detecting AI-Generated Essays in Writing Assessment: Responsible Use and Generalizability Across LLMs",
-      "date": "2026-03-02T19:51:01.000Z",
-      "url": "http://arxiv.org/abs/2603.02353v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLMs as Strategic Actors: Behavioral Alignment, Risk Calibration, and Argumentation Framing in Geopolitical Simulations",
-      "date": "2026-03-02T17:46:17.000Z",
-      "url": "http://arxiv.org/abs/2603.02128v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Recursive Think-Answer Process for LLMs and VLMs",
-      "date": "2026-03-02T17:20:10.000Z",
-      "url": "http://arxiv.org/abs/2603.02099v2",
-      "source": "arxiv"
-    },
-    {
-      "title": "ClinConsensus: A Consensus-Based Benchmark for Evaluating Chinese Medical LLMs across Difficulty Levels",
-      "date": "2026-03-02T17:17:18.000Z",
-      "url": "http://arxiv.org/abs/2603.02097v2",
-      "source": "arxiv"
-    },
-    {
-      "title": "Exploring Plan Space through Conversation: An Agentic Framework for LLM-Mediated Explanations in Planning",
-      "date": "2026-03-02T16:58:18.000Z",
-      "url": "http://arxiv.org/abs/2603.02070v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "EstLLM: Enhancing Estonian Capabilities in Multilingual LLMs via Continued Pretraining and Post-Training",
-      "date": "2026-03-02T16:24:36.000Z",
-      "url": "http://arxiv.org/abs/2603.02041v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "CharacterFlywheel: Scaling Iterative Improvement of Engaging and Steerable LLMs in Production",
-      "date": "2026-03-02T15:27:31.000Z",
-      "url": "http://arxiv.org/abs/2603.01973v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "FLANS at SemEval-2026 Task 7: RAG with Open-Sourced Smaller LLMs for Everyday Knowledge Across Diverse Languages and Cultures",
-      "date": "2026-03-02T14:27:14.000Z",
-      "url": "http://arxiv.org/abs/2603.01910v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "CyclicJudge: Mitigating Judge Bias Efficiently in LLM-based Evaluation",
-      "date": "2026-03-02T13:46:32.000Z",
-      "url": "http://arxiv.org/abs/2603.01865v1",
       "source": "arxiv"
     }
   ],
