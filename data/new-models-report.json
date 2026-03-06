@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-03-05T09:40:16.063Z",
+  "timestamp": "2026-03-06T09:36:08.103Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
-      "title": "The Company You Keep: How LLMs Respond to Dark Triad Traits",
-      "date": "2026-03-04T17:19:22.000Z",
-      "url": "http://arxiv.org/abs/2603.04299v1",
+      "title": "POET-X: Memory-efficient LLM Training by Scaling Orthogonal Transformation",
+      "date": "2026-03-05T18:59:23.000Z",
+      "url": "http://arxiv.org/abs/2603.05500v1",
       "source": "arxiv"
     },
     {
-      "title": "Memex(RL): Scaling Long-Horizon LLM Agents via Indexed Experience Memory",
-      "date": "2026-03-04T16:45:06.000Z",
-      "url": "http://arxiv.org/abs/2603.04257v1",
+      "title": "Censored LLMs as a Natural Testbed for Secret Knowledge Elicitation",
+      "date": "2026-03-05T18:58:14.000Z",
+      "url": "http://arxiv.org/abs/2603.05494v1",
       "source": "arxiv"
     },
     {
-      "title": "Code Fingerprints: Disentangled Attribution of LLM-Generated Code",
-      "date": "2026-03-04T15:58:36.000Z",
-      "url": "http://arxiv.org/abs/2603.04212v1",
+      "title": "Leveraging LLM Parametric Knowledge for Fact Checking without Retrieval",
+      "date": "2026-03-05T18:42:51.000Z",
+      "url": "http://arxiv.org/abs/2603.05471v1",
       "source": "arxiv"
     },
     {
-      "title": "BeamPERL: Parameter-Efficient RL with Verifiable Rewards Specializes Compact LLMs for Structured Beam Mechanics Reasoning",
-      "date": "2026-03-04T14:42:43.000Z",
-      "url": "http://arxiv.org/abs/2603.04124v1",
+      "title": "An Exploration-Analysis-Disambiguation Reasoning Framework for Word Sense Disambiguation with Low-Parameter LLMs",
+      "date": "2026-03-05T17:27:42.000Z",
+      "url": "http://arxiv.org/abs/2603.05400v1",
       "source": "arxiv"
     },
     {
-      "title": "FINEST: Improving LLM Responses to Sensitive Topics Through Fine-Grained Evaluation",
-      "date": "2026-03-04T14:41:54.000Z",
-      "url": "http://arxiv.org/abs/2603.04123v1",
+      "title": "Diffusion LLMs can think EoS-by-EoS",
+      "date": "2026-03-05T14:06:21.000Z",
+      "url": "http://arxiv.org/abs/2603.05197v1",
       "source": "arxiv"
     },
     {
-      "title": "Who Judges the Judge? Evaluating LLM-as-a-Judge for French Medical open-ended QA",
-      "date": "2026-03-04T13:12:30.000Z",
-      "url": "http://arxiv.org/abs/2603.04033v1",
+      "title": "Sparse-BitNet: 1.58-bit LLMs are Naturally Friendly to Semi-Structured Sparsity",
+      "date": "2026-03-05T13:37:50.000Z",
+      "url": "http://arxiv.org/abs/2603.05168v1",
       "source": "arxiv"
     },
     {
-      "title": "On the Suitability of LLM-Driven Agents for Dark Pattern Audits",
-      "date": "2026-03-04T09:32:49.000Z",
-      "url": "http://arxiv.org/abs/2603.03881v1",
+      "title": "C2-Faith: Benchmarking LLM Judges for Causal and Coverage Faithfulness in Chain-of-Thought Reasoning",
+      "date": "2026-03-05T13:36:47.000Z",
+      "url": "http://arxiv.org/abs/2603.05167v1",
       "source": "arxiv"
     },
     {
-      "title": "Assessing the Effectiveness of LLMs in Delivering Cognitive Behavioral Therapy",
-      "date": "2026-03-04T09:15:14.000Z",
-      "url": "http://arxiv.org/abs/2603.03862v1",
+      "title": "NeuronMoE: Neuron-Guided Mixture-of-Experts for Efficient Multilingual LLM Extension",
+      "date": "2026-03-05T10:55:26.000Z",
+      "url": "http://arxiv.org/abs/2603.05046v1",
       "source": "arxiv"
     },
     {
-      "title": "CONCUR: Benchmarking LLMs for Concurrent Code Generation",
-      "date": "2026-03-04T03:22:26.000Z",
-      "url": "http://arxiv.org/abs/2603.03683v1",
+      "title": "Survive at All Costs: Exploring LLM's Risky Behaviors under Survival Pressure",
+      "date": "2026-03-05T10:16:23.000Z",
+      "url": "http://arxiv.org/abs/2603.05028v1",
       "source": "arxiv"
     },
     {
-      "title": "Tucano 2 Cool: Better Open Source LLMs for Portuguese",
-      "date": "2026-03-03T21:56:50.000Z",
-      "url": "http://arxiv.org/abs/2603.03543v1",
+      "title": "Functionality-Oriented LLM Merging on the Fisher--Rao Manifold",
+      "date": "2026-03-05T09:08:38.000Z",
+      "url": "http://arxiv.org/abs/2603.04972v1",
       "source": "arxiv"
     },
     {
-      "title": "SafeCRS: Personalized Safety Alignment for LLM-Based Conversational Recommender Systems",
-      "date": "2026-03-03T21:46:53.000Z",
-      "url": "http://arxiv.org/abs/2603.03536v1",
+      "title": "When Weak LLMs Speak with Confidence, Preference Alignment Gets Stronger",
+      "date": "2026-03-05T09:06:25.000Z",
+      "url": "http://arxiv.org/abs/2603.04968v1",
       "source": "arxiv"
     },
     {
-      "title": "Farther the Shift, Sparser the Representation: Analyzing OOD Mechanisms in LLMs",
-      "date": "2026-03-03T18:48:15.000Z",
-      "url": "http://arxiv.org/abs/2603.03415v1",
+      "title": "LocalSUG: Geography-Aware LLM for Query Suggestion in Local-Life Services",
+      "date": "2026-03-05T08:42:27.000Z",
+      "url": "http://arxiv.org/abs/2603.04946v1",
       "source": "arxiv"
     },
     {
-      "title": "Understanding and Mitigating Dataset Corruption in LLM Steering",
-      "date": "2026-03-03T18:00:49.000Z",
-      "url": "http://arxiv.org/abs/2603.03206v1",
+      "title": "AILS-NTUA at SemEval-2026 Task 10: Agentic LLMs for Psycholinguistic Marker Extraction and Conspiracy Endorsement Detection",
+      "date": "2026-03-05T08:09:10.000Z",
+      "url": "http://arxiv.org/abs/2603.04921v1",
       "source": "arxiv"
     },
     {
-      "title": "MoD-DPO: Towards Mitigating Cross-modal Hallucinations in Omni LLMs using Modality Decoupled Preference Optimization",
-      "date": "2026-03-03T17:50:24.000Z",
-      "url": "http://arxiv.org/abs/2603.03192v1",
+      "title": "Alignment Backfire: Language-Dependent Reversal of Safety Interventions Across 16 Languages in LLM Multi-Agent Systems",
+      "date": "2026-03-05T07:46:59.000Z",
+      "url": "http://arxiv.org/abs/2603.04904v1",
       "source": "arxiv"
     },
     {
-      "title": "Evaluating Performance Drift from Model Switching in Multi-Turn LLM Systems",
-      "date": "2026-03-03T15:44:57.000Z",
-      "url": "http://arxiv.org/abs/2603.03111v1",
+      "title": "Can LLMs Capture Expert Uncertainty? A Comparative Analysis of Value Alignment in Ethnographic Qualitative Research",
+      "date": "2026-03-05T07:38:37.000Z",
+      "url": "http://arxiv.org/abs/2603.04897v1",
       "source": "arxiv"
     },
     {
-      "title": "Compact Prompting in Instruction-tuned LLMs for Joint Argumentative Component Detection",
-      "date": "2026-03-03T15:32:58.000Z",
-      "url": "http://arxiv.org/abs/2603.03095v1",
+      "title": "FireBench: Evaluating Instruction Following in Enterprise and API-Driven LLM Applications",
+      "date": "2026-03-05T06:25:50.000Z",
+      "url": "http://arxiv.org/abs/2603.04857v1",
       "source": "arxiv"
     },
     {
-      "title": "Contextualized Privacy Defense for LLM Agents",
-      "date": "2026-03-03T13:35:33.000Z",
-      "url": "http://arxiv.org/abs/2603.02983v1",
+      "title": "Beyond the Context Window: A Cost-Performance Analysis of Fact-Based Memory vs. Long-Context LLMs for Persistent Agents",
+      "date": "2026-03-05T05:01:30.000Z",
+      "url": "http://arxiv.org/abs/2603.04814v1",
       "source": "arxiv"
     },
     {
-      "title": "LaTeX Compilation: Challenges in the Era of LLMs",
-      "date": "2026-03-03T11:25:47.000Z",
-      "url": "http://arxiv.org/abs/2603.02873v2",
+      "title": "Beyond Linear LLM Invocation: An Efficient and Effective Semantic Filter Paradigm",
+      "date": "2026-03-05T04:37:15.000Z",
+      "url": "http://arxiv.org/abs/2603.04799v1",
       "source": "arxiv"
     },
     {
-      "title": "Faster, Cheaper, More Accurate: Specialised Knowledge Tracing Models Outperform LLMs",
-      "date": "2026-03-03T10:25:52.000Z",
-      "url": "http://arxiv.org/abs/2603.02830v1",
+      "title": "DARE: Aligning LLM Agents with the R Statistical Ecosystem via Distribution-Aware Retrieval",
+      "date": "2026-03-05T02:29:54.000Z",
+      "url": "http://arxiv.org/abs/2603.04743v1",
       "source": "arxiv"
     },
     {
-      "title": "From Solver to Tutor: Evaluating the Pedagogical Intelligence of LLMs with KMP-Bench",
-      "date": "2026-03-03T09:14:57.000Z",
-      "url": "http://arxiv.org/abs/2603.02775v1",
+      "title": "Stan: An LLM-based thermodynamics course assistant",
+      "date": "2026-03-04T22:44:50.000Z",
+      "url": "http://arxiv.org/abs/2603.04657v1",
       "source": "arxiv"
     }
   ],
