@@ -1,8 +1,68 @@
 {
-  "timestamp": "2026-03-08T09:27:40.154Z",
+  "timestamp": "2026-03-09T09:49:50.525Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "From Prompting to Preference Optimization: A Comparative Study of LLM-based Automated Essay Scoring",
+      "date": "2026-03-06T15:59:32.000Z",
+      "url": "http://arxiv.org/abs/2603.06424v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Mind the Gap: Pitfalls of LLM Alignment with Asian Public Opinion",
+      "date": "2026-03-06T13:29:54.000Z",
+      "url": "http://arxiv.org/abs/2603.06264v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "CRIMSON: A Clinically-Grounded LLM-Based Metric for Generative Radiology Report Evaluation",
+      "date": "2026-03-06T11:43:42.000Z",
+      "url": "http://arxiv.org/abs/2603.06183v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Experiences Build Characters: The Linguistic Origins and Functional Impact of LLM Personality",
+      "date": "2026-03-06T09:42:41.000Z",
+      "url": "http://arxiv.org/abs/2603.06088v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "MASFactory: A Graph-centric Framework for Orchestrating LLM-Based Multi-Agent Systems with Vibe Graphing",
+      "date": "2026-03-06T08:04:12.000Z",
+      "url": "http://arxiv.org/abs/2603.06007v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Building an Ensemble LLM Semantic Tagger for UN Security Council Resolutions",
+      "date": "2026-03-06T04:26:53.000Z",
+      "url": "http://arxiv.org/abs/2603.05895v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Lost in Stories: Consistency Bugs in Long Story Generation by LLMs",
+      "date": "2026-03-06T04:16:46.000Z",
+      "url": "http://arxiv.org/abs/2603.05890v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Confidence Before Answering: A Paradigm Shift for Efficient LLM Uncertainty Estimation",
+      "date": "2026-03-06T04:03:13.000Z",
+      "url": "http://arxiv.org/abs/2603.05881v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Autonomous Algorithm Discovery for Ptychography via Evolutionary LLM Reasoning",
+      "date": "2026-03-05T21:39:57.000Z",
+      "url": "http://arxiv.org/abs/2603.05696v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Safer Reasoning Traces: Measuring and Mitigating Chain-of-Thought Leakage in LLMs",
+      "date": "2026-03-05T19:20:44.000Z",
+      "url": "http://arxiv.org/abs/2603.05618v1",
+      "source": "arxiv"
+    },
     {
       "title": "POET-X: Memory-efficient LLM Training by Scaling Orthogonal Transformation",
       "date": "2026-03-05T18:59:23.000Z",
@@ -61,66 +121,6 @@
       "title": "Functionality-Oriented LLM Merging on the Fisher--Rao Manifold",
       "date": "2026-03-05T09:08:38.000Z",
       "url": "http://arxiv.org/abs/2603.04972v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "When Weak LLMs Speak with Confidence, Preference Alignment Gets Stronger",
-      "date": "2026-03-05T09:06:25.000Z",
-      "url": "http://arxiv.org/abs/2603.04968v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LocalSUG: Geography-Aware LLM for Query Suggestion in Local-Life Services",
-      "date": "2026-03-05T08:42:27.000Z",
-      "url": "http://arxiv.org/abs/2603.04946v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "AILS-NTUA at SemEval-2026 Task 10: Agentic LLMs for Psycholinguistic Marker Extraction and Conspiracy Endorsement Detection",
-      "date": "2026-03-05T08:09:10.000Z",
-      "url": "http://arxiv.org/abs/2603.04921v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Alignment Backfire: Language-Dependent Reversal of Safety Interventions Across 16 Languages in LLM Multi-Agent Systems",
-      "date": "2026-03-05T07:46:59.000Z",
-      "url": "http://arxiv.org/abs/2603.04904v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Can LLMs Capture Expert Uncertainty? A Comparative Analysis of Value Alignment in Ethnographic Qualitative Research",
-      "date": "2026-03-05T07:38:37.000Z",
-      "url": "http://arxiv.org/abs/2603.04897v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "FireBench: Evaluating Instruction Following in Enterprise and API-Driven LLM Applications",
-      "date": "2026-03-05T06:25:50.000Z",
-      "url": "http://arxiv.org/abs/2603.04857v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Beyond the Context Window: A Cost-Performance Analysis of Fact-Based Memory vs. Long-Context LLMs for Persistent Agents",
-      "date": "2026-03-05T05:01:30.000Z",
-      "url": "http://arxiv.org/abs/2603.04814v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Beyond Linear LLM Invocation: An Efficient and Effective Semantic Filter Paradigm",
-      "date": "2026-03-05T04:37:15.000Z",
-      "url": "http://arxiv.org/abs/2603.04799v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "DARE: Aligning LLM Agents with the R Statistical Ecosystem via Distribution-Aware Retrieval",
-      "date": "2026-03-05T02:29:54.000Z",
-      "url": "http://arxiv.org/abs/2603.04743v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Stan: An LLM-based thermodynamics course assistant",
-      "date": "2026-03-04T22:44:50.000Z",
-      "url": "http://arxiv.org/abs/2603.04657v1",
       "source": "arxiv"
     }
   ],
