@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-03-10T09:41:28.371Z",
+  "timestamp": "2026-03-11T09:40:13.767Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
+      "title": "CREATE: Testing LLMs for Associative Creativity",
+      "date": "2026-03-10T17:58:44.000Z",
+      "url": "http://arxiv.org/abs/2603.09970v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Thinking to Recall: How Reasoning Unlocks Parametric Knowledge in LLMs",
+      "date": "2026-03-10T16:59:20.000Z",
+      "url": "http://arxiv.org/abs/2603.09906v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "MSSR: Memory-Aware Adaptive Replay for Continual LLM Fine-Tuning",
+      "date": "2026-03-10T16:49:44.000Z",
+      "url": "http://arxiv.org/abs/2603.09892v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "One-Eval: An Agentic System for Automated and Traceable LLM Evaluation",
+      "date": "2026-03-10T15:45:51.000Z",
+      "url": "http://arxiv.org/abs/2603.09821v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Evaluation of LLMs in retrieving food and nutritional context for RAG systems",
+      "date": "2026-03-10T14:15:35.000Z",
+      "url": "http://arxiv.org/abs/2603.09704v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Understanding the Interplay between LLMs' Utilisation of Parametric and Contextual Knowledge: A keynote at ECIR 2025",
+      "date": "2026-03-10T13:30:21.000Z",
+      "url": "http://arxiv.org/abs/2603.09654v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Enhancing Debunking Effectiveness through LLM-based Personality Adaptation",
+      "date": "2026-03-10T11:44:17.000Z",
+      "url": "http://arxiv.org/abs/2603.09533v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Common Sense vs. Morality: The Curious Case of Narrative Focus Bias in LLMs",
+      "date": "2026-03-10T09:47:18.000Z",
+      "url": "http://arxiv.org/abs/2603.09434v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLM as a Meta-Judge: Synthetic Data for NLP Evaluation Metric Validation",
+      "date": "2026-03-10T09:15:19.000Z",
+      "url": "http://arxiv.org/abs/2603.09403v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "TA-Mem: Tool-Augmented Autonomous Memory Retrieval for LLM in Long-Term Conversational QA",
+      "date": "2026-03-10T07:27:01.000Z",
+      "url": "http://arxiv.org/abs/2603.09297v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Emotion is Not Just a Label: Latent Emotional Factors in LLM Processing",
+      "date": "2026-03-10T05:23:18.000Z",
+      "url": "http://arxiv.org/abs/2603.09205v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "DuplexCascade: Full-Duplex Speech-to-Speech Dialogue with VAD-Free Cascaded ASR-LLM-TTS Pipeline and Micro-Turn Optimization",
+      "date": "2026-03-10T04:35:22.000Z",
+      "url": "http://arxiv.org/abs/2603.09180v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Bioalignment: Measuring and Improving LLM Disposition Toward Biological Systems for AI Safety",
+      "date": "2026-03-10T03:44:58.000Z",
+      "url": "http://arxiv.org/abs/2603.09154v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Reading, Not Thinking: Understanding and Bridging the Modality Gap When Text Becomes Pixels in Multimodal LLMs",
+      "date": "2026-03-10T02:14:23.000Z",
+      "url": "http://arxiv.org/abs/2603.09095v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Learning When to Sample: Confidence-Aware Self-Consistency for Efficient LLM Chain-of-Thought Reasoning",
+      "date": "2026-03-09T22:34:06.000Z",
+      "url": "http://arxiv.org/abs/2603.08999v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Consensus-Driven Multi-LLM Pipeline for Missing-Person Investigations",
+      "date": "2026-03-09T21:40:17.000Z",
+      "url": "http://arxiv.org/abs/2603.08954v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "VoxEmo: Benchmarking Speech Emotion Recognition with Speech LLMs",
+      "date": "2026-03-09T21:10:34.000Z",
+      "url": "http://arxiv.org/abs/2603.08936v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "PathoScribe: Transforming Pathology Data into a Living Library with a Unified LLM-Driven Framework for Semantic Retrieval and Clinical Integration",
+      "date": "2026-03-09T21:09:24.000Z",
+      "url": "http://arxiv.org/abs/2603.08935v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "One Language, Two Scripts: Probing Script-Invariance in LLM Concept Representations",
+      "date": "2026-03-09T19:31:20.000Z",
+      "url": "http://arxiv.org/abs/2603.08869v1",
+      "source": "arxiv"
+    },
+    {
       "title": "How Far Can Unsupervised RLVR Scale LLM Training?",
       "date": "2026-03-09T17:38:11.000Z",
       "url": "http://arxiv.org/abs/2603.08660v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "One Model Is Enough: Native Retrieval Embeddings from LLM Agent Hidden States",
-      "date": "2026-03-09T14:25:35.000Z",
-      "url": "http://arxiv.org/abs/2603.08429v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "COACH meets QUORUM: A Framework and Pipeline for Aligning User, Expert and Developer Perspectives in LLM-generated Health Counselling",
-      "date": "2026-03-09T13:49:57.000Z",
-      "url": "http://arxiv.org/abs/2603.08392v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LAMUS: A Large-Scale Corpus for Legal Argument Mining from U.S. Caselaw using LLMs",
-      "date": "2026-03-09T12:01:42.000Z",
-      "url": "http://arxiv.org/abs/2603.08286v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Evaluating LLM-Based Grant Proposal Review via Structured Perturbations",
-      "date": "2026-03-09T11:53:50.000Z",
-      "url": "http://arxiv.org/abs/2603.08281v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "How Much Do LLMs Hallucinate in Document Q&amp;A Scenarios? A 172-Billion-Token Study Across Temperatures, Context Lengths, and Hardware Platforms",
-      "date": "2026-03-09T11:44:06.000Z",
-      "url": "http://arxiv.org/abs/2603.08274v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "NCL-UoR at SemEval-2026 Task 5: Embedding-Based Methods, Fine-Tuning, and LLMs for Word Sense Plausibility Rating",
-      "date": "2026-03-09T11:25:41.000Z",
-      "url": "http://arxiv.org/abs/2603.08256v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Sensivity of LLMs' Explanations to the Training Randomness:Context, Class &amp; Task Dependencies",
-      "date": "2026-03-09T11:14:37.000Z",
-      "url": "http://arxiv.org/abs/2603.08241v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "TildeOpen LLM: Leveraging Curriculum Learning to Achieve Equitable Language Representation",
-      "date": "2026-03-09T10:03:17.000Z",
-      "url": "http://arxiv.org/abs/2603.08182v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "RexDrug: Reliable Multi-Drug Combination Extraction through Reasoning-Enhanced LLMs",
-      "date": "2026-03-09T09:47:25.000Z",
-      "url": "http://arxiv.org/abs/2603.08166v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Toward Robust LLM-Based Judges: Taxonomic Bias Evaluation and Debiasing Optimization",
-      "date": "2026-03-09T08:32:21.000Z",
-      "url": "http://arxiv.org/abs/2603.08091v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "DyLLM: Efficient Diffusion LLM Inference via Saliency-based Token Selection and Partial Attention",
-      "date": "2026-03-09T07:02:01.000Z",
-      "url": "http://arxiv.org/abs/2603.08026v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "CCR-Bench: A Comprehensive Benchmark for Evaluating LLMs on Complex Constraints, Control Flows, and Real-World Cases",
-      "date": "2026-03-09T01:49:19.000Z",
-      "url": "http://arxiv.org/abs/2603.07886v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "DistillGuard: Evaluating Defenses Against LLM Knowledge Distillation",
-      "date": "2026-03-08T22:38:30.000Z",
-      "url": "http://arxiv.org/abs/2603.07835v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "ArcLight: A Lightweight LLM Inference Architecture for Many-Core CPUs",
-      "date": "2026-03-08T19:20:25.000Z",
-      "url": "http://arxiv.org/abs/2603.07770v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "QuadAI at SemEval-2026 Task 3: Ensemble Learning of Hybrid RoBERTa and LLMs for Dimensional Aspect-Based Sentiment Analysis",
-      "date": "2026-03-08T18:59:27.000Z",
-      "url": "http://arxiv.org/abs/2603.07766v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "MAWARITH: A Dataset and Benchmark for Legal Inheritance Reasoning with LLMs",
-      "date": "2026-03-08T08:54:33.000Z",
-      "url": "http://arxiv.org/abs/2603.07539v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Skip to the Good Part: Representation Structure &amp; Inference-Time Layer Skipping in Diffusion vs. Autoregressive LLMs",
-      "date": "2026-03-08T05:31:52.000Z",
-      "url": "http://arxiv.org/abs/2603.07475v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Position: LLMs Must Use Functor-Based and RAG-Driven Bias Mitigation for Fairness",
-      "date": "2026-03-07T22:40:44.000Z",
-      "url": "http://arxiv.org/abs/2603.07368v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Lying to Win: Assessing LLM Deception through Human-AI Games and Parallel-World Probing",
-      "date": "2026-03-07T13:21:53.000Z",
-      "url": "http://arxiv.org/abs/2603.07202v1",
       "source": "arxiv"
     }
   ],
