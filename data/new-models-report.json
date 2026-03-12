@@ -1,8 +1,62 @@
 {
-  "timestamp": "2026-03-11T09:40:13.767Z",
+  "timestamp": "2026-03-12T09:40:34.955Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "Beyond the Illusion of Consensus: From Surface Heuristics to Knowledge-Grounded Evaluation in LLM-as-a-Judge",
+      "date": "2026-03-11T17:50:38.000Z",
+      "url": "http://arxiv.org/abs/2603.11027v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Systematic Study of Pseudo-Relevance Feedback with LLMs",
+      "date": "2026-03-11T17:31:50.000Z",
+      "url": "http://arxiv.org/abs/2603.11008v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Interpretable Chinese Metaphor Identification via LLM-Assisted MIPVU Rule Script Generation: A Comparative Protocol Study",
+      "date": "2026-03-11T13:55:34.000Z",
+      "url": "http://arxiv.org/abs/2603.10784v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Making Bielik LLM Reason (Better): A Field Report",
+      "date": "2026-03-11T10:56:58.000Z",
+      "url": "http://arxiv.org/abs/2603.10640v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Does LLM Alignment Really Need Diversity? An Empirical Study of Adapting RLVR Methods for Moral Reasoning",
+      "date": "2026-03-11T09:45:30.000Z",
+      "url": "http://arxiv.org/abs/2603.10588v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "IH-Challenge: A Training Dataset to Improve Instruction Hierarchy on Frontier LLMs",
+      "date": "2026-03-11T08:27:09.000Z",
+      "url": "http://arxiv.org/abs/2603.10521v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Learning to Negotiate: Multi-Agent Deliberation for Collective Value Alignment in LLMs",
+      "date": "2026-03-11T06:58:55.000Z",
+      "url": "http://arxiv.org/abs/2603.10476v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Mitigating Translationese Bias in Multilingual LLM-as-a-Judge via Disentangled Information Bottleneck",
+      "date": "2026-03-11T02:55:29.000Z",
+      "url": "http://arxiv.org/abs/2603.10351v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "ReMix: Reinforcement routing for mixtures of LoRAs in LLM finetuning",
+      "date": "2026-03-10T18:51:27.000Z",
+      "url": "http://arxiv.org/abs/2603.10160v1",
+      "source": "arxiv"
+    },
     {
       "title": "CREATE: Testing LLMs for Associative Creativity",
       "date": "2026-03-10T17:58:44.000Z",
@@ -30,7 +84,7 @@
     {
       "title": "Evaluation of LLMs in retrieving food and nutritional context for RAG systems",
       "date": "2026-03-10T14:15:35.000Z",
-      "url": "http://arxiv.org/abs/2603.09704v1",
+      "url": "http://arxiv.org/abs/2603.09704v2",
       "source": "arxiv"
     },
     {
@@ -67,60 +121,6 @@
       "title": "Emotion is Not Just a Label: Latent Emotional Factors in LLM Processing",
       "date": "2026-03-10T05:23:18.000Z",
       "url": "http://arxiv.org/abs/2603.09205v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "DuplexCascade: Full-Duplex Speech-to-Speech Dialogue with VAD-Free Cascaded ASR-LLM-TTS Pipeline and Micro-Turn Optimization",
-      "date": "2026-03-10T04:35:22.000Z",
-      "url": "http://arxiv.org/abs/2603.09180v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Bioalignment: Measuring and Improving LLM Disposition Toward Biological Systems for AI Safety",
-      "date": "2026-03-10T03:44:58.000Z",
-      "url": "http://arxiv.org/abs/2603.09154v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Reading, Not Thinking: Understanding and Bridging the Modality Gap When Text Becomes Pixels in Multimodal LLMs",
-      "date": "2026-03-10T02:14:23.000Z",
-      "url": "http://arxiv.org/abs/2603.09095v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Learning When to Sample: Confidence-Aware Self-Consistency for Efficient LLM Chain-of-Thought Reasoning",
-      "date": "2026-03-09T22:34:06.000Z",
-      "url": "http://arxiv.org/abs/2603.08999v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "A Consensus-Driven Multi-LLM Pipeline for Missing-Person Investigations",
-      "date": "2026-03-09T21:40:17.000Z",
-      "url": "http://arxiv.org/abs/2603.08954v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "VoxEmo: Benchmarking Speech Emotion Recognition with Speech LLMs",
-      "date": "2026-03-09T21:10:34.000Z",
-      "url": "http://arxiv.org/abs/2603.08936v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "PathoScribe: Transforming Pathology Data into a Living Library with a Unified LLM-Driven Framework for Semantic Retrieval and Clinical Integration",
-      "date": "2026-03-09T21:09:24.000Z",
-      "url": "http://arxiv.org/abs/2603.08935v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "One Language, Two Scripts: Probing Script-Invariance in LLM Concept Representations",
-      "date": "2026-03-09T19:31:20.000Z",
-      "url": "http://arxiv.org/abs/2603.08869v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "How Far Can Unsupervised RLVR Scale LLM Training?",
-      "date": "2026-03-09T17:38:11.000Z",
-      "url": "http://arxiv.org/abs/2603.08660v1",
       "source": "arxiv"
     }
   ],
