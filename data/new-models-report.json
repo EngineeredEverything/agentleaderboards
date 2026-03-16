@@ -1,7 +1,128 @@
 {
-  "timestamp": "2026-03-15T09:32:53.682Z",
+  "timestamp": "2026-03-16T10:04:53.784Z",
   "existingCount": 0,
   "newModels": [],
-  "recentPapers": [],
+  "recentPapers": [
+    {
+      "title": "CLARIN-PT-LDB: An Open LLM Leaderboard for Portuguese to assess Language, Culture and Civility",
+      "date": "2026-03-13T10:18:27.000Z",
+      "url": "http://arxiv.org/abs/2603.12872v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "AI Planning Framework for LLM-Based Web Agents",
+      "date": "2026-03-13T06:46:32.000Z",
+      "url": "http://arxiv.org/abs/2603.12710v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "FGTR: Fine-Grained Multi-Table Retrieval via Hierarchical LLM Reasoning",
+      "date": "2026-03-13T06:28:45.000Z",
+      "url": "http://arxiv.org/abs/2603.12702v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "98$\\times$ Faster LLM Routing Without a Dedicated GPU: Flash Attention, Prompt Compression, and Near-Streaming for the vLLM Semantic Router",
+      "date": "2026-03-13T04:33:53.000Z",
+      "url": "http://arxiv.org/abs/2603.12646v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "AgentDrift: Unsafe Recommendation Drift Under Tool Corruption Hidden by Ranking Metrics in LLM Agents",
+      "date": "2026-03-13T01:54:00.000Z",
+      "url": "http://arxiv.org/abs/2603.12564v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Reinforcement Learning for Diffusion LLMs with Entropy-Guided Step Selection and Stepwise Advantages",
+      "date": "2026-03-13T01:38:44.000Z",
+      "url": "http://arxiv.org/abs/2603.12554v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLM BiasScope: A Real-Time Bias Analysis Platform for Comparative LLM Evaluation",
+      "date": "2026-03-12T23:50:40.000Z",
+      "url": "http://arxiv.org/abs/2603.12522v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "When LLM Judge Scores Look Good but Best-of-N Decisions Fail",
+      "date": "2026-03-12T23:40:03.000Z",
+      "url": "http://arxiv.org/abs/2603.12520v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Shattering the Shortcut: A Topology-Regularized Benchmark for Multi-hop Medical Reasoning in LLMs",
+      "date": "2026-03-12T21:19:54.000Z",
+      "url": "http://arxiv.org/abs/2603.12458v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLM-Augmented Therapy Normalization and Aspect-Based Sentiment Analysis for Treatment-Resistant Depression on Reddit",
+      "date": "2026-03-12T18:03:43.000Z",
+      "url": "http://arxiv.org/abs/2603.12343v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training",
+      "date": "2026-03-12T17:57:06.000Z",
+      "url": "http://arxiv.org/abs/2603.12246v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Sparking Scientific Creativity via LLM-Driven Interdisciplinary Inspiration",
+      "date": "2026-03-12T17:48:34.000Z",
+      "url": "http://arxiv.org/abs/2603.12226v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "TopoBench: Benchmarking LLMs on Hard Topological Reasoning",
+      "date": "2026-03-12T16:37:21.000Z",
+      "url": "http://arxiv.org/abs/2603.12133v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Cross-Context Review: Improving LLM Output Quality by Separating Production and Review Sessions",
+      "date": "2026-03-12T16:26:38.000Z",
+      "url": "http://arxiv.org/abs/2603.12123v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Human-Centred LLM Privacy Audits: Findings and Frictions",
+      "date": "2026-03-12T16:01:01.000Z",
+      "url": "http://arxiv.org/abs/2603.12094v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "BTZSC: A Benchmark for Zero-Shot Text Classification Across Cross-Encoders, Embedding Models, Rerankers and LLMs",
+      "date": "2026-03-12T14:43:20.000Z",
+      "url": "http://arxiv.org/abs/2603.11991v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "PersonaTrace: Synthesizing Realistic Digital Footprints with LLM Agents",
+      "date": "2026-03-12T14:02:24.000Z",
+      "url": "http://arxiv.org/abs/2603.11955v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Chem4DLLM: 4D Multimodal LLMs for Chemical Dynamics Understanding",
+      "date": "2026-03-12T13:36:58.000Z",
+      "url": "http://arxiv.org/abs/2603.11924v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "CoMMET: To What Extent Can LLMs Perform Theory of Mind Tasks?",
+      "date": "2026-03-12T13:29:42.000Z",
+      "url": "http://arxiv.org/abs/2603.11915v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "SemBench: A Universal Semantic Framework for LLM Evaluation",
+      "date": "2026-03-12T08:56:13.000Z",
+      "url": "http://arxiv.org/abs/2603.11687v1",
+      "source": "arxiv"
+    }
+  ],
   "withBenchmarks": 0
 }
