@@ -1,8 +1,110 @@
 {
-  "timestamp": "2026-03-17T09:54:22.372Z",
+  "timestamp": "2026-03-18T09:53:47.491Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "Mediocrity is the key for LLM as a Judge Anchor Selection",
+      "date": "2026-03-17T17:54:08.000Z",
+      "url": "http://arxiv.org/abs/2603.16848v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Is Conformal Factuality for RAG-based LLMs Robust? Novel Metrics and Systematic Insights",
+      "date": "2026-03-17T17:20:08.000Z",
+      "url": "http://arxiv.org/abs/2603.16817v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Can Linguistically Related Languages Guide LLM Translation in Low-Resource Settings?",
+      "date": "2026-03-17T15:28:46.000Z",
+      "url": "http://arxiv.org/abs/2603.16660v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Good Arguments Against the People Pleasers: How Reasoning Mitigates (Yet Masks) LLM Sycophancy",
+      "date": "2026-03-17T15:14:43.000Z",
+      "url": "http://arxiv.org/abs/2603.16643v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Characterizing Delusional Spirals through Human-LLM Chat Logs",
+      "date": "2026-03-17T14:24:32.000Z",
+      "url": "http://arxiv.org/abs/2603.16567v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "BenchPreS: A Benchmark for Context-Aware Personalized Preference Selectivity of Persistent-Memory LLMs",
+      "date": "2026-03-17T14:19:05.000Z",
+      "url": "http://arxiv.org/abs/2603.16557v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Who Benchmarks the Benchmarks? A Case Study of LLM Evaluation in Icelandic",
+      "date": "2026-03-17T11:43:02.000Z",
+      "url": "http://arxiv.org/abs/2603.16406v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "SIA: A Synthesize-Inject-Align Framework for Knowledge-Grounded and Secure E-commerce Search LLMs with Industrial Deployment",
+      "date": "2026-03-17T05:41:22.000Z",
+      "url": "http://arxiv.org/abs/2603.16137v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "SciZoom: A Large-scale Benchmark for Hierarchical Scientific Summarization across the LLM Era",
+      "date": "2026-03-17T05:34:46.000Z",
+      "url": "http://arxiv.org/abs/2603.16131v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Pre-training LLM without Learning Rate Decay Enhances Supervised Fine-Tuning",
+      "date": "2026-03-17T05:17:07.000Z",
+      "url": "http://arxiv.org/abs/2603.16127v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Aligning Paralinguistic Understanding and Generation in Speech LLMs via Multi-Task Reinforcement Learning",
+      "date": "2026-03-16T22:54:12.000Z",
+      "url": "http://arxiv.org/abs/2603.15981v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Family of LLMs Liberated from Static Vocabularies",
+      "date": "2026-03-16T22:07:18.000Z",
+      "url": "http://arxiv.org/abs/2603.15953v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "BANGLASOCIALBENCH: A Benchmark for Evaluating Sociopragmatic and Cultural Alignment of LLMs in Bangladeshi Social Interaction",
+      "date": "2026-03-16T21:58:32.000Z",
+      "url": "http://arxiv.org/abs/2603.15949v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "COGNAC at SemEval-2026 Task 5: LLM Ensembles for Human-Level Word Sense Plausibility Rating in Challenging Narratives",
+      "date": "2026-03-16T20:42:02.000Z",
+      "url": "http://arxiv.org/abs/2603.15897v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Temporal Fact Conflicts in LLMs: Reproducibility Insights from Unifying DYNAMICQA and MULAN",
+      "date": "2026-03-16T20:37:17.000Z",
+      "url": "http://arxiv.org/abs/2603.15892v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "When Stability Fails: Hidden Failure Modes Of LLMS in Data-Constrained Scientific Decision-Making",
+      "date": "2026-03-16T19:17:09.000Z",
+      "url": "http://arxiv.org/abs/2603.15840v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Morphemes Without Borders: Evaluating Root-Pattern Morphology in Arabic Tokenizers and LLMs",
+      "date": "2026-03-16T18:05:01.000Z",
+      "url": "http://arxiv.org/abs/2603.15773v1",
+      "source": "arxiv"
+    },
     {
       "title": "Code-A1: Adversarial Evolving of Code LLM and Test LLM via Reinforcement Learning",
       "date": "2026-03-16T17:58:13.000Z",
@@ -19,108 +121,6 @@
       "title": "SlovKE: A Large-Scale Dataset and LLM Evaluation for Slovak Keyphrase Extraction",
       "date": "2026-03-16T16:47:45.000Z",
       "url": "http://arxiv.org/abs/2603.15523v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "A Closer Look into LLMs for Table Understanding",
-      "date": "2026-03-16T15:16:38.000Z",
-      "url": "http://arxiv.org/abs/2603.15402v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "When Does Sparsity Mitigate the Curse of Depth in LLMs",
-      "date": "2026-03-16T15:04:16.000Z",
-      "url": "http://arxiv.org/abs/2603.15389v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "From Documents to Spans: Code-Centric Learning for LLM-based ICD Coding",
-      "date": "2026-03-16T13:37:01.000Z",
-      "url": "http://arxiv.org/abs/2603.15270v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "To See is Not to Master: Teaching LLMs to Use Private Libraries for Code Generation",
-      "date": "2026-03-16T11:53:39.000Z",
-      "url": "http://arxiv.org/abs/2603.15159v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Writer-R1: Enhancing Generative Writing in LLMs via Memory-augmented Replay Policy Optimization",
-      "date": "2026-03-16T10:18:20.000Z",
-      "url": "http://arxiv.org/abs/2603.15061v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Thinking in Latents: Adaptive Anchor Refinement for Implicit Reasoning in LLMs",
-      "date": "2026-03-16T10:06:05.000Z",
-      "url": "http://arxiv.org/abs/2603.15051v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Rethinking LLM Watermark Detection in Black-Box Settings: A Non-Intrusive Third-Party Framework",
-      "date": "2026-03-16T08:28:48.000Z",
-      "url": "http://arxiv.org/abs/2603.14968v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLM as Graph Kernel: Rethinking Message Passing on Text-Rich Graphs",
-      "date": "2026-03-16T07:40:09.000Z",
-      "url": "http://arxiv.org/abs/2603.14937v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Fine-tuning RoBERTa for CVE-to-CWE Classification: A 125M Parameter Model Competitive with LLMs",
-      "date": "2026-03-16T07:15:57.000Z",
-      "url": "http://arxiv.org/abs/2603.14911v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "ExPosST: Explicit Positioning with Adaptive Masking for LLM-Based Simultaneous Machine Translation",
-      "date": "2026-03-16T07:04:55.000Z",
-      "url": "http://arxiv.org/abs/2603.14903v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLMs as Signal Detectors: Sensitivity, Bias, and the Temperature-Criterion Analogy",
-      "date": "2026-03-16T06:45:59.000Z",
-      "url": "http://arxiv.org/abs/2603.14893v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Shopping Companion: A Memory-Augmented LLM Agent for Real-World E-Commerce Tasks",
-      "date": "2026-03-16T06:07:52.000Z",
-      "url": "http://arxiv.org/abs/2603.14864v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Criterion-referenceability determines LLM-as-a-judge validity across physics assessment formats",
-      "date": "2026-03-16T02:09:06.000Z",
-      "url": "http://arxiv.org/abs/2603.14732v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Towards Next-Generation LLM Training: From the Data-Centric Perspective",
-      "date": "2026-03-16T01:40:09.000Z",
-      "url": "http://arxiv.org/abs/2603.14712v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Argumentation for Explainable and Globally Contestable Decision Support with LLMs",
-      "date": "2026-03-15T22:37:14.000Z",
-      "url": "http://arxiv.org/abs/2603.14643v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "MALicious INTent Dataset and Inoculating LLMs for Enhanced Disinformation Detection",
-      "date": "2026-03-15T18:07:12.000Z",
-      "url": "http://arxiv.org/abs/2603.14525v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "CangjieBench: Benchmarking LLMs on a Low-Resource General-Purpose Programming Language",
-      "date": "2026-03-15T17:35:03.000Z",
-      "url": "http://arxiv.org/abs/2603.14501v1",
       "source": "arxiv"
     }
   ],
