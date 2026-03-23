@@ -1,8 +1,50 @@
 {
-  "timestamp": "2026-03-22T09:30:19.863Z",
+  "timestamp": "2026-03-23T10:01:45.898Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "Measuring Faithfulness Depends on How You Measure: Classifier Sensitivity in LLM Chain-of-Thought Evaluation",
+      "date": "2026-03-20T17:48:43.000Z",
+      "url": "http://arxiv.org/abs/2603.20172v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Reasoning Gets Harder for LLMs Inside A Dialogue",
+      "date": "2026-03-20T17:01:09.000Z",
+      "url": "http://arxiv.org/abs/2603.20133v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Current LLMs still cannot 'talk much' about grammar modules: Evidence from syntax",
+      "date": "2026-03-20T16:37:51.000Z",
+      "url": "http://arxiv.org/abs/2603.20114v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Breaking the Capability Ceiling of LLM Post-Training by Reintroducing Markov States",
+      "date": "2026-03-20T14:35:49.000Z",
+      "url": "http://arxiv.org/abs/2603.19987v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Semantic Delta: An Interpretable Signal Differentiating Human and LLMs Dialogue",
+      "date": "2026-03-20T11:01:47.000Z",
+      "url": "http://arxiv.org/abs/2603.19849v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "DataProphet: Demystifying Supervision Data Generalization in Multimodal LLMs",
+      "date": "2026-03-20T06:42:26.000Z",
+      "url": "http://arxiv.org/abs/2603.19688v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Cooperation and Exploitation in LLM Policy Synthesis for Sequential Social Dilemmas",
+      "date": "2026-03-19T20:27:48.000Z",
+      "url": "http://arxiv.org/abs/2603.19453v1",
+      "source": "arxiv"
+    },
     {
       "title": "FinTradeBench: A Financial Reasoning Benchmark for LLMs",
       "date": "2026-03-19T17:59:41.000Z",
@@ -79,48 +121,6 @@
       "title": "When Names Change Verdicts: Intervention Consistency Reveals Systematic Bias in LLM Decision-Making",
       "date": "2026-03-19T06:21:08.000Z",
       "url": "http://arxiv.org/abs/2603.18530v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "WASD: Locating Critical Neurons as Sufficient Conditions for Explaining and Controlling LLM Behavior",
-      "date": "2026-03-19T04:17:19.000Z",
-      "url": "http://arxiv.org/abs/2603.18474v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Multimodal Task Interference: A Benchmark and Analysis of History-Target Mismatch in Multimodal LLMs",
-      "date": "2026-03-19T02:36:42.000Z",
-      "url": "http://arxiv.org/abs/2603.18425v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "TARo: Token-level Adaptive Routing for LLM Test-time Alignment",
-      "date": "2026-03-19T02:18:40.000Z",
-      "url": "http://arxiv.org/abs/2603.18411v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "AutoScreen-FW: An LLM-based Framework for Resume Screening",
-      "date": "2026-03-19T01:20:18.000Z",
-      "url": "http://arxiv.org/abs/2603.18390v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "PowerFlow: Unlocking the Dual Nature of LLMs via Principled Distribution Matching",
-      "date": "2026-03-19T00:00:36.000Z",
-      "url": "http://arxiv.org/abs/2603.18363v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Retrieval-Augmented LLM Agents: Learning to Learn from Experience",
-      "date": "2026-03-18T20:45:04.000Z",
-      "url": "http://arxiv.org/abs/2603.18272v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Modeling the human lexicon under temperature variations: linguistic factors, diversity and typicality in LLM word associations",
-      "date": "2026-03-18T18:10:02.000Z",
-      "url": "http://arxiv.org/abs/2603.18171v1",
       "source": "arxiv"
     }
   ],
