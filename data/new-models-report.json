@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-03-23T10:01:45.898Z",
+  "timestamp": "2026-03-24T09:54:37.093Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
-      "title": "Measuring Faithfulness Depends on How You Measure: Classifier Sensitivity in LLM Chain-of-Thought Evaluation",
-      "date": "2026-03-20T17:48:43.000Z",
-      "url": "http://arxiv.org/abs/2603.20172v1",
+      "title": "Enhancing Document-Level Machine Translation via Filtered Synthetic Corpora and Two-Stage LLM Adaptation",
+      "date": "2026-03-23T16:48:22.000Z",
+      "url": "http://arxiv.org/abs/2603.22186v1",
       "source": "arxiv"
     },
     {
-      "title": "Reasoning Gets Harder for LLMs Inside A Dialogue",
-      "date": "2026-03-20T17:01:09.000Z",
-      "url": "http://arxiv.org/abs/2603.20133v1",
+      "title": "Riding Brainwaves in LLM Space: Understanding Activation Patterns Using Individual Neural Signatures",
+      "date": "2026-03-23T11:36:00.000Z",
+      "url": "http://arxiv.org/abs/2603.21847v1",
       "source": "arxiv"
     },
     {
-      "title": "Current LLMs still cannot 'talk much' about grammar modules: Evidence from syntax",
-      "date": "2026-03-20T16:37:51.000Z",
-      "url": "http://arxiv.org/abs/2603.20114v1",
+      "title": "A Comparative Analysis of LLM Memorization at Statistical and Internal Levels: Cross-Model Commonalities and Model-Specific Signatures",
+      "date": "2026-03-23T07:35:19.000Z",
+      "url": "http://arxiv.org/abs/2603.21658v1",
       "source": "arxiv"
     },
     {
-      "title": "Breaking the Capability Ceiling of LLM Post-Training by Reintroducing Markov States",
-      "date": "2026-03-20T14:35:49.000Z",
-      "url": "http://arxiv.org/abs/2603.19987v1",
+      "title": "Silicon Bureaucracy and AI Test-Oriented Education: Contamination Sensitivity and Score Confidence in LLM Benchmarks",
+      "date": "2026-03-23T07:03:07.000Z",
+      "url": "http://arxiv.org/abs/2603.21636v1",
       "source": "arxiv"
     },
     {
-      "title": "Semantic Delta: An Interpretable Signal Differentiating Human and LLMs Dialogue",
-      "date": "2026-03-20T11:01:47.000Z",
-      "url": "http://arxiv.org/abs/2603.19849v1",
+      "title": "PRISM: Breaking the O(n) Memory Wall in Long-Context LLM Inference via O(1) Photonic Block Selection",
+      "date": "2026-03-23T04:55:56.000Z",
+      "url": "http://arxiv.org/abs/2603.21576v1",
       "source": "arxiv"
     },
     {
-      "title": "DataProphet: Demystifying Supervision Data Generalization in Multimodal LLMs",
-      "date": "2026-03-20T06:42:26.000Z",
-      "url": "http://arxiv.org/abs/2603.19688v1",
+      "title": "CatRAG: Functor-Guided Structural Debiasing with Retrieval Augmentation for Fair LLMs",
+      "date": "2026-03-23T03:33:13.000Z",
+      "url": "http://arxiv.org/abs/2603.21524v1",
       "source": "arxiv"
     },
     {
-      "title": "Cooperation and Exploitation in LLM Policy Synthesis for Sequential Social Dilemmas",
-      "date": "2026-03-19T20:27:48.000Z",
-      "url": "http://arxiv.org/abs/2603.19453v1",
+      "title": "KG-Hopper: Empowering Compact Open LLMs with Knowledge Graph Reasoning via Reinforcement Learning",
+      "date": "2026-03-22T23:07:29.000Z",
+      "url": "http://arxiv.org/abs/2603.21440v1",
       "source": "arxiv"
     },
     {
-      "title": "FinTradeBench: A Financial Reasoning Benchmark for LLMs",
-      "date": "2026-03-19T17:59:41.000Z",
-      "url": "http://arxiv.org/abs/2603.19225v1",
+      "title": "PROMPT2BOX: Uncovering Entailment Structure among LLM Prompts",
+      "date": "2026-03-22T22:59:18.000Z",
+      "url": "http://arxiv.org/abs/2603.21438v1",
       "source": "arxiv"
     },
     {
-      "title": "Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation",
-      "date": "2026-03-19T17:58:52.000Z",
-      "url": "http://arxiv.org/abs/2603.19220v1",
+      "title": "Efficient Fine-Tuning Methods for Portuguese Question Answering: A Comparative Study of PEFT on BERTimbau and Exploratory Evaluation of Generative LLMs",
+      "date": "2026-03-22T21:56:05.000Z",
+      "url": "http://arxiv.org/abs/2603.21418v1",
       "source": "arxiv"
     },
     {
-      "title": "How Auditory Knowledge in LLM Backbones Shapes Audio Language Models: A Holistic Evaluation",
-      "date": "2026-03-19T17:50:07.000Z",
-      "url": "http://arxiv.org/abs/2603.19195v1",
+      "title": "Multi-Perspective LLM Annotations for Valid Analyses in Subjective Tasks",
+      "date": "2026-03-22T21:18:05.000Z",
+      "url": "http://arxiv.org/abs/2603.21404v1",
       "source": "arxiv"
     },
     {
-      "title": "Box Maze: A Process-Control Architecture for Reliable LLM Reasoning",
-      "date": "2026-03-19T17:41:18.000Z",
-      "url": "http://arxiv.org/abs/2603.19182v1",
+      "title": "TIDE: Token-Informed Depth Execution for Per-Token Early Exit in LLM Inference",
+      "date": "2026-03-22T18:58:07.000Z",
+      "url": "http://arxiv.org/abs/2603.21365v1",
       "source": "arxiv"
     },
     {
-      "title": "Serendipity by Design: Evaluating the Impact of Cross-domain Mappings on Human and LLM Creativity",
-      "date": "2026-03-19T16:12:05.000Z",
-      "url": "http://arxiv.org/abs/2603.19087v1",
+      "title": "AdaRubric: Task-Adaptive Rubrics for LLM Agent Evaluation",
+      "date": "2026-03-22T18:47:34.000Z",
+      "url": "http://arxiv.org/abs/2603.21362v1",
       "source": "arxiv"
     },
     {
-      "title": "Parallelograms Strike Back: LLMs Generate Better Analogies than People",
-      "date": "2026-03-19T15:56:24.000Z",
-      "url": "http://arxiv.org/abs/2603.19066v1",
+      "title": "AgentHER: Hindsight Experience Replay for LLM Agent Trajectory Relabeling",
+      "date": "2026-03-22T18:36:58.000Z",
+      "url": "http://arxiv.org/abs/2603.21357v1",
       "source": "arxiv"
     },
     {
-      "title": "Entropy trajectory shape predicts LLM reasoning reliability: A diagnostic study of uncertainty dynamics in chain-of-thought",
-      "date": "2026-03-19T14:17:16.000Z",
-      "url": "http://arxiv.org/abs/2603.18940v1",
+      "title": "Beyond Memorization: Distinguishing between Reductive and Epistemic Reasoning in LLMs using Classic Logic Puzzles",
+      "date": "2026-03-22T18:18:17.000Z",
+      "url": "http://arxiv.org/abs/2603.21350v1",
       "source": "arxiv"
     },
     {
-      "title": "Progressive Training for Explainable Citation-Grounded Dialogue: Reducing Hallucination to Zero in English-Hindi LLMs",
-      "date": "2026-03-19T13:48:19.000Z",
-      "url": "http://arxiv.org/abs/2603.18911v1",
+      "title": "TimeTox: An LLM-Based Pipeline for Automated Extraction of Time Toxicity from Clinical Trial Protocols",
+      "date": "2026-03-22T17:25:43.000Z",
+      "url": "http://arxiv.org/abs/2603.21335v1",
       "source": "arxiv"
     },
     {
-      "title": "Evaluating LLM-Generated Lessons from the Language Learning Students' Perspective: A Short Case Study on Duolingo",
-      "date": "2026-03-19T13:17:50.000Z",
-      "url": "http://arxiv.org/abs/2603.18873v1",
+      "title": "Conversation Tree Architecture: A Structured Framework for Context-Aware Multi-Branch LLM Conversations",
+      "date": "2026-03-22T15:11:06.000Z",
+      "url": "http://arxiv.org/abs/2603.21278v1",
       "source": "arxiv"
     },
     {
-      "title": "Are complicated loss functions necessary for teaching LLMs to reason?",
-      "date": "2026-03-19T11:06:49.000Z",
-      "url": "http://arxiv.org/abs/2603.18756v1",
+      "title": "Entropy Alone is Insufficient for Safe Selective Prediction in LLMs",
+      "date": "2026-03-22T11:27:13.000Z",
+      "url": "http://arxiv.org/abs/2603.21172v1",
       "source": "arxiv"
     },
     {
-      "title": "ICE: Intervention-Consistent Explanation Evaluation with Statistical Grounding for LLMs",
-      "date": "2026-03-19T07:38:46.000Z",
-      "url": "http://arxiv.org/abs/2603.18579v1",
+      "title": "DiscoUQ: Structured Disagreement Analysis for Uncertainty Quantification in LLM Agent Ensembles",
+      "date": "2026-03-21T23:24:12.000Z",
+      "url": "http://arxiv.org/abs/2603.20975v1",
       "source": "arxiv"
     },
     {
-      "title": "Cross-Lingual LLM-Judge Transfer via Evaluation Decomposition",
-      "date": "2026-03-19T07:11:31.000Z",
-      "url": "http://arxiv.org/abs/2603.18557v1",
+      "title": "User Preference Modeling for Conversational LLM Agents: Weak Rewards from Retrieval-Augmented Interaction",
+      "date": "2026-03-21T20:44:32.000Z",
+      "url": "http://arxiv.org/abs/2603.20939v1",
       "source": "arxiv"
     },
     {
-      "title": "When Names Change Verdicts: Intervention Consistency Reveals Systematic Bias in LLM Decision-Making",
-      "date": "2026-03-19T06:21:08.000Z",
-      "url": "http://arxiv.org/abs/2603.18530v1",
+      "title": "The Hidden Puppet Master: A Theoretical and Real-World Account of Emotional Manipulation in LLMs",
+      "date": "2026-03-21T18:37:43.000Z",
+      "url": "http://arxiv.org/abs/2603.20907v1",
       "source": "arxiv"
     }
   ],
