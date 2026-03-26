@@ -1,8 +1,104 @@
 {
-  "timestamp": "2026-03-25T09:52:40.980Z",
+  "timestamp": "2026-03-26T09:59:42.927Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "Comparing Developer and LLM Biases in Code Evaluation",
+      "date": "2026-03-25T17:56:55.000Z",
+      "url": "http://arxiv.org/abs/2603.24586v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "MARCH: Multi-Agent Reinforced Self-Check for LLM Hallucination",
+      "date": "2026-03-25T17:54:10.000Z",
+      "url": "http://arxiv.org/abs/2603.24579v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs?",
+      "date": "2026-03-25T16:14:52.000Z",
+      "url": "http://arxiv.org/abs/2603.24472v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Optimizing Multilingual LLMs via Federated Learning: A Study of Client Language Composition",
+      "date": "2026-03-25T12:29:11.000Z",
+      "url": "http://arxiv.org/abs/2603.24242v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Alignment Tax: Response Homogenization in Aligned LLMs and Its Implications for Uncertainty Estimation",
+      "date": "2026-03-25T09:35:15.000Z",
+      "url": "http://arxiv.org/abs/2603.24124v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLMpedia: A Transparent Framework to Materialize an LLM's Encyclopedic Knowledge at Scale",
+      "date": "2026-03-25T08:37:26.000Z",
+      "url": "http://arxiv.org/abs/2603.24080v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "From Oracle to Noisy Context: Mitigating Contextual Exposure Bias in Speech-LLMs",
+      "date": "2026-03-25T07:48:04.000Z",
+      "url": "http://arxiv.org/abs/2603.24034v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "CVPD at QIAS 2026: RAG-Guided LLM Reasoning for Al-Mawarith Share Computation and Heir Allocation",
+      "date": "2026-03-25T07:19:29.000Z",
+      "url": "http://arxiv.org/abs/2603.24012v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Grounding Arabic LLMs in the Doha Historical Dictionary: Retrieval-Augmented Understanding of Quran and Hadith",
+      "date": "2026-03-25T06:09:42.000Z",
+      "url": "http://arxiv.org/abs/2603.23972v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "From AI Assistant to AI Scientist: Autonomous Discovery of LLM-RL Algorithms with LLM Agents",
+      "date": "2026-03-25T05:19:23.000Z",
+      "url": "http://arxiv.org/abs/2603.23951v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "BeliefShift: Benchmarking Temporal Belief Consistency and Opinion Drift in LLM Agents",
+      "date": "2026-03-25T02:09:35.000Z",
+      "url": "http://arxiv.org/abs/2603.23848v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "How Vulnerable Are Edge LLMs?",
+      "date": "2026-03-25T01:10:38.000Z",
+      "url": "http://arxiv.org/abs/2603.23822v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "IslamicMMLU: A Benchmark for Evaluating LLMs on Islamic Knowledge",
+      "date": "2026-03-24T22:18:16.000Z",
+      "url": "http://arxiv.org/abs/2603.23750v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLMs Do Not Grade Essays Like Humans",
+      "date": "2026-03-24T21:02:53.000Z",
+      "url": "http://arxiv.org/abs/2603.23714v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Diminishing Returns of Early-Exit Decoding in Modern LLMs",
+      "date": "2026-03-24T20:38:17.000Z",
+      "url": "http://arxiv.org/abs/2603.23701v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Theory of LLM Information Susceptibility",
+      "date": "2026-03-24T18:08:43.000Z",
+      "url": "http://arxiv.org/abs/2603.23626v1",
+      "source": "arxiv"
+    },
     {
       "title": "SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning",
       "date": "2026-03-24T17:45:47.000Z",
@@ -25,102 +121,6 @@
       "title": "I Came, I Saw, I Explained: Benchmarking Multimodal LLMs on Figurative Meaning in Memes",
       "date": "2026-03-24T14:02:48.000Z",
       "url": "http://arxiv.org/abs/2603.23229v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Decoding AI Authorship: Can LLMs Truly Mimic Human Style Across Literature and Politics?",
-      "date": "2026-03-24T13:58:09.000Z",
-      "url": "http://arxiv.org/abs/2603.23219v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "ImplicitRM: Unbiased Reward Modeling from Implicit Preference Data for LLM alignment",
-      "date": "2026-03-24T13:32:14.000Z",
-      "url": "http://arxiv.org/abs/2603.23184v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Between Rules and Reality: On the Context Sensitivity of LLM Moral Judgment",
-      "date": "2026-03-24T12:08:16.000Z",
-      "url": "http://arxiv.org/abs/2603.23114v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Multilingual KokoroChat: A Multi-LLM Ensemble Translation Method for Creating a Multilingual Counseling Dialogue Dataset",
-      "date": "2026-03-24T08:02:24.000Z",
-      "url": "http://arxiv.org/abs/2603.22913v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "The Evolution of Tool Use in LLM Agents: From Single-Tool Call to Multi-Tool Orchestration",
-      "date": "2026-03-24T07:05:05.000Z",
-      "url": "http://arxiv.org/abs/2603.22862v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Analysing LLM Persona Generation and Fairness Interpretation in Polarised Geopolitical Contexts",
-      "date": "2026-03-24T06:19:48.000Z",
-      "url": "http://arxiv.org/abs/2603.22837v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Can LLM Agents Generate Real-World Evidence? Evaluating Observational Studies in Medical Databases",
-      "date": "2026-03-24T03:50:34.000Z",
-      "url": "http://arxiv.org/abs/2603.22767v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "DALDALL: Data Augmentation for Lexical and Semantic Diverse in Legal Domain by leveraging LLM-Persona",
-      "date": "2026-03-24T03:49:09.000Z",
-      "url": "http://arxiv.org/abs/2603.22765v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "KALAVAI: Predicting When Independent Specialist Fusion Works -- A Quantitative Model for Post-Hoc Cooperative LLM Training",
-      "date": "2026-03-24T03:32:04.000Z",
-      "url": "http://arxiv.org/abs/2603.22755v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "PRISM: A Dual View of LLM Reasoning through Semantic Flow and Latent Computation",
-      "date": "2026-03-24T03:31:53.000Z",
-      "url": "http://arxiv.org/abs/2603.22754v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Explanation Generation for Contradiction Reconciliation with LLMs",
-      "date": "2026-03-24T03:00:17.000Z",
-      "url": "http://arxiv.org/abs/2603.22735v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Detecting Non-Membership in LLM Training Data via Rank Correlations",
-      "date": "2026-03-24T01:59:18.000Z",
-      "url": "http://arxiv.org/abs/2603.22707v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Improving LLM Predictions via Inter-Layer Structural Encoders",
-      "date": "2026-03-24T00:37:44.000Z",
-      "url": "http://arxiv.org/abs/2603.22665v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Benchmarking Multi-Agent LLM Architectures for Financial Document Processing: A Comparative Study of Orchestration Patterns, Cost-Accuracy Tradeoffs and Production Scaling Strategies",
-      "date": "2026-03-24T00:02:47.000Z",
-      "url": "http://arxiv.org/abs/2603.22651v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Understanding LLM Performance Degradation in Multi-Instance Processing: The Roles of Instance Count and Context Length",
-      "date": "2026-03-23T22:13:15.000Z",
-      "url": "http://arxiv.org/abs/2603.22608v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLM-guided headline rewriting for clickability enhancement without clickbait",
-      "date": "2026-03-23T18:25:48.000Z",
-      "url": "http://arxiv.org/abs/2603.22459v1",
       "source": "arxiv"
     }
   ],
