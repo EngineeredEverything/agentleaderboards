@@ -1,8 +1,104 @@
 {
-  "timestamp": "2026-03-26T09:59:42.927Z",
+  "timestamp": "2026-03-27T09:53:17.693Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "S2D2: Fast Decoding for Diffusion LLMs via Training-Free Self-Speculation",
+      "date": "2026-03-26T17:48:50.000Z",
+      "url": "http://arxiv.org/abs/2603.25702v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Measuring What Matters -- or What's Convenient?: Robustness of LLM-Based Scoring Systems to Construct-Irrelevant Factors",
+      "date": "2026-03-26T17:29:20.000Z",
+      "url": "http://arxiv.org/abs/2603.25674v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Translation Asymmetry in LLMs as a Data Augmentation Factor: A Case Study for 6 Romansh Language Varieties",
+      "date": "2026-03-26T14:27:45.000Z",
+      "url": "http://arxiv.org/abs/2603.25489v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Navigating the Prompt Space: Improving LLM Classification of Social Science Texts Through Prompt Engineering",
+      "date": "2026-03-26T13:14:48.000Z",
+      "url": "http://arxiv.org/abs/2603.25422v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "When Hate Meets Facts: LLMs-in-the-Loop for Check-worthiness Detection in Hate Speech",
+      "date": "2026-03-26T10:07:00.000Z",
+      "url": "http://arxiv.org/abs/2603.25269v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Decade-Scale Benchmark Evaluating LLMs' Clinical Practice Guidelines Detection and Adherence in Multi-turn Conversations",
+      "date": "2026-03-26T09:00:55.000Z",
+      "url": "http://arxiv.org/abs/2603.25196v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Probing the Lack of Stable Internal Beliefs in LLMs",
+      "date": "2026-03-26T08:52:55.000Z",
+      "url": "http://arxiv.org/abs/2603.25187v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Prompt Attack Detection with LLM-as-a-Judge and Mixture-of-Models",
+      "date": "2026-03-26T08:47:53.000Z",
+      "url": "http://arxiv.org/abs/2603.25176v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Do LLMs Know What They Know? Measuring Metacognitive Efficiency with Signal Detection Theory",
+      "date": "2026-03-26T07:38:28.000Z",
+      "url": "http://arxiv.org/abs/2603.25112v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "OMIND: Framework for Knowledge Grounded Finetuning and Multi-Turn Dialogue Benchmark for Mental Health LLMs",
+      "date": "2026-03-26T07:25:30.000Z",
+      "url": "http://arxiv.org/abs/2603.25105v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Approaches to Analysing Historical Newspapers Using LLMs",
+      "date": "2026-03-26T05:38:30.000Z",
+      "url": "http://arxiv.org/abs/2603.25051v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLM-Driven Reasoning for Constraint-Aware Feature Selection in Industrial Systems",
+      "date": "2026-03-26T03:10:33.000Z",
+      "url": "http://arxiv.org/abs/2603.24979v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "FinMCP-Bench: Benchmarking LLM Agents for Real-World Financial Tool Use under the Model Context Protocol",
+      "date": "2026-03-26T02:20:04.000Z",
+      "url": "http://arxiv.org/abs/2603.24943v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LogitScope: A Framework for Analyzing LLM Uncertainty Through Information Metrics",
+      "date": "2026-03-26T01:46:24.000Z",
+      "url": "http://arxiv.org/abs/2603.24929v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Evaluating Fine-Tuned LLM Model For Medical Transcription With Small Low-Resource Languages Validated Dataset",
+      "date": "2026-03-25T19:44:49.000Z",
+      "url": "http://arxiv.org/abs/2603.24772v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Training LLMs for Multi-Step Tool Orchestration with Constrained Data Synthesis and Graduated Rewards",
+      "date": "2026-03-25T18:31:39.000Z",
+      "url": "http://arxiv.org/abs/2603.24709v1",
+      "source": "arxiv"
+    },
     {
       "title": "Comparing Developer and LLM Biases in Code Evaluation",
       "date": "2026-03-25T17:56:55.000Z",
@@ -24,103 +120,7 @@
     {
       "title": "Optimizing Multilingual LLMs via Federated Learning: A Study of Client Language Composition",
       "date": "2026-03-25T12:29:11.000Z",
-      "url": "http://arxiv.org/abs/2603.24242v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "The Alignment Tax: Response Homogenization in Aligned LLMs and Its Implications for Uncertainty Estimation",
-      "date": "2026-03-25T09:35:15.000Z",
-      "url": "http://arxiv.org/abs/2603.24124v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLMpedia: A Transparent Framework to Materialize an LLM's Encyclopedic Knowledge at Scale",
-      "date": "2026-03-25T08:37:26.000Z",
-      "url": "http://arxiv.org/abs/2603.24080v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "From Oracle to Noisy Context: Mitigating Contextual Exposure Bias in Speech-LLMs",
-      "date": "2026-03-25T07:48:04.000Z",
-      "url": "http://arxiv.org/abs/2603.24034v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "CVPD at QIAS 2026: RAG-Guided LLM Reasoning for Al-Mawarith Share Computation and Heir Allocation",
-      "date": "2026-03-25T07:19:29.000Z",
-      "url": "http://arxiv.org/abs/2603.24012v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Grounding Arabic LLMs in the Doha Historical Dictionary: Retrieval-Augmented Understanding of Quran and Hadith",
-      "date": "2026-03-25T06:09:42.000Z",
-      "url": "http://arxiv.org/abs/2603.23972v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "From AI Assistant to AI Scientist: Autonomous Discovery of LLM-RL Algorithms with LLM Agents",
-      "date": "2026-03-25T05:19:23.000Z",
-      "url": "http://arxiv.org/abs/2603.23951v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "BeliefShift: Benchmarking Temporal Belief Consistency and Opinion Drift in LLM Agents",
-      "date": "2026-03-25T02:09:35.000Z",
-      "url": "http://arxiv.org/abs/2603.23848v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "How Vulnerable Are Edge LLMs?",
-      "date": "2026-03-25T01:10:38.000Z",
-      "url": "http://arxiv.org/abs/2603.23822v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "IslamicMMLU: A Benchmark for Evaluating LLMs on Islamic Knowledge",
-      "date": "2026-03-24T22:18:16.000Z",
-      "url": "http://arxiv.org/abs/2603.23750v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLMs Do Not Grade Essays Like Humans",
-      "date": "2026-03-24T21:02:53.000Z",
-      "url": "http://arxiv.org/abs/2603.23714v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "The Diminishing Returns of Early-Exit Decoding in Modern LLMs",
-      "date": "2026-03-24T20:38:17.000Z",
-      "url": "http://arxiv.org/abs/2603.23701v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "A Theory of LLM Information Susceptibility",
-      "date": "2026-03-24T18:08:43.000Z",
-      "url": "http://arxiv.org/abs/2603.23626v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning",
-      "date": "2026-03-24T17:45:47.000Z",
-      "url": "http://arxiv.org/abs/2603.23483v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Steering LLMs for Culturally Localized Generation",
-      "date": "2026-03-24T15:04:01.000Z",
-      "url": "http://arxiv.org/abs/2603.23301v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLM Olympiad: Why Model Evaluation Needs a Sealed Exam",
-      "date": "2026-03-24T14:55:12.000Z",
-      "url": "http://arxiv.org/abs/2603.23292v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "I Came, I Saw, I Explained: Benchmarking Multimodal LLMs on Figurative Meaning in Memes",
-      "date": "2026-03-24T14:02:48.000Z",
-      "url": "http://arxiv.org/abs/2603.23229v1",
+      "url": "http://arxiv.org/abs/2603.24242v2",
       "source": "arxiv"
     }
   ],
