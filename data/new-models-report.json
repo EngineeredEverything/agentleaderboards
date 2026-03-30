@@ -1,7 +1,128 @@
 {
-  "timestamp": "2026-03-29T09:35:22.646Z",
+  "timestamp": "2026-03-30T10:15:22.258Z",
   "existingCount": 0,
   "newModels": [],
-  "recentPapers": [],
+  "recentPapers": [
+    {
+      "title": "MemBoost: A Memory-Boosted Framework for Cost-Aware LLM Inference",
+      "date": "2026-03-27T16:16:48.000Z",
+      "url": "http://arxiv.org/abs/2603.26557v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "ALBA: A European Portuguese Benchmark for Evaluating Language and Linguistic Dimensions in Generative LLMs",
+      "date": "2026-03-27T15:25:44.000Z",
+      "url": "http://arxiv.org/abs/2603.26516v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Clinical named entity recognition in the Portuguese language: a benchmark of modern BERT models and LLMs",
+      "date": "2026-03-27T15:22:07.000Z",
+      "url": "http://arxiv.org/abs/2603.26510v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "From Human Cognition to Neural Activations: Probing the Computational Primitives of Spatial Reasoning in LLMs",
+      "date": "2026-03-27T11:42:36.000Z",
+      "url": "http://arxiv.org/abs/2603.26323v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Distilling Conversations: Abstract Compression of Conversational Audio Context for LLM-based ASR",
+      "date": "2026-03-27T10:09:30.000Z",
+      "url": "http://arxiv.org/abs/2603.26246v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLM Benchmark-User Need Misalignment for Climate Change",
+      "date": "2026-03-27T06:32:30.000Z",
+      "url": "http://arxiv.org/abs/2603.26106v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Selective Deficits in LLM Mental Self-Modeling in a Behavior-Based Test of Theory of Mind",
+      "date": "2026-03-27T05:41:30.000Z",
+      "url": "http://arxiv.org/abs/2603.26089v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "AgentCollab: A Self-Evaluation-Driven Collaboration Paradigm for Efficient LLM Agents",
+      "date": "2026-03-27T03:07:34.000Z",
+      "url": "http://arxiv.org/abs/2603.26034v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "MemoryCD: Benchmarking Long-Context User Memory of LLM Agents for Lifelong Cross-Domain Personalization",
+      "date": "2026-03-26T23:28:47.000Z",
+      "url": "http://arxiv.org/abs/2603.25973v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "S2D2: Fast Decoding for Diffusion LLMs via Training-Free Self-Speculation",
+      "date": "2026-03-26T17:48:50.000Z",
+      "url": "http://arxiv.org/abs/2603.25702v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Measuring What Matters -- or What's Convenient?: Robustness of LLM-Based Scoring Systems to Construct-Irrelevant Factors",
+      "date": "2026-03-26T17:29:20.000Z",
+      "url": "http://arxiv.org/abs/2603.25674v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Translation Asymmetry in LLMs as a Data Augmentation Factor: A Case Study for 6 Romansh Language Varieties",
+      "date": "2026-03-26T14:27:45.000Z",
+      "url": "http://arxiv.org/abs/2603.25489v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Navigating the Prompt Space: Improving LLM Classification of Social Science Texts Through Prompt Engineering",
+      "date": "2026-03-26T13:14:48.000Z",
+      "url": "http://arxiv.org/abs/2603.25422v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "When Hate Meets Facts: LLMs-in-the-Loop for Check-worthiness Detection in Hate Speech",
+      "date": "2026-03-26T10:07:00.000Z",
+      "url": "http://arxiv.org/abs/2603.25269v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Decade-Scale Benchmark Evaluating LLMs' Clinical Practice Guidelines Detection and Adherence in Multi-turn Conversations",
+      "date": "2026-03-26T09:00:55.000Z",
+      "url": "http://arxiv.org/abs/2603.25196v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Probing the Lack of Stable Internal Beliefs in LLMs",
+      "date": "2026-03-26T08:52:55.000Z",
+      "url": "http://arxiv.org/abs/2603.25187v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Prompt Attack Detection with LLM-as-a-Judge and Mixture-of-Models",
+      "date": "2026-03-26T08:47:53.000Z",
+      "url": "http://arxiv.org/abs/2603.25176v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Do LLMs Know What They Know? Measuring Metacognitive Efficiency with Signal Detection Theory",
+      "date": "2026-03-26T07:38:28.000Z",
+      "url": "http://arxiv.org/abs/2603.25112v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "OMIND: Framework for Knowledge Grounded Finetuning and Multi-Turn Dialogue Benchmark for Mental Health LLMs",
+      "date": "2026-03-26T07:25:30.000Z",
+      "url": "http://arxiv.org/abs/2603.25105v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Approaches to Analysing Historical Newspapers Using LLMs",
+      "date": "2026-03-26T05:38:30.000Z",
+      "url": "http://arxiv.org/abs/2603.25051v2",
+      "source": "arxiv"
+    }
+  ],
   "withBenchmarks": 0
 }
