@@ -1,7 +1,128 @@
 {
-  "timestamp": "2026-04-02T10:00:21.949Z",
+  "timestamp": "2026-04-03T09:51:25.329Z",
   "existingCount": 0,
   "newModels": [],
-  "recentPapers": [],
+  "recentPapers": [
+    {
+      "title": "De Jure: Iterative LLM Self-Refinement for Structured Extraction of Regulatory Rules",
+      "date": "2026-04-02T17:06:50.000Z",
+      "url": "http://arxiv.org/abs/2604.02276v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Blinded Radiologist and LLM-Based Evaluation of LLM-Generated Japanese Translations of Chest CT Reports: Comparative Study",
+      "date": "2026-04-02T15:59:40.000Z",
+      "url": "http://arxiv.org/abs/2604.02207v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "GaelEval: Benchmarking LLM Performance for Scottish Gaelic",
+      "date": "2026-04-02T15:09:18.000Z",
+      "url": "http://arxiv.org/abs/2604.02135v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLM-as-a-Judge for Time Series Explanations",
+      "date": "2026-04-02T14:55:25.000Z",
+      "url": "http://arxiv.org/abs/2604.02118v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Optimizing RAG Rerankers with LLM Feedback via Reinforcement Learning",
+      "date": "2026-04-02T14:19:47.000Z",
+      "url": "http://arxiv.org/abs/2604.02091v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "BidirLM: From Text to Omnimodal Bidirectional Encoders by Adapting and Composing Causal LLMs",
+      "date": "2026-04-02T13:48:35.000Z",
+      "url": "http://arxiv.org/abs/2604.02045v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "$k$NNProxy: Efficient Training-Free Proxy Alignment for Black-Box Zero-Shot LLM-Generated Text Detection",
+      "date": "2026-04-02T13:11:06.000Z",
+      "url": "http://arxiv.org/abs/2604.02008v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Memory in the LLM Era: Modular Architectures and Strategies in a Unified Framework",
+      "date": "2026-04-02T07:19:20.000Z",
+      "url": "http://arxiv.org/abs/2604.01707v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Fragile Reasoning: A Mechanistic Analysis of LLM Sensitivity to Meaning-Preserving Perturbations",
+      "date": "2026-04-02T05:30:20.000Z",
+      "url": "http://arxiv.org/abs/2604.01639v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Swift-SVD: Theoretical Optimality Meets Practical Efficiency in Low-Rank LLM Compression",
+      "date": "2026-04-02T04:40:50.000Z",
+      "url": "http://arxiv.org/abs/2604.01609v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Magic, Madness, Heaven, Sin: LLM Output Diversity is Everything, Everywhere, All at Once",
+      "date": "2026-04-02T00:32:41.000Z",
+      "url": "http://arxiv.org/abs/2604.01504v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Wired for Overconfidence: A Mechanistic Perspective on Inflated Verbalized Confidence in LLMs",
+      "date": "2026-04-01T23:06:58.000Z",
+      "url": "http://arxiv.org/abs/2604.01457v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Adaptive Stopping for Multi-Turn LLM Reasoning",
+      "date": "2026-04-01T21:22:19.000Z",
+      "url": "http://arxiv.org/abs/2604.01413v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "No Attacker Needed: Unintentional Cross-User Contamination in Shared-State LLM Agents",
+      "date": "2026-04-01T20:03:56.000Z",
+      "url": "http://arxiv.org/abs/2604.01350v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLM REgression with a Latent Iterative State Head",
+      "date": "2026-04-01T17:50:32.000Z",
+      "url": "http://arxiv.org/abs/2604.01206v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Online Reasoning Calibration: Test-Time Training Enables Generalizable Conformal LLM Reasoning",
+      "date": "2026-04-01T17:21:50.000Z",
+      "url": "http://arxiv.org/abs/2604.01170v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Brainstacks: Cross-Domain Cognitive Capabilities via Frozen MoE-LoRA Stacks for Continual LLM Learning",
+      "date": "2026-04-01T17:08:25.000Z",
+      "url": "http://arxiv.org/abs/2604.01152v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Revision or Re-Solving? Decomposing Second-Pass Gains in Multi-LLM Pipelines",
+      "date": "2026-04-01T15:39:40.000Z",
+      "url": "http://arxiv.org/abs/2604.01029v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Uncertainty-Aware Variational Reward Factorization via Probabilistic Preference Bases for LLM Personalization",
+      "date": "2026-04-01T14:58:51.000Z",
+      "url": "http://arxiv.org/abs/2604.00997v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Dual Optimal: Make Your LLM Peer-like with Dignity",
+      "date": "2026-04-01T14:48:44.000Z",
+      "url": "http://arxiv.org/abs/2604.00979v2",
+      "source": "arxiv"
+    }
+  ],
   "withBenchmarks": 0
 }
