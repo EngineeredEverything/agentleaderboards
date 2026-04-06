@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-04-05T09:36:47.812Z",
+  "timestamp": "2026-04-06T10:07:31.314Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
+      "title": "PRISM: LLM-Guided Semantic Clustering for High-Precision Topics",
+      "date": "2026-04-03T16:56:47.000Z",
+      "url": "http://arxiv.org/abs/2604.03180v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Detecting and Correcting Reference Hallucinations in Commercial LLMs and Deep Research Agents",
+      "date": "2026-04-03T16:49:02.000Z",
+      "url": "http://arxiv.org/abs/2604.03173v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Valence-Arousal Subspace in LLMs: Circular Emotion Geometry and Multi-Behavioral Control",
+      "date": "2026-04-03T16:08:05.000Z",
+      "url": "http://arxiv.org/abs/2604.03147v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Beyond Precision: Importance-Aware Recall for Factuality Evaluation in Long-Form LLM Generation",
+      "date": "2026-04-03T16:03:56.000Z",
+      "url": "http://arxiv.org/abs/2604.03141v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Supply-Chain Poisoning Attacks Against LLM Coding Agent Skill Ecosystems",
+      "date": "2026-04-03T14:58:58.000Z",
+      "url": "http://arxiv.org/abs/2604.03081v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Verbalizing LLMs' assumptions to explain and control sycophancy",
+      "date": "2026-04-03T14:15:43.000Z",
+      "url": "http://arxiv.org/abs/2604.03058v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "JoyAI-LLM Flash: Advancing Mid-Scale LLMs with Token Efficiency",
+      "date": "2026-04-03T13:52:38.000Z",
+      "url": "http://arxiv.org/abs/2604.03044v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Prompt Compression in the Wild: Measuring Latency, Rate Adherence, and Quality for Faster LLM Inference",
+      "date": "2026-04-03T11:41:53.000Z",
+      "url": "http://arxiv.org/abs/2604.02985v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Council Mode: Mitigating Hallucination and Bias in LLMs via Multi-Agent Consensus",
+      "date": "2026-04-03T09:40:43.000Z",
+      "url": "http://arxiv.org/abs/2604.02923v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLM-based Atomic Propositions help weak extractors: Evaluation of a Propositioner for triplet extraction",
+      "date": "2026-04-03T08:31:22.000Z",
+      "url": "http://arxiv.org/abs/2604.02866v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "GRADE: Probing Knowledge Gaps in LLMs through Gradient Subspace Dynamics",
+      "date": "2026-04-03T07:52:26.000Z",
+      "url": "http://arxiv.org/abs/2604.02830v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Trivial Vocabulary Bans Improve LLM Reasoning More Than Deep Linguistic Constraints",
+      "date": "2026-04-03T03:48:27.000Z",
+      "url": "http://arxiv.org/abs/2604.02699v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Redirected, Not Removed: Task-Dependent Stereotyping Reveals the Limits of LLM Alignments",
+      "date": "2026-04-03T03:03:21.000Z",
+      "url": "http://arxiv.org/abs/2604.02669v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Train Yourself as an LLM: Exploring Effects of AI Literacy on Persuasion via Role-playing LLM Training",
+      "date": "2026-04-03T02:03:10.000Z",
+      "url": "http://arxiv.org/abs/2604.02637v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Reinforcement Learning-based Knowledge Distillation with LLM-as-a-Judge",
+      "date": "2026-04-03T01:23:04.000Z",
+      "url": "http://arxiv.org/abs/2604.02621v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Mitigating LLM biases toward spurious social contexts using direct preference optimization",
+      "date": "2026-04-02T23:42:20.000Z",
+      "url": "http://arxiv.org/abs/2604.02585v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "High Volatility and Action Bias Distinguish LLMs from Humans in Group Coordination",
+      "date": "2026-04-02T23:21:37.000Z",
+      "url": "http://arxiv.org/abs/2604.02578v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "PolyJarvis: LLM Agent for Autonomous Polymer MD Simulations",
+      "date": "2026-04-02T21:43:35.000Z",
+      "url": "http://arxiv.org/abs/2604.02537v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Single-Agent LLMs Outperform Multi-Agent Systems on Multi-Hop Reasoning Under Equal Thinking Token Budgets",
+      "date": "2026-04-02T18:47:48.000Z",
+      "url": "http://arxiv.org/abs/2604.02460v1",
+      "source": "arxiv"
+    },
+    {
       "title": "De Jure: Iterative LLM Self-Refinement for Structured Extraction of Regulatory Rules",
       "date": "2026-04-02T17:06:50.000Z",
       "url": "http://arxiv.org/abs/2604.02276v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Blinded Radiologist and LLM-Based Evaluation of LLM-Generated Japanese Translations of Chest CT Reports: Comparative Study",
-      "date": "2026-04-02T15:59:40.000Z",
-      "url": "http://arxiv.org/abs/2604.02207v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "GaelEval: Benchmarking LLM Performance for Scottish Gaelic",
-      "date": "2026-04-02T15:09:18.000Z",
-      "url": "http://arxiv.org/abs/2604.02135v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLM-as-a-Judge for Time Series Explanations",
-      "date": "2026-04-02T14:55:25.000Z",
-      "url": "http://arxiv.org/abs/2604.02118v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Optimizing RAG Rerankers with LLM Feedback via Reinforcement Learning",
-      "date": "2026-04-02T14:19:47.000Z",
-      "url": "http://arxiv.org/abs/2604.02091v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "BidirLM: From Text to Omnimodal Bidirectional Encoders by Adapting and Composing Causal LLMs",
-      "date": "2026-04-02T13:48:35.000Z",
-      "url": "http://arxiv.org/abs/2604.02045v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "$k$NNProxy: Efficient Training-Free Proxy Alignment for Black-Box Zero-Shot LLM-Generated Text Detection",
-      "date": "2026-04-02T13:11:06.000Z",
-      "url": "http://arxiv.org/abs/2604.02008v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Memory in the LLM Era: Modular Architectures and Strategies in a Unified Framework",
-      "date": "2026-04-02T07:19:20.000Z",
-      "url": "http://arxiv.org/abs/2604.01707v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Fragile Reasoning: A Mechanistic Analysis of LLM Sensitivity to Meaning-Preserving Perturbations",
-      "date": "2026-04-02T05:30:20.000Z",
-      "url": "http://arxiv.org/abs/2604.01639v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Swift-SVD: Theoretical Optimality Meets Practical Efficiency in Low-Rank LLM Compression",
-      "date": "2026-04-02T04:40:50.000Z",
-      "url": "http://arxiv.org/abs/2604.01609v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Magic, Madness, Heaven, Sin: LLM Output Diversity is Everything, Everywhere, All at Once",
-      "date": "2026-04-02T00:32:41.000Z",
-      "url": "http://arxiv.org/abs/2604.01504v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Wired for Overconfidence: A Mechanistic Perspective on Inflated Verbalized Confidence in LLMs",
-      "date": "2026-04-01T23:06:58.000Z",
-      "url": "http://arxiv.org/abs/2604.01457v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Adaptive Stopping for Multi-Turn LLM Reasoning",
-      "date": "2026-04-01T21:22:19.000Z",
-      "url": "http://arxiv.org/abs/2604.01413v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "No Attacker Needed: Unintentional Cross-User Contamination in Shared-State LLM Agents",
-      "date": "2026-04-01T20:03:56.000Z",
-      "url": "http://arxiv.org/abs/2604.01350v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLM REgression with a Latent Iterative State Head",
-      "date": "2026-04-01T17:50:32.000Z",
-      "url": "http://arxiv.org/abs/2604.01206v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Online Reasoning Calibration: Test-Time Training Enables Generalizable Conformal LLM Reasoning",
-      "date": "2026-04-01T17:21:50.000Z",
-      "url": "http://arxiv.org/abs/2604.01170v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Brainstacks: Cross-Domain Cognitive Capabilities via Frozen MoE-LoRA Stacks for Continual LLM Learning",
-      "date": "2026-04-01T17:08:25.000Z",
-      "url": "http://arxiv.org/abs/2604.01152v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Revision or Re-Solving? Decomposing Second-Pass Gains in Multi-LLM Pipelines",
-      "date": "2026-04-01T15:39:40.000Z",
-      "url": "http://arxiv.org/abs/2604.01029v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Uncertainty-Aware Variational Reward Factorization via Probabilistic Preference Bases for LLM Personalization",
-      "date": "2026-04-01T14:58:51.000Z",
-      "url": "http://arxiv.org/abs/2604.00997v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Dual Optimal: Make Your LLM Peer-like with Dignity",
-      "date": "2026-04-01T14:48:44.000Z",
-      "url": "http://arxiv.org/abs/2604.00979v2",
       "source": "arxiv"
     }
   ],
