@@ -1,8 +1,98 @@
 {
-  "timestamp": "2026-04-12T09:43:07.016Z",
+  "timestamp": "2026-04-13T10:42:54.729Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "BERT-as-a-Judge: A Robust Alternative to Lexical Methods for Efficient Reference-Based LLM Evaluation",
+      "date": "2026-04-10T17:08:40.000Z",
+      "url": "http://arxiv.org/abs/2604.09497v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Many-Tier Instruction Hierarchy in LLM Agents",
+      "date": "2026-04-10T16:00:04.000Z",
+      "url": "http://arxiv.org/abs/2604.09443v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Automated Instruction Revision (AIR): A Structured Comparison of Task Adaptation Strategies for LLM",
+      "date": "2026-04-10T15:28:05.000Z",
+      "url": "http://arxiv.org/abs/2604.09418v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Task-Aware LLM Routing with Multi-Level Task-Profile-Guided Data Synthesis for Cold-Start Scenarios",
+      "date": "2026-04-10T14:46:20.000Z",
+      "url": "http://arxiv.org/abs/2604.09377v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Do LLMs Follow Their Own Rules? A Reflexive Audit of Self-Stated Safety Policies",
+      "date": "2026-04-10T10:18:45.000Z",
+      "url": "http://arxiv.org/abs/2604.09189v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Hierarchical Alignment: Enforcing Hierarchical Instruction-Following in LLMs through Logical Consistency",
+      "date": "2026-04-10T07:59:11.000Z",
+      "url": "http://arxiv.org/abs/2604.09075v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "TaxPraBen: A Scalable Benchmark for Structured Evaluation of LLMs in Chinese Real-World Tax Practice",
+      "date": "2026-04-10T04:36:21.000Z",
+      "url": "http://arxiv.org/abs/2604.08948v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Beyond Relevance: Utility-Centric Retrieval in the LLM Era",
+      "date": "2026-04-10T03:30:49.000Z",
+      "url": "http://arxiv.org/abs/2604.08920v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Dictionary-Aligned Concept Control for Safeguarding Multimodal LLMs",
+      "date": "2026-04-10T01:01:56.000Z",
+      "url": "http://arxiv.org/abs/2604.08846v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Lessons Without Borders? Evaluating Cultural Alignment of LLMs Using Multilingual Story Moral Generation",
+      "date": "2026-04-09T22:13:24.000Z",
+      "url": "http://arxiv.org/abs/2604.08797v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "MT-OSC: Path for LLMs that Get Lost in Multi-Turn Conversation",
+      "date": "2026-04-09T21:39:20.000Z",
+      "url": "http://arxiv.org/abs/2604.08782v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Cards Against LLMs: Benchmarking Humor Alignment in Large Language Models",
+      "date": "2026-04-09T20:42:49.000Z",
+      "url": "http://arxiv.org/abs/2604.08757v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLMs Underperform Graph-Based Parsers on Supervised Relation Extraction for Complex Graphs",
+      "date": "2026-04-09T20:34:33.000Z",
+      "url": "http://arxiv.org/abs/2604.08752v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Every Response Counts: Quantifying Uncertainty of LLM-based Multi-Agent Systems through Tensor Decomposition",
+      "date": "2026-04-09T19:01:50.000Z",
+      "url": "http://arxiv.org/abs/2604.08708v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "SUPERNOVA: Eliciting General Reasoning in LLMs with Reinforcement Learning on Natural Instructions",
+      "date": "2026-04-09T17:16:07.000Z",
+      "url": "http://arxiv.org/abs/2604.08477v1",
+      "source": "arxiv"
+    },
     {
       "title": "Verify Before You Commit: Towards Faithful Reasoning in LLM Agents via Self-Auditing",
       "date": "2026-04-09T16:01:03.000Z",
@@ -31,96 +121,6 @@
       "title": "Initialisation Determines the Basin: Efficient Codebook Optimisation for Extreme LLM Quantization",
       "date": "2026-04-09T11:38:24.000Z",
       "url": "http://arxiv.org/abs/2604.08118v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Dual-Pool Token-Budget Routing for Cost-Efficient and Reliable LLM Serving",
-      "date": "2026-04-09T10:47:20.000Z",
-      "url": "http://arxiv.org/abs/2604.08075v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Rethinking Entropy Allocation in LLM-based ASR: Understanding the Dynamics between Speech Encoders and LLMs",
-      "date": "2026-04-09T09:07:52.000Z",
-      "url": "http://arxiv.org/abs/2604.08003v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "A Decomposition Perspective to Long-context Reasoning for LLMs",
-      "date": "2026-04-09T08:51:47.000Z",
-      "url": "http://arxiv.org/abs/2604.07981v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "HCRE: LLM-based Hierarchical Classification for Cross-Document Relation Extraction with a Prediction-then-Verification Strategy",
-      "date": "2026-04-09T07:55:27.000Z",
-      "url": "http://arxiv.org/abs/2604.07937v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Why Are We Lonely? Leveraging LLMs to Measure and Understand Loneliness in Caregivers and Non-caregivers",
-      "date": "2026-04-09T05:35:12.000Z",
-      "url": "http://arxiv.org/abs/2604.07834v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "More Capable, Less Cooperative? When LLMs Fail At Zero-Cost Collaboration",
-      "date": "2026-04-09T05:24:27.000Z",
-      "url": "http://arxiv.org/abs/2604.07821v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "AsyncTLS: Efficient Generative LLM Inference with Asynchronous Two-level Sparse Attention",
-      "date": "2026-04-09T05:15:16.000Z",
-      "url": "http://arxiv.org/abs/2604.07815v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "The Art of (Mis)alignment: How Fine-Tuning Methods Effectively Misalign and Realign LLMs in Post-Training",
-      "date": "2026-04-09T03:20:29.000Z",
-      "url": "http://arxiv.org/abs/2604.07754v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "SepSeq: A Training-Free Framework for Long Numerical Sequence Processing in LLMs",
-      "date": "2026-04-09T02:40:34.000Z",
-      "url": "http://arxiv.org/abs/2604.07737v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Efficient and Effective Internal Memory Retrieval for LLM-Based Healthcare Prediction",
-      "date": "2026-04-08T23:56:05.000Z",
-      "url": "http://arxiv.org/abs/2604.07659v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Guardian-as-an-Advisor: Advancing Next-Generation Guardian Models for Trustworthy LLMs",
-      "date": "2026-04-08T23:47:29.000Z",
-      "url": "http://arxiv.org/abs/2604.07655v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Learning is Forgetting: LLM Training As Lossy Compression",
-      "date": "2026-04-08T20:12:07.000Z",
-      "url": "http://arxiv.org/abs/2604.07569v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Reasoning-Based Refinement of Unsupervised Text Clusters with LLMs",
-      "date": "2026-04-08T20:02:48.000Z",
-      "url": "http://arxiv.org/abs/2604.07562v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "EMSDialog: Synthetic Multi-person Emergency Medical Service Dialogue Generation from Electronic Patient Care Reports via Multi-LLM Agents",
-      "date": "2026-04-08T19:52:51.000Z",
-      "url": "http://arxiv.org/abs/2604.07549v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Cross-Tokenizer LLM Distillation through a Byte-Level Interface",
-      "date": "2026-04-08T18:05:38.000Z",
-      "url": "http://arxiv.org/abs/2604.07466v1",
       "source": "arxiv"
     }
   ],
