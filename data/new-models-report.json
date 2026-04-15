@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-04-14T10:14:09.233Z",
+  "timestamp": "2026-04-15T10:15:18.646Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
-      "title": "Psychological Concept Neurons: Can Neural Control Bias Probing and Shift Generation in LLMs?",
-      "date": "2026-04-13T17:58:49.000Z",
-      "url": "http://arxiv.org/abs/2604.11802v1",
+      "title": "Growing Pains: Extensible and Efficient LLM Benchmarking Via Fixed Parameter Calibration",
+      "date": "2026-04-14T15:01:29.000Z",
+      "url": "http://arxiv.org/abs/2604.12843v1",
       "source": "arxiv"
     },
     {
-      "title": "Evaluating Cooperation in LLM Social Groups through Elected Leadership",
-      "date": "2026-04-13T16:57:11.000Z",
-      "url": "http://arxiv.org/abs/2604.11721v1",
+      "title": "The role of System 1 and System 2 semantic memory structure in human and LLM biases",
+      "date": "2026-04-14T14:43:39.000Z",
+      "url": "http://arxiv.org/abs/2604.12816v1",
       "source": "arxiv"
     },
     {
-      "title": "RPA-Check: A Multi-Stage Automated Framework for Evaluating Dynamic LLM-based Role-Playing Agents",
-      "date": "2026-04-13T16:08:03.000Z",
-      "url": "http://arxiv.org/abs/2604.11655v1",
+      "title": "Teaching LLMs Human-Like Editing of Inappropriate Argumentation via Reinforcement Learning",
+      "date": "2026-04-14T14:10:55.000Z",
+      "url": "http://arxiv.org/abs/2604.12770v1",
       "source": "arxiv"
     },
     {
-      "title": "Self-Evolving LLM Memory Extraction Across Heterogeneous Tasks",
-      "date": "2026-04-13T15:15:54.000Z",
-      "url": "http://arxiv.org/abs/2604.11610v1",
+      "title": "InsightFlow: LLM-Driven Synthesis of Patient Narratives for Mental Health into Causal Models",
+      "date": "2026-04-14T13:36:18.000Z",
+      "url": "http://arxiv.org/abs/2604.12721v1",
       "source": "arxiv"
     },
     {
-      "title": "Decomposing and Reducing Hidden Measurement Error in LLM Evaluation Pipelines",
-      "date": "2026-04-13T14:58:15.000Z",
-      "url": "http://arxiv.org/abs/2604.11581v1",
+      "title": "RPRA: Predicting an LLM-Judge for Efficient but Performant Inference",
+      "date": "2026-04-14T12:04:21.000Z",
+      "url": "http://arxiv.org/abs/2604.12634v1",
       "source": "arxiv"
     },
     {
-      "title": "Policy Split: Incentivizing Dual-Mode Exploration in LLM Reinforcement with Dual-Mode Entropy Regularization",
-      "date": "2026-04-13T14:13:06.000Z",
-      "url": "http://arxiv.org/abs/2604.11510v1",
+      "title": "Transforming External Knowledge into Triplets for Enhanced Retrieval in RAG of LLMs",
+      "date": "2026-04-14T11:36:29.000Z",
+      "url": "http://arxiv.org/abs/2604.12610v1",
       "source": "arxiv"
     },
     {
-      "title": "Low-rank Optimization Trajectories Modeling for LLM RLVR Acceleration",
-      "date": "2026-04-13T13:28:12.000Z",
-      "url": "http://arxiv.org/abs/2604.11446v1",
+      "title": "When Does Data Augmentation Help? Evaluating LLM and Back-Translation Methods for Hausa and Fongbe NLP",
+      "date": "2026-04-14T10:14:58.000Z",
+      "url": "http://arxiv.org/abs/2604.12540v1",
       "source": "arxiv"
     },
     {
-      "title": "Do LLMs Know Tool Irrelevance? Demystifying Structural Alignment Bias in Tool Invocations",
-      "date": "2026-04-13T11:23:36.000Z",
-      "url": "http://arxiv.org/abs/2604.11322v1",
+      "title": "From Myopic Selection to Long-Horizon Awareness: Sequential LLM Routing for Multi-Turn Dialogue",
+      "date": "2026-04-14T07:18:06.000Z",
+      "url": "http://arxiv.org/abs/2604.12385v1",
       "source": "arxiv"
     },
     {
-      "title": "The Salami Slicing Threat: Exploiting Cumulative Risks in LLM Systems",
-      "date": "2026-04-13T11:12:30.000Z",
-      "url": "http://arxiv.org/abs/2604.11309v1",
+      "title": "ReasonXL: Shifting LLM Reasoning Language Without Sacrificing Performance",
+      "date": "2026-04-14T07:10:46.000Z",
+      "url": "http://arxiv.org/abs/2604.12378v1",
       "source": "arxiv"
     },
     {
-      "title": "Sign Language Recognition in the Age of LLMs",
-      "date": "2026-04-13T09:26:16.000Z",
-      "url": "http://arxiv.org/abs/2604.11225v1",
+      "title": "Cooperative Memory Paging with Keyword Bookmarks for Long-Horizon LLM Conversations",
+      "date": "2026-04-14T07:06:35.000Z",
+      "url": "http://arxiv.org/abs/2604.12376v1",
       "source": "arxiv"
     },
     {
-      "title": "Exploring Knowledge Conflicts for Faithful LLM Reasoning: Benchmark and Method",
-      "date": "2026-04-13T09:05:04.000Z",
-      "url": "http://arxiv.org/abs/2604.11209v1",
+      "title": "Masked by Consensus: Disentangling Privileged Knowledge in LLM Correctness",
+      "date": "2026-04-14T07:00:01.000Z",
+      "url": "http://arxiv.org/abs/2604.12373v1",
       "source": "arxiv"
     },
     {
-      "title": "A Systematic Analysis of the Impact of Persona Steering on LLM Capabilities",
-      "date": "2026-04-13T06:24:25.000Z",
-      "url": "http://arxiv.org/abs/2604.11048v1",
+      "title": "CompliBench: Benchmarking LLM Judges for Compliance Violation Detection in Dialogue Systems",
+      "date": "2026-04-14T05:42:41.000Z",
+      "url": "http://arxiv.org/abs/2604.12312v1",
       "source": "arxiv"
     },
     {
-      "title": "When Valid Signals Fail: Regime Boundaries Between LLM Features and RL Trading Policies",
-      "date": "2026-04-13T04:53:06.000Z",
-      "url": "http://arxiv.org/abs/2604.10996v1",
+      "title": "CodeSpecBench: Benchmarking LLMs for Executable Behavioral Specification Generation",
+      "date": "2026-04-14T04:31:45.000Z",
+      "url": "http://arxiv.org/abs/2604.12268v1",
       "source": "arxiv"
     },
     {
-      "title": "Back to the Barn with LLAMAs: Evolving Pretrained LLM Backbones in Finetuning Vision Language Models",
-      "date": "2026-04-13T04:44:42.000Z",
-      "url": "http://arxiv.org/abs/2604.10985v1",
+      "title": "CascadeDebate: Multi-Agent Deliberation for Cost-Aware LLM Cascades",
+      "date": "2026-04-14T04:26:39.000Z",
+      "url": "http://arxiv.org/abs/2604.12262v1",
       "source": "arxiv"
     },
     {
-      "title": "HTAA: Enhancing LLM Planning via Hybrid Toolset Agentization &amp; Adaptation",
-      "date": "2026-04-13T02:33:50.000Z",
-      "url": "http://arxiv.org/abs/2604.10917v1",
+      "title": "How memory can affect collective and cooperative behaviors in an LLM-Based Social Particle Swarm",
+      "date": "2026-04-14T03:54:49.000Z",
+      "url": "http://arxiv.org/abs/2604.12250v1",
       "source": "arxiv"
     },
     {
-      "title": "Bringing Value Models Back: Generative Critics for Value Modeling in LLM Reinforcement Learning",
-      "date": "2026-04-12T15:54:11.000Z",
-      "url": "http://arxiv.org/abs/2604.10701v1",
+      "title": "Designing Reliable LLM-Assisted Rubric Scoring for Constructed Responses: Evidence from Physics Exams",
+      "date": "2026-04-14T03:04:44.000Z",
+      "url": "http://arxiv.org/abs/2604.12227v1",
       "source": "arxiv"
     },
     {
-      "title": "Skill-SD: Skill-Conditioned Self-Distillation for Multi-turn LLM Agents",
-      "date": "2026-04-12T14:57:52.000Z",
-      "url": "http://arxiv.org/abs/2604.10674v1",
+      "title": "LLM-Guided Semantic Bootstrapping for Interpretable Text Classification with Tsetlin Machines",
+      "date": "2026-04-14T03:02:25.000Z",
+      "url": "http://arxiv.org/abs/2604.12223v1",
       "source": "arxiv"
     },
     {
-      "title": "Learning and Enforcing Context-Sensitive Control for LLMs",
-      "date": "2026-04-12T14:50:03.000Z",
-      "url": "http://arxiv.org/abs/2604.10667v1",
+      "title": "AgenticAI-DialogGen: Topic-Guided Conversation Generation for Fine-Tuning and Evaluating Short- and Long-Term Memories of LLMs",
+      "date": "2026-04-14T01:17:24.000Z",
+      "url": "http://arxiv.org/abs/2604.12179v1",
       "source": "arxiv"
     },
     {
-      "title": "ProUIE: A Macro-to-Micro Progressive Learning Method for LLM-based Universal Information Extraction",
-      "date": "2026-04-12T13:20:58.000Z",
-      "url": "http://arxiv.org/abs/2604.10633v1",
+      "title": "Policy-Invisible Violations in LLM-Based Agents",
+      "date": "2026-04-14T01:15:15.000Z",
+      "url": "http://arxiv.org/abs/2604.12177v1",
       "source": "arxiv"
     },
     {
-      "title": "Bridging Linguistic Gaps: Cross-Lingual Mapping in Pre-Training and Dataset for Enhanced Multilingual LLM Performance",
-      "date": "2026-04-12T11:43:25.000Z",
-      "url": "http://arxiv.org/abs/2604.10590v1",
+      "title": "Temporal Flattening in LLM-Generated Text: Comparing Human and LLM Writing Trajectories",
+      "date": "2026-04-13T22:13:41.000Z",
+      "url": "http://arxiv.org/abs/2604.12097v1",
       "source": "arxiv"
     }
   ],
