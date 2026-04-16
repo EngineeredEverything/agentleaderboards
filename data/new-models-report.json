@@ -1,12 +1,84 @@
 {
-  "timestamp": "2026-04-15T10:15:18.646Z",
+  "timestamp": "2026-04-16T10:13:47.994Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
+      "title": "From Feelings to Metrics: Understanding and Formalizing How Users Vibe-Test LLMs",
+      "date": "2026-04-15T17:57:08.000Z",
+      "url": "http://arxiv.org/abs/2604.14137v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Rhetorical Questions in LLM Representations: A Linear Probing Study",
+      "date": "2026-04-15T17:50:56.000Z",
+      "url": "http://arxiv.org/abs/2604.14128v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "TREX: Automating LLM Fine-tuning via Agent-Driven Tree-based Exploration",
+      "date": "2026-04-15T17:38:06.000Z",
+      "url": "http://arxiv.org/abs/2604.14116v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Interpretable Stylistic Variation in Human and LLM Writing Across Genres, Models, and Decoding Strategies",
+      "date": "2026-04-15T17:31:21.000Z",
+      "url": "http://arxiv.org/abs/2604.14111v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Leveraging LLM-GNN Integration for Open-World Question Answering over Knowledge Graphs",
+      "date": "2026-04-15T15:25:25.000Z",
+      "url": "http://arxiv.org/abs/2604.13979v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Do We Still Need Humans in the Loop? Comparing Human and LLM Annotation in Active Learning for Hostility Detection",
+      "date": "2026-04-15T14:10:58.000Z",
+      "url": "http://arxiv.org/abs/2604.13899v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "QuantileMark: A Message-Symmetric Multi-bit Watermark for LLMs",
+      "date": "2026-04-15T12:22:40.000Z",
+      "url": "http://arxiv.org/abs/2604.13786v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "An Empirical Investigation of Practical LLM-as-a-Judge Improvement Techniques on RewardBench 2",
+      "date": "2026-04-15T10:52:33.000Z",
+      "url": "http://arxiv.org/abs/2604.13717v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "YOCO++: Enhancing YOCO with KV Residual Connections for Efficient LLM Inference",
+      "date": "2026-04-15T07:05:14.000Z",
+      "url": "http://arxiv.org/abs/2604.13556v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Using reasoning LLMs to extract SDOH events from clinical notes",
+      "date": "2026-04-15T05:40:24.000Z",
+      "url": "http://arxiv.org/abs/2604.13502v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "English is Not All You Need: Systematically Exploring the Role of Multilinguality in LLM Post-Training",
+      "date": "2026-04-14T20:26:34.000Z",
+      "url": "http://arxiv.org/abs/2604.13286v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Hessian-Enhanced Token Attribution (HETA): Interpreting Autoregressive LLMs",
+      "date": "2026-04-14T19:43:43.000Z",
+      "url": "http://arxiv.org/abs/2604.13258v1",
+      "source": "arxiv"
+    },
+    {
       "title": "Growing Pains: Extensible and Efficient LLM Benchmarking Via Fixed Parameter Calibration",
       "date": "2026-04-14T15:01:29.000Z",
-      "url": "http://arxiv.org/abs/2604.12843v1",
+      "url": "http://arxiv.org/abs/2604.12843v2",
       "source": "arxiv"
     },
     {
@@ -49,78 +121,6 @@
       "title": "From Myopic Selection to Long-Horizon Awareness: Sequential LLM Routing for Multi-Turn Dialogue",
       "date": "2026-04-14T07:18:06.000Z",
       "url": "http://arxiv.org/abs/2604.12385v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "ReasonXL: Shifting LLM Reasoning Language Without Sacrificing Performance",
-      "date": "2026-04-14T07:10:46.000Z",
-      "url": "http://arxiv.org/abs/2604.12378v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Cooperative Memory Paging with Keyword Bookmarks for Long-Horizon LLM Conversations",
-      "date": "2026-04-14T07:06:35.000Z",
-      "url": "http://arxiv.org/abs/2604.12376v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Masked by Consensus: Disentangling Privileged Knowledge in LLM Correctness",
-      "date": "2026-04-14T07:00:01.000Z",
-      "url": "http://arxiv.org/abs/2604.12373v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "CompliBench: Benchmarking LLM Judges for Compliance Violation Detection in Dialogue Systems",
-      "date": "2026-04-14T05:42:41.000Z",
-      "url": "http://arxiv.org/abs/2604.12312v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "CodeSpecBench: Benchmarking LLMs for Executable Behavioral Specification Generation",
-      "date": "2026-04-14T04:31:45.000Z",
-      "url": "http://arxiv.org/abs/2604.12268v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "CascadeDebate: Multi-Agent Deliberation for Cost-Aware LLM Cascades",
-      "date": "2026-04-14T04:26:39.000Z",
-      "url": "http://arxiv.org/abs/2604.12262v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "How memory can affect collective and cooperative behaviors in an LLM-Based Social Particle Swarm",
-      "date": "2026-04-14T03:54:49.000Z",
-      "url": "http://arxiv.org/abs/2604.12250v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Designing Reliable LLM-Assisted Rubric Scoring for Constructed Responses: Evidence from Physics Exams",
-      "date": "2026-04-14T03:04:44.000Z",
-      "url": "http://arxiv.org/abs/2604.12227v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLM-Guided Semantic Bootstrapping for Interpretable Text Classification with Tsetlin Machines",
-      "date": "2026-04-14T03:02:25.000Z",
-      "url": "http://arxiv.org/abs/2604.12223v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "AgenticAI-DialogGen: Topic-Guided Conversation Generation for Fine-Tuning and Evaluating Short- and Long-Term Memories of LLMs",
-      "date": "2026-04-14T01:17:24.000Z",
-      "url": "http://arxiv.org/abs/2604.12179v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Policy-Invisible Violations in LLM-Based Agents",
-      "date": "2026-04-14T01:15:15.000Z",
-      "url": "http://arxiv.org/abs/2604.12177v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Temporal Flattening in LLM-Generated Text: Comparing Human and LLM Writing Trajectories",
-      "date": "2026-04-13T22:13:41.000Z",
-      "url": "http://arxiv.org/abs/2604.12097v1",
       "source": "arxiv"
     }
   ],
