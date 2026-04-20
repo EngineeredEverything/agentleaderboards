@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-04-19T09:44:26.914Z",
+  "timestamp": "2026-04-20T10:46:22.100Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
-      "title": "Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations",
-      "date": "2026-04-16T17:58:21.000Z",
-      "url": "http://arxiv.org/abs/2604.15302v1",
+      "title": "No Universal Courtesy: A Cross-Linguistic, Multi-Model Study of Politeness Effects on LLMs Using the PLUM Corpus",
+      "date": "2026-04-17T17:33:48.000Z",
+      "url": "http://arxiv.org/abs/2604.16275v1",
       "source": "arxiv"
     },
     {
-      "title": "CoopEval: Benchmarking Cooperation-Sustaining Mechanisms and LLM Agents in Social Dilemmas",
-      "date": "2026-04-16T17:40:30.000Z",
-      "url": "http://arxiv.org/abs/2604.15267v1",
+      "title": "From Benchmarking to Reasoning: A Dual-Aspect, Large-Scale Evaluation of LLMs on Vietnamese Legal Text",
+      "date": "2026-04-17T17:28:23.000Z",
+      "url": "http://arxiv.org/abs/2604.16270v1",
       "source": "arxiv"
     },
     {
-      "title": "DiscoTrace: Representing and Comparing Answering Strategies of Humans and LLMs in Information-Seeking Question Answering",
-      "date": "2026-04-16T15:17:36.000Z",
-      "url": "http://arxiv.org/abs/2604.15140v1",
+      "title": "SwanNLP at SemEval-2026 Task 5: An LLM-based Framework for Plausibility Scoring in Narrative Word Sense Disambiguation",
+      "date": "2026-04-17T17:18:51.000Z",
+      "url": "http://arxiv.org/abs/2604.16262v1",
       "source": "arxiv"
     },
     {
-      "title": "Route to Rome Attack: Directing LLM Routers to Expensive Models via Adversarial Suffix Optimization",
-      "date": "2026-04-16T13:51:48.000Z",
-      "url": "http://arxiv.org/abs/2604.15022v1",
+      "title": "Optimizing Korean-Centric LLMs via Token Pruning",
+      "date": "2026-04-17T16:53:14.000Z",
+      "url": "http://arxiv.org/abs/2604.16235v1",
       "source": "arxiv"
     },
     {
-      "title": "Segment-Level Coherence for Robust Harmful Intent Probing in LLMs",
-      "date": "2026-04-16T10:56:40.000Z",
-      "url": "http://arxiv.org/abs/2604.14865v1",
+      "title": "Beyond Surface Statistics: Robust Conformal Prediction for LLMs via Internal Representations",
+      "date": "2026-04-17T16:28:31.000Z",
+      "url": "http://arxiv.org/abs/2604.16217v1",
       "source": "arxiv"
     },
     {
-      "title": "Exploring and Testing Skill-Based Behavioral Profile Annotation: Human Operability and LLM Feasibility under Schema-Guided Execution",
-      "date": "2026-04-16T10:25:12.000Z",
-      "url": "http://arxiv.org/abs/2604.14843v1",
+      "title": "Can LLMs Understand the Impact of Trauma? Costs and Benefits of LLMs Coding the Interviews of Firearm Violence Survivors",
+      "date": "2026-04-17T15:07:27.000Z",
+      "url": "http://arxiv.org/abs/2604.16132v1",
       "source": "arxiv"
     },
     {
-      "title": "Modeling LLM Unlearning as an Asymmetric Two-Task Learning Problem",
-      "date": "2026-04-16T09:31:36.000Z",
-      "url": "http://arxiv.org/abs/2604.14808v1",
+      "title": "LLMSniffer: Detecting LLM-Generated Code via GraphCodeBERT and Supervised Contrastive Learning",
+      "date": "2026-04-17T13:32:25.000Z",
+      "url": "http://arxiv.org/abs/2604.16058v1",
       "source": "arxiv"
     },
     {
-      "title": "The LLM Fallacy: Misattribution in AI-Assisted Cognitive Workflows",
-      "date": "2026-04-16T09:30:28.000Z",
-      "url": "http://arxiv.org/abs/2604.14807v1",
+      "title": "Polarization by Default: Auditing Recommendation Bias in LLM-Based Content Curation",
+      "date": "2026-04-17T10:55:21.000Z",
+      "url": "http://arxiv.org/abs/2604.15937v1",
       "source": "arxiv"
     },
     {
-      "title": "CAMO: An Agentic Framework for Automated Causal Discovery from Micro Behaviors to Macro Emergence in LLM Agent Simulations",
-      "date": "2026-04-16T06:49:25.000Z",
-      "url": "http://arxiv.org/abs/2604.14691v1",
+      "title": "Experience Compression Spectrum: Unifying Memory, Skills, and Rules in LLM Agents",
+      "date": "2026-04-17T09:26:25.000Z",
+      "url": "http://arxiv.org/abs/2604.15877v1",
       "source": "arxiv"
     },
     {
-      "title": "CURaTE: Continual Unlearning in Real Time with Ensured Preservation of LLM Knowledge",
-      "date": "2026-04-16T05:49:10.000Z",
-      "url": "http://arxiv.org/abs/2604.14644v1",
+      "title": "How Hypocritical Is Your LLM judge? Listener-Speaker Asymmetries in the Pragmatic Competence of Large Language Models",
+      "date": "2026-04-17T09:22:16.000Z",
+      "url": "http://arxiv.org/abs/2604.15873v1",
       "source": "arxiv"
     },
     {
-      "title": "StoryCoder: Narrative Reformulation for Structured Reasoning in LLM Code Generation",
-      "date": "2026-04-16T05:19:48.000Z",
-      "url": "http://arxiv.org/abs/2604.14631v1",
+      "title": "Disentangling Mathematical Reasoning in LLMs: A Methodological Investigation of Internal Mechanisms",
+      "date": "2026-04-17T08:44:36.000Z",
+      "url": "http://arxiv.org/abs/2604.15842v1",
       "source": "arxiv"
     },
     {
-      "title": "Mechanistic Decoding of Cognitive Constructs in LLMs",
-      "date": "2026-04-16T03:54:03.000Z",
-      "url": "http://arxiv.org/abs/2604.14593v1",
+      "title": "Exploring the Capability Boundaries of LLMs in Mastering of Chinese Chouxiang Language",
+      "date": "2026-04-17T08:42:34.000Z",
+      "url": "http://arxiv.org/abs/2604.15841v1",
       "source": "arxiv"
     },
     {
-      "title": "The Autocorrelation Blind Spot: Why 42% of Turn-Level Findings in LLM Conversation Analysis May Be Spurious",
-      "date": "2026-04-15T20:54:39.000Z",
-      "url": "http://arxiv.org/abs/2604.14414v1",
+      "title": "CoEvolve: Training LLM Agents via Agent-Data Mutual Evolution",
+      "date": "2026-04-17T08:41:26.000Z",
+      "url": "http://arxiv.org/abs/2604.15840v1",
       "source": "arxiv"
     },
     {
-      "title": "Faithfulness Serum: Mitigating the Faithfulness Gap in Textual Explanations of LLM Decisions via Attribution Guidance",
-      "date": "2026-04-15T18:32:32.000Z",
-      "url": "http://arxiv.org/abs/2604.14325v1",
+      "title": "Self-Distillation as a Performance Recovery Mechanism for LLMs: Counteracting Compression and Catastrophic Forgetting",
+      "date": "2026-04-17T07:55:38.000Z",
+      "url": "http://arxiv.org/abs/2604.15794v1",
       "source": "arxiv"
     },
     {
-      "title": "LLM Predictive Scoring and Validation: Inferring Experience Ratings from Unstructured Text",
-      "date": "2026-04-15T18:23:28.000Z",
-      "url": "http://arxiv.org/abs/2604.14321v1",
+      "title": "Pruning Unsafe Tickets: A Resource-Efficient Framework for Safer and More Robust LLMs",
+      "date": "2026-04-17T07:37:41.000Z",
+      "url": "http://arxiv.org/abs/2604.15780v1",
       "source": "arxiv"
     },
     {
-      "title": "From Feelings to Metrics: Understanding and Formalizing How Users Vibe-Test LLMs",
-      "date": "2026-04-15T17:57:08.000Z",
-      "url": "http://arxiv.org/abs/2604.14137v2",
+      "title": "MemEvoBench: Benchmarking Memory MisEvolution in LLM Agents",
+      "date": "2026-04-17T07:29:52.000Z",
+      "url": "http://arxiv.org/abs/2604.15774v1",
       "source": "arxiv"
     },
     {
-      "title": "Rhetorical Questions in LLM Representations: A Linear Probing Study",
-      "date": "2026-04-15T17:50:56.000Z",
-      "url": "http://arxiv.org/abs/2604.14128v1",
+      "title": "The Metacognitive Monitoring Battery: A Cross-Domain Benchmark for LLM Self-Monitoring",
+      "date": "2026-04-17T05:15:15.000Z",
+      "url": "http://arxiv.org/abs/2604.15702v1",
       "source": "arxiv"
     },
     {
-      "title": "TREX: Automating LLM Fine-tuning via Agent-Driven Tree-based Exploration",
-      "date": "2026-04-15T17:38:06.000Z",
-      "url": "http://arxiv.org/abs/2604.14116v1",
+      "title": "Faster LLM Inference via Sequential Monte Carlo",
+      "date": "2026-04-17T03:52:23.000Z",
+      "url": "http://arxiv.org/abs/2604.15672v1",
       "source": "arxiv"
     },
     {
-      "title": "Interpretable Stylistic Variation in Human and LLM Writing Across Genres, Models, and Decoding Strategies",
-      "date": "2026-04-15T17:31:21.000Z",
-      "url": "http://arxiv.org/abs/2604.14111v1",
+      "title": "LLMs Corrupt Your Documents When You Delegate",
+      "date": "2026-04-17T00:33:32.000Z",
+      "url": "http://arxiv.org/abs/2604.15597v1",
       "source": "arxiv"
     },
     {
-      "title": "Leveraging LLM-GNN Integration for Open-World Question Answering over Knowledge Graphs",
-      "date": "2026-04-15T15:25:25.000Z",
-      "url": "http://arxiv.org/abs/2604.13979v1",
+      "title": "LLM attribution analysis across different fine-tuning strategies and model scales for automated code compliance",
+      "date": "2026-04-16T23:54:26.000Z",
+      "url": "http://arxiv.org/abs/2604.15589v1",
       "source": "arxiv"
     }
   ],
