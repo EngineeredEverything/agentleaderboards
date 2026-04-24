@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-04-23T10:20:24.294Z",
+  "timestamp": "2026-04-24T10:19:12.083Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
+      "title": "MathDuels: Evaluating LLMs as Problem Posers and Solvers",
+      "date": "2026-04-23T17:57:46.000Z",
+      "url": "http://arxiv.org/abs/2604.21916v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Why are all LLMs Obsessed with Japanese Culture? On the Hidden Cultural and Regional Biases of LLMs",
+      "date": "2026-04-23T15:00:05.000Z",
+      "url": "http://arxiv.org/abs/2604.21751v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "StructMem: Structured Memory for Long-Horizon Behavior in LLMs",
+      "date": "2026-04-23T14:57:23.000Z",
+      "url": "http://arxiv.org/abs/2604.21748v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Stealthy Backdoor Attacks against LLMs Based on Natural Style Triggers",
+      "date": "2026-04-23T14:08:53.000Z",
+      "url": "http://arxiv.org/abs/2604.21700v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Measuring Opinion Bias and Sycophancy via LLM-based Coercion",
+      "date": "2026-04-23T11:34:06.000Z",
+      "url": "http://arxiv.org/abs/2604.21564v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Job Skill Extraction via LLM-Centric Multi-Module Framework",
+      "date": "2026-04-23T10:46:07.000Z",
+      "url": "http://arxiv.org/abs/2604.21525v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Reasoning Primitives in Hybrid and Non-Hybrid LLMs",
+      "date": "2026-04-23T09:13:28.000Z",
+      "url": "http://arxiv.org/abs/2604.21454v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "mcdok at SemEval-2026 Task 13: Finetuning LLMs for Detection of Machine-Generated Code",
+      "date": "2026-04-23T07:29:06.000Z",
+      "url": "http://arxiv.org/abs/2604.21365v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "ReaGeo: Reasoning-Enhanced End-to-End Geocoding with LLMs",
+      "date": "2026-04-23T07:18:21.000Z",
+      "url": "http://arxiv.org/abs/2604.21357v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Ideological Bias in LLMs' Economic Causal Reasoning",
+      "date": "2026-04-23T06:45:36.000Z",
+      "url": "http://arxiv.org/abs/2604.21334v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "CI-Work: Benchmarking Contextual Integrity in Enterprise LLM Agents",
+      "date": "2026-04-23T06:00:22.000Z",
+      "url": "http://arxiv.org/abs/2604.21308v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Spatial Metaphors for LLM Memory: A Critical Analysis of the MemPalace Architecture",
+      "date": "2026-04-23T04:59:16.000Z",
+      "url": "http://arxiv.org/abs/2604.21284v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Do LLM Decoders Listen Fairly? Benchmarking How Language Model Priors Shape Bias in Speech Recognition",
+      "date": "2026-04-23T04:40:58.000Z",
+      "url": "http://arxiv.org/abs/2604.21276v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Zero-Shot Detection of LLM-Generated Text via Implicit Reward Model",
+      "date": "2026-04-23T02:37:34.000Z",
+      "url": "http://arxiv.org/abs/2604.21223v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Adaptive Instruction Composition for Automated LLM Red-Teaming",
+      "date": "2026-04-22T23:55:32.000Z",
+      "url": "http://arxiv.org/abs/2604.21159v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Dialect vs Demographics: Quantifying LLM Bias from Implicit Linguistic Signals vs. Explicit User Profiles",
+      "date": "2026-04-22T23:33:18.000Z",
+      "url": "http://arxiv.org/abs/2604.21152v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Slot Machines: How LLMs Keep Track of Multiple Entities",
+      "date": "2026-04-22T23:00:49.000Z",
+      "url": "http://arxiv.org/abs/2604.21139v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Propensity Inference: Environmental Contributors to LLM Behaviour",
+      "date": "2026-04-22T21:35:27.000Z",
+      "url": "http://arxiv.org/abs/2604.21098v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Serialisation Strategy Matters: How FHIR Data Format Affects LLM Medication Reconciliation",
+      "date": "2026-04-22T20:39:35.000Z",
+      "url": "http://arxiv.org/abs/2604.21076v1",
+      "source": "arxiv"
+    },
+    {
       "title": "Can \"AI\" Be a Doctor? A Study of Empathy, Readability, and Alignment in Clinical LLMs",
       "date": "2026-04-22T17:17:27.000Z",
       "url": "http://arxiv.org/abs/2604.20791v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Anchor-and-Resume Concession Under Dynamic Pricing for LLM-Augmented Freight Negotiation",
-      "date": "2026-04-22T16:17:07.000Z",
-      "url": "http://arxiv.org/abs/2604.20732v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Exploiting LLM-as-a-Judge Disposition on Free Text Legal QA via Prompt Optimization",
-      "date": "2026-04-22T16:12:36.000Z",
-      "url": "http://arxiv.org/abs/2604.20726v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Cooperative Profiles Predict Multi-Agent LLM Team Performance in AI for Science Workflows",
-      "date": "2026-04-22T15:07:54.000Z",
-      "url": "http://arxiv.org/abs/2604.20658v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Trust, Lies, and Long Memories: Emergent Social Dynamics and Reputation in Multi-Round Avalon with LLM Agents",
-      "date": "2026-04-22T14:00:56.000Z",
-      "url": "http://arxiv.org/abs/2604.20582v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Where Reasoning Breaks: Logic-Aware Path Selection by Controlling Logical Connectives in LLMs Reasoning Chains",
-      "date": "2026-04-22T13:45:27.000Z",
-      "url": "http://arxiv.org/abs/2604.20564v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLM StructCore: Schema-Guided Reasoning Condensation and Deterministic Compilation",
-      "date": "2026-04-22T13:42:00.000Z",
-      "url": "http://arxiv.org/abs/2604.20560v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Knowledge Capsules: Structured Nonparametric Memory Units for LLMs",
-      "date": "2026-04-22T12:21:00.000Z",
-      "url": "http://arxiv.org/abs/2604.20487v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Surrogate modeling for interpreting black-box LLMs in medical predictions",
-      "date": "2026-04-22T08:26:23.000Z",
-      "url": "http://arxiv.org/abs/2604.20331v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "ActuBench: A Multi-Agent LLM Pipeline for Generation and Evaluation of Actuarial Reasoning Tasks",
-      "date": "2026-04-22T07:20:03.000Z",
-      "url": "http://arxiv.org/abs/2604.20273v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Hybrid Policy Distillation for LLMs",
-      "date": "2026-04-22T06:46:22.000Z",
-      "url": "http://arxiv.org/abs/2604.20244v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Duluth at SemEval-2026 Task 6: DeBERTa with LLM-Augmented Data for Unmasking Political Question Evasions",
-      "date": "2026-04-22T04:18:14.000Z",
-      "url": "http://arxiv.org/abs/2604.20168v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Whose Story Gets Told? Positionality and Bias in LLM Summaries of Life Narratives",
-      "date": "2026-04-22T02:58:51.000Z",
-      "url": "http://arxiv.org/abs/2604.20131v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "TriEx: A Game-based Tri-View Framework for Explaining Internal Reasoning in Multi-Agent LLMs",
-      "date": "2026-04-21T22:55:57.000Z",
-      "url": "http://arxiv.org/abs/2604.20043v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Continuous Semantic Caching for Low-Cost LLM Serving",
-      "date": "2026-04-21T21:56:43.000Z",
-      "url": "http://arxiv.org/abs/2604.20021v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Bias in the Tails: How Name-conditioned Evaluative Framing in Resume Summaries Destabilizes LLM-based Hiring",
-      "date": "2026-04-21T20:47:21.000Z",
-      "url": "http://arxiv.org/abs/2604.19984v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Are LLM Uncertainty and Correctness Encoded by the Same Features? A Functional Dissociation via Sparse Autoencoders",
-      "date": "2026-04-21T20:34:14.000Z",
-      "url": "http://arxiv.org/abs/2604.19974v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "From Signal Degradation to Computation Collapse: Uncovering the Two Failure Modes of LLM Quantization",
-      "date": "2026-04-21T18:03:38.000Z",
-      "url": "http://arxiv.org/abs/2604.19884v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Discovering a Shared Logical Subspace: Steering LLM Logical Reasoning via Alignment of Natural-Language and Symbolic Views",
-      "date": "2026-04-21T17:42:54.000Z",
-      "url": "http://arxiv.org/abs/2604.19716v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "The signal is the ceiling: Measurement limits of LLM-predicted experience ratings from open-ended survey text",
-      "date": "2026-04-21T16:34:15.000Z",
-      "url": "http://arxiv.org/abs/2604.19645v1",
       "source": "arxiv"
     }
   ],
