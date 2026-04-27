@@ -1,8 +1,98 @@
 {
-  "timestamp": "2026-04-26T09:52:46.400Z",
+  "timestamp": "2026-04-27T11:01:41.813Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "Representational Harms in LLM-Generated Narratives Against Global Majority Nationalities",
+      "date": "2026-04-24T17:49:09.000Z",
+      "url": "http://arxiv.org/abs/2604.22749v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Dharma, Data and Deception: An LLM-Powered Rhetorical Analysis of Cow-Urine Health Claims on YouTube",
+      "date": "2026-04-24T14:31:53.000Z",
+      "url": "http://arxiv.org/abs/2604.22606v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Learning Evidence Highlighting for Frozen LLMs",
+      "date": "2026-04-24T13:57:19.000Z",
+      "url": "http://arxiv.org/abs/2604.22565v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Controllable Spoken Dialogue Generation: An LLM-Driven Grading System for K-12 Non-Native English Learners",
+      "date": "2026-04-24T13:33:12.000Z",
+      "url": "http://arxiv.org/abs/2604.22542v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "RouteLMT: Learned Sample Routing for Hybrid LLM Translation Deployment",
+      "date": "2026-04-24T13:02:45.000Z",
+      "url": "http://arxiv.org/abs/2604.22520v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "SSG: Logit-Balanced Vocabulary Partitioning for LLM Watermarking",
+      "date": "2026-04-24T10:55:50.000Z",
+      "url": "http://arxiv.org/abs/2604.22438v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Tell Me Why: Designing an Explainable LLM-based Dialogue System for Student Problem Behavior Diagnosis",
+      "date": "2026-04-24T05:23:25.000Z",
+      "url": "http://arxiv.org/abs/2604.22237v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Verbal Confidence Saturation in 3-9B Open-Weight Instruction-Tuned LLMs: A Pre-Registered Psychometric Validity Screen",
+      "date": "2026-04-24T04:45:21.000Z",
+      "url": "http://arxiv.org/abs/2604.22215v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Evaluating LLM-Based Goal Extraction in Requirements Engineering: Prompting Strategies and Their Limitations",
+      "date": "2026-04-24T04:22:17.000Z",
+      "url": "http://arxiv.org/abs/2604.22207v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Recognition Without Authorization: LLMs and the Moral Order of Online Advice",
+      "date": "2026-04-24T01:19:39.000Z",
+      "url": "http://arxiv.org/abs/2604.22143v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "SHAPE: Unifying Safety, Helpfulness and Pedagogy for Educational LLMs",
+      "date": "2026-04-24T00:39:08.000Z",
+      "url": "http://arxiv.org/abs/2604.22134v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "PermaFrost-Attack: Stealth Pretraining Seeding(SPS) for planting Logic Landmines During LLM Training",
+      "date": "2026-04-23T23:32:36.000Z",
+      "url": "http://arxiv.org/abs/2604.22117v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LayerBoost: Layer-Aware Attention Reduction for Efficient LLMs",
+      "date": "2026-04-23T20:12:19.000Z",
+      "url": "http://arxiv.org/abs/2604.22050v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Shared Lexical Task Representations Explain Behavioral Variability In LLMs",
+      "date": "2026-04-23T19:43:29.000Z",
+      "url": "http://arxiv.org/abs/2604.22027v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "When Cow Urine Cures Constipation on YouTube: Limits of LLMs in Detecting Culture-specific Health Misinformation",
+      "date": "2026-04-23T18:42:37.000Z",
+      "url": "http://arxiv.org/abs/2604.22002v1",
+      "source": "arxiv"
+    },
     {
       "title": "MathDuels: Evaluating LLMs as Problem Posers and Solvers",
       "date": "2026-04-23T17:57:46.000Z",
@@ -31,96 +121,6 @@
       "title": "Measuring Opinion Bias and Sycophancy via LLM-based Coercion",
       "date": "2026-04-23T11:34:06.000Z",
       "url": "http://arxiv.org/abs/2604.21564v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Job Skill Extraction via LLM-Centric Multi-Module Framework",
-      "date": "2026-04-23T10:46:07.000Z",
-      "url": "http://arxiv.org/abs/2604.21525v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Reasoning Primitives in Hybrid and Non-Hybrid LLMs",
-      "date": "2026-04-23T09:13:28.000Z",
-      "url": "http://arxiv.org/abs/2604.21454v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "mcdok at SemEval-2026 Task 13: Finetuning LLMs for Detection of Machine-Generated Code",
-      "date": "2026-04-23T07:29:06.000Z",
-      "url": "http://arxiv.org/abs/2604.21365v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "ReaGeo: Reasoning-Enhanced End-to-End Geocoding with LLMs",
-      "date": "2026-04-23T07:18:21.000Z",
-      "url": "http://arxiv.org/abs/2604.21357v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Ideological Bias in LLMs' Economic Causal Reasoning",
-      "date": "2026-04-23T06:45:36.000Z",
-      "url": "http://arxiv.org/abs/2604.21334v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "CI-Work: Benchmarking Contextual Integrity in Enterprise LLM Agents",
-      "date": "2026-04-23T06:00:22.000Z",
-      "url": "http://arxiv.org/abs/2604.21308v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Spatial Metaphors for LLM Memory: A Critical Analysis of the MemPalace Architecture",
-      "date": "2026-04-23T04:59:16.000Z",
-      "url": "http://arxiv.org/abs/2604.21284v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Do LLM Decoders Listen Fairly? Benchmarking How Language Model Priors Shape Bias in Speech Recognition",
-      "date": "2026-04-23T04:40:58.000Z",
-      "url": "http://arxiv.org/abs/2604.21276v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Zero-Shot Detection of LLM-Generated Text via Implicit Reward Model",
-      "date": "2026-04-23T02:37:34.000Z",
-      "url": "http://arxiv.org/abs/2604.21223v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Adaptive Instruction Composition for Automated LLM Red-Teaming",
-      "date": "2026-04-22T23:55:32.000Z",
-      "url": "http://arxiv.org/abs/2604.21159v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Dialect vs Demographics: Quantifying LLM Bias from Implicit Linguistic Signals vs. Explicit User Profiles",
-      "date": "2026-04-22T23:33:18.000Z",
-      "url": "http://arxiv.org/abs/2604.21152v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Slot Machines: How LLMs Keep Track of Multiple Entities",
-      "date": "2026-04-22T23:00:49.000Z",
-      "url": "http://arxiv.org/abs/2604.21139v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Propensity Inference: Environmental Contributors to LLM Behaviour",
-      "date": "2026-04-22T21:35:27.000Z",
-      "url": "http://arxiv.org/abs/2604.21098v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Serialisation Strategy Matters: How FHIR Data Format Affects LLM Medication Reconciliation",
-      "date": "2026-04-22T20:39:35.000Z",
-      "url": "http://arxiv.org/abs/2604.21076v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Can \"AI\" Be a Doctor? A Study of Empathy, Readability, and Alignment in Clinical LLMs",
-      "date": "2026-04-22T17:17:27.000Z",
-      "url": "http://arxiv.org/abs/2604.20791v1",
       "source": "arxiv"
     }
   ],
