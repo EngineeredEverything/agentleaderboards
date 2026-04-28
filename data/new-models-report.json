@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-04-27T11:01:41.813Z",
+  "timestamp": "2026-04-28T11:03:06.864Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
-      "title": "Representational Harms in LLM-Generated Narratives Against Global Majority Nationalities",
-      "date": "2026-04-24T17:49:09.000Z",
-      "url": "http://arxiv.org/abs/2604.22749v1",
+      "title": "Long-Context Aware Upcycling: A New Frontier for Hybrid LLM Scaling",
+      "date": "2026-04-27T17:23:37.000Z",
+      "url": "http://arxiv.org/abs/2604.24715v1",
       "source": "arxiv"
     },
     {
-      "title": "Dharma, Data and Deception: An LLM-Powered Rhetorical Analysis of Cow-Urine Health Claims on YouTube",
-      "date": "2026-04-24T14:31:53.000Z",
-      "url": "http://arxiv.org/abs/2604.22606v1",
+      "title": "Case-Specific Rubrics for Clinical AI Evaluation: Methodology, Validation, and LLM-Clinician Agreement Across 823 Encounters",
+      "date": "2026-04-27T17:17:56.000Z",
+      "url": "http://arxiv.org/abs/2604.24710v1",
       "source": "arxiv"
     },
     {
-      "title": "Learning Evidence Highlighting for Frozen LLMs",
-      "date": "2026-04-24T13:57:19.000Z",
-      "url": "http://arxiv.org/abs/2604.22565v1",
+      "title": "Can LLMs Act as Historians? Evaluating Historical Research Capabilities of LLMs via the Chinese Imperial Examination",
+      "date": "2026-04-27T16:50:40.000Z",
+      "url": "http://arxiv.org/abs/2604.24690v1",
       "source": "arxiv"
     },
     {
-      "title": "Controllable Spoken Dialogue Generation: An LLM-Driven Grading System for K-12 Non-Native English Learners",
-      "date": "2026-04-24T13:33:12.000Z",
-      "url": "http://arxiv.org/abs/2604.22542v1",
+      "title": "Benchmarking Source-Sensitive Reasoning in Turkish: Humans and LLMs under Evidential Trust Manipulation",
+      "date": "2026-04-27T16:26:20.000Z",
+      "url": "http://arxiv.org/abs/2604.24665v1",
       "source": "arxiv"
     },
     {
-      "title": "RouteLMT: Learned Sample Routing for Hybrid LLM Translation Deployment",
-      "date": "2026-04-24T13:02:45.000Z",
-      "url": "http://arxiv.org/abs/2604.22520v1",
+      "title": "DepthKV: Layer-Dependent KV Cache Pruning for Long-Context LLM Inference",
+      "date": "2026-04-27T16:15:37.000Z",
+      "url": "http://arxiv.org/abs/2604.24647v1",
       "source": "arxiv"
     },
     {
-      "title": "SSG: Logit-Balanced Vocabulary Partitioning for LLM Watermarking",
-      "date": "2026-04-24T10:55:50.000Z",
-      "url": "http://arxiv.org/abs/2604.22438v1",
+      "title": "STELLAR-E: a Synthetic, Tailored, End-to-end LLM Application Rigorous Evaluator",
+      "date": "2026-04-27T14:39:41.000Z",
+      "url": "http://arxiv.org/abs/2604.24544v1",
       "source": "arxiv"
     },
     {
-      "title": "Tell Me Why: Designing an Explainable LLM-based Dialogue System for Student Problem Behavior Diagnosis",
-      "date": "2026-04-24T05:23:25.000Z",
-      "url": "http://arxiv.org/abs/2604.22237v1",
+      "title": "A Survey on Split Learning for LLM Fine-Tuning: Models, Systems, and Privacy Optimizations",
+      "date": "2026-04-27T13:36:54.000Z",
+      "url": "http://arxiv.org/abs/2604.24468v1",
       "source": "arxiv"
     },
     {
-      "title": "Verbal Confidence Saturation in 3-9B Open-Weight Instruction-Tuned LLMs: A Pre-Registered Psychometric Validity Screen",
-      "date": "2026-04-24T04:45:21.000Z",
-      "url": "http://arxiv.org/abs/2604.22215v1",
+      "title": "Can You Make It Sound Like You? Post-Editing LLM-Generated Text for Personal Style",
+      "date": "2026-04-27T13:11:57.000Z",
+      "url": "http://arxiv.org/abs/2604.24444v1",
       "source": "arxiv"
     },
     {
-      "title": "Evaluating LLM-Based Goal Extraction in Requirements Engineering: Prompting Strategies and Their Limitations",
-      "date": "2026-04-24T04:22:17.000Z",
-      "url": "http://arxiv.org/abs/2604.22207v1",
+      "title": "DPEPO: Diverse Parallel Exploration Policy Optimization for LLM-based Agents",
+      "date": "2026-04-27T11:09:49.000Z",
+      "url": "http://arxiv.org/abs/2604.24320v1",
       "source": "arxiv"
     },
     {
-      "title": "Recognition Without Authorization: LLMs and the Moral Order of Online Advice",
-      "date": "2026-04-24T01:19:39.000Z",
-      "url": "http://arxiv.org/abs/2604.22143v1",
+      "title": "The Pragmatic Persona: Discovering LLM Persona through Bridging Inference",
+      "date": "2026-04-27T06:01:47.000Z",
+      "url": "http://arxiv.org/abs/2604.24079v1",
       "source": "arxiv"
     },
     {
-      "title": "SHAPE: Unifying Safety, Helpfulness and Pedagogy for Educational LLMs",
-      "date": "2026-04-24T00:39:08.000Z",
-      "url": "http://arxiv.org/abs/2604.22134v1",
+      "title": "Learning Selective LLM Autonomy from Copilot Feedback in Enterprise Customer Support Workflows",
+      "date": "2026-04-26T19:50:06.000Z",
+      "url": "http://arxiv.org/abs/2604.23855v1",
       "source": "arxiv"
     },
     {
-      "title": "PermaFrost-Attack: Stealth Pretraining Seeding(SPS) for planting Logic Landmines During LLM Training",
-      "date": "2026-04-23T23:32:36.000Z",
-      "url": "http://arxiv.org/abs/2604.22117v1",
+      "title": "One Size Fits None: Heuristic Collapse in LLM Investment Advice",
+      "date": "2026-04-26T18:45:11.000Z",
+      "url": "http://arxiv.org/abs/2604.23837v1",
       "source": "arxiv"
     },
     {
-      "title": "LayerBoost: Layer-Aware Attention Reduction for Efficient LLMs",
-      "date": "2026-04-23T20:12:19.000Z",
-      "url": "http://arxiv.org/abs/2604.22050v1",
+      "title": "ShredBench: Evaluating the Semantic Reasoning Capabilities of Multimodal LLMs in Document Reconstruction",
+      "date": "2026-04-26T17:26:06.000Z",
+      "url": "http://arxiv.org/abs/2604.23813v1",
       "source": "arxiv"
     },
     {
-      "title": "Shared Lexical Task Representations Explain Behavioral Variability In LLMs",
-      "date": "2026-04-23T19:43:29.000Z",
-      "url": "http://arxiv.org/abs/2604.22027v1",
+      "title": "SFT-then-RL Outperforms Mixed-Policy Methods for LLM Reasoning",
+      "date": "2026-04-26T14:53:48.000Z",
+      "url": "http://arxiv.org/abs/2604.23747v1",
       "source": "arxiv"
     },
     {
-      "title": "When Cow Urine Cures Constipation on YouTube: Limits of LLMs in Detecting Culture-specific Health Misinformation",
-      "date": "2026-04-23T18:42:37.000Z",
-      "url": "http://arxiv.org/abs/2604.22002v1",
+      "title": "Agri-CPJ: A Training-Free Explainable Framework for Agricultural Pest Diagnosis Using Caption-Prompt-Judge and LLM-as-a-Judge",
+      "date": "2026-04-26T13:33:45.000Z",
+      "url": "http://arxiv.org/abs/2604.23701v1",
       "source": "arxiv"
     },
     {
-      "title": "MathDuels: Evaluating LLMs as Problem Posers and Solvers",
-      "date": "2026-04-23T17:57:46.000Z",
-      "url": "http://arxiv.org/abs/2604.21916v1",
+      "title": "GraphPlanner: Graph Memory-Augmented Agentic Routing for Multi-Agent LLMs",
+      "date": "2026-04-26T09:38:32.000Z",
+      "url": "http://arxiv.org/abs/2604.23626v1",
       "source": "arxiv"
     },
     {
-      "title": "Why are all LLMs Obsessed with Japanese Culture? On the Hidden Cultural and Regional Biases of LLMs",
-      "date": "2026-04-23T15:00:05.000Z",
-      "url": "http://arxiv.org/abs/2604.21751v1",
+      "title": "Personality Shapes Gender Bias in Persona-Conditioned LLM Narratives Across English and Hindi: An Empirical Investigation",
+      "date": "2026-04-26T08:25:09.000Z",
+      "url": "http://arxiv.org/abs/2604.23600v1",
       "source": "arxiv"
     },
     {
-      "title": "StructMem: Structured Memory for Long-Horizon Behavior in LLMs",
-      "date": "2026-04-23T14:57:23.000Z",
-      "url": "http://arxiv.org/abs/2604.21748v1",
+      "title": "LLMs Reading the Rhythms of Daily Life: Aligned Understanding for Behavior Prediction and Generation",
+      "date": "2026-04-26T07:34:37.000Z",
+      "url": "http://arxiv.org/abs/2604.23578v1",
       "source": "arxiv"
     },
     {
-      "title": "Stealthy Backdoor Attacks against LLMs Based on Natural Style Triggers",
-      "date": "2026-04-23T14:08:53.000Z",
-      "url": "http://arxiv.org/abs/2604.21700v1",
+      "title": "RouteNLP: Closed-Loop LLM Routing with Conformal Cascading and Distillation Co-Optimization",
+      "date": "2026-04-26T07:34:36.000Z",
+      "url": "http://arxiv.org/abs/2604.23577v1",
       "source": "arxiv"
     },
     {
-      "title": "Measuring Opinion Bias and Sycophancy via LLM-based Coercion",
-      "date": "2026-04-23T11:34:06.000Z",
-      "url": "http://arxiv.org/abs/2604.21564v1",
+      "title": "Pref-CTRL: Preference Driven LLM Alignment using Representation Editing",
+      "date": "2026-04-26T05:41:40.000Z",
+      "url": "http://arxiv.org/abs/2604.23543v1",
       "source": "arxiv"
     }
   ],
