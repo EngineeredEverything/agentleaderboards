@@ -1,7 +1,128 @@
 {
-  "timestamp": "2026-04-29T10:55:36.419Z",
+  "timestamp": "2026-04-30T10:53:30.165Z",
   "existingCount": 0,
   "newModels": [],
-  "recentPapers": [],
+  "recentPapers": [
+    {
+      "title": "HealthNLP_Retrievers at ArchEHR-QA 2026: Cascaded LLM Pipeline for Grounded Clinical Question Answering",
+      "date": "2026-04-29T16:47:20.000Z",
+      "url": "http://arxiv.org/abs/2604.26880v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Translating Under Pressure: Domain-Aware LLMs for Crisis Communication",
+      "date": "2026-04-29T12:27:56.000Z",
+      "url": "http://arxiv.org/abs/2604.26597v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Multimodal LLMs are not all you need for Pediatric Speech Language Pathology",
+      "date": "2026-04-29T11:52:54.000Z",
+      "url": "http://arxiv.org/abs/2604.26568v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "SafeReview: Defending LLM-based Review Systems Against Adversarial Hidden Prompts",
+      "date": "2026-04-29T10:11:12.000Z",
+      "url": "http://arxiv.org/abs/2604.26506v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Theory-Grounded Evaluation Exposes the Authorship Gap in LLM Personalization",
+      "date": "2026-04-29T09:17:01.000Z",
+      "url": "http://arxiv.org/abs/2604.26460v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Naamah: A Large Scale Synthetic Sanskrit NER Corpus via DBpedia Seeding and LLM Generation",
+      "date": "2026-04-29T09:12:57.000Z",
+      "url": "http://arxiv.org/abs/2604.26456v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Shorthand for Thought: Compressing LLM Reasoning via Entropy-Guided Supertokens",
+      "date": "2026-04-29T07:06:43.000Z",
+      "url": "http://arxiv.org/abs/2604.26355v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "DSIPA: Detecting LLM-Generated Texts via Sentiment-Invariant Patterns Divergence Analysis",
+      "date": "2026-04-29T06:22:08.000Z",
+      "url": "http://arxiv.org/abs/2604.26328v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Addressing Performance Saturation for LLM RL via Precise Entropy Curve Control",
+      "date": "2026-04-29T06:16:33.000Z",
+      "url": "http://arxiv.org/abs/2604.26326v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Systematic Comparison of Prompting and Multi-Agent Methods for LLM-based Stance Detection",
+      "date": "2026-04-29T06:02:32.000Z",
+      "url": "http://arxiv.org/abs/2604.26319v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "FlowBot: Inducing LLM Workflows with Bilevel Optimization and Textual Gradients",
+      "date": "2026-04-29T03:37:56.000Z",
+      "url": "http://arxiv.org/abs/2604.26258v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Breaking the Autoregressive Chain: Hyper-Parallel Decoding for Efficient LLM-Based Attribute Value Extraction",
+      "date": "2026-04-29T01:26:15.000Z",
+      "url": "http://arxiv.org/abs/2604.26209v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "EvoSelect: Data-Efficient LLM Evolution for Targeted Task Adaptation",
+      "date": "2026-04-28T23:26:16.000Z",
+      "url": "http://arxiv.org/abs/2604.26170v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "From Syntax to Emotion: A Mechanistic Analysis of Emotion Inference in LLMs",
+      "date": "2026-04-28T17:03:16.000Z",
+      "url": "http://arxiv.org/abs/2604.25866v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "CGU-ILALab at FoodBench-QA 2026: Comparing Traditional and LLM-based Approaches for Recipe Nutrient Estimation",
+      "date": "2026-04-28T15:41:01.000Z",
+      "url": "http://arxiv.org/abs/2604.25774v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLM-ReSum: A Framework for LLM Reflective Summarization through Self-Evaluation",
+      "date": "2026-04-28T14:00:09.000Z",
+      "url": "http://arxiv.org/abs/2604.25665v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Progressing beyond Art Masterpieces or Touristic Clichés: how to assess your LLMs for cultural alignment?",
+      "date": "2026-04-28T13:50:27.000Z",
+      "url": "http://arxiv.org/abs/2604.25654v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Surprising Universality of LLM Outputs: A Real-Time Verification Primitive",
+      "date": "2026-04-28T13:35:31.000Z",
+      "url": "http://arxiv.org/abs/2604.25634v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Bye Bye Perspective API: Lessons for Measurement Infrastructure in NLP, CSS and LLM Evaluation",
+      "date": "2026-04-28T12:49:54.000Z",
+      "url": "http://arxiv.org/abs/2604.25580v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "From Chatbots to Confidants: A Cross-Cultural Study of LLM Adoption for Emotional Support",
+      "date": "2026-04-28T11:48:42.000Z",
+      "url": "http://arxiv.org/abs/2604.25525v1",
+      "source": "arxiv"
+    }
+  ],
   "withBenchmarks": 0
 }
