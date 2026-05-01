@@ -1,8 +1,98 @@
 {
-  "timestamp": "2026-04-30T10:53:30.165Z",
+  "timestamp": "2026-05-01T10:21:15.875Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "Exploration Hacking: Can LLMs Learn to Resist RL Training?",
+      "date": "2026-04-30T17:58:39.000Z",
+      "url": "http://arxiv.org/abs/2604.28182v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Stable Behavior, Limited Variation: Persona Validity in LLM Agents for Urban Sentiment Perception",
+      "date": "2026-04-30T15:59:11.000Z",
+      "url": "http://arxiv.org/abs/2604.28048v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Models Recall What They Violate: Constraint Adherence in Multi-Turn LLM Ideation",
+      "date": "2026-04-30T15:46:33.000Z",
+      "url": "http://arxiv.org/abs/2604.28031v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "ZipCCL: Efficient Lossless Data Compression of Communication Collectives for Accelerating LLM Training",
+      "date": "2026-04-30T13:29:59.000Z",
+      "url": "http://arxiv.org/abs/2604.27844v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Language Ideologies in a Multilingual Society: An LLM-based Analysis of Luxembourgish News Comments",
+      "date": "2026-04-30T09:55:36.000Z",
+      "url": "http://arxiv.org/abs/2604.27661v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Mapping how LLMs debate societal issues when shadowing human personality traits, sociodemographics and social media behavior",
+      "date": "2026-04-30T09:13:08.000Z",
+      "url": "http://arxiv.org/abs/2604.27624v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Reproducibility Study of LLM-Based Query Reformulation",
+      "date": "2026-04-30T04:51:52.000Z",
+      "url": "http://arxiv.org/abs/2604.27421v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "From Unstructured to Structured: LLM-Guided Attribute Graphs for Entity Search and Ranking",
+      "date": "2026-04-30T04:22:20.000Z",
+      "url": "http://arxiv.org/abs/2604.27410v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Beyond the Mean: Within-Model Reliable Change Detection for LLM Evaluation",
+      "date": "2026-04-30T04:16:13.000Z",
+      "url": "http://arxiv.org/abs/2604.27405v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Perturbation Probing: A Two-Pass-per-Prompt Diagnostic for FFN Behavioral Circuits in Aligned LLMs",
+      "date": "2026-04-30T04:13:33.000Z",
+      "url": "http://arxiv.org/abs/2604.27401v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLMs Capture Emotion Labels, Not Emotion Uncertainty: Distributional Analysis and Calibration of Human--LLM Judgment Gaps",
+      "date": "2026-04-30T02:56:33.000Z",
+      "url": "http://arxiv.org/abs/2604.27345v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "To Diff or Not to Diff? Structure-Aware and Adaptive Output Formats for Efficient LLM-based Code Editing",
+      "date": "2026-04-30T01:14:13.000Z",
+      "url": "http://arxiv.org/abs/2604.27296v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Learning When to Remember: Risk-Sensitive Contextual Bandits for Abstention-Aware Memory Retrieval in LLM-Based Coding Agents",
+      "date": "2026-04-30T00:32:53.000Z",
+      "url": "http://arxiv.org/abs/2604.27283v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Instruction Complexity Induces Positional Collapse in Adversarial LLM Evaluation",
+      "date": "2026-04-29T22:48:24.000Z",
+      "url": "http://arxiv.org/abs/2604.27249v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "When Roles Fail: Epistemic Constraints on Advocate Role Fidelity in LLM-Based Political Statement Analysis",
+      "date": "2026-04-29T21:50:28.000Z",
+      "url": "http://arxiv.org/abs/2604.27228v1",
+      "source": "arxiv"
+    },
     {
       "title": "HealthNLP_Retrievers at ArchEHR-QA 2026: Cascaded LLM Pipeline for Grounded Clinical Question Answering",
       "date": "2026-04-29T16:47:20.000Z",
@@ -31,96 +121,6 @@
       "title": "Theory-Grounded Evaluation Exposes the Authorship Gap in LLM Personalization",
       "date": "2026-04-29T09:17:01.000Z",
       "url": "http://arxiv.org/abs/2604.26460v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Naamah: A Large Scale Synthetic Sanskrit NER Corpus via DBpedia Seeding and LLM Generation",
-      "date": "2026-04-29T09:12:57.000Z",
-      "url": "http://arxiv.org/abs/2604.26456v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Shorthand for Thought: Compressing LLM Reasoning via Entropy-Guided Supertokens",
-      "date": "2026-04-29T07:06:43.000Z",
-      "url": "http://arxiv.org/abs/2604.26355v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "DSIPA: Detecting LLM-Generated Texts via Sentiment-Invariant Patterns Divergence Analysis",
-      "date": "2026-04-29T06:22:08.000Z",
-      "url": "http://arxiv.org/abs/2604.26328v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Addressing Performance Saturation for LLM RL via Precise Entropy Curve Control",
-      "date": "2026-04-29T06:16:33.000Z",
-      "url": "http://arxiv.org/abs/2604.26326v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "A Systematic Comparison of Prompting and Multi-Agent Methods for LLM-based Stance Detection",
-      "date": "2026-04-29T06:02:32.000Z",
-      "url": "http://arxiv.org/abs/2604.26319v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "FlowBot: Inducing LLM Workflows with Bilevel Optimization and Textual Gradients",
-      "date": "2026-04-29T03:37:56.000Z",
-      "url": "http://arxiv.org/abs/2604.26258v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Breaking the Autoregressive Chain: Hyper-Parallel Decoding for Efficient LLM-Based Attribute Value Extraction",
-      "date": "2026-04-29T01:26:15.000Z",
-      "url": "http://arxiv.org/abs/2604.26209v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "EvoSelect: Data-Efficient LLM Evolution for Targeted Task Adaptation",
-      "date": "2026-04-28T23:26:16.000Z",
-      "url": "http://arxiv.org/abs/2604.26170v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "From Syntax to Emotion: A Mechanistic Analysis of Emotion Inference in LLMs",
-      "date": "2026-04-28T17:03:16.000Z",
-      "url": "http://arxiv.org/abs/2604.25866v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "CGU-ILALab at FoodBench-QA 2026: Comparing Traditional and LLM-based Approaches for Recipe Nutrient Estimation",
-      "date": "2026-04-28T15:41:01.000Z",
-      "url": "http://arxiv.org/abs/2604.25774v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLM-ReSum: A Framework for LLM Reflective Summarization through Self-Evaluation",
-      "date": "2026-04-28T14:00:09.000Z",
-      "url": "http://arxiv.org/abs/2604.25665v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Progressing beyond Art Masterpieces or Touristic Clichés: how to assess your LLMs for cultural alignment?",
-      "date": "2026-04-28T13:50:27.000Z",
-      "url": "http://arxiv.org/abs/2604.25654v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "The Surprising Universality of LLM Outputs: A Real-Time Verification Primitive",
-      "date": "2026-04-28T13:35:31.000Z",
-      "url": "http://arxiv.org/abs/2604.25634v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Bye Bye Perspective API: Lessons for Measurement Infrastructure in NLP, CSS and LLM Evaluation",
-      "date": "2026-04-28T12:49:54.000Z",
-      "url": "http://arxiv.org/abs/2604.25580v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "From Chatbots to Confidants: A Cross-Cultural Study of LLM Adoption for Emotional Support",
-      "date": "2026-04-28T11:48:42.000Z",
-      "url": "http://arxiv.org/abs/2604.25525v1",
       "source": "arxiv"
     }
   ],
