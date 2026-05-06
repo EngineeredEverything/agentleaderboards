@@ -1,7 +1,128 @@
 {
-  "timestamp": "2026-05-05T10:44:14.924Z",
+  "timestamp": "2026-05-06T11:04:41.584Z",
   "existingCount": 0,
   "newModels": [],
-  "recentPapers": [],
+  "recentPapers": [
+    {
+      "title": "EQUITRIAGE: A Fairness Audit of Gender Bias in LLM-Based Emergency Department Triage",
+      "date": "2026-05-05T17:20:55.000Z",
+      "url": "http://arxiv.org/abs/2605.03998v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Logical Consistency as a Bridge: Improving LLM Hallucination Detection via Label Constraint Modeling between Responses and Self-Judgments",
+      "date": "2026-05-05T16:53:20.000Z",
+      "url": "http://arxiv.org/abs/2605.03971v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Steer Like the LLM: Activation Steering that Mimics Prompting",
+      "date": "2026-05-05T15:59:42.000Z",
+      "url": "http://arxiv.org/abs/2605.03907v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "TriBench-Ko: Evaluating LLM Risks in Judicial Workflows",
+      "date": "2026-05-05T14:20:28.000Z",
+      "url": "http://arxiv.org/abs/2605.03792v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Segmenting Human-LLM Co-authored Text via Change Point Detection",
+      "date": "2026-05-05T13:08:55.000Z",
+      "url": "http://arxiv.org/abs/2605.03723v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "SERE: Structural Example Retrieval for Enhancing LLMs in Event Causality Identification",
+      "date": "2026-05-05T12:50:19.000Z",
+      "url": "http://arxiv.org/abs/2605.03701v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "BIT.UA-AAUBS at ArchEHR-QA 2026: Evaluating Open-Source and Proprietary LLMs via Prompting in Low-Resource QA",
+      "date": "2026-05-05T10:43:56.000Z",
+      "url": "http://arxiv.org/abs/2605.03618v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Exposing LLM Safety Gaps Through Mathematical Encoding:New Attacks and Systematic Analysis",
+      "date": "2026-05-05T07:25:33.000Z",
+      "url": "http://arxiv.org/abs/2605.03441v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Two Calls, Two Moments, and the Vote-Accuracy Curve of Repeated LLM Inference",
+      "date": "2026-05-05T05:40:09.000Z",
+      "url": "http://arxiv.org/abs/2605.03379v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "When to Think, When to Speak: Learning Disclosure Policies for LLM Reasoning",
+      "date": "2026-05-05T02:59:58.000Z",
+      "url": "http://arxiv.org/abs/2605.03314v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLM-XTM: Enhancing Cross-Lingual Topic Models with Large Language Models",
+      "date": "2026-05-05T02:40:39.000Z",
+      "url": "http://arxiv.org/abs/2605.03299v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "MAGE: Safeguarding LLM Agents against Long-Horizon Threats via Shadow Memory",
+      "date": "2026-05-04T23:46:19.000Z",
+      "url": "http://arxiv.org/abs/2605.03228v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Geometric Deviation as an Unsupervised Pre-Generation Reliability Signal: Probing LLM Representations for Answerability",
+      "date": "2026-05-04T22:24:34.000Z",
+      "url": "http://arxiv.org/abs/2605.03196v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces",
+      "date": "2026-05-04T16:42:18.000Z",
+      "url": "http://arxiv.org/abs/2605.02801v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "FunFuzz: An LLM-Powered Evolutionary Fuzzing Framework",
+      "date": "2026-05-04T16:30:47.000Z",
+      "url": "http://arxiv.org/abs/2605.02789v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "mdok-style at SemEval-2026 Task 10: Finetuning LLMs for Conspiracy Detection",
+      "date": "2026-05-04T15:17:44.000Z",
+      "url": "http://arxiv.org/abs/2605.02712v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "mdok-style at SemEval-2026 Task 9: Finetuning LLMs for Multilingual Polarization Detection",
+      "date": "2026-05-04T15:08:24.000Z",
+      "url": "http://arxiv.org/abs/2605.02695v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "HalluScan: A Systematic Benchmark for Detecting and Mitigating Hallucinations in Instruction-Following LLMs",
+      "date": "2026-05-04T10:43:27.000Z",
+      "url": "http://arxiv.org/abs/2605.02443v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "MolViBench: Evaluating LLMs on Molecular Vibe Coding",
+      "date": "2026-05-04T08:54:54.000Z",
+      "url": "http://arxiv.org/abs/2605.02351v2",
+      "source": "arxiv"
+    },
+    {
+      "title": "Zero-Shot Confidence Estimation for Small LLMs: When Supervised Baselines Aren't Worth Training",
+      "date": "2026-05-04T05:33:03.000Z",
+      "url": "http://arxiv.org/abs/2605.02241v2",
+      "source": "arxiv"
+    }
+  ],
   "withBenchmarks": 0
 }
