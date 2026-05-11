@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-05-10T10:12:36.298Z",
+  "timestamp": "2026-05-11T12:09:26.827Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
-      "title": "When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels",
-      "date": "2026-05-07T17:56:41.000Z",
-      "url": "http://arxiv.org/abs/2605.06652v1",
+      "title": "LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling",
+      "date": "2026-05-08T17:59:40.000Z",
+      "url": "http://arxiv.org/abs/2605.08083v1",
       "source": "arxiv"
     },
     {
-      "title": "Can RL Teach Long-Horizon Reasoning to LLMs? Expressiveness Is Key",
-      "date": "2026-05-07T17:48:42.000Z",
-      "url": "http://arxiv.org/abs/2605.06638v1",
+      "title": "The Memory Curse: How Expanded Recall Erodes Cooperative Intent in LLM Agents",
+      "date": "2026-05-08T17:47:13.000Z",
+      "url": "http://arxiv.org/abs/2605.08060v1",
       "source": "arxiv"
     },
     {
-      "title": "Cited but Not Verified: Parsing and Evaluating Source Attribution in LLM Deep Research Agents",
-      "date": "2026-05-07T17:46:45.000Z",
-      "url": "http://arxiv.org/abs/2605.06635v1",
+      "title": "Uncertainty-Aware Structured Data Extraction from Full CMR Reports via Distilled LLMs",
+      "date": "2026-05-08T17:35:41.000Z",
+      "url": "http://arxiv.org/abs/2605.08045v1",
       "source": "arxiv"
     },
     {
-      "title": "MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems",
-      "date": "2026-05-07T17:35:26.000Z",
-      "url": "http://arxiv.org/abs/2605.06623v1",
+      "title": "GLiGuard: Schema-Conditioned Classification for LLM Safeguard",
+      "date": "2026-05-08T16:44:07.000Z",
+      "url": "http://arxiv.org/abs/2605.07982v1",
       "source": "arxiv"
     },
     {
-      "title": "Automated Clinical Report Generation for Remote Cognitive Remediation: Comparing Knowledge-Engineered Templates and LLMs in Low-Resource Settings",
-      "date": "2026-05-07T17:20:22.000Z",
-      "url": "http://arxiv.org/abs/2605.06594v1",
+      "title": "How Value Induction Reshapes LLM Behaviour",
+      "date": "2026-05-08T15:58:42.000Z",
+      "url": "http://arxiv.org/abs/2605.07925v1",
       "source": "arxiv"
     },
     {
-      "title": "STALE: Can LLM Agents Know When Their Memories Are No Longer Valid?",
-      "date": "2026-05-07T16:31:15.000Z",
-      "url": "http://arxiv.org/abs/2605.06527v1",
+      "title": "Beyond \"I cannot fulfill this request\": Alleviating Rigid Rejection in LLMs via Label Enhancement",
+      "date": "2026-05-08T15:33:54.000Z",
+      "url": "http://arxiv.org/abs/2605.07883v1",
       "source": "arxiv"
     },
     {
-      "title": "Patch-Effect Graph Kernels for LLM Interpretability",
-      "date": "2026-05-07T16:03:47.000Z",
-      "url": "http://arxiv.org/abs/2605.06480v1",
+      "title": "MatryoshkaLoRA: Learning Accurate Hierarchical Low-Rank Representations for LLM Fine-Tuning",
+      "date": "2026-05-08T15:13:01.000Z",
+      "url": "http://arxiv.org/abs/2605.07850v1",
       "source": "arxiv"
     },
     {
-      "title": "Is Escalation Worth It? A Decision-Theoretic Characterization of LLM Cascades",
-      "date": "2026-05-07T14:32:27.000Z",
-      "url": "http://arxiv.org/abs/2605.06350v1",
+      "title": "Beyond Confidence: Rethinking Self-Assessments for Performance Prediction in LLMs",
+      "date": "2026-05-08T14:41:35.000Z",
+      "url": "http://arxiv.org/abs/2605.07806v1",
       "source": "arxiv"
     },
     {
-      "title": "MANTRA: Synthesizing SMT-Validated Compliance Benchmarks for Tool-Using LLM Agents",
-      "date": "2026-05-07T14:26:19.000Z",
-      "url": "http://arxiv.org/abs/2605.06334v1",
+      "title": "Benchmarking EngGPT2-16B-A3B against Comparable Italian and International Open-source LLMs",
+      "date": "2026-05-08T13:36:24.000Z",
+      "url": "http://arxiv.org/abs/2605.07731v1",
       "source": "arxiv"
     },
     {
-      "title": "Measuring Evaluation-Context Divergence in Open-Weight LLMs: A Paired-Prompt Protocol with Pilot Evidence of Alignment-Pipeline-Specific Heterogeneity",
-      "date": "2026-05-07T14:23:31.000Z",
-      "url": "http://arxiv.org/abs/2605.06327v1",
+      "title": "Multi-Dimensional Evaluation of LLMs for Grammatical Error Correction",
+      "date": "2026-05-08T12:01:42.000Z",
+      "url": "http://arxiv.org/abs/2605.07635v1",
       "source": "arxiv"
     },
     {
-      "title": "Rethinking RL for LLM Reasoning: It's Sparse Policy Selection, Not Capability Learning",
-      "date": "2026-05-07T13:25:05.000Z",
-      "url": "http://arxiv.org/abs/2605.06241v1",
+      "title": "Mathematical Reasoning via Intervention-Based Time-Series Causal Discovery Using LLMs as Concept Mastery Simulators",
+      "date": "2026-05-08T11:19:01.000Z",
+      "url": "http://arxiv.org/abs/2605.07600v1",
       "source": "arxiv"
     },
     {
-      "title": "Navigating by Old Maps: The Pitfalls of Static Mechanistic Localization in LLM Post-Training",
-      "date": "2026-05-07T11:59:52.000Z",
-      "url": "http://arxiv.org/abs/2605.06076v1",
+      "title": "Tracing the Arrow of Time: Diagnosing Temporal Information Flow in Video-LLMs",
+      "date": "2026-05-08T10:40:08.000Z",
+      "url": "http://arxiv.org/abs/2605.07568v1",
       "source": "arxiv"
     },
     {
-      "title": "Novelty-based Tree-of-Thought Search for LLM Reasoning and Planning",
-      "date": "2026-05-07T11:28:53.000Z",
-      "url": "http://arxiv.org/abs/2605.06040v1",
+      "title": "TCMIIES: A Browser-Based LLM-Powered Intelligent Information Extraction System for Academic Literature",
+      "date": "2026-05-08T09:40:13.000Z",
+      "url": "http://arxiv.org/abs/2605.07507v1",
       "source": "arxiv"
     },
     {
-      "title": "More Aligned, Less Diverse? Analyzing the Grammar and Lexicon of Two Generations of LLMs",
-      "date": "2026-05-07T11:21:29.000Z",
-      "url": "http://arxiv.org/abs/2605.06030v1",
+      "title": "Unsolvability Ceiling in Multi-LLM Routing: An Empirical Study of Evaluation Artifacts",
+      "date": "2026-05-08T07:49:24.000Z",
+      "url": "http://arxiv.org/abs/2605.07395v1",
       "source": "arxiv"
     },
     {
-      "title": "Lightweight Stylistic Consistency Profiling: Robust Detection of LLM-Generated Textual Content for Multimedia Moderation",
-      "date": "2026-05-07T09:58:00.000Z",
-      "url": "http://arxiv.org/abs/2605.05950v1",
+      "title": "MedAction: Towards Active Multi-turn Clinical Diagnostic LLMs",
+      "date": "2026-05-08T06:15:24.000Z",
+      "url": "http://arxiv.org/abs/2605.07305v1",
       "source": "arxiv"
     },
     {
-      "title": "Minimizing Modality Gap from the Input Side: Your Speech LLM Can Be a Prosody-Aware Text LLM",
-      "date": "2026-05-07T09:32:05.000Z",
-      "url": "http://arxiv.org/abs/2605.05927v1",
+      "title": "From 0-Order Selection to 2-Order Judgment: Combinatorial Hardening Exposes Compositional Failures in Frontier LLMs",
+      "date": "2026-05-08T05:33:58.000Z",
+      "url": "http://arxiv.org/abs/2605.07268v1",
       "source": "arxiv"
     },
     {
-      "title": "Logic-Regularized Verifier Elicits Reasoning from LLMs",
-      "date": "2026-05-07T09:03:49.000Z",
-      "url": "http://arxiv.org/abs/2605.05893v1",
+      "title": "Reformulating KV Cache Eviction Problem for Long-Context LLM Inference",
+      "date": "2026-05-08T04:37:22.000Z",
+      "url": "http://arxiv.org/abs/2605.07234v1",
       "source": "arxiv"
     },
     {
-      "title": "Estimating the Black-box LLM Uncertainty with Distribution-Aligned Adversarial Distillation",
-      "date": "2026-05-07T07:09:29.000Z",
-      "url": "http://arxiv.org/abs/2605.05777v1",
+      "title": "The Text Uncanny Valley: Non-Monotonic Performance Degradation in LLM Information Retrieval",
+      "date": "2026-05-08T03:26:42.000Z",
+      "url": "http://arxiv.org/abs/2605.07186v1",
       "source": "arxiv"
     },
     {
-      "title": "Priming, Path-dependence, and Plasticity: Understanding the molding of user-LLM interaction and its implications from (many) chat logs in the wild",
-      "date": "2026-05-07T07:00:25.000Z",
-      "url": "http://arxiv.org/abs/2605.05767v1",
+      "title": "Beyond Reasoning: Reinforcement Learning Unlocks Parametric Knowledge in LLMs",
+      "date": "2026-05-08T02:40:12.000Z",
+      "url": "http://arxiv.org/abs/2605.07153v1",
       "source": "arxiv"
     },
     {
-      "title": "Multi-Dimensional Behavioral Evaluation of Agentic Stock Prediction Systems Using LLM Judges with Closed-Loop Reinforcement Learning Feedback",
-      "date": "2026-05-07T06:31:34.000Z",
-      "url": "http://arxiv.org/abs/2605.05739v1",
+      "title": "The Position Curse: LLMs Struggle to Locate the Last Few Items in a List",
+      "date": "2026-05-08T02:04:22.000Z",
+      "url": "http://arxiv.org/abs/2605.07127v1",
       "source": "arxiv"
     }
   ],
