@@ -1,8 +1,110 @@
 {
-  "timestamp": "2026-05-14T11:11:55.041Z",
+  "timestamp": "2026-05-15T11:20:03.317Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "MetaBackdoor: Exploiting Positional Encoding as a Backdoor Attack Surface in LLMs",
+      "date": "2026-05-14T17:56:22.000Z",
+      "url": "http://arxiv.org/abs/2605.15172v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Talk is (Not) Cheap: A Taxonomy and Benchmark Coverage Audit for LLM Attacks",
+      "date": "2026-05-14T17:30:36.000Z",
+      "url": "http://arxiv.org/abs/2605.15118v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "From Text to Voice: A Reproducible and Verifiable Framework for Evaluating Tool Calling LLM Agents",
+      "date": "2026-05-14T17:22:42.000Z",
+      "url": "http://arxiv.org/abs/2605.15104v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Concurrency without Model Changes: Future-based Asynchronous Function Calling for LLMs",
+      "date": "2026-05-14T17:02:28.000Z",
+      "url": "http://arxiv.org/abs/2605.15077v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Case-Based Calibration of Adaptive Reasoning and Execution for LLM Tool Use",
+      "date": "2026-05-14T16:36:04.000Z",
+      "url": "http://arxiv.org/abs/2605.15041v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Quantifying and Mitigating Premature Closure in Frontier LLMs",
+      "date": "2026-05-14T16:02:28.000Z",
+      "url": "http://arxiv.org/abs/2605.15000v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Mechanical Enforcement for LLM Governance:Evidence of Governance-Task Decoupling in Financial Decision Systems",
+      "date": "2026-05-14T12:12:42.000Z",
+      "url": "http://arxiv.org/abs/2605.14744v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Agentifying Patient Dynamics within LLMs through Interacting with Clinical World Model",
+      "date": "2026-05-14T11:50:00.000Z",
+      "url": "http://arxiv.org/abs/2605.14723v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "AI-assisted cultural heritage dissemination: Comparing NMT and glossary-augmented LLM translation in rock art documents",
+      "date": "2026-05-14T10:48:48.000Z",
+      "url": "http://arxiv.org/abs/2605.14679v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Mining Subscenario Refactoring Opportunities in Behaviour-Driven Software Test Suites: ML Classifiers and LLM-Judge Baselines",
+      "date": "2026-05-14T08:38:04.000Z",
+      "url": "http://arxiv.org/abs/2605.14568v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "GroupMemBench: Benchmarking LLM Agent Memory in Multi-Party Conversations",
+      "date": "2026-05-14T07:38:29.000Z",
+      "url": "http://arxiv.org/abs/2605.14498v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLM-based Detection of Manipulative Political Narratives",
+      "date": "2026-05-14T04:30:21.000Z",
+      "url": "http://arxiv.org/abs/2605.14354v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Diagnosing Training Inference Mismatch in LLM Reinforcement Learning",
+      "date": "2026-05-14T00:27:35.000Z",
+      "url": "http://arxiv.org/abs/2605.14220v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Polar probe linearly decodes semantic structures from LLMs",
+      "date": "2026-05-13T21:21:10.000Z",
+      "url": "http://arxiv.org/abs/2605.14125v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Generative Floor Plan Design with LLMs via Reinforcement Learning with Verifiable Rewards",
+      "date": "2026-05-13T21:06:12.000Z",
+      "url": "http://arxiv.org/abs/2605.14117v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Know When To Fold 'Em: Token-Efficient LLM Synthetic Data Generation via Multi-Stage In-Flight Rejection",
+      "date": "2026-05-13T19:35:49.000Z",
+      "url": "http://arxiv.org/abs/2605.14062v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "From Descriptive to Prescriptive: Uncover the Social Value Alignment of LLM-based Agents",
+      "date": "2026-05-13T18:50:22.000Z",
+      "url": "http://arxiv.org/abs/2605.14034v1",
+      "source": "arxiv"
+    },
     {
       "title": "An LLM-Based System for Argument Reconstruction",
       "date": "2026-05-13T17:13:45.000Z",
@@ -19,108 +121,6 @@
       "title": "Children's English Reading Story Generation via Supervised Fine-Tuning of Compact LLMs with Controllable Difficulty and Safety",
       "date": "2026-05-13T15:56:37.000Z",
       "url": "http://arxiv.org/abs/2605.13709v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "RTLC -- Research, Teach-to-Learn, Critique: A three-stage prompting paradigm inspired by the Feynman Learning Technique that lifts LLM-as-judge accuracy on JudgeBench with no fine-tuning",
-      "date": "2026-05-13T15:48:16.000Z",
-      "url": "http://arxiv.org/abs/2605.13695v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "FlowCompile: An Optimizing Compiler for Structured LLM Workflows",
-      "date": "2026-05-13T15:06:36.000Z",
-      "url": "http://arxiv.org/abs/2605.13647v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Edit-level Majority Voting Mitigates Over-Correction in LLM-based Grammatical Error Correction",
-      "date": "2026-05-13T14:52:15.000Z",
-      "url": "http://arxiv.org/abs/2605.13624v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "RealICU: Do LLM Agents Understand Long-Context ICU Data? A Benchmark Beyond Behavior Imitation",
-      "date": "2026-05-13T13:52:42.000Z",
-      "url": "http://arxiv.org/abs/2605.13542v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "PersonalAI 2.0: Enhancing knowledge graph traversal/retrieval with planning mechanism for Personalized LLM Agents",
-      "date": "2026-05-13T13:06:30.000Z",
-      "url": "http://arxiv.org/abs/2605.13481v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLMs as annotators of credibility assessment in Danish asylum decisions: evaluating classification performance and errors beyond aggregated metrics",
-      "date": "2026-05-13T12:07:47.000Z",
-      "url": "http://arxiv.org/abs/2605.13412v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Model-Agnostic Lifelong LLM Safety via Externalized Attack-Defense Co-Evolution",
-      "date": "2026-05-13T12:07:05.000Z",
-      "url": "http://arxiv.org/abs/2605.13411v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "From Rosetta to Match-Up: A Paired Corpus of Linguistic Puzzles with Human and LLM Benchmarks",
-      "date": "2026-05-13T12:03:35.000Z",
-      "url": "http://arxiv.org/abs/2605.13408v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "What Does LLM Refinement Actually Improve? A Systematic Study on Document-Level Literary Translation",
-      "date": "2026-05-13T11:27:32.000Z",
-      "url": "http://arxiv.org/abs/2605.13368v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLM-Based Persuasion Enables Guardrail Override in Frontier LLMs",
-      "date": "2026-05-13T10:51:56.000Z",
-      "url": "http://arxiv.org/abs/2605.13334v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Tracing Persona Vectors Through LLM Pretraining",
-      "date": "2026-05-13T10:44:23.000Z",
-      "url": "http://arxiv.org/abs/2605.13329v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLMs as Implicit Imputers: Uncertainty Should Scale with Missing Information",
-      "date": "2026-05-13T08:43:57.000Z",
-      "url": "http://arxiv.org/abs/2605.13188v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "TruncProof: A Guardrail for LLM-based JSON Generation under Token-Length Constraints",
-      "date": "2026-05-13T06:49:08.000Z",
-      "url": "http://arxiv.org/abs/2605.13076v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Controlling Logical Collapse in LLMs via Algebraic Ontology Projection over F2",
-      "date": "2026-05-13T04:01:29.000Z",
-      "url": "http://arxiv.org/abs/2605.12968v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "When Attention Closes: How LLMs Lose the Thread in Multi-Turn Interaction",
-      "date": "2026-05-13T02:58:18.000Z",
-      "url": "http://arxiv.org/abs/2605.12922v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "When Do LLMs Generate Realistic Social Networks? A Multi-Dimensional Study of Culture, Language, Scale, and Method",
-      "date": "2026-05-13T02:22:19.000Z",
-      "url": "http://arxiv.org/abs/2605.12898v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Beyond Cooperative Simulators: Generating Realistic User Personas for Robust Evaluation of LLM Agents",
-      "date": "2026-05-13T02:16:51.000Z",
-      "url": "http://arxiv.org/abs/2605.12894v1",
       "source": "arxiv"
     }
   ],
