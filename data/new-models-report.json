@@ -1,12 +1,108 @@
 {
-  "timestamp": "2026-05-20T11:48:10.194Z",
+  "timestamp": "2026-05-21T12:12:29.222Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
+      "title": "You Only Need Minimal RLVR Training: Extrapolating LLMs via Rank-1 Trajectories",
+      "date": "2026-05-20T17:53:20.000Z",
+      "url": "http://arxiv.org/abs/2605.21468v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Leveraging LLMs for Grammar Adaptation: A Study on Metamodel-Grammar Co-Evolution",
+      "date": "2026-05-20T17:51:51.000Z",
+      "url": "http://arxiv.org/abs/2605.21465v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Text Analytics Evaluation Framework: A Case Study on LLMs and Social Media",
+      "date": "2026-05-20T16:05:05.000Z",
+      "url": "http://arxiv.org/abs/2605.21338v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Do LLMs Know What Luxembourgish Borrows? Probing Lexical Neology in Low-Resource Multilingual Models",
+      "date": "2026-05-20T14:19:55.000Z",
+      "url": "http://arxiv.org/abs/2605.21227v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "APM: Evaluating Style Personalization in LLMs with Arbitrary Preference Mappings",
+      "date": "2026-05-20T11:47:40.000Z",
+      "url": "http://arxiv.org/abs/2605.21063v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Cross-lingual robustness of LLM-brain alignment and its computational roots",
+      "date": "2026-05-20T11:34:05.000Z",
+      "url": "http://arxiv.org/abs/2605.21049v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Beyond Text-to-SQL: An Agentic LLM System for Governed Enterprise Analytics APIs",
+      "date": "2026-05-20T11:00:56.000Z",
+      "url": "http://arxiv.org/abs/2605.21027v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "MemGym: a Long-Horizon Memory Environment for LLM Agents",
+      "date": "2026-05-20T07:25:33.000Z",
+      "url": "http://arxiv.org/abs/2605.20833v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "GraphRAG on Consumer Hardware: Benchmarking Local LLMs for Healthcare EHR Schema Retrieval",
+      "date": "2026-05-20T07:09:53.000Z",
+      "url": "http://arxiv.org/abs/2605.20815v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Refining and Reusing Annotation Guidelines for LLM Annotation",
+      "date": "2026-05-20T07:03:42.000Z",
+      "url": "http://arxiv.org/abs/2605.20809v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Illusion of Intervention: Your LLM-Simulated Experiment is an Observational Study",
+      "date": "2026-05-20T06:09:41.000Z",
+      "url": "http://arxiv.org/abs/2605.20767v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Distribution-Aware Reward: Reinforcement Learning over Predictive Distributions for LLM Regression",
+      "date": "2026-05-20T05:43:40.000Z",
+      "url": "http://arxiv.org/abs/2605.20740v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "AgentAtlas: Beyond Outcome Leaderboards for LLM Agents",
+      "date": "2026-05-19T22:05:12.000Z",
+      "url": "http://arxiv.org/abs/2605.20530v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Mechanics of Bias and Reasoning: Interpreting the Impact of Chain-of-Thought Prompting on Gender Bias in LLMs",
+      "date": "2026-05-19T19:05:13.000Z",
+      "url": "http://arxiv.org/abs/2605.20410v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Do as I Say, Not as I Do: Instruction-Induction Conflict in LLMs",
+      "date": "2026-05-19T18:32:20.000Z",
+      "url": "http://arxiv.org/abs/2605.20382v1",
+      "source": "arxiv"
+    },
+    {
       "title": "TIDE: Efficient and Lossless MoE Diffusion LLM Inference with I/O-aware Expert Offload",
       "date": "2026-05-19T17:59:08.000Z",
       "url": "http://arxiv.org/abs/2605.20179v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Mix-Quant: Quantized Prefilling, Precise Decoding for Agentic LLMs",
+      "date": "2026-05-19T17:50:17.000Z",
+      "url": "http://arxiv.org/abs/2605.20315v1",
       "source": "arxiv"
     },
     {
@@ -25,102 +121,6 @@
       "title": "What Are LLMs Doing to Scientific Communication? Measuring Changes in Writing Practices and Reading Experience",
       "date": "2026-05-19T14:54:33.000Z",
       "url": "http://arxiv.org/abs/2605.19936v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "PEEK: Context Map as an Orientation Cache for Long-Context LLM Agents",
-      "date": "2026-05-19T14:51:32.000Z",
-      "url": "http://arxiv.org/abs/2605.19932v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Are Tools Always Beneficial? Learning to Invoke Tools Adaptively for Dual-Mode Multimodal LLM Reasoning",
-      "date": "2026-05-19T13:44:26.000Z",
-      "url": "http://arxiv.org/abs/2605.19852v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Towards Trust Calibration in Socially Interactive Agents: Investigating Gendered Multimodal Behaviors Generation with LLMs",
-      "date": "2026-05-19T12:59:21.000Z",
-      "url": "http://arxiv.org/abs/2605.19798v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLM-Based Financial Sentiment Analysis in Arabic: Evidence from Saudi Markets",
-      "date": "2026-05-19T11:50:33.000Z",
-      "url": "http://arxiv.org/abs/2605.19714v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "OScaR: The Occam's Razor for Extreme KV Cache Quantization in LLMs and Beyond",
-      "date": "2026-05-19T10:53:03.000Z",
-      "url": "http://arxiv.org/abs/2605.19660v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLMEval-Logic: A Solver-Verified Chinese Benchmark for Logical Reasoning of LLMs with Adversarial Hardening",
-      "date": "2026-05-19T09:40:29.000Z",
-      "url": "http://arxiv.org/abs/2605.19597v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Library Drift: Diagnosing and Fixing a Silent Failure Mode in Self-Evolving LLM Skill Libraries",
-      "date": "2026-05-19T09:19:56.000Z",
-      "url": "http://arxiv.org/abs/2605.19576v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Backtracking When It Strays: Mitigating Dual Exposure Biases in LLM Reasoning Distillation",
-      "date": "2026-05-19T06:42:52.000Z",
-      "url": "http://arxiv.org/abs/2605.19433v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Taming the Thinker: Conditional Entropy Shaping for Adaptive LLM Reasoning",
-      "date": "2026-05-19T04:41:51.000Z",
-      "url": "http://arxiv.org/abs/2605.19358v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Are Rationales Necessary and Sufficient? Tuning LLMs for Explainable Misinformation Detection",
-      "date": "2026-05-19T03:03:32.000Z",
-      "url": "http://arxiv.org/abs/2605.19285v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "DECOR: Auditing LLM Deception via Information Manipulation Theory",
-      "date": "2026-05-19T02:33:21.000Z",
-      "url": "http://arxiv.org/abs/2605.19270v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Diagnosing Multi-step Reasoning Failures in Black-box LLMs via Stepwise Confidence Attribution",
-      "date": "2026-05-19T00:57:51.000Z",
-      "url": "http://arxiv.org/abs/2605.19228v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Position: Uncertainty Quantification in LLMs is Just Unsupervised Clustering",
-      "date": "2026-05-19T00:47:02.000Z",
-      "url": "http://arxiv.org/abs/2605.19220v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Time to REFLECT: Can We Trust LLM Judges for Evidence-based Research Agents?",
-      "date": "2026-05-18T23:55:08.000Z",
-      "url": "http://arxiv.org/abs/2605.19196v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Vision-OPD: Learning to See Fine Details for Multimodal LLMs via On-Policy Self-Distillation",
-      "date": "2026-05-18T17:57:04.000Z",
-      "url": "http://arxiv.org/abs/2605.18740v2",
-      "source": "arxiv"
-    },
-    {
-      "title": "Predictable Confabulations: Factual Recall by LLMs Scales with Model Size and Topic Frequency",
-      "date": "2026-05-18T17:53:44.000Z",
-      "url": "http://arxiv.org/abs/2605.18732v1",
       "source": "arxiv"
     }
   ],
