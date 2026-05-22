@@ -1,8 +1,110 @@
 {
-  "timestamp": "2026-05-21T12:12:29.222Z",
+  "timestamp": "2026-05-22T11:44:00.140Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "Beyond Acoustic Emotion Recognition: Multimodal Pathos Analysis in Political Speech Using LLM-Based and Acoustic Emotion Models",
+      "date": "2026-05-21T17:03:37.000Z",
+      "url": "http://arxiv.org/abs/2605.22732v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "AMEL: Accumulated Message Effects on LLM Judgments",
+      "date": "2026-05-21T16:51:04.000Z",
+      "url": "http://arxiv.org/abs/2605.22714v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Agentic CLEAR: Automating Multi-Level Evaluation of LLM Agents",
+      "date": "2026-05-21T15:26:02.000Z",
+      "url": "http://arxiv.org/abs/2605.22608v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Unified Data Selection for LLM Reasoning",
+      "date": "2026-05-21T12:21:41.000Z",
+      "url": "http://arxiv.org/abs/2605.22389v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Ratchet: A Minimal Hygiene Recipe for Self-Evolving LLM Agents",
+      "date": "2026-05-21T08:20:38.000Z",
+      "url": "http://arxiv.org/abs/2605.22148v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "From Reasoning Chains to Verifiable Subproblems: Curriculum Reinforcement Learning Enables Credit Assignment for LLM Reasoning",
+      "date": "2026-05-21T07:13:00.000Z",
+      "url": "http://arxiv.org/abs/2605.22074v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Hallucination as Commitment Failure: Larger LLMs Misfire Despite Knowing the Answer",
+      "date": "2026-05-21T05:08:37.000Z",
+      "url": "http://arxiv.org/abs/2605.22007v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Check Your LLM's Secret Dictionary! Five Lines of Code Reveal What Your LLM Learned (Including What It Shouldn't Have)",
+      "date": "2026-05-21T05:02:51.000Z",
+      "url": "http://arxiv.org/abs/2605.22005v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Blind Spots in the Guard: How Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems",
+      "date": "2026-05-21T04:58:11.000Z",
+      "url": "http://arxiv.org/abs/2605.22001v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Diagnosis Is Not Prescription: Linguistic Co-Adaptation Explains Patching Hazards in LLM Pipelines",
+      "date": "2026-05-21T03:44:47.000Z",
+      "url": "http://arxiv.org/abs/2605.21958v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Planning in the LLM Era: Building for Reliability and Efficiency",
+      "date": "2026-05-21T02:24:33.000Z",
+      "url": "http://arxiv.org/abs/2605.21902v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Comparing LLM and Fine-Tuned Model Performance on NVDRS Circumstance Extraction with Varying Prompt Complexity",
+      "date": "2026-05-21T00:33:52.000Z",
+      "url": "http://arxiv.org/abs/2605.21845v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Does Slightly Mean Somewhat? Measuring Vague Intensity Words in LLM Numeric Actions",
+      "date": "2026-05-20T23:49:44.000Z",
+      "url": "http://arxiv.org/abs/2605.21827v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "PromptNCE: Pointwise Mutual Information Predictions Using Only LLMs and Contrastive Estimation Prompts",
+      "date": "2026-05-20T22:10:54.000Z",
+      "url": "http://arxiv.org/abs/2605.21776v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "RankJudge: A Multi-Turn LLM-as-a-Judge Synthetic Benchmark Generator",
+      "date": "2026-05-20T21:20:01.000Z",
+      "url": "http://arxiv.org/abs/2605.21748v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Value-Gradient Hypothesis of RL for LLMs",
+      "date": "2026-05-20T19:09:05.000Z",
+      "url": "http://arxiv.org/abs/2605.21654v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "CR4T: Rewrite-Based Guardrails for Adolescent LLM Safety",
+      "date": "2026-05-20T18:16:18.000Z",
+      "url": "http://arxiv.org/abs/2605.21609v1",
+      "source": "arxiv"
+    },
     {
       "title": "You Only Need Minimal RLVR Training: Extrapolating LLMs via Rank-1 Trajectories",
       "date": "2026-05-20T17:53:20.000Z",
@@ -19,108 +121,6 @@
       "title": "Text Analytics Evaluation Framework: A Case Study on LLMs and Social Media",
       "date": "2026-05-20T16:05:05.000Z",
       "url": "http://arxiv.org/abs/2605.21338v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Do LLMs Know What Luxembourgish Borrows? Probing Lexical Neology in Low-Resource Multilingual Models",
-      "date": "2026-05-20T14:19:55.000Z",
-      "url": "http://arxiv.org/abs/2605.21227v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "APM: Evaluating Style Personalization in LLMs with Arbitrary Preference Mappings",
-      "date": "2026-05-20T11:47:40.000Z",
-      "url": "http://arxiv.org/abs/2605.21063v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Cross-lingual robustness of LLM-brain alignment and its computational roots",
-      "date": "2026-05-20T11:34:05.000Z",
-      "url": "http://arxiv.org/abs/2605.21049v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Beyond Text-to-SQL: An Agentic LLM System for Governed Enterprise Analytics APIs",
-      "date": "2026-05-20T11:00:56.000Z",
-      "url": "http://arxiv.org/abs/2605.21027v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "MemGym: a Long-Horizon Memory Environment for LLM Agents",
-      "date": "2026-05-20T07:25:33.000Z",
-      "url": "http://arxiv.org/abs/2605.20833v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "GraphRAG on Consumer Hardware: Benchmarking Local LLMs for Healthcare EHR Schema Retrieval",
-      "date": "2026-05-20T07:09:53.000Z",
-      "url": "http://arxiv.org/abs/2605.20815v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Refining and Reusing Annotation Guidelines for LLM Annotation",
-      "date": "2026-05-20T07:03:42.000Z",
-      "url": "http://arxiv.org/abs/2605.20809v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "The Illusion of Intervention: Your LLM-Simulated Experiment is an Observational Study",
-      "date": "2026-05-20T06:09:41.000Z",
-      "url": "http://arxiv.org/abs/2605.20767v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Distribution-Aware Reward: Reinforcement Learning over Predictive Distributions for LLM Regression",
-      "date": "2026-05-20T05:43:40.000Z",
-      "url": "http://arxiv.org/abs/2605.20740v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "AgentAtlas: Beyond Outcome Leaderboards for LLM Agents",
-      "date": "2026-05-19T22:05:12.000Z",
-      "url": "http://arxiv.org/abs/2605.20530v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Mechanics of Bias and Reasoning: Interpreting the Impact of Chain-of-Thought Prompting on Gender Bias in LLMs",
-      "date": "2026-05-19T19:05:13.000Z",
-      "url": "http://arxiv.org/abs/2605.20410v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Do as I Say, Not as I Do: Instruction-Induction Conflict in LLMs",
-      "date": "2026-05-19T18:32:20.000Z",
-      "url": "http://arxiv.org/abs/2605.20382v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "TIDE: Efficient and Lossless MoE Diffusion LLM Inference with I/O-aware Expert Offload",
-      "date": "2026-05-19T17:59:08.000Z",
-      "url": "http://arxiv.org/abs/2605.20179v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Mix-Quant: Quantized Prefilling, Precise Decoding for Agentic LLMs",
-      "date": "2026-05-19T17:50:17.000Z",
-      "url": "http://arxiv.org/abs/2605.20315v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "ThoughtTrace: Understanding User Thoughts in Real-World LLM Interactions",
-      "date": "2026-05-19T16:42:06.000Z",
-      "url": "http://arxiv.org/abs/2605.20087v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Rethinking How to Remember: Beyond Atomic Facts in Lifelong LLM Agent Memory",
-      "date": "2026-05-19T15:05:06.000Z",
-      "url": "http://arxiv.org/abs/2605.19952v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "What Are LLMs Doing to Scientific Communication? Measuring Changes in Writing Practices and Reading Experience",
-      "date": "2026-05-19T14:54:33.000Z",
-      "url": "http://arxiv.org/abs/2605.19936v1",
       "source": "arxiv"
     }
   ],
