@@ -1,8 +1,98 @@
 {
-  "timestamp": "2026-05-24T10:40:23.931Z",
+  "timestamp": "2026-05-25T12:28:32.867Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "Strong Teacher Not Needed? On Distillation in LLM Pretraining",
+      "date": "2026-05-22T17:16:35.000Z",
+      "url": "http://arxiv.org/abs/2605.23857v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "OpenSkillEval: Automatically Auditing the Open Skill Ecosystem for LLM Agents",
+      "date": "2026-05-22T14:09:41.000Z",
+      "url": "http://arxiv.org/abs/2605.23657v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Structure-Guided Entity Resolution: Fine-Tuning LLMs for Robust Name Matching in Complex Linguistic Contexts",
+      "date": "2026-05-22T13:06:03.000Z",
+      "url": "http://arxiv.org/abs/2605.23597v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Asking For An Old Friend: Diagnosing and Mitigating Temporal Failure Modes in LLM-based Statutory Question Answering",
+      "date": "2026-05-22T11:02:01.000Z",
+      "url": "http://arxiv.org/abs/2605.23497v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "ARES: Automated Rubric Synthesis for Scalable LLM Reinforcement Learning",
+      "date": "2026-05-22T10:09:28.000Z",
+      "url": "http://arxiv.org/abs/2605.23454v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Metacognition as Reward: Reinforcing LLM Reasoning via Knowledge and Regulation Signals",
+      "date": "2026-05-22T08:54:37.000Z",
+      "url": "http://arxiv.org/abs/2605.23384v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Robust LLM Watermarking with Minimal Semantic Distortion for IP Protection",
+      "date": "2026-05-22T02:51:42.000Z",
+      "url": "http://arxiv.org/abs/2605.23175v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Positional Failures in Long-Context LLMs: A Blind Spot in Reasoning Benchmarks",
+      "date": "2026-05-22T02:42:41.000Z",
+      "url": "http://arxiv.org/abs/2605.23170v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "As X, Do Y: How Persona and Task Combine in Instruction-Tuned LLMs",
+      "date": "2026-05-22T01:52:04.000Z",
+      "url": "http://arxiv.org/abs/2605.23147v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "GEMQ: Global Expert-Level Mixed-Precision Quantization for MoE LLMs",
+      "date": "2026-05-21T22:23:38.000Z",
+      "url": "http://arxiv.org/abs/2605.23078v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Efficiency Frontier: A Unified Framework for Cost-Performance Optimization in LLM Context Management",
+      "date": "2026-05-21T22:03:25.000Z",
+      "url": "http://arxiv.org/abs/2605.23071v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "ModeSwitch-LLM: A Lightweight Phase-Aware Controller for Cross-Mode LLM Inference on a Single GPU",
+      "date": "2026-05-21T21:46:57.000Z",
+      "url": "http://arxiv.org/abs/2605.23057v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Do Language Models Know What Not to Say? Causal Evidence for Statistical Preemption in LLMs",
+      "date": "2026-05-21T21:06:43.000Z",
+      "url": "http://arxiv.org/abs/2605.23039v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Sparse Autoencoders Map Brain-LLM Alignment onto Cortical Semantic Topography",
+      "date": "2026-05-21T21:00:24.000Z",
+      "url": "http://arxiv.org/abs/2605.23035v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Brain-LLM Alignment Tracks Training Data, Not Typology",
+      "date": "2026-05-21T20:56:51.000Z",
+      "url": "http://arxiv.org/abs/2605.23032v1",
+      "source": "arxiv"
+    },
     {
       "title": "Beyond Acoustic Emotion Recognition: Multimodal Pathos Analysis in Political Speech Using LLM-Based and Acoustic Emotion Models",
       "date": "2026-05-21T17:03:37.000Z",
@@ -31,96 +121,6 @@
       "title": "Ratchet: A Minimal Hygiene Recipe for Self-Evolving LLM Agents",
       "date": "2026-05-21T08:20:38.000Z",
       "url": "http://arxiv.org/abs/2605.22148v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "From Reasoning Chains to Verifiable Subproblems: Curriculum Reinforcement Learning Enables Credit Assignment for LLM Reasoning",
-      "date": "2026-05-21T07:13:00.000Z",
-      "url": "http://arxiv.org/abs/2605.22074v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Hallucination as Commitment Failure: Larger LLMs Misfire Despite Knowing the Answer",
-      "date": "2026-05-21T05:08:37.000Z",
-      "url": "http://arxiv.org/abs/2605.22007v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Check Your LLM's Secret Dictionary! Five Lines of Code Reveal What Your LLM Learned (Including What It Shouldn't Have)",
-      "date": "2026-05-21T05:02:51.000Z",
-      "url": "http://arxiv.org/abs/2605.22005v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Blind Spots in the Guard: How Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems",
-      "date": "2026-05-21T04:58:11.000Z",
-      "url": "http://arxiv.org/abs/2605.22001v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Diagnosis Is Not Prescription: Linguistic Co-Adaptation Explains Patching Hazards in LLM Pipelines",
-      "date": "2026-05-21T03:44:47.000Z",
-      "url": "http://arxiv.org/abs/2605.21958v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Planning in the LLM Era: Building for Reliability and Efficiency",
-      "date": "2026-05-21T02:24:33.000Z",
-      "url": "http://arxiv.org/abs/2605.21902v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Comparing LLM and Fine-Tuned Model Performance on NVDRS Circumstance Extraction with Varying Prompt Complexity",
-      "date": "2026-05-21T00:33:52.000Z",
-      "url": "http://arxiv.org/abs/2605.21845v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Does Slightly Mean Somewhat? Measuring Vague Intensity Words in LLM Numeric Actions",
-      "date": "2026-05-20T23:49:44.000Z",
-      "url": "http://arxiv.org/abs/2605.21827v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "PromptNCE: Pointwise Mutual Information Predictions Using Only LLMs and Contrastive Estimation Prompts",
-      "date": "2026-05-20T22:10:54.000Z",
-      "url": "http://arxiv.org/abs/2605.21776v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "RankJudge: A Multi-Turn LLM-as-a-Judge Synthetic Benchmark Generator",
-      "date": "2026-05-20T21:20:01.000Z",
-      "url": "http://arxiv.org/abs/2605.21748v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Value-Gradient Hypothesis of RL for LLMs",
-      "date": "2026-05-20T19:09:05.000Z",
-      "url": "http://arxiv.org/abs/2605.21654v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "CR4T: Rewrite-Based Guardrails for Adolescent LLM Safety",
-      "date": "2026-05-20T18:16:18.000Z",
-      "url": "http://arxiv.org/abs/2605.21609v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "You Only Need Minimal RLVR Training: Extrapolating LLMs via Rank-1 Trajectories",
-      "date": "2026-05-20T17:53:20.000Z",
-      "url": "http://arxiv.org/abs/2605.21468v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Leveraging LLMs for Grammar Adaptation: A Study on Metamodel-Grammar Co-Evolution",
-      "date": "2026-05-20T17:51:51.000Z",
-      "url": "http://arxiv.org/abs/2605.21465v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Text Analytics Evaluation Framework: A Case Study on LLMs and Social Media",
-      "date": "2026-05-20T16:05:05.000Z",
-      "url": "http://arxiv.org/abs/2605.21338v1",
       "source": "arxiv"
     }
   ],
