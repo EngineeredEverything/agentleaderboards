@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-05-28T12:24:38.297Z",
+  "timestamp": "2026-05-29T12:13:31.076Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
-      "title": "VLMs May Not Globally Enhance Human Alignment over LLMs During Natural Reading",
-      "date": "2026-05-27T17:59:34.000Z",
-      "url": "http://arxiv.org/abs/2605.28818v1",
+      "title": "Locally Coherent, Globally Incoherent: Bounding Compositional Incoherence in Multi-Component LLM Agents",
+      "date": "2026-05-28T17:58:55.000Z",
+      "url": "http://arxiv.org/abs/2605.30335v1",
       "source": "arxiv"
     },
     {
-      "title": "Skill-Conditioned Gated Self-Distillation for LLM Reasoning",
-      "date": "2026-05-27T17:49:52.000Z",
-      "url": "http://arxiv.org/abs/2605.28791v1",
+      "title": "Demystifying Data Organization for Enhanced LLM Training",
+      "date": "2026-05-28T17:58:53.000Z",
+      "url": "http://arxiv.org/abs/2605.30334v1",
       "source": "arxiv"
     },
     {
-      "title": "Can LLMs Use Linguistic Uncertainty Markers to Reliably Reflect Intrinsic Confidence?",
-      "date": "2026-05-27T17:38:00.000Z",
-      "url": "http://arxiv.org/abs/2605.28778v1",
+      "title": "Resolution Diagnostics for Paired LLM Evaluation",
+      "date": "2026-05-28T17:54:09.000Z",
+      "url": "http://arxiv.org/abs/2605.30315v1",
       "source": "arxiv"
     },
     {
-      "title": "Towards Reliable Multilingual LLMs-as-a-Judge: An Empirical Study",
-      "date": "2026-05-27T16:33:58.000Z",
-      "url": "http://arxiv.org/abs/2605.28710v1",
+      "title": "LLUMI: Improving LLM Writing Assistance for Mental Health Support with Online Community Feedback",
+      "date": "2026-05-28T17:30:57.000Z",
+      "url": "http://arxiv.org/abs/2605.30273v1",
       "source": "arxiv"
     },
     {
-      "title": "Satisfiability Solving with LLMs: A Matched-Pair Evaluation of Reasoning Capability",
-      "date": "2026-05-27T15:18:45.000Z",
-      "url": "http://arxiv.org/abs/2605.28602v1",
+      "title": "How LoRA Remembers? A Parametric Memory Law for LLM Finetuning",
+      "date": "2026-05-28T17:22:24.000Z",
+      "url": "http://arxiv.org/abs/2605.30260v1",
       "source": "arxiv"
     },
     {
-      "title": "Evaluating the Realism of LLM-powered Social Agents: A Case Study of Reactions to Spanish Online News",
-      "date": "2026-05-27T15:16:05.000Z",
-      "url": "http://arxiv.org/abs/2605.28598v1",
+      "title": "Knowing What to Solve Before How: Preplan Empowered LLM Mathematical Reasoning",
+      "date": "2026-05-28T17:11:43.000Z",
+      "url": "http://arxiv.org/abs/2605.30245v1",
       "source": "arxiv"
     },
     {
-      "title": "Verified Misguidance: Measuring Structural Citation Failures in Search-Augmented LLMs",
-      "date": "2026-05-27T14:54:05.000Z",
-      "url": "http://arxiv.org/abs/2605.28565v1",
+      "title": "GRUFF: LLM Pronoun Fidelity, Reasoning, and Biases in German",
+      "date": "2026-05-28T16:47:46.000Z",
+      "url": "http://arxiv.org/abs/2605.30214v1",
       "source": "arxiv"
     },
     {
-      "title": "Functional Entropy: Predicting Functional Correctness in LLM-Generated Code with Uncertainty Quantification",
-      "date": "2026-05-27T14:01:30.000Z",
-      "url": "http://arxiv.org/abs/2605.28500v1",
+      "title": "A Dual-Path Architecture for Scaling Compute and Capacity in LLMs",
+      "date": "2026-05-28T16:41:36.000Z",
+      "url": "http://arxiv.org/abs/2605.30202v1",
       "source": "arxiv"
     },
     {
-      "title": "Beyond One Path: Evaluating and Enhancing Divergent Thinking in Interactive LLM Agents",
-      "date": "2026-05-27T13:33:23.000Z",
-      "url": "http://arxiv.org/abs/2605.28465v1",
+      "title": "Do Proactive Agents Really Need an LLM to Decide When to Wake and What to Anchor?",
+      "date": "2026-05-28T16:10:32.000Z",
+      "url": "http://arxiv.org/abs/2605.30152v1",
       "source": "arxiv"
     },
     {
-      "title": "FABSVer: Faster Training and Better Self-Verification for LLM Mathematical Reasoning",
-      "date": "2026-05-27T12:26:34.000Z",
-      "url": "http://arxiv.org/abs/2605.28389v1",
+      "title": "SEAL: Can Saturated Benchmarks Be Revived by LLM-as-a-Meta-Judge?",
+      "date": "2026-05-28T15:46:54.000Z",
+      "url": "http://arxiv.org/abs/2605.30104v1",
       "source": "arxiv"
     },
     {
-      "title": "HELEA: Hard-Negative Benchmark and LLM-based Reranking for Robust Entity Alignment",
-      "date": "2026-05-27T11:04:12.000Z",
-      "url": "http://arxiv.org/abs/2605.28308v1",
+      "title": "UniSteer: Text-Guided Flow Matching in Activation Space for Versatile LLM Steering",
+      "date": "2026-05-28T15:23:29.000Z",
+      "url": "http://arxiv.org/abs/2605.30076v1",
       "source": "arxiv"
     },
     {
-      "title": "BenGER: Benchmarking LLM Systems on Subsumption-Based Legal Reasoning in German Law",
-      "date": "2026-05-27T09:03:59.000Z",
-      "url": "http://arxiv.org/abs/2605.28183v1",
+      "title": "HEART-Bench: Do LLM Agents Exhibit Human-like Psychology?",
+      "date": "2026-05-28T15:08:03.000Z",
+      "url": "http://arxiv.org/abs/2605.30058v1",
       "source": "arxiv"
     },
     {
-      "title": "DEPART: DEcomposing PARiTy across Multilingual LLMs",
-      "date": "2026-05-27T08:45:48.000Z",
-      "url": "http://arxiv.org/abs/2605.28163v1",
+      "title": "Teaching Values to Machines: Simulating Human-Like Behavior in LLMs",
+      "date": "2026-05-28T14:56:21.000Z",
+      "url": "http://arxiv.org/abs/2605.30036v1",
       "source": "arxiv"
     },
     {
-      "title": "Ask Now, Use Later: Benchmarking the Proactivity Gap in Long-Lived LLM Agents",
-      "date": "2026-05-27T08:00:58.000Z",
-      "url": "http://arxiv.org/abs/2605.28108v1",
+      "title": "Recovering Diversity Without Losing Alignment: A DPO Recipe for Post-Trained LLMs",
+      "date": "2026-05-28T14:42:18.000Z",
+      "url": "http://arxiv.org/abs/2605.30021v1",
       "source": "arxiv"
     },
     {
-      "title": "PromptEmbedder:: Efficient and Transferable Text Embedding via Dual-LLM Soft Prompting",
-      "date": "2026-05-27T07:23:55.000Z",
-      "url": "http://arxiv.org/abs/2605.28066v1",
+      "title": "Does The Way You Plan Matter? An Empirical Study of Planning Representations for LLM Web Agents",
+      "date": "2026-05-28T13:39:49.000Z",
+      "url": "http://arxiv.org/abs/2605.29927v1",
       "source": "arxiv"
     },
     {
-      "title": "Extracting Small Translation Specialists from LLMs by Aggressively Pruning Experts",
-      "date": "2026-05-27T06:46:42.000Z",
-      "url": "http://arxiv.org/abs/2605.28042v1",
+      "title": "Internal Representation, Not Clinical Knowledge: Where Apparent LLM Triage Failures Originate",
+      "date": "2026-05-28T13:14:17.000Z",
+      "url": "http://arxiv.org/abs/2605.29889v1",
       "source": "arxiv"
     },
     {
-      "title": "Integrated and Cross-Architecture Interpretation of LLM Reasoning",
-      "date": "2026-05-27T05:56:35.000Z",
-      "url": "http://arxiv.org/abs/2605.28006v1",
+      "title": "PRAIB: Peer Review AI Benchmark of Behaviour of LLM-Assisted Reviewing",
+      "date": "2026-05-28T11:59:54.000Z",
+      "url": "http://arxiv.org/abs/2605.29815v1",
       "source": "arxiv"
     },
     {
-      "title": "Periodic RoPE for Infinite Context LLMs",
-      "date": "2026-05-27T05:18:00.000Z",
-      "url": "http://arxiv.org/abs/2605.27980v1",
+      "title": "Nine Judges, Two Effective Votes: Correlated Errors Undermine LLM Evaluation Panels",
+      "date": "2026-05-28T11:48:17.000Z",
+      "url": "http://arxiv.org/abs/2605.29800v1",
       "source": "arxiv"
     },
     {
-      "title": "Semantic Flow Regularization: Teaching LLMs to Generate Diverse Yet Coherent Responses",
-      "date": "2026-05-27T05:05:37.000Z",
-      "url": "http://arxiv.org/abs/2605.27971v1",
+      "title": "Hista and Numca: Estimate State Value Effectively for LLM Reinforcement Learning",
+      "date": "2026-05-28T11:31:13.000Z",
+      "url": "http://arxiv.org/abs/2605.29782v1",
       "source": "arxiv"
     },
     {
-      "title": "Pressure-Testing Deception Probes in LLMs: Scaling, Robustness, and the Geometry of Deceptive Representations",
-      "date": "2026-05-27T04:51:55.000Z",
-      "url": "http://arxiv.org/abs/2605.27958v1",
+      "title": "Multi-Legal-Bench: Evaluating LLMs on Legal Reasoning Across Jurisdictions, Languages, and Legal Traditions",
+      "date": "2026-05-28T10:31:37.000Z",
+      "url": "http://arxiv.org/abs/2605.29738v1",
       "source": "arxiv"
     }
   ],
