@@ -1,7 +1,128 @@
 {
-  "timestamp": "2026-06-05T12:07:07.818Z",
+  "timestamp": "2026-06-06T10:52:13.841Z",
   "existingCount": 0,
   "newModels": [],
-  "recentPapers": [],
+  "recentPapers": [
+    {
+      "title": "Human Adults and LLMs as Scientists: Who Benefits from Active Exploration?",
+      "date": "2026-06-04T17:53:36.000Z",
+      "url": "http://arxiv.org/abs/2606.06464v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Revising Context, Shifting Simulated Stance: Auditing LLM-Based Stance Simulation in Online Discussions",
+      "date": "2026-06-04T17:41:54.000Z",
+      "url": "http://arxiv.org/abs/2606.06443v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Komi-Yazva--Russian Parallel Corpus and Evaluation Protocol for Zero- and Few-Shot LLM Translation",
+      "date": "2026-06-04T17:26:38.000Z",
+      "url": "http://arxiv.org/abs/2606.06420v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "CollabSim: A CSCW-Grounded Methodology for Investigating Collaborative Competence of LLM Agents through Controlled Multi-Agent Experiments",
+      "date": "2026-06-04T17:06:22.000Z",
+      "url": "http://arxiv.org/abs/2606.06399v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "EDIT: Evidence-Diagnosed Intervention Training for Rule-Faithful LLM Grading",
+      "date": "2026-06-04T16:20:17.000Z",
+      "url": "http://arxiv.org/abs/2606.06350v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Learning What to Forget: Improving LLM Unlearning via Learned Token-Level Importance",
+      "date": "2026-06-04T15:56:32.000Z",
+      "url": "http://arxiv.org/abs/2606.06320v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLMs Can Leak Training Data But Do They Want To? A Propensity-Aware Evaluation of Memorization in LLMs",
+      "date": "2026-06-04T15:25:24.000Z",
+      "url": "http://arxiv.org/abs/2606.06286v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "FOXGLOVE: Understanding Goal-Oriented and Anchored Writing Feedback from Experts and LLMs on Argumentative Essays",
+      "date": "2026-06-04T15:13:25.000Z",
+      "url": "http://arxiv.org/abs/2606.06271v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "From Self to Other: Evaluating Demographic Perspective-Taking in LLM Hate Speech Annotation",
+      "date": "2026-06-04T15:09:58.000Z",
+      "url": "http://arxiv.org/abs/2606.06266v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Dense Contexts Are Hard Contexts: Lexical Density Limits Effective Context in LLMs",
+      "date": "2026-06-04T14:08:30.000Z",
+      "url": "http://arxiv.org/abs/2606.06203v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Improving Answer Extraction in Context-based Question Answering Systems Using LLMs",
+      "date": "2026-06-04T14:04:11.000Z",
+      "url": "http://arxiv.org/abs/2606.06197v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Learning to Route LLMs from Implicit Cost-Performance Preferences via Meta-Learning",
+      "date": "2026-06-04T13:53:03.000Z",
+      "url": "http://arxiv.org/abs/2606.06178v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LatentSkill: From In-Context Textual Skills to In-Weight Latent Skills for LLM Agents",
+      "date": "2026-06-04T12:26:09.000Z",
+      "url": "http://arxiv.org/abs/2606.06087v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "RedditPersona: A Modular Framework for Community-Conditioned LLM Adaptation from Reddit",
+      "date": "2026-06-04T11:20:10.000Z",
+      "url": "http://arxiv.org/abs/2606.06027v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Generator-Eraser Paradox: Community Guidelines for Responsible LLM-Assisted Dialect Resource Creation",
+      "date": "2026-06-04T10:57:36.000Z",
+      "url": "http://arxiv.org/abs/2606.06004v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Self-Correction Illusion: LLMs Correct Others but Not Themselves",
+      "date": "2026-06-04T10:17:00.000Z",
+      "url": "http://arxiv.org/abs/2606.05976v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Measuring the sensitivity of LLM-based structured extraction to prompt, model, and schema choices in clinical discharge summaries",
+      "date": "2026-06-04T10:14:12.000Z",
+      "url": "http://arxiv.org/abs/2606.05970v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Better Literary Translation: A Multi-Aspect Data Generation and LLM Training Approach",
+      "date": "2026-06-04T09:27:29.000Z",
+      "url": "http://arxiv.org/abs/2606.05924v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Retrospective Harness Optimization: Improving LLM Agents via Self-Preference over Trajectory Rollouts",
+      "date": "2026-06-04T09:26:00.000Z",
+      "url": "http://arxiv.org/abs/2606.05922v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Staying with the Uncertainty: Uncertainty-Scaffolding Strategies for Artificial Moral Advisors in LLM-to-LLM Simulated Conversations",
+      "date": "2026-06-04T08:59:10.000Z",
+      "url": "http://arxiv.org/abs/2606.05890v1",
+      "source": "arxiv"
+    }
+  ],
   "withBenchmarks": 0
 }
