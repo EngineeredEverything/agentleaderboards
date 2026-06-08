@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-06-07T11:07:34.577Z",
+  "timestamp": "2026-06-08T13:04:59.180Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
-      "title": "Human Adults and LLMs as Scientists: Who Benefits from Active Exploration?",
-      "date": "2026-06-04T17:53:36.000Z",
-      "url": "http://arxiv.org/abs/2606.06464v1",
+      "title": "How reliable are LLMs when it comes to playing dice?",
+      "date": "2026-06-05T17:59:42.000Z",
+      "url": "http://arxiv.org/abs/2606.07515v1",
       "source": "arxiv"
     },
     {
-      "title": "Revising Context, Shifting Simulated Stance: Auditing LLM-Based Stance Simulation in Online Discussions",
-      "date": "2026-06-04T17:41:54.000Z",
-      "url": "http://arxiv.org/abs/2606.06443v1",
+      "title": "The Masked Advantage: Uncovering Local-Language Access to Cultural Knowledge in LLMs",
+      "date": "2026-06-05T16:16:59.000Z",
+      "url": "http://arxiv.org/abs/2606.07422v1",
       "source": "arxiv"
     },
     {
-      "title": "A Komi-Yazva--Russian Parallel Corpus and Evaluation Protocol for Zero- and Few-Shot LLM Translation",
-      "date": "2026-06-04T17:26:38.000Z",
-      "url": "http://arxiv.org/abs/2606.06420v1",
+      "title": "LLM-Guided Evolution for Medical Decision Pipelines",
+      "date": "2026-06-05T14:53:16.000Z",
+      "url": "http://arxiv.org/abs/2606.07342v1",
       "source": "arxiv"
     },
     {
-      "title": "CollabSim: A CSCW-Grounded Methodology for Investigating Collaborative Competence of LLM Agents through Controlled Multi-Agent Experiments",
-      "date": "2026-06-04T17:06:22.000Z",
-      "url": "http://arxiv.org/abs/2606.06399v1",
+      "title": "Phun-Bench: Evaluating LLMs on Phonological Understanding in Chinese",
+      "date": "2026-06-05T14:17:09.000Z",
+      "url": "http://arxiv.org/abs/2606.07300v1",
       "source": "arxiv"
     },
     {
-      "title": "EDIT: Evidence-Diagnosed Intervention Training for Rule-Faithful LLM Grading",
-      "date": "2026-06-04T16:20:17.000Z",
-      "url": "http://arxiv.org/abs/2606.06350v1",
+      "title": "From Correctness to Utility: Gain-Based Prefix Evaluation for LLM Reasoning",
+      "date": "2026-06-05T11:56:50.000Z",
+      "url": "http://arxiv.org/abs/2606.07190v1",
       "source": "arxiv"
     },
     {
-      "title": "Learning What to Forget: Improving LLM Unlearning via Learned Token-Level Importance",
-      "date": "2026-06-04T15:56:32.000Z",
-      "url": "http://arxiv.org/abs/2606.06320v1",
+      "title": "OffQ: Taming Structured Outliers in LLM Quantization by Offsetting",
+      "date": "2026-06-05T10:11:34.000Z",
+      "url": "http://arxiv.org/abs/2606.07116v1",
       "source": "arxiv"
     },
     {
-      "title": "LLMs Can Leak Training Data But Do They Want To? A Propensity-Aware Evaluation of Memorization in LLMs",
-      "date": "2026-06-04T15:25:24.000Z",
-      "url": "http://arxiv.org/abs/2606.06286v1",
+      "title": "SigmaScale: LLM Compression with SVD-based Low-Rank Decomposition and Learned Scaling Matrices",
+      "date": "2026-06-05T09:48:58.000Z",
+      "url": "http://arxiv.org/abs/2606.07098v1",
       "source": "arxiv"
     },
     {
-      "title": "FOXGLOVE: Understanding Goal-Oriented and Anchored Writing Feedback from Experts and LLMs on Argumentative Essays",
-      "date": "2026-06-04T15:13:25.000Z",
-      "url": "http://arxiv.org/abs/2606.06271v1",
+      "title": "mmPISA-bench: Do LLMs Reason Equally Well Across 43 Languages?",
+      "date": "2026-06-05T09:09:03.000Z",
+      "url": "http://arxiv.org/abs/2606.07069v1",
       "source": "arxiv"
     },
     {
-      "title": "From Self to Other: Evaluating Demographic Perspective-Taking in LLM Hate Speech Annotation",
-      "date": "2026-06-04T15:09:58.000Z",
-      "url": "http://arxiv.org/abs/2606.06266v1",
+      "title": "TRACE: Trajectory Reasoning through Adaptive Cross-Step Evidence Aggregation for LLM Agents",
+      "date": "2026-06-05T08:54:38.000Z",
+      "url": "http://arxiv.org/abs/2606.07054v1",
       "source": "arxiv"
     },
     {
-      "title": "Dense Contexts Are Hard Contexts: Lexical Density Limits Effective Context in LLMs",
-      "date": "2026-06-04T14:08:30.000Z",
-      "url": "http://arxiv.org/abs/2606.06203v1",
+      "title": "Contrastive Training with LLM-generated Near-Misses for Robust Code-Switching Speech Recognition",
+      "date": "2026-06-05T07:24:39.000Z",
+      "url": "http://arxiv.org/abs/2606.06985v1",
       "source": "arxiv"
     },
     {
-      "title": "Improving Answer Extraction in Context-based Question Answering Systems Using LLMs",
-      "date": "2026-06-04T14:04:11.000Z",
-      "url": "http://arxiv.org/abs/2606.06197v1",
+      "title": "Auditing Training Data in Domain-adapted LLMs: LoRA-MINT",
+      "date": "2026-06-05T06:19:03.000Z",
+      "url": "http://arxiv.org/abs/2606.06946v1",
       "source": "arxiv"
     },
     {
-      "title": "Learning to Route LLMs from Implicit Cost-Performance Preferences via Meta-Learning",
-      "date": "2026-06-04T13:53:03.000Z",
-      "url": "http://arxiv.org/abs/2606.06178v1",
+      "title": "ThinkBooster: A Unified Framework for Seamless Test-Time Scaling of LLM Reasoning",
+      "date": "2026-06-05T05:28:46.000Z",
+      "url": "http://arxiv.org/abs/2606.06915v1",
       "source": "arxiv"
     },
     {
-      "title": "LatentSkill: From In-Context Textual Skills to In-Weight Latent Skills for LLM Agents",
-      "date": "2026-06-04T12:26:09.000Z",
-      "url": "http://arxiv.org/abs/2606.06087v1",
+      "title": "Korean Culture into LLM Alignment: Toward Cultural Coherence",
+      "date": "2026-06-05T00:47:10.000Z",
+      "url": "http://arxiv.org/abs/2606.06797v1",
       "source": "arxiv"
     },
     {
-      "title": "RedditPersona: A Modular Framework for Community-Conditioned LLM Adaptation from Reddit",
-      "date": "2026-06-04T11:20:10.000Z",
-      "url": "http://arxiv.org/abs/2606.06027v1",
+      "title": "When Better Codebooks Are Not Enough: Predictive Performance and Behavioral Reliability in LLM Political Event Coding",
+      "date": "2026-06-04T23:51:14.000Z",
+      "url": "http://arxiv.org/abs/2606.06781v1",
       "source": "arxiv"
     },
     {
-      "title": "The Generator-Eraser Paradox: Community Guidelines for Responsible LLM-Assisted Dialect Resource Creation",
-      "date": "2026-06-04T10:57:36.000Z",
-      "url": "http://arxiv.org/abs/2606.06004v1",
+      "title": "PromptPrint: Behavioral Biometrics Through Natural Language Prompting in LLMs",
+      "date": "2026-06-04T22:34:17.000Z",
+      "url": "http://arxiv.org/abs/2606.06755v1",
       "source": "arxiv"
     },
     {
-      "title": "The Self-Correction Illusion: LLMs Correct Others but Not Themselves",
-      "date": "2026-06-04T10:17:00.000Z",
-      "url": "http://arxiv.org/abs/2606.05976v1",
+      "title": "When to Think Deeply: Inhibitory Deliberation for LLM Reasoning",
+      "date": "2026-06-04T21:57:27.000Z",
+      "url": "http://arxiv.org/abs/2606.06745v1",
       "source": "arxiv"
     },
     {
-      "title": "Measuring the sensitivity of LLM-based structured extraction to prompt, model, and schema choices in clinical discharge summaries",
-      "date": "2026-06-04T10:14:12.000Z",
-      "url": "http://arxiv.org/abs/2606.05970v1",
+      "title": "OpenSkill: Open-World Self-Evolution for LLM Agents",
+      "date": "2026-06-04T21:55:48.000Z",
+      "url": "http://arxiv.org/abs/2606.06741v1",
       "source": "arxiv"
     },
     {
-      "title": "Better Literary Translation: A Multi-Aspect Data Generation and LLM Training Approach",
-      "date": "2026-06-04T09:27:29.000Z",
-      "url": "http://arxiv.org/abs/2606.05924v1",
+      "title": "Does Topic Sentiment Cause Perceived Ideology? Comparing Human and LLM Annotations in Political News Articles",
+      "date": "2026-06-04T21:05:48.000Z",
+      "url": "http://arxiv.org/abs/2606.06715v1",
       "source": "arxiv"
     },
     {
-      "title": "Retrospective Harness Optimization: Improving LLM Agents via Self-Preference over Trajectory Rollouts",
-      "date": "2026-06-04T09:26:00.000Z",
-      "url": "http://arxiv.org/abs/2606.05922v1",
+      "title": "UnpredictaBench: A Benchmark for Evaluating Distributional Randomness in LLMs",
+      "date": "2026-06-04T18:18:02.000Z",
+      "url": "http://arxiv.org/abs/2606.06622v1",
       "source": "arxiv"
     },
     {
-      "title": "Staying with the Uncertainty: Uncertainty-Scaffolding Strategies for Artificial Moral Advisors in LLM-to-LLM Simulated Conversations",
-      "date": "2026-06-04T08:59:10.000Z",
-      "url": "http://arxiv.org/abs/2606.05890v1",
+      "title": "Re-Centering Humans in LLM Personalization",
+      "date": "2026-06-04T18:04:47.000Z",
+      "url": "http://arxiv.org/abs/2606.06614v1",
       "source": "arxiv"
     }
   ],
