@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-06-08T13:04:59.180Z",
+  "timestamp": "2026-06-09T11:58:07.480Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
-      "title": "How reliable are LLMs when it comes to playing dice?",
-      "date": "2026-06-05T17:59:42.000Z",
-      "url": "http://arxiv.org/abs/2606.07515v1",
+      "title": "AGENTSERVESIM: A Hardware-aware Simulator for Multi-Turn LLM Agent Serving",
+      "date": "2026-06-08T15:20:23.000Z",
+      "url": "http://arxiv.org/abs/2606.09613v1",
       "source": "arxiv"
     },
     {
-      "title": "The Masked Advantage: Uncovering Local-Language Access to Cultural Knowledge in LLMs",
-      "date": "2026-06-05T16:16:59.000Z",
-      "url": "http://arxiv.org/abs/2606.07422v1",
+      "title": "TABVERSE: Benchmarking Cross-Format Table Understanding in LLMs and VLMs",
+      "date": "2026-06-08T14:52:46.000Z",
+      "url": "http://arxiv.org/abs/2606.09578v1",
       "source": "arxiv"
     },
     {
-      "title": "LLM-Guided Evolution for Medical Decision Pipelines",
-      "date": "2026-06-05T14:53:16.000Z",
-      "url": "http://arxiv.org/abs/2606.07342v1",
+      "title": "From Rigid to Dynamic: Entropy-Guided Adaptive Inference for Long-Context LLMs",
+      "date": "2026-06-08T14:02:18.000Z",
+      "url": "http://arxiv.org/abs/2606.09508v1",
       "source": "arxiv"
     },
     {
-      "title": "Phun-Bench: Evaluating LLMs on Phonological Understanding in Chinese",
-      "date": "2026-06-05T14:17:09.000Z",
-      "url": "http://arxiv.org/abs/2606.07300v1",
+      "title": "Memory Beyond Recall: A Dual-Process Cognitive Memory System for Self-Evolving LLM Agents",
+      "date": "2026-06-08T13:39:24.000Z",
+      "url": "http://arxiv.org/abs/2606.09483v1",
       "source": "arxiv"
     },
     {
-      "title": "From Correctness to Utility: Gain-Based Prefix Evaluation for LLM Reasoning",
-      "date": "2026-06-05T11:56:50.000Z",
-      "url": "http://arxiv.org/abs/2606.07190v1",
+      "title": "Is Text All You Need? Text as a Universal Information Bottleneck for Speech LLMs",
+      "date": "2026-06-08T11:38:40.000Z",
+      "url": "http://arxiv.org/abs/2606.09366v1",
       "source": "arxiv"
     },
     {
-      "title": "OffQ: Taming Structured Outliers in LLM Quantization by Offsetting",
-      "date": "2026-06-05T10:11:34.000Z",
-      "url": "http://arxiv.org/abs/2606.07116v1",
+      "title": "The Injection Paradox: Brand-Level Suppression in Safety-Trained LLM Recommendations via RAG Context Injection",
+      "date": "2026-06-08T08:38:33.000Z",
+      "url": "http://arxiv.org/abs/2606.09204v1",
       "source": "arxiv"
     },
     {
-      "title": "SigmaScale: LLM Compression with SVD-based Low-Rank Decomposition and Learned Scaling Matrices",
-      "date": "2026-06-05T09:48:58.000Z",
-      "url": "http://arxiv.org/abs/2606.07098v1",
+      "title": "From USD Scenes to Knowledge Graphs: Zero-Shot Ontology Grounding with LLMs",
+      "date": "2026-06-08T07:32:06.000Z",
+      "url": "http://arxiv.org/abs/2606.09134v1",
       "source": "arxiv"
     },
     {
-      "title": "mmPISA-bench: Do LLMs Reason Equally Well Across 43 Languages?",
-      "date": "2026-06-05T09:09:03.000Z",
-      "url": "http://arxiv.org/abs/2606.07069v1",
+      "title": "Beyond FLOPs: Benchmarking Real Inference Acceleration of LLM Pruning under a GEMM-Centric Taxonomy",
+      "date": "2026-06-08T06:26:18.000Z",
+      "url": "http://arxiv.org/abs/2606.09080v1",
       "source": "arxiv"
     },
     {
-      "title": "TRACE: Trajectory Reasoning through Adaptive Cross-Step Evidence Aggregation for LLM Agents",
-      "date": "2026-06-05T08:54:38.000Z",
-      "url": "http://arxiv.org/abs/2606.07054v1",
+      "title": "Bridging the Agent-World Gap: Text World Models for LLM-based Agents",
+      "date": "2026-06-08T04:58:52.000Z",
+      "url": "http://arxiv.org/abs/2606.09032v1",
       "source": "arxiv"
     },
     {
-      "title": "Contrastive Training with LLM-generated Near-Misses for Robust Code-Switching Speech Recognition",
-      "date": "2026-06-05T07:24:39.000Z",
-      "url": "http://arxiv.org/abs/2606.06985v1",
+      "title": "TRIAGE: Dialectical Reasoning for Explainable Risk Prediction on Irregularly Sampled Medical Time Series with LLMs",
+      "date": "2026-06-08T04:53:44.000Z",
+      "url": "http://arxiv.org/abs/2606.09030v1",
       "source": "arxiv"
     },
     {
-      "title": "Auditing Training Data in Domain-adapted LLMs: LoRA-MINT",
-      "date": "2026-06-05T06:19:03.000Z",
-      "url": "http://arxiv.org/abs/2606.06946v1",
+      "title": "SafeRun: Enabling Determinism in LLM Planning for Running",
+      "date": "2026-06-08T04:53:01.000Z",
+      "url": "http://arxiv.org/abs/2606.09027v1",
       "source": "arxiv"
     },
     {
-      "title": "ThinkBooster: A Unified Framework for Seamless Test-Time Scaling of LLM Reasoning",
-      "date": "2026-06-05T05:28:46.000Z",
-      "url": "http://arxiv.org/abs/2606.06915v1",
+      "title": "Beyond Averages: Evaluating LLMs on Human Survey Replication at the Distributional Level",
+      "date": "2026-06-08T04:22:15.000Z",
+      "url": "http://arxiv.org/abs/2606.09013v1",
       "source": "arxiv"
     },
     {
-      "title": "Korean Culture into LLM Alignment: Toward Cultural Coherence",
-      "date": "2026-06-05T00:47:10.000Z",
-      "url": "http://arxiv.org/abs/2606.06797v1",
+      "title": "Language-Aware Token Boosting: LLM Language Confusion Reduction Without Tuning",
+      "date": "2026-06-08T03:47:07.000Z",
+      "url": "http://arxiv.org/abs/2606.08994v1",
       "source": "arxiv"
     },
     {
-      "title": "When Better Codebooks Are Not Enough: Predictive Performance and Behavioral Reliability in LLM Political Event Coding",
-      "date": "2026-06-04T23:51:14.000Z",
-      "url": "http://arxiv.org/abs/2606.06781v1",
+      "title": "Can LLMs understand LilyPond? A benchmark for symbolic music generation and understanding",
+      "date": "2026-06-07T16:32:59.000Z",
+      "url": "http://arxiv.org/abs/2606.08722v1",
       "source": "arxiv"
     },
     {
-      "title": "PromptPrint: Behavioral Biometrics Through Natural Language Prompting in LLMs",
-      "date": "2026-06-04T22:34:17.000Z",
-      "url": "http://arxiv.org/abs/2606.06755v1",
+      "title": "From Player to Master: Enhancing Test-Time Learning of LLM Agents via Reinforcement Learning over Memory",
+      "date": "2026-06-07T14:53:19.000Z",
+      "url": "http://arxiv.org/abs/2606.08656v1",
       "source": "arxiv"
     },
     {
-      "title": "When to Think Deeply: Inhibitory Deliberation for LLM Reasoning",
-      "date": "2026-06-04T21:57:27.000Z",
-      "url": "http://arxiv.org/abs/2606.06745v1",
+      "title": "From Holistic Evaluation to Structured Criteria: Rubrics Across the Evolving LLM Landscape",
+      "date": "2026-06-07T13:34:55.000Z",
+      "url": "http://arxiv.org/abs/2606.08625v1",
       "source": "arxiv"
     },
     {
-      "title": "OpenSkill: Open-World Self-Evolution for LLM Agents",
-      "date": "2026-06-04T21:55:48.000Z",
-      "url": "http://arxiv.org/abs/2606.06741v1",
+      "title": "Multilingual Fact-Checking at Scale: Fine-Tuned Compact Models vs LLMs",
+      "date": "2026-06-07T12:33:43.000Z",
+      "url": "http://arxiv.org/abs/2606.08605v1",
       "source": "arxiv"
     },
     {
-      "title": "Does Topic Sentiment Cause Perceived Ideology? Comparing Human and LLM Annotations in Political News Articles",
-      "date": "2026-06-04T21:05:48.000Z",
-      "url": "http://arxiv.org/abs/2606.06715v1",
+      "title": "Inside the LLM Word Factory",
+      "date": "2026-06-07T10:36:20.000Z",
+      "url": "http://arxiv.org/abs/2606.08562v1",
       "source": "arxiv"
     },
     {
-      "title": "UnpredictaBench: A Benchmark for Evaluating Distributional Randomness in LLMs",
-      "date": "2026-06-04T18:18:02.000Z",
-      "url": "http://arxiv.org/abs/2606.06622v1",
+      "title": "Friend or Foe? Language as an ideological switch in open-weight LLMs under Russian disinformation stress",
+      "date": "2026-06-07T08:33:27.000Z",
+      "url": "http://arxiv.org/abs/2606.08512v1",
       "source": "arxiv"
     },
     {
-      "title": "Re-Centering Humans in LLM Personalization",
-      "date": "2026-06-04T18:04:47.000Z",
-      "url": "http://arxiv.org/abs/2606.06614v1",
+      "title": "TRADE: Transducer-Augmented Decoder for Speech LLM",
+      "date": "2026-06-07T07:15:34.000Z",
+      "url": "http://arxiv.org/abs/2606.08486v1",
       "source": "arxiv"
     }
   ],
