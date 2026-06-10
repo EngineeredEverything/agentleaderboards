@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-06-09T11:58:07.480Z",
+  "timestamp": "2026-06-10T12:18:26.151Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
-      "title": "AGENTSERVESIM: A Hardware-aware Simulator for Multi-Turn LLM Agent Serving",
-      "date": "2026-06-08T15:20:23.000Z",
-      "url": "http://arxiv.org/abs/2606.09613v1",
+      "title": "Attention Amnesia in Hybrid LLMs: When CoT Fine-Tuning Breaks Long-Range Recall, and How to Fix It",
+      "date": "2026-06-09T16:17:19.000Z",
+      "url": "http://arxiv.org/abs/2606.11052v1",
       "source": "arxiv"
     },
     {
-      "title": "TABVERSE: Benchmarking Cross-Format Table Understanding in LLMs and VLMs",
-      "date": "2026-06-08T14:52:46.000Z",
-      "url": "http://arxiv.org/abs/2606.09578v1",
+      "title": "AuRA: Internalizing Audio Understanding into LLMs as LoRA",
+      "date": "2026-06-09T16:05:23.000Z",
+      "url": "http://arxiv.org/abs/2606.11033v1",
       "source": "arxiv"
     },
     {
-      "title": "From Rigid to Dynamic: Entropy-Guided Adaptive Inference for Long-Context LLMs",
-      "date": "2026-06-08T14:02:18.000Z",
-      "url": "http://arxiv.org/abs/2606.09508v1",
+      "title": "Measuring Human Value Expression in Social Media Texts: Calibrated LLM Annotation and Encoder Transfer",
+      "date": "2026-06-09T15:55:55.000Z",
+      "url": "http://arxiv.org/abs/2606.11018v1",
       "source": "arxiv"
     },
     {
-      "title": "Memory Beyond Recall: A Dual-Process Cognitive Memory System for Self-Evolving LLM Agents",
-      "date": "2026-06-08T13:39:24.000Z",
-      "url": "http://arxiv.org/abs/2606.09483v1",
+      "title": "Mind the Gap: Can Frontier LLMs Pass a Standardized Office Proficiency Exam?",
+      "date": "2026-06-09T14:59:14.000Z",
+      "url": "http://arxiv.org/abs/2606.10956v1",
       "source": "arxiv"
     },
     {
-      "title": "Is Text All You Need? Text as a Universal Information Bottleneck for Speech LLMs",
-      "date": "2026-06-08T11:38:40.000Z",
-      "url": "http://arxiv.org/abs/2606.09366v1",
+      "title": "Pushing the Limits of LLM Tool Calling via Experiential Knowledge Integration and Activation",
+      "date": "2026-06-09T13:51:32.000Z",
+      "url": "http://arxiv.org/abs/2606.10875v1",
       "source": "arxiv"
     },
     {
-      "title": "The Injection Paradox: Brand-Level Suppression in Safety-Trained LLM Recommendations via RAG Context Injection",
-      "date": "2026-06-08T08:38:33.000Z",
-      "url": "http://arxiv.org/abs/2606.09204v1",
+      "title": "Training LLMs to Enforce Multi-Level Instruction Hierarchies via Gravity-Weighted Direct Preference Optimization",
+      "date": "2026-06-09T13:39:17.000Z",
+      "url": "http://arxiv.org/abs/2606.10860v1",
       "source": "arxiv"
     },
     {
-      "title": "From USD Scenes to Knowledge Graphs: Zero-Shot Ontology Grounding with LLMs",
-      "date": "2026-06-08T07:32:06.000Z",
-      "url": "http://arxiv.org/abs/2606.09134v1",
+      "title": "Janus: A Benchmark for Goal-Conditioned Information Distortion in LLMs",
+      "date": "2026-06-09T13:31:13.000Z",
+      "url": "http://arxiv.org/abs/2606.10852v1",
       "source": "arxiv"
     },
     {
-      "title": "Beyond FLOPs: Benchmarking Real Inference Acceleration of LLM Pruning under a GEMM-Centric Taxonomy",
-      "date": "2026-06-08T06:26:18.000Z",
-      "url": "http://arxiv.org/abs/2606.09080v1",
+      "title": "Dep-LLM: Training-Free Depression Diagnosis via Evidence-Guided Structured Multi-factor with Reliable LLM Reasoning",
+      "date": "2026-06-09T12:44:12.000Z",
+      "url": "http://arxiv.org/abs/2606.10796v1",
       "source": "arxiv"
     },
     {
-      "title": "Bridging the Agent-World Gap: Text World Models for LLM-based Agents",
-      "date": "2026-06-08T04:58:52.000Z",
-      "url": "http://arxiv.org/abs/2606.09032v1",
+      "title": "Continual LLM Upcycling: A Predictor-Gated Bank-Wise Sparsity Training Recipe for Dense-to-Sparse LLMs",
+      "date": "2026-06-09T11:32:58.000Z",
+      "url": "http://arxiv.org/abs/2606.10722v1",
       "source": "arxiv"
     },
     {
-      "title": "TRIAGE: Dialectical Reasoning for Explainable Risk Prediction on Irregularly Sampled Medical Time Series with LLMs",
-      "date": "2026-06-08T04:53:44.000Z",
-      "url": "http://arxiv.org/abs/2606.09030v1",
+      "title": "REAL: A Reasoning-Enhanced Graph Framework for Long-Term Memory Management of LLMs",
+      "date": "2026-06-09T10:53:10.000Z",
+      "url": "http://arxiv.org/abs/2606.10694v1",
       "source": "arxiv"
     },
     {
-      "title": "SafeRun: Enabling Determinism in LLM Planning for Running",
-      "date": "2026-06-08T04:53:01.000Z",
-      "url": "http://arxiv.org/abs/2606.09027v1",
+      "title": "Infini Memory: Maintainable Topic Documents for Long-Term LLM Agent Memory",
+      "date": "2026-06-09T10:31:51.000Z",
+      "url": "http://arxiv.org/abs/2606.10677v1",
       "source": "arxiv"
     },
     {
-      "title": "Beyond Averages: Evaluating LLMs on Human Survey Replication at the Distributional Level",
-      "date": "2026-06-08T04:22:15.000Z",
-      "url": "http://arxiv.org/abs/2606.09013v1",
+      "title": "How Does Reasoning Flow? Tracing Attention-Induced Information Flow for Targeted RL in LLMs",
+      "date": "2026-06-09T09:56:51.000Z",
+      "url": "http://arxiv.org/abs/2606.10646v1",
       "source": "arxiv"
     },
     {
-      "title": "Language-Aware Token Boosting: LLM Language Confusion Reduction Without Tuning",
-      "date": "2026-06-08T03:47:07.000Z",
-      "url": "http://arxiv.org/abs/2606.08994v1",
+      "title": "Causal Ensemble Agent: Hierarchical Causal Discovery with LLM-guided Expert Reweighting",
+      "date": "2026-06-09T09:09:07.000Z",
+      "url": "http://arxiv.org/abs/2606.10607v1",
       "source": "arxiv"
     },
     {
-      "title": "Can LLMs understand LilyPond? A benchmark for symbolic music generation and understanding",
-      "date": "2026-06-07T16:32:59.000Z",
-      "url": "http://arxiv.org/abs/2606.08722v1",
+      "title": "LC-QAT: Data-Efficient 2-Bit QAT for LLMs via Linear-Constrained Vector Quantization",
+      "date": "2026-06-09T08:02:56.000Z",
+      "url": "http://arxiv.org/abs/2606.10531v1",
       "source": "arxiv"
     },
     {
-      "title": "From Player to Master: Enhancing Test-Time Learning of LLM Agents via Reinforcement Learning over Memory",
-      "date": "2026-06-07T14:53:19.000Z",
-      "url": "http://arxiv.org/abs/2606.08656v1",
+      "title": "ERAlign: Energy-based Representation Alignment of GNNs and LLMs on Text-attributed Graphs",
+      "date": "2026-06-09T06:16:40.000Z",
+      "url": "http://arxiv.org/abs/2606.10461v1",
       "source": "arxiv"
     },
     {
-      "title": "From Holistic Evaluation to Structured Criteria: Rubrics Across the Evolving LLM Landscape",
-      "date": "2026-06-07T13:34:55.000Z",
-      "url": "http://arxiv.org/abs/2606.08625v1",
+      "title": "SpenseGPT: Practical One-shot Pruning Enabling Sparse and Dense GEMMs for LLM Inference",
+      "date": "2026-06-09T05:48:31.000Z",
+      "url": "http://arxiv.org/abs/2606.10445v1",
       "source": "arxiv"
     },
     {
-      "title": "Multilingual Fact-Checking at Scale: Fine-Tuned Compact Models vs LLMs",
-      "date": "2026-06-07T12:33:43.000Z",
-      "url": "http://arxiv.org/abs/2606.08605v1",
+      "title": "Enhancing Multilingual LLM-based ASR with Mixture of Experts and Dynamic Downsampling",
+      "date": "2026-06-09T05:35:31.000Z",
+      "url": "http://arxiv.org/abs/2606.10439v1",
       "source": "arxiv"
     },
     {
-      "title": "Inside the LLM Word Factory",
-      "date": "2026-06-07T10:36:20.000Z",
-      "url": "http://arxiv.org/abs/2606.08562v1",
+      "title": "Catching One in Five: LLM-as-Judge Blind Spots in Production Multi-Turn Transaction Agents",
+      "date": "2026-06-09T02:11:01.000Z",
+      "url": "http://arxiv.org/abs/2606.10315v1",
       "source": "arxiv"
     },
     {
-      "title": "Friend or Foe? Language as an ideological switch in open-weight LLMs under Russian disinformation stress",
-      "date": "2026-06-07T08:33:27.000Z",
-      "url": "http://arxiv.org/abs/2606.08512v1",
+      "title": "Early-Token Confidence Predicts Reasoning Quality in Multi-Agent LLM Debate",
+      "date": "2026-06-09T01:52:59.000Z",
+      "url": "http://arxiv.org/abs/2606.10307v1",
       "source": "arxiv"
     },
     {
-      "title": "TRADE: Transducer-Augmented Decoder for Speech LLM",
-      "date": "2026-06-07T07:15:34.000Z",
-      "url": "http://arxiv.org/abs/2606.08486v1",
+      "title": "MIRAGE: A Polarity-Flipping Encoding Subspace in LLM Agents",
+      "date": "2026-06-09T01:45:19.000Z",
+      "url": "http://arxiv.org/abs/2606.10304v1",
       "source": "arxiv"
     }
   ],
