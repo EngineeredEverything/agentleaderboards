@@ -1,7 +1,128 @@
 {
-  "timestamp": "2026-06-11T12:43:45.873Z",
+  "timestamp": "2026-06-12T12:16:57.225Z",
   "existingCount": 0,
   "newModels": [],
-  "recentPapers": [],
+  "recentPapers": [
+    {
+      "title": "EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments",
+      "date": "2026-06-11T17:59:59.000Z",
+      "url": "http://arxiv.org/abs/2606.13681v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Operadic consistency: a label-free signal for compositional reasoning failures in LLMs",
+      "date": "2026-06-11T17:50:40.000Z",
+      "url": "http://arxiv.org/abs/2606.13649v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Operads for compositional reasoning in LLMs",
+      "date": "2026-06-11T17:44:15.000Z",
+      "url": "http://arxiv.org/abs/2606.13634v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Leveraging Audio-LLMs to Filter Speech-to-Speech Training Data",
+      "date": "2026-06-11T15:55:23.000Z",
+      "url": "http://arxiv.org/abs/2606.13507v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Low-Latency Real-Time Audio Game Commentary System via LLM-Based Parallel Text Generation",
+      "date": "2026-06-11T13:15:13.000Z",
+      "url": "http://arxiv.org/abs/2606.13322v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "SkillCAT: Contrastive Assessment and Topology-Aware Skill Self-Evolution for LLM Agents",
+      "date": "2026-06-11T13:12:10.000Z",
+      "url": "http://arxiv.org/abs/2606.13317v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Evaluating Pluralism in LLMs through Latent Perspectives",
+      "date": "2026-06-11T12:11:04.000Z",
+      "url": "http://arxiv.org/abs/2606.13254v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "When Similar Means Different: Evaluating LLMs on Arabic--Hebrew Cognates",
+      "date": "2026-06-11T11:33:09.000Z",
+      "url": "http://arxiv.org/abs/2606.13218v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "SICI: A Semantic-Pragmatic Complexity Index Reveals Regime Shifts in LLM Stance Detection",
+      "date": "2026-06-11T10:58:18.000Z",
+      "url": "http://arxiv.org/abs/2606.13189v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "MemRefine: LLM-Guided Compression for Long-Term Agent Memory",
+      "date": "2026-06-11T10:46:17.000Z",
+      "url": "http://arxiv.org/abs/2606.13177v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "NTS-CoT: Mitigating Hallucinations in LLM-based News Timeline Summarization with Chain-of-Thought Reasoning",
+      "date": "2026-06-11T10:42:40.000Z",
+      "url": "http://arxiv.org/abs/2606.13171v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "MÖVE: A Holistic LLM Benchmark for the German Public Sector",
+      "date": "2026-06-11T09:37:45.000Z",
+      "url": "http://arxiv.org/abs/2606.13111v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "sebis at CRF Filling 2026: A Two-Stage Local LLM Pipeline for Medical CRF Filling",
+      "date": "2026-06-11T09:04:16.000Z",
+      "url": "http://arxiv.org/abs/2606.13082v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Polar: A Benchmark for Evaluating Political Bias in LLMs",
+      "date": "2026-06-11T05:26:28.000Z",
+      "url": "http://arxiv.org/abs/2606.12922v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Zero-source LLM Hallucination Detection with Human-like Criteria Probing",
+      "date": "2026-06-11T04:58:05.000Z",
+      "url": "http://arxiv.org/abs/2606.12900v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Multi-Bitwidth Quantization for LLMs Using Additive Codebooks",
+      "date": "2026-06-11T04:06:02.000Z",
+      "url": "http://arxiv.org/abs/2606.12876v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Small LLMs for Biomedical Claim Verification: Cost-Effective Fine-Tuning, Structural Dataset Shortcuts, and Cross-Domain Generalization",
+      "date": "2026-06-11T03:38:46.000Z",
+      "url": "http://arxiv.org/abs/2606.12854v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "ProPlay: Procedural World Models for Self-Evolving LLM Agents",
+      "date": "2026-06-11T00:47:37.000Z",
+      "url": "http://arxiv.org/abs/2606.12780v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLMs Can Better Capture Human Judgments--With the Right Prompts",
+      "date": "2026-06-10T23:42:22.000Z",
+      "url": "http://arxiv.org/abs/2606.12754v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Rethinking Psychometric Evaluation of LLMs: When and Why Self-Reports Predict Behavior",
+      "date": "2026-06-10T22:28:53.000Z",
+      "url": "http://arxiv.org/abs/2606.12730v1",
+      "source": "arxiv"
+    }
+  ],
   "withBenchmarks": 0
 }
