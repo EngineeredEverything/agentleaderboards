@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-06-16T13:26:51.042Z",
+  "timestamp": "2026-06-17T12:49:57.489Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
-      "title": "Context-Aware RL for Agentic and Multimodal LLMs",
-      "date": "2026-06-15T17:59:28.000Z",
-      "url": "http://arxiv.org/abs/2606.17053v1",
+      "title": "Structural Role Injection in Handlebars-Templated LLM Prompts: Triple-Brace Interpolation, Delimiter Family, and the Limits of HTML Auto-Escaping",
+      "date": "2026-06-16T16:21:43.000Z",
+      "url": "http://arxiv.org/abs/2606.18120v1",
       "source": "arxiv"
     },
     {
-      "title": "Benchmarking LLM Agents on Meta-Analysis Articles from Nature Portfolio",
-      "date": "2026-06-15T17:56:41.000Z",
-      "url": "http://arxiv.org/abs/2606.17041v1",
+      "title": "Security and Privacy Prompts in the Wild: What Users Ask LLMs and How LLMs Respond",
+      "date": "2026-06-16T15:37:25.000Z",
+      "url": "http://arxiv.org/abs/2606.18062v1",
       "source": "arxiv"
     },
     {
-      "title": "TokenPilot: Cache-Efficient Context Management for LLM Agents",
-      "date": "2026-06-15T17:46:50.000Z",
-      "url": "http://arxiv.org/abs/2606.17016v1",
+      "title": "Compositional Skill Routing for LLM Agents: Decompose, Retrieve, and Compose",
+      "date": "2026-06-16T15:27:55.000Z",
+      "url": "http://arxiv.org/abs/2606.18051v1",
       "source": "arxiv"
     },
     {
-      "title": "Follow the Latent Roadmap: Navigating Revocable Decoding for Diffusion LLMs with Anchor Tokens",
-      "date": "2026-06-15T15:23:47.000Z",
-      "url": "http://arxiv.org/abs/2606.16847v1",
+      "title": "ProvenanceGuard: Source-Aware Factuality Verification for MCP-Based LLM Agents",
+      "date": "2026-06-16T15:10:29.000Z",
+      "url": "http://arxiv.org/abs/2606.18037v1",
       "source": "arxiv"
     },
     {
-      "title": "How Much Can We Trust LLM Search Agents? Measuring Endorsement Vulnerability to Web Content Manipulation",
-      "date": "2026-06-15T15:05:25.000Z",
-      "url": "http://arxiv.org/abs/2606.16821v1",
+      "title": "Fine-tuning LLMs for Passive Depression Severity Estimation from AI Mental Health Dialogue",
+      "date": "2026-06-16T14:28:47.000Z",
+      "url": "http://arxiv.org/abs/2606.17973v1",
       "source": "arxiv"
     },
     {
-      "title": "Scaling LLM Reasoning from Minimal Labels: A Semi-Supervised Framework with a Lightweight Verifier",
-      "date": "2026-06-15T14:55:18.000Z",
-      "url": "http://arxiv.org/abs/2606.16811v1",
+      "title": "Environment-Grounded Automated Prompt Optimization for LLM Game Agents",
+      "date": "2026-06-16T12:06:27.000Z",
+      "url": "http://arxiv.org/abs/2606.17838v1",
       "source": "arxiv"
     },
     {
-      "title": "LLM-based Visual Code Completion for Aerospace Geometric Design",
-      "date": "2026-06-15T14:46:57.000Z",
-      "url": "http://arxiv.org/abs/2606.16806v1",
+      "title": "LLMs Infer Cultural Context but Fail to Apply It When Responding",
+      "date": "2026-06-16T08:53:24.000Z",
+      "url": "http://arxiv.org/abs/2606.17688v1",
       "source": "arxiv"
     },
     {
-      "title": "P3B3: A Multi-Turn Conversational Benchmark for Measuring European and Brazilian Portuguese Variety Bias in LLMs",
-      "date": "2026-06-15T14:10:19.000Z",
-      "url": "http://arxiv.org/abs/2606.16753v1",
+      "title": "Bridging Functional Correctness and Runtime Efficiency Gaps in LLM-Based Code Translation",
+      "date": "2026-06-16T08:49:56.000Z",
+      "url": "http://arxiv.org/abs/2606.17683v1",
       "source": "arxiv"
     },
     {
-      "title": "SING: Synthetic Intention Graph for Scalable Active Tool Discovery in LLM Agents",
-      "date": "2026-06-15T11:37:37.000Z",
-      "url": "http://arxiv.org/abs/2606.16591v1",
+      "title": "From Trainee to Trainer: LLM-Designed Training Environment for RL with Multi-Agent Reasoning",
+      "date": "2026-06-16T08:48:58.000Z",
+      "url": "http://arxiv.org/abs/2606.17682v1",
       "source": "arxiv"
     },
     {
-      "title": "Can LLM Agents Infer World Models? Evidence from Agentic Automata Learning",
-      "date": "2026-06-15T11:23:13.000Z",
-      "url": "http://arxiv.org/abs/2606.16576v1",
+      "title": "Prompt Perturbation for Reliable LLM Evaluation over Comparison Graphs",
+      "date": "2026-06-16T07:44:45.000Z",
+      "url": "http://arxiv.org/abs/2606.17634v1",
       "source": "arxiv"
     },
     {
-      "title": "Can LLM Coding Agents Reason About Time Series?",
-      "date": "2026-06-15T10:49:28.000Z",
-      "url": "http://arxiv.org/abs/2606.16545v1",
+      "title": "The Benchmark Illusion: Pruned LLMs Can Pass Multiple Choice but Fail to Answer",
+      "date": "2026-06-16T07:14:52.000Z",
+      "url": "http://arxiv.org/abs/2606.17609v1",
       "source": "arxiv"
     },
     {
-      "title": "REFLEX: Reflective Evolution from LLM Experience",
-      "date": "2026-06-15T09:58:13.000Z",
-      "url": "http://arxiv.org/abs/2606.16496v1",
+      "title": "LLM Features Can Hurt GNNs: Concatenation Interference on Homophilous Graph Benchmarks",
+      "date": "2026-06-16T06:30:30.000Z",
+      "url": "http://arxiv.org/abs/2606.17579v1",
       "source": "arxiv"
     },
     {
-      "title": "A Mechanistic Understanding of Pronoun Fidelity in LLMs",
-      "date": "2026-06-15T08:45:53.000Z",
-      "url": "http://arxiv.org/abs/2606.16407v1",
+      "title": "Evaluating Second-Order Bias of LLMs Through Epistemic Entitlement",
+      "date": "2026-06-16T04:28:56.000Z",
+      "url": "http://arxiv.org/abs/2606.17506v1",
       "source": "arxiv"
     },
     {
-      "title": "Surpassing Scale by Efficiency: A Compact 135M Parameter Foundational LLM Natively Adapted for the Bangla Language",
-      "date": "2026-06-15T08:16:52.000Z",
-      "url": "http://arxiv.org/abs/2606.16383v1",
+      "title": "Decoding Hidden Deception in Reasoning LLMs: Activation Explainers for Deception Auditing",
+      "date": "2026-06-16T03:41:29.000Z",
+      "url": "http://arxiv.org/abs/2606.17478v1",
       "source": "arxiv"
     },
     {
-      "title": "Evaluating LLM Personalization via Semantic Constraint Verification",
-      "date": "2026-06-15T08:04:56.000Z",
-      "url": "http://arxiv.org/abs/2606.16368v1",
+      "title": "PARSE: Provenance-Aware Retrieval Sanitization for Professional Domain LLM Agents",
+      "date": "2026-06-16T03:29:23.000Z",
+      "url": "http://arxiv.org/abs/2606.17467v1",
       "source": "arxiv"
     },
     {
-      "title": "Whose hotel does the AI recommend? An algorithm audit of reputation signals in LLM-assisted hotel selection",
-      "date": "2026-06-15T07:47:31.000Z",
-      "url": "http://arxiv.org/abs/2606.16344v1",
+      "title": "Incumbent Advantage: Brand Bias and Cognitive Manipulation Dynamics in LLM Recommendation Systems",
+      "date": "2026-06-16T02:54:34.000Z",
+      "url": "http://arxiv.org/abs/2606.17443v1",
       "source": "arxiv"
     },
     {
-      "title": "State-Grounded Multi-Agent Synthetic Data Generation for Tool-Augmented LLMs",
-      "date": "2026-06-15T07:13:02.000Z",
-      "url": "http://arxiv.org/abs/2606.16307v1",
+      "title": "Are you speaking my languages? On spoken language adherence in multimodal LLMs",
+      "date": "2026-06-15T20:44:42.000Z",
+      "url": "http://arxiv.org/abs/2606.17281v1",
       "source": "arxiv"
     },
     {
-      "title": "Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact",
-      "date": "2026-06-15T04:32:18.000Z",
-      "url": "http://arxiv.org/abs/2606.16206v1",
+      "title": "Speaking in Self-Assessing Tongues: On the Verbalized Confidence of LLMs in Machine Translation",
+      "date": "2026-06-15T19:27:47.000Z",
+      "url": "http://arxiv.org/abs/2606.17234v1",
       "source": "arxiv"
     },
     {
-      "title": "LLM-Powered Virtual Population for Demand Simulation and Pricing",
-      "date": "2026-06-15T03:56:31.000Z",
-      "url": "http://arxiv.org/abs/2606.16183v1",
+      "title": "Revisiting LLM Adaptation for 3D CT Report Generation: A Study of Scaling and Diagnostic Priors",
+      "date": "2026-06-15T18:51:31.000Z",
+      "url": "http://arxiv.org/abs/2606.17213v1",
       "source": "arxiv"
     },
     {
-      "title": "Know Your Limits : On the Faithfulness of LLMs as Solvers and Autoformalizers in Legal Reasoning",
-      "date": "2026-06-15T02:14:49.000Z",
-      "url": "http://arxiv.org/abs/2606.16118v1",
+      "title": "RepSelect: Robust LLM Unlearning via Representation Selectivity",
+      "date": "2026-06-15T18:06:59.000Z",
+      "url": "http://arxiv.org/abs/2606.17168v1",
       "source": "arxiv"
     }
   ],
