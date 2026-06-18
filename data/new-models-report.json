@@ -1,8 +1,68 @@
 {
-  "timestamp": "2026-06-17T12:49:57.489Z",
+  "timestamp": "2026-06-18T12:23:17.295Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "Trade-offs in Medical LLM Adaptation: An Empirical Study in French QA",
+      "date": "2026-06-17T16:42:22.000Z",
+      "url": "http://arxiv.org/abs/2606.19266v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Language Models as Interfaces, Not Oracles: A Hybrid LLM-ML System for Pediatric Appendicitis",
+      "date": "2026-06-17T15:22:51.000Z",
+      "url": "http://arxiv.org/abs/2606.19183v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Leadership as Coordination Control: Behavioral Signatures and the Recovery-Advantage Boundary in Multi-Agent LLM Teams",
+      "date": "2026-06-17T14:27:18.000Z",
+      "url": "http://arxiv.org/abs/2606.19111v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Decoupling Search from Reasoning: A Vendor-Agnostic Grounding Architecture for LLM Agents",
+      "date": "2026-06-17T11:30:39.000Z",
+      "url": "http://arxiv.org/abs/2606.18947v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Beyond Scalar Scores: Exploring LLM-based Metrics for Clinical Significance Evaluation in Radiology Reports",
+      "date": "2026-06-17T08:10:30.000Z",
+      "url": "http://arxiv.org/abs/2606.18797v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLMs Struggle to Measure What Distinguishes Students of Different Proficiency Levels: A Study of Item Discrimination in Reading Comprehension Assessment",
+      "date": "2026-06-17T05:43:37.000Z",
+      "url": "http://arxiv.org/abs/2606.18709v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Wrong Kind of Right: Quantifying and Localizing Misfired Alignment in LLMs",
+      "date": "2026-06-17T03:53:42.000Z",
+      "url": "http://arxiv.org/abs/2606.18656v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Are LLMs Ready to Assist Physicians? PhysAssistBench for Interactive Doctor-Patient-EHR Assistance",
+      "date": "2026-06-17T02:20:29.000Z",
+      "url": "http://arxiv.org/abs/2606.18613v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLM Parameters for Math Across Languages: Shared or Separate?",
+      "date": "2026-06-16T20:02:42.000Z",
+      "url": "http://arxiv.org/abs/2606.18453v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLMZero: Discovering Adaptive Training Strategies for RL Post-Training via LLM Agents",
+      "date": "2026-06-16T18:33:08.000Z",
+      "url": "http://arxiv.org/abs/2606.18388v1",
+      "source": "arxiv"
+    },
     {
       "title": "Structural Role Injection in Handlebars-Templated LLM Prompts: Triple-Brace Interpolation, Delimiter Family, and the Limits of HTML Auto-Escaping",
       "date": "2026-06-16T16:21:43.000Z",
@@ -61,66 +121,6 @@
       "title": "Prompt Perturbation for Reliable LLM Evaluation over Comparison Graphs",
       "date": "2026-06-16T07:44:45.000Z",
       "url": "http://arxiv.org/abs/2606.17634v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "The Benchmark Illusion: Pruned LLMs Can Pass Multiple Choice but Fail to Answer",
-      "date": "2026-06-16T07:14:52.000Z",
-      "url": "http://arxiv.org/abs/2606.17609v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLM Features Can Hurt GNNs: Concatenation Interference on Homophilous Graph Benchmarks",
-      "date": "2026-06-16T06:30:30.000Z",
-      "url": "http://arxiv.org/abs/2606.17579v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Evaluating Second-Order Bias of LLMs Through Epistemic Entitlement",
-      "date": "2026-06-16T04:28:56.000Z",
-      "url": "http://arxiv.org/abs/2606.17506v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Decoding Hidden Deception in Reasoning LLMs: Activation Explainers for Deception Auditing",
-      "date": "2026-06-16T03:41:29.000Z",
-      "url": "http://arxiv.org/abs/2606.17478v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "PARSE: Provenance-Aware Retrieval Sanitization for Professional Domain LLM Agents",
-      "date": "2026-06-16T03:29:23.000Z",
-      "url": "http://arxiv.org/abs/2606.17467v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Incumbent Advantage: Brand Bias and Cognitive Manipulation Dynamics in LLM Recommendation Systems",
-      "date": "2026-06-16T02:54:34.000Z",
-      "url": "http://arxiv.org/abs/2606.17443v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Are you speaking my languages? On spoken language adherence in multimodal LLMs",
-      "date": "2026-06-15T20:44:42.000Z",
-      "url": "http://arxiv.org/abs/2606.17281v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Speaking in Self-Assessing Tongues: On the Verbalized Confidence of LLMs in Machine Translation",
-      "date": "2026-06-15T19:27:47.000Z",
-      "url": "http://arxiv.org/abs/2606.17234v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Revisiting LLM Adaptation for 3D CT Report Generation: A Study of Scaling and Diagnostic Priors",
-      "date": "2026-06-15T18:51:31.000Z",
-      "url": "http://arxiv.org/abs/2606.17213v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "RepSelect: Robust LLM Unlearning via Representation Selectivity",
-      "date": "2026-06-15T18:06:59.000Z",
-      "url": "http://arxiv.org/abs/2606.17168v1",
       "source": "arxiv"
     }
   ],
