@@ -1,8 +1,74 @@
 {
-  "timestamp": "2026-06-23T12:04:09.335Z",
+  "timestamp": "2026-06-24T11:43:14.865Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "AdversaBench: Automated LLM Red-Teaming with Multi-Judge Confirmation and Cross-Model Transferability",
+      "date": "2026-06-23T13:50:51.000Z",
+      "url": "http://arxiv.org/abs/2606.24589v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "The African Language Tax: Quantifying the Cost, Latency, and Context Penalty of Tokenizing African Languages in Frontier LLMs",
+      "date": "2026-06-23T11:47:03.000Z",
+      "url": "http://arxiv.org/abs/2606.24460v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "An LLM-based Two-Stage Transformer Framework for Cross-Domain Bearing Fault Diagnosis with Limited Data",
+      "date": "2026-06-23T11:46:07.000Z",
+      "url": "http://arxiv.org/abs/2606.24459v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Beyond Logprobs: A Multi-Signal Confidence Engine for LLM-Based Document Field Extraction",
+      "date": "2026-06-23T10:58:08.000Z",
+      "url": "http://arxiv.org/abs/2606.24420v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Age of LLM: A Strategic 1v1 Benchmark for Reasoning, Diplomacy and Reliability of Large Language Models under Fog of War",
+      "date": "2026-06-23T10:25:31.000Z",
+      "url": "http://arxiv.org/abs/2606.24391v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "AVOC: Enhancing Hour-Level Audio-Video Understanding in Omni-Modal LLMs via Retrieval-Inspired Token Compression",
+      "date": "2026-06-23T08:06:58.000Z",
+      "url": "http://arxiv.org/abs/2606.24286v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "CORE-BREW: LLR-Based Soft Decoding for Robust Multi-Bit LLM Watermarking",
+      "date": "2026-06-23T05:37:14.000Z",
+      "url": "http://arxiv.org/abs/2606.24163v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Holistic Data Scheduler for LLM Pre-training via Multi-Objective Reinforcement Learning",
+      "date": "2026-06-23T04:32:46.000Z",
+      "url": "http://arxiv.org/abs/2606.24133v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "RASC+: Retrieval-Constrained LLM Adjudication for Clinical Value Set Authoring",
+      "date": "2026-06-22T22:51:22.000Z",
+      "url": "http://arxiv.org/abs/2606.23992v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Do LLM Attribution Metrics Transfer? Auditing Retrieval-Augmented Generation Evaluation Across Datasets and Constructs",
+      "date": "2026-06-22T20:25:36.000Z",
+      "url": "http://arxiv.org/abs/2606.23915v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Mind the Heads: Topological Representation Alignment for Multimodal LLMs",
+      "date": "2026-06-22T19:30:30.000Z",
+      "url": "http://arxiv.org/abs/2606.23885v1",
+      "source": "arxiv"
+    },
     {
       "title": "Can LLMs Reliably Self-Report Adversarial Prefills, and How?",
       "date": "2026-06-22T17:56:30.000Z",
@@ -55,72 +121,6 @@
       "title": "StatABench: Dataset and Framework for Evaluating Statistical Analysis Capabilities of LLMs",
       "date": "2026-06-22T07:57:53.000Z",
       "url": "http://arxiv.org/abs/2606.22977v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Plans Don't Persist: Why Context Management Is Load Bearing for LLM Agents",
-      "date": "2026-06-22T07:30:47.000Z",
-      "url": "http://arxiv.org/abs/2606.22953v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "SingGuard: A Policy-Adaptive Multimodal LLM Guardrail with Dynamic Reasoning",
-      "date": "2026-06-22T05:37:43.000Z",
-      "url": "http://arxiv.org/abs/2606.22873v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "GroundEval: A Deterministic Replacement for LLM-as-Judge in Stateful Agent Evaluation",
-      "date": "2026-06-22T00:41:16.000Z",
-      "url": "http://arxiv.org/abs/2606.22737v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "BLUEX v2: Benchmarking LLMs on Open-Ended Questions from Brazilian University Entrance Exams",
-      "date": "2026-06-21T23:45:49.000Z",
-      "url": "http://arxiv.org/abs/2606.22723v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Black-Box Forensics for Conversational LLM Agents",
-      "date": "2026-06-21T22:24:55.000Z",
-      "url": "http://arxiv.org/abs/2606.22698v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Orthogonal Representation Editing: Decoupling Semantic Entanglement in Batch Knowledge Editing of LLMs",
-      "date": "2026-06-21T18:29:40.000Z",
-      "url": "http://arxiv.org/abs/2606.22627v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Sub-Billion, Super-Frontier: Small Language Models Rival Zero-Shot Frontier LLMs on General and Literary Relation Extraction",
-      "date": "2026-06-21T17:24:31.000Z",
-      "url": "http://arxiv.org/abs/2606.22606v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "What are Key Factors for Updates in RL for LLM Reasoning?",
-      "date": "2026-06-21T16:14:46.000Z",
-      "url": "http://arxiv.org/abs/2606.22570v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "CASPER in the Machine: Insights into Character Variety in LLM-Generated Stories",
-      "date": "2026-06-21T11:57:16.000Z",
-      "url": "http://arxiv.org/abs/2606.22454v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Knowledge-Graph Grounding Helps LLMs Only for Out-of-Training Knowledge: A Controlled Study on Clinical Question Answering",
-      "date": "2026-06-21T10:12:17.000Z",
-      "url": "http://arxiv.org/abs/2606.22419v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems",
-      "date": "2026-06-21T08:29:12.000Z",
-      "url": "http://arxiv.org/abs/2606.22388v1",
       "source": "arxiv"
     }
   ],
