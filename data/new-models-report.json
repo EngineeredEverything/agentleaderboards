@@ -1,8 +1,68 @@
 {
-  "timestamp": "2026-06-24T11:43:14.865Z",
+  "timestamp": "2026-06-25T11:38:40.731Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "Do Encoders Suffice? A Systematic Comparison of Encoder and Decoder Safety Judges for LLM Adversarial Evaluation",
+      "date": "2026-06-24T13:00:25.000Z",
+      "url": "http://arxiv.org/abs/2606.25782v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "RAS: Measuring LLM Safety Through Refusal Alignment",
+      "date": "2026-06-24T12:19:40.000Z",
+      "url": "http://arxiv.org/abs/2606.25750v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Constraint Tax in Open-Weight LLMs: An Empirical Study of Tool Calling Suppression Under Structured Output Constraints",
+      "date": "2026-06-24T09:14:18.000Z",
+      "url": "http://arxiv.org/abs/2606.25605v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "BiPACE: Bisimulation-Guided Policy Optimization with Action Counterfactual Estimation for LLM Agents",
+      "date": "2026-06-24T08:32:42.000Z",
+      "url": "http://arxiv.org/abs/2606.25556v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Evaluating LLMs on Real-World Software Performance Optimization",
+      "date": "2026-06-24T08:07:41.000Z",
+      "url": "http://arxiv.org/abs/2606.25530v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Cliff Tokens: Identifying Single-Token Failure Triggers in LLM Mathematical Reasoning",
+      "date": "2026-06-24T08:03:24.000Z",
+      "url": "http://arxiv.org/abs/2606.25524v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Interplay of Harness Design and Post-Training in LLM Agents",
+      "date": "2026-06-24T06:23:02.000Z",
+      "url": "http://arxiv.org/abs/2606.25447v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Does Translation-Enhanced Speech Encoder Pre-training Affect Speech LLMs?",
+      "date": "2026-06-24T06:15:18.000Z",
+      "url": "http://arxiv.org/abs/2606.25444v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLM-Based Scientific Peer Review: Methods, Benchmarks, and Reliability Challenges",
+      "date": "2026-06-23T18:12:39.000Z",
+      "url": "http://arxiv.org/abs/2606.25057v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLM-ACES: Closed-Loop Discovery of Dynamical Systems with LLM-Guided Adaptive Search",
+      "date": "2026-06-23T18:00:52.000Z",
+      "url": "http://arxiv.org/abs/2606.25039v1",
+      "source": "arxiv"
+    },
     {
       "title": "AdversaBench: Automated LLM Red-Teaming with Multi-Judge Confirmation and Cross-Model Transferability",
       "date": "2026-06-23T13:50:51.000Z",
@@ -13,6 +73,12 @@
       "title": "The African Language Tax: Quantifying the Cost, Latency, and Context Penalty of Tokenizing African Languages in Frontier LLMs",
       "date": "2026-06-23T11:47:03.000Z",
       "url": "http://arxiv.org/abs/2606.24460v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLM Performance on a Real, Double-Marked GCSE Benchmark",
+      "date": "2026-06-23T11:46:14.000Z",
+      "url": "http://arxiv.org/abs/2606.24973v1",
       "source": "arxiv"
     },
     {
@@ -55,72 +121,6 @@
       "title": "RASC+: Retrieval-Constrained LLM Adjudication for Clinical Value Set Authoring",
       "date": "2026-06-22T22:51:22.000Z",
       "url": "http://arxiv.org/abs/2606.23992v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Do LLM Attribution Metrics Transfer? Auditing Retrieval-Augmented Generation Evaluation Across Datasets and Constructs",
-      "date": "2026-06-22T20:25:36.000Z",
-      "url": "http://arxiv.org/abs/2606.23915v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Mind the Heads: Topological Representation Alignment for Multimodal LLMs",
-      "date": "2026-06-22T19:30:30.000Z",
-      "url": "http://arxiv.org/abs/2606.23885v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Can LLMs Reliably Self-Report Adversarial Prefills, and How?",
-      "date": "2026-06-22T17:56:30.000Z",
-      "url": "http://arxiv.org/abs/2606.23671v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Do LLM Embedding Spaces Recover Expert Structure?",
-      "date": "2026-06-22T14:19:57.000Z",
-      "url": "http://arxiv.org/abs/2606.23394v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Self-Stigma Is Not a Monolith, but Generic Empathy Is: Persona-Conditioned LLM Support for People Who Use Drugs",
-      "date": "2026-06-22T14:14:57.000Z",
-      "url": "http://arxiv.org/abs/2606.23387v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Measuring &amp; Mitigating Over-Alignment for LLMs in Multilingual Criminal Law Courts",
-      "date": "2026-06-22T14:08:08.000Z",
-      "url": "http://arxiv.org/abs/2606.23375v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Towards Root Memories: Benchmarking and Enhancing Implicit Logical Memory Retrieval for Personalized LLMs",
-      "date": "2026-06-22T12:58:10.000Z",
-      "url": "http://arxiv.org/abs/2606.23283v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Scaling LLM Knowledge Boundaries via Distribution-Optimized Synthesis",
-      "date": "2026-06-22T12:50:00.000Z",
-      "url": "http://arxiv.org/abs/2606.23271v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "MuPPET: A Benchmark for Contextual Privacy of LLM Assistants in Multi-Party Conversations",
-      "date": "2026-06-22T12:06:21.000Z",
-      "url": "http://arxiv.org/abs/2606.23217v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Managing Procedural Memory in LLM Agents: Control, Adaptation, and Evaluation",
-      "date": "2026-06-22T10:14:11.000Z",
-      "url": "http://arxiv.org/abs/2606.23127v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "StatABench: Dataset and Framework for Evaluating Statistical Analysis Capabilities of LLMs",
-      "date": "2026-06-22T07:57:53.000Z",
-      "url": "http://arxiv.org/abs/2606.22977v1",
       "source": "arxiv"
     }
   ],
