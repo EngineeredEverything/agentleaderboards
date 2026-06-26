@@ -1,8 +1,110 @@
 {
-  "timestamp": "2026-06-25T11:38:40.731Z",
+  "timestamp": "2026-06-26T11:43:21.837Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "LLM-Based Examination of Eligibility Criteria from Securities Prospectuses at the German Central Bank",
+      "date": "2026-06-25T17:29:58.000Z",
+      "url": "http://arxiv.org/abs/2606.27316v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Beyond Surface Forms: A Comprehensive, Mechanism-Oriented Taxonomy of Indirect Linguistic Encoding for LLM-Based Coded Language Detection",
+      "date": "2026-06-25T17:29:45.000Z",
+      "url": "http://arxiv.org/abs/2606.27314v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Ask, Don't Judge: Binary Questions for Interpretable LLM Evaluation and Self-Improvement",
+      "date": "2026-06-25T16:14:50.000Z",
+      "url": "http://arxiv.org/abs/2606.27226v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Paved with True Intents: Intent-Aware Training Improves LLM Safety Classification Across Training Regimes",
+      "date": "2026-06-25T16:03:57.000Z",
+      "url": "http://arxiv.org/abs/2606.27210v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Forecasting With LLMs: Improved Generalization Through Feature Steering",
+      "date": "2026-06-25T15:59:20.000Z",
+      "url": "http://arxiv.org/abs/2606.27199v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Where Do Models Find Happiness? Emotion Vectors in Open-Source LLMs",
+      "date": "2026-06-25T13:01:11.000Z",
+      "url": "http://arxiv.org/abs/2606.26987v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Cascaded Multi-Granularity Pruning for On-Device LLM Inference in Industrial IoT",
+      "date": "2026-06-25T10:44:48.000Z",
+      "url": "http://arxiv.org/abs/2606.26861v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "AIGP: An LLM-Based Framework for Long-Term Value Alignment in E-Commerce Pricing",
+      "date": "2026-06-25T09:21:42.000Z",
+      "url": "http://arxiv.org/abs/2606.26787v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Beyond Logical Forms: LLM-Extracted Patterns for Fallacy Classification",
+      "date": "2026-06-25T07:30:37.000Z",
+      "url": "http://arxiv.org/abs/2606.26698v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "CAT-Q: Cost-efficient and Accurate Ternary Quantization for LLMs",
+      "date": "2026-06-25T06:24:02.000Z",
+      "url": "http://arxiv.org/abs/2606.26650v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "From Weights to Features: SAE-Guided Activation Regularization for LLM Continual Learning",
+      "date": "2026-06-25T05:46:04.000Z",
+      "url": "http://arxiv.org/abs/2606.26629v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Comparing BERT Sentence-Pair Classification and Few-Shot LLM Prompting for Detecting Threat and Solution Framing in German Climate News",
+      "date": "2026-06-25T00:48:40.000Z",
+      "url": "http://arxiv.org/abs/2606.26489v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Speaking Numbers to LLMs: Multi-Wavelet Number Embeddings for Time Series Forecasting",
+      "date": "2026-06-25T00:44:09.000Z",
+      "url": "http://arxiv.org/abs/2606.26487v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Adaptive Evaluation of Out-of-Band Defenses Against Prompt Injection in LLM Agents",
+      "date": "2026-06-25T00:35:23.000Z",
+      "url": "http://arxiv.org/abs/2606.26479v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "DualEval: Joint Model-Item Calibration for Unified LLM Evaluation",
+      "date": "2026-06-24T22:40:46.000Z",
+      "url": "http://arxiv.org/abs/2606.26429v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "ProfileFoundry: A Synthetic Person-Object Substrate for Privacy, Memory, and Tool-Use Evaluation in LLM Agent",
+      "date": "2026-06-24T21:43:36.000Z",
+      "url": "http://arxiv.org/abs/2606.26403v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "From Clicks to Intent: Cross-Platform Session Embeddings with LLM-Distilled Taxonomy for Financial Services Recommendations",
+      "date": "2026-06-24T18:18:56.000Z",
+      "url": "http://arxiv.org/abs/2606.26277v1",
+      "source": "arxiv"
+    },
     {
       "title": "Do Encoders Suffice? A Systematic Comparison of Encoder and Decoder Safety Judges for LLM Adversarial Evaluation",
       "date": "2026-06-24T13:00:25.000Z",
@@ -19,108 +121,6 @@
       "title": "Constraint Tax in Open-Weight LLMs: An Empirical Study of Tool Calling Suppression Under Structured Output Constraints",
       "date": "2026-06-24T09:14:18.000Z",
       "url": "http://arxiv.org/abs/2606.25605v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "BiPACE: Bisimulation-Guided Policy Optimization with Action Counterfactual Estimation for LLM Agents",
-      "date": "2026-06-24T08:32:42.000Z",
-      "url": "http://arxiv.org/abs/2606.25556v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Evaluating LLMs on Real-World Software Performance Optimization",
-      "date": "2026-06-24T08:07:41.000Z",
-      "url": "http://arxiv.org/abs/2606.25530v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Cliff Tokens: Identifying Single-Token Failure Triggers in LLM Mathematical Reasoning",
-      "date": "2026-06-24T08:03:24.000Z",
-      "url": "http://arxiv.org/abs/2606.25524v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "The Interplay of Harness Design and Post-Training in LLM Agents",
-      "date": "2026-06-24T06:23:02.000Z",
-      "url": "http://arxiv.org/abs/2606.25447v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Does Translation-Enhanced Speech Encoder Pre-training Affect Speech LLMs?",
-      "date": "2026-06-24T06:15:18.000Z",
-      "url": "http://arxiv.org/abs/2606.25444v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLM-Based Scientific Peer Review: Methods, Benchmarks, and Reliability Challenges",
-      "date": "2026-06-23T18:12:39.000Z",
-      "url": "http://arxiv.org/abs/2606.25057v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLM-ACES: Closed-Loop Discovery of Dynamical Systems with LLM-Guided Adaptive Search",
-      "date": "2026-06-23T18:00:52.000Z",
-      "url": "http://arxiv.org/abs/2606.25039v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "AdversaBench: Automated LLM Red-Teaming with Multi-Judge Confirmation and Cross-Model Transferability",
-      "date": "2026-06-23T13:50:51.000Z",
-      "url": "http://arxiv.org/abs/2606.24589v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "The African Language Tax: Quantifying the Cost, Latency, and Context Penalty of Tokenizing African Languages in Frontier LLMs",
-      "date": "2026-06-23T11:47:03.000Z",
-      "url": "http://arxiv.org/abs/2606.24460v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLM Performance on a Real, Double-Marked GCSE Benchmark",
-      "date": "2026-06-23T11:46:14.000Z",
-      "url": "http://arxiv.org/abs/2606.24973v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "An LLM-based Two-Stage Transformer Framework for Cross-Domain Bearing Fault Diagnosis with Limited Data",
-      "date": "2026-06-23T11:46:07.000Z",
-      "url": "http://arxiv.org/abs/2606.24459v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Beyond Logprobs: A Multi-Signal Confidence Engine for LLM-Based Document Field Extraction",
-      "date": "2026-06-23T10:58:08.000Z",
-      "url": "http://arxiv.org/abs/2606.24420v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Age of LLM: A Strategic 1v1 Benchmark for Reasoning, Diplomacy and Reliability of Large Language Models under Fog of War",
-      "date": "2026-06-23T10:25:31.000Z",
-      "url": "http://arxiv.org/abs/2606.24391v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "AVOC: Enhancing Hour-Level Audio-Video Understanding in Omni-Modal LLMs via Retrieval-Inspired Token Compression",
-      "date": "2026-06-23T08:06:58.000Z",
-      "url": "http://arxiv.org/abs/2606.24286v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "CORE-BREW: LLR-Based Soft Decoding for Robust Multi-Bit LLM Watermarking",
-      "date": "2026-06-23T05:37:14.000Z",
-      "url": "http://arxiv.org/abs/2606.24163v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Holistic Data Scheduler for LLM Pre-training via Multi-Objective Reinforcement Learning",
-      "date": "2026-06-23T04:32:46.000Z",
-      "url": "http://arxiv.org/abs/2606.24133v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "RASC+: Retrieval-Constrained LLM Adjudication for Clinical Value Set Authoring",
-      "date": "2026-06-22T22:51:22.000Z",
-      "url": "http://arxiv.org/abs/2606.23992v1",
       "source": "arxiv"
     }
   ],
