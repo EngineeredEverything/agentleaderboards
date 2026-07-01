@@ -1,8 +1,110 @@
 {
-  "timestamp": "2026-06-30T11:43:42.246Z",
+  "timestamp": "2026-07-01T12:02:30.302Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents",
+      "date": "2026-06-30T17:58:23.000Z",
+      "url": "http://arxiv.org/abs/2606.32034v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs",
+      "date": "2026-06-30T17:56:01.000Z",
+      "url": "http://arxiv.org/abs/2606.32032v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors",
+      "date": "2026-06-30T17:54:50.000Z",
+      "url": "http://arxiv.org/abs/2606.32029v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Generative Skill Composition for LLM Agents",
+      "date": "2026-06-30T17:53:09.000Z",
+      "url": "http://arxiv.org/abs/2606.32025v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Theory of Mind and Persuasion Beyond Conversation: Assessing the Capacity of LLMs to Induce Belief States via Planning and Action",
+      "date": "2026-06-30T16:22:12.000Z",
+      "url": "http://arxiv.org/abs/2606.31916v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Moral Safety in LLMs: Exposing Performative Compliance with Puzzled Cues",
+      "date": "2026-06-30T13:25:29.000Z",
+      "url": "http://arxiv.org/abs/2606.31644v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "CLExEval: A Human-in-the-Loop Framework for Qualitative Evaluation of LLM Clinical Reasoning",
+      "date": "2026-06-30T12:56:42.000Z",
+      "url": "http://arxiv.org/abs/2606.31608v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "RaBitQCache: Rotated Binary Quantization for KVCache in Long Context LLM Inference",
+      "date": "2026-06-30T11:32:14.000Z",
+      "url": "http://arxiv.org/abs/2606.31519v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Calibrating the Evaluator: Does Probability Calibration Mitigate Preference Coupling in LLM Agent Feedback Loops?",
+      "date": "2026-06-30T09:03:24.000Z",
+      "url": "http://arxiv.org/abs/2606.31371v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "When the Database Fails: Prompting LLM Dialogue Agents for Safe Recovery in Task-Oriented Dialogue",
+      "date": "2026-06-30T08:18:11.000Z",
+      "url": "http://arxiv.org/abs/2606.31307v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Can LLMs Imagine Moral Alternatives Beyond Binary Dilemmas?",
+      "date": "2026-06-30T06:49:06.000Z",
+      "url": "http://arxiv.org/abs/2606.31213v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "ComplianceGate: Classifier-Gated Multi-Tier LLM Routing for Inference in Regulated Industries",
+      "date": "2026-06-30T05:49:50.000Z",
+      "url": "http://arxiv.org/abs/2606.31163v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "SeKV: Resolution-Adaptive KV Cache with Hierarchical Semantic Memory for Long-Context LLM Inference",
+      "date": "2026-06-30T05:18:02.000Z",
+      "url": "http://arxiv.org/abs/2606.31145v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Truth or Sophistry? LoFa: A Benchmark for LLM Robustness Against Logical Fallacies",
+      "date": "2026-06-30T02:17:45.000Z",
+      "url": "http://arxiv.org/abs/2606.31039v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Bridging Scientific Heritage: An Arabic--Russian Parallel Corpus and LLM Benchmark for Sustainable Knowledge Transfer",
+      "date": "2026-06-29T21:53:34.000Z",
+      "url": "http://arxiv.org/abs/2606.30943v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "When Calibration Rankings Reverse: Accuracy-Controlled Evaluation for Fair Comparison of LLMs",
+      "date": "2026-06-29T18:37:48.000Z",
+      "url": "http://arxiv.org/abs/2606.30814v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Indi-RomCoM: Code-Mixed Benchmark for Evaluating LLMs on Romanized Indic-English Instructions",
+      "date": "2026-06-29T18:19:24.000Z",
+      "url": "http://arxiv.org/abs/2606.30790v1",
+      "source": "arxiv"
+    },
     {
       "title": "Self-Evolving World Models for LLM Agent Planning",
       "date": "2026-06-29T17:58:43.000Z",
@@ -19,108 +121,6 @@
       "title": "Poller: Are LLMs Suitable for Evaluating the Poetry Understanding Task?",
       "date": "2026-06-29T16:51:31.000Z",
       "url": "http://arxiv.org/abs/2606.30556v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "MOPD: Multi-Teacher On-Policy Distillation for Capability Integration in LLM Post-Training",
-      "date": "2026-06-29T14:51:28.000Z",
-      "url": "http://arxiv.org/abs/2606.30406v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Multi-Agentic System Leveraging Open-Source LLMs to Mitigate Disinformation Threats",
-      "date": "2026-06-29T13:07:41.000Z",
-      "url": "http://arxiv.org/abs/2606.30259v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Grounding LLM Reasoning under Incomplete Graph Evidence",
-      "date": "2026-06-29T12:56:21.000Z",
-      "url": "http://arxiv.org/abs/2606.30247v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "EvalSafetyGap: A Hybrid Survey and Conceptual Framework for LLM Evaluation-Safety Failures",
-      "date": "2026-06-29T12:33:06.000Z",
-      "url": "http://arxiv.org/abs/2606.30219v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Not-quite-human tastes: the stylized omnivorousness of LLM survey surrogates",
-      "date": "2026-06-29T10:23:43.000Z",
-      "url": "http://arxiv.org/abs/2606.30085v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLM Agents Are Latent Context Managers: Eliciting Self-Managed Context via a Proprioceptive Dashboard",
-      "date": "2026-06-29T09:13:38.000Z",
-      "url": "http://arxiv.org/abs/2606.30005v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Are We Measuring Strategy or Phrasing? The Gap Between Surface- and Approach-Level Diversity in LLM Math Reasoning",
-      "date": "2026-06-29T08:59:22.000Z",
-      "url": "http://arxiv.org/abs/2606.29985v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Can LLM-as-a-Judge Reliably Verify Rubrics in Agentic Scenarios?",
-      "date": "2026-06-29T07:57:23.000Z",
-      "url": "http://arxiv.org/abs/2606.29920v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Clinical Reasoning Graphs: Structured Evaluation of LLM Diagnostic Reasoning Reveals Competence Without Consistency",
-      "date": "2026-06-29T07:16:59.000Z",
-      "url": "http://arxiv.org/abs/2606.29876v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Neural Procedural Memory: Empowering LLM Agents with Implicit Activation Steering",
-      "date": "2026-06-29T06:05:25.000Z",
-      "url": "http://arxiv.org/abs/2606.29824v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "How Far Do On-Prem Open LLMs Get on Text-to-SQL? A Cross-Family Size x Technique Frontier on BIRD",
-      "date": "2026-06-29T03:15:38.000Z",
-      "url": "http://arxiv.org/abs/2606.29733v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "A Diagnostic Framework and Multi-Evaluator Audit of Evaluator-Driven Preference Dynamics in Self-Adapting LLM Agents",
-      "date": "2026-06-29T02:55:01.000Z",
-      "url": "http://arxiv.org/abs/2606.29719v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "How LLMs See Creativity: Zero-Shot Scoring of Visual Creativity with Interpretable Reasoning",
-      "date": "2026-06-29T00:39:22.000Z",
-      "url": "http://arxiv.org/abs/2606.29672v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "How much of an LLM-generated clinical corpus is actually new? A production-scale measurement of content redundancy for provenance classification",
-      "date": "2026-06-28T21:17:01.000Z",
-      "url": "http://arxiv.org/abs/2606.29605v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "SurrogateShield: Beyond Redaction for High-Utility, Privacy-Preserving LLM Interactions",
-      "date": "2026-06-28T19:14:16.000Z",
-      "url": "http://arxiv.org/abs/2606.29567v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Coverage-Driven KV Cache Eviction for Efficient and Improved Inference of LLM",
-      "date": "2026-06-28T19:04:47.000Z",
-      "url": "http://arxiv.org/abs/2606.29563v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Preference-ASR: A Preference-Aware Test Set for Benchmarking ASR in the Era of Speech LLMs",
-      "date": "2026-06-28T17:57:41.000Z",
-      "url": "http://arxiv.org/abs/2606.29534v1",
       "source": "arxiv"
     }
   ],
