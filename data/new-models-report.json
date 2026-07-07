@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-07-06T12:43:49.310Z",
+  "timestamp": "2026-07-07T11:47:12.716Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
-      "title": "LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
-      "date": "2026-07-02T17:59:52.000Z",
-      "url": "http://arxiv.org/abs/2607.02513v1",
+      "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
+      "date": "2026-07-06T17:59:35.000Z",
+      "url": "http://arxiv.org/abs/2607.05391v1",
       "source": "arxiv"
     },
     {
-      "title": "Online Safety Monitoring for LLMs",
-      "date": "2026-07-02T17:59:43.000Z",
-      "url": "http://arxiv.org/abs/2607.02510v1",
+      "title": "How Much is Left? LLMs Linearly Encode Their Remaining Output Length",
+      "date": "2026-07-06T16:56:04.000Z",
+      "url": "http://arxiv.org/abs/2607.05316v1",
       "source": "arxiv"
     },
     {
-      "title": "What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates",
-      "date": "2026-07-02T17:59:23.000Z",
-      "url": "http://arxiv.org/abs/2607.02507v1",
+      "title": "Rating the Pitch, Not the Product: User Evaluations of LLMs Reflect Expectations More Than Performance",
+      "date": "2026-07-06T14:05:41.000Z",
+      "url": "http://arxiv.org/abs/2607.05113v1",
       "source": "arxiv"
     },
     {
-      "title": "Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas",
-      "date": "2026-07-02T17:58:52.000Z",
-      "url": "http://arxiv.org/abs/2607.02504v1",
+      "title": "Knowledge Knows, Verbalization Tells: Disentangling Latent Directions for Mathematical Solvability in LLMs",
+      "date": "2026-07-06T12:55:21.000Z",
+      "url": "http://arxiv.org/abs/2607.05013v1",
       "source": "arxiv"
     },
     {
-      "title": "Will Scaling Improve Social Simulation with LLMs?",
-      "date": "2026-07-02T17:30:38.000Z",
-      "url": "http://arxiv.org/abs/2607.02464v1",
+      "title": "Train Smarter, Not Longer: Memorization-Guided Data Reuse for Efficient LLM Training",
+      "date": "2026-07-06T11:57:32.000Z",
+      "url": "http://arxiv.org/abs/2607.04969v1",
       "source": "arxiv"
     },
     {
-      "title": "AgenticSTS: A Bounded-Memory Testbed for Long-Horizon LLM Agents",
-      "date": "2026-07-02T14:44:32.000Z",
-      "url": "http://arxiv.org/abs/2607.02255v1",
+      "title": "You Frame It: How Conceptual Representations Shape LLM Detection and Reasoning about Antisemitism",
+      "date": "2026-07-06T11:20:18.000Z",
+      "url": "http://arxiv.org/abs/2607.04945v1",
       "source": "arxiv"
     },
     {
-      "title": "Challenges and Recommendations for LLMs-as-a-Judge in Multilingual Settings and Low-Resource Languages",
-      "date": "2026-07-02T14:34:07.000Z",
-      "url": "http://arxiv.org/abs/2607.02235v1",
+      "title": "Turning Off-Policy Tokens On-Policy: A Plug-in Approach for Improving LLM Alignment",
+      "date": "2026-07-06T06:59:44.000Z",
+      "url": "http://arxiv.org/abs/2607.04728v1",
       "source": "arxiv"
     },
     {
-      "title": "SPLIT: Cross-Lingual Empathy and Cultural Grounding in English and Ukrainian LLM Responses",
-      "date": "2026-07-02T11:22:01.000Z",
-      "url": "http://arxiv.org/abs/2607.02049v1",
+      "title": "ToolFailBench: Diagnosing Tool-Use Failures in LLM Agents",
+      "date": "2026-07-06T05:25:21.000Z",
+      "url": "http://arxiv.org/abs/2607.04686v1",
       "source": "arxiv"
     },
     {
-      "title": "Object Aligner: A Configurable JSON Schema Similarity Score for Graphs, Applied to LLM Prompt Optimization",
-      "date": "2026-07-02T10:07:34.000Z",
-      "url": "http://arxiv.org/abs/2607.01972v1",
+      "title": "Progressive Disclosure for LLM-Maintained Wiki Knowledge Bases: a Preregistered Ablation",
+      "date": "2026-07-06T01:03:27.000Z",
+      "url": "http://arxiv.org/abs/2607.04576v1",
       "source": "arxiv"
     },
     {
-      "title": "Beyond Supervised Clarification: Input Rewriting with LLMs for Dialogue Discourse Parsing",
-      "date": "2026-07-02T09:57:52.000Z",
-      "url": "http://arxiv.org/abs/2607.01964v1",
+      "title": "Mechanism-level routing failure in LLMs over Lean-verified algebraic structures",
+      "date": "2026-07-05T22:45:49.000Z",
+      "url": "http://arxiv.org/abs/2607.04534v1",
       "source": "arxiv"
     },
     {
-      "title": "Robust for the Wrong Reasons: The Representational Geometry of LLM Robustness to Science Skepticism",
-      "date": "2026-07-02T09:40:52.000Z",
-      "url": "http://arxiv.org/abs/2607.01951v1",
+      "title": "HiFA4: Training-Free 4-bit FlashAttention on Ascend HIF4 NPUs for LLM Inference",
+      "date": "2026-07-05T13:39:52.000Z",
+      "url": "http://arxiv.org/abs/2607.04302v1",
       "source": "arxiv"
     },
     {
-      "title": "Do LLMs Truly Generalize in the Molecular Domain? A Perturbation-Based Analysis",
-      "date": "2026-07-02T07:16:28.000Z",
-      "url": "http://arxiv.org/abs/2607.01800v1",
+      "title": "CausalGame: Benchmarking Causal Thinking of LLM Agents in Games",
+      "date": "2026-07-05T13:08:51.000Z",
+      "url": "http://arxiv.org/abs/2607.04293v1",
       "source": "arxiv"
     },
     {
-      "title": "PARTREP: Learning What to Repeat for Decoder-only LLMs",
-      "date": "2026-07-02T07:07:28.000Z",
-      "url": "http://arxiv.org/abs/2607.01792v1",
+      "title": "Risk-Constrained Freshness-Aware Semantic Caching for Open-Web Retrieval-Augmented LLMs",
+      "date": "2026-07-05T12:47:36.000Z",
+      "url": "http://arxiv.org/abs/2607.04281v1",
       "source": "arxiv"
     },
     {
-      "title": "Rethinking Speech-LLM Integration for ASR: Effective Joint Speech-Text Training by Interleaving",
-      "date": "2026-07-02T05:42:01.000Z",
-      "url": "http://arxiv.org/abs/2607.01733v1",
+      "title": "Spinning Straw into Gold: Relabeling LLM Agent Trajectories in Hindsight for Successful Demonstrations",
+      "date": "2026-07-05T11:21:26.000Z",
+      "url": "http://arxiv.org/abs/2607.04235v1",
       "source": "arxiv"
     },
     {
-      "title": "BOUNDARY_SYNC: Measuring Communication-Induced Representational Coupling in Multi-Agent LLM Systems",
-      "date": "2026-07-02T01:55:57.000Z",
-      "url": "http://arxiv.org/abs/2607.01600v1",
+      "title": "Teaching Code LLMs to Reason with Intermediate Formal Specifications",
+      "date": "2026-07-05T11:09:30.000Z",
+      "url": "http://arxiv.org/abs/2607.04232v1",
       "source": "arxiv"
     },
     {
-      "title": "Safe and Adaptive Cloud Healing: Verifying LLM-Generated Recovery Plans with a Neural-Symbolic World Model",
-      "date": "2026-07-02T01:45:30.000Z",
-      "url": "http://arxiv.org/abs/2607.01595v1",
+      "title": "Telescope: Improving Zero Shot Detection of LLM Generated Content By Measuring Token Repetition Probability",
+      "date": "2026-07-05T00:13:12.000Z",
+      "url": "http://arxiv.org/abs/2607.04061v1",
       "source": "arxiv"
     },
     {
-      "title": "ADVENT: LLM-Driven Automatic Predicate Invention for ILP",
-      "date": "2026-07-02T01:33:45.000Z",
-      "url": "http://arxiv.org/abs/2607.01585v1",
+      "title": "Can Dialects Be Steered Like Languages? Sparse Neurons and Distributed Directions in Arabic LLMs",
+      "date": "2026-07-04T16:04:44.000Z",
+      "url": "http://arxiv.org/abs/2607.03936v1",
       "source": "arxiv"
     },
     {
-      "title": "Beyond Skepticism: Evaluating LLMs Pedagogical Intent Reasoning with the Adaptive Pedagogical Vigilance Framework",
-      "date": "2026-07-02T01:26:09.000Z",
-      "url": "http://arxiv.org/abs/2607.01581v1",
+      "title": "Consistent but Miscalibrated: Evaluating LLM Limitations for Risk Communication in Natural Language",
+      "date": "2026-07-04T13:57:21.000Z",
+      "url": "http://arxiv.org/abs/2607.03882v1",
       "source": "arxiv"
     },
     {
-      "title": "Grounded Optimization: A Layered Engineering Framework for Reducing LLM Hallucination in Automated Personal Document Rewriting",
-      "date": "2026-07-01T20:22:18.000Z",
-      "url": "http://arxiv.org/abs/2607.01457v1",
+      "title": "Evaluating LLM Uncertainty in Long-Form Generation Using Deterministic Ground Truth",
+      "date": "2026-07-04T13:25:18.000Z",
+      "url": "http://arxiv.org/abs/2607.03870v1",
       "source": "arxiv"
     },
     {
-      "title": "FaithMed: Training LLMs For Faithful Evidence-Based Medical Reasoning",
-      "date": "2026-07-01T20:02:55.000Z",
-      "url": "http://arxiv.org/abs/2607.01440v1",
+      "title": "The Classics at SemEval-2026 Task 3: Combining Transformer Models and LLM-Generated Annotations for Dimensional Aspect-Based Sentiment Analysis",
+      "date": "2026-07-03T15:22:46.000Z",
+      "url": "http://arxiv.org/abs/2607.03414v1",
       "source": "arxiv"
     }
   ],
