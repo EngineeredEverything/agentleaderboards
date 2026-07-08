@@ -1,12 +1,102 @@
 {
-  "timestamp": "2026-07-07T11:47:12.716Z",
+  "timestamp": "2026-07-08T11:02:07.821Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
+      "title": "RSF-GLLM: Bridging the Semantic Gap in Multi-Hop Knowledge Graph QA via Recurrent Soft-Flow and Decoupled LLM Generation",
+      "date": "2026-07-07T17:32:36.000Z",
+      "url": "http://arxiv.org/abs/2607.06527v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "WordVoice: Explicit and Decoupled Multi-Dimensional Word-Level Control for LLM-Based TTS",
+      "date": "2026-07-07T16:22:59.000Z",
+      "url": "http://arxiv.org/abs/2607.06461v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "From Voting to Agent Collaboration: Answer-Type-Aware LLM Pipelines for BioASQ 14b",
+      "date": "2026-07-07T16:12:51.000Z",
+      "url": "http://arxiv.org/abs/2607.06452v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Estimating Uncertainty from Reasoning: A Large-Scale Study of Multi- and Crosslingual MCQA Performance in LLMs",
+      "date": "2026-07-07T14:25:09.000Z",
+      "url": "http://arxiv.org/abs/2607.06327v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Improving LLM-Generated Process Model Quality Through Reinforcement Learning: The Role of Reward Function Design",
+      "date": "2026-07-07T11:53:02.000Z",
+      "url": "http://arxiv.org/abs/2607.06175v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLM Agents for Deliberative Collaboration: A Study on Joint Decision Making Under Partial Observability",
+      "date": "2026-07-07T11:34:10.000Z",
+      "url": "http://arxiv.org/abs/2607.06157v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Prompting Complexity: Shortest Prompts for Texts and Behaviors in LLMs",
+      "date": "2026-07-07T11:12:44.000Z",
+      "url": "http://arxiv.org/abs/2607.06145v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Measuring the practice of shared-decision making (OPTION12): An Investigation into Open-sourced Smaller LLMs (OS-sLLMs) for Better Privacy and Sustainability",
+      "date": "2026-07-07T10:37:04.000Z",
+      "url": "http://arxiv.org/abs/2607.06127v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "From Blueprint to Reality: Modeling and Applying Putnam's Social Capital Theory with LLM-based Multi-agent Simulations",
+      "date": "2026-07-07T09:49:23.000Z",
+      "url": "http://arxiv.org/abs/2607.06080v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "PolyWorkBench: Benchmarking Multilingual Long-Horizon LLM Agents",
+      "date": "2026-07-07T08:50:09.000Z",
+      "url": "http://arxiv.org/abs/2607.06008v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Integrating knowledge graphs and multilingual scholarly corpora for domain-adaptive LLMs in SSH",
+      "date": "2026-07-07T07:56:56.000Z",
+      "url": "http://arxiv.org/abs/2607.05956v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Inject or Navigate? Token-Efficient Retrieval for LLM Analysis of Transactional Legal Documents",
+      "date": "2026-07-07T02:42:06.000Z",
+      "url": "http://arxiv.org/abs/2607.05764v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "When Should LLMs Search? Counterfactual Supervision for Search Routing",
+      "date": "2026-07-07T02:23:12.000Z",
+      "url": "http://arxiv.org/abs/2607.05752v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Prompt Robustness Is Task-Dependent: Comparing Objective and Belief-Style Questions in LLM Evaluation",
+      "date": "2026-07-06T18:47:47.000Z",
+      "url": "http://arxiv.org/abs/2607.05554v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Most LLM Conformity Needs No Speaker: Measuring the Speaker-Free Floor in Peer-Pressure Benchmarks",
+      "date": "2026-07-06T18:27:19.000Z",
+      "url": "http://arxiv.org/abs/2607.05545v1",
+      "source": "arxiv"
+    },
+    {
       "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
       "date": "2026-07-06T17:59:35.000Z",
-      "url": "http://arxiv.org/abs/2607.05391v1",
+      "url": "http://arxiv.org/abs/2607.05391v2",
       "source": "arxiv"
     },
     {
@@ -31,96 +121,6 @@
       "title": "Train Smarter, Not Longer: Memorization-Guided Data Reuse for Efficient LLM Training",
       "date": "2026-07-06T11:57:32.000Z",
       "url": "http://arxiv.org/abs/2607.04969v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "You Frame It: How Conceptual Representations Shape LLM Detection and Reasoning about Antisemitism",
-      "date": "2026-07-06T11:20:18.000Z",
-      "url": "http://arxiv.org/abs/2607.04945v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Turning Off-Policy Tokens On-Policy: A Plug-in Approach for Improving LLM Alignment",
-      "date": "2026-07-06T06:59:44.000Z",
-      "url": "http://arxiv.org/abs/2607.04728v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "ToolFailBench: Diagnosing Tool-Use Failures in LLM Agents",
-      "date": "2026-07-06T05:25:21.000Z",
-      "url": "http://arxiv.org/abs/2607.04686v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Progressive Disclosure for LLM-Maintained Wiki Knowledge Bases: a Preregistered Ablation",
-      "date": "2026-07-06T01:03:27.000Z",
-      "url": "http://arxiv.org/abs/2607.04576v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Mechanism-level routing failure in LLMs over Lean-verified algebraic structures",
-      "date": "2026-07-05T22:45:49.000Z",
-      "url": "http://arxiv.org/abs/2607.04534v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "HiFA4: Training-Free 4-bit FlashAttention on Ascend HIF4 NPUs for LLM Inference",
-      "date": "2026-07-05T13:39:52.000Z",
-      "url": "http://arxiv.org/abs/2607.04302v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "CausalGame: Benchmarking Causal Thinking of LLM Agents in Games",
-      "date": "2026-07-05T13:08:51.000Z",
-      "url": "http://arxiv.org/abs/2607.04293v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Risk-Constrained Freshness-Aware Semantic Caching for Open-Web Retrieval-Augmented LLMs",
-      "date": "2026-07-05T12:47:36.000Z",
-      "url": "http://arxiv.org/abs/2607.04281v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Spinning Straw into Gold: Relabeling LLM Agent Trajectories in Hindsight for Successful Demonstrations",
-      "date": "2026-07-05T11:21:26.000Z",
-      "url": "http://arxiv.org/abs/2607.04235v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Teaching Code LLMs to Reason with Intermediate Formal Specifications",
-      "date": "2026-07-05T11:09:30.000Z",
-      "url": "http://arxiv.org/abs/2607.04232v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Telescope: Improving Zero Shot Detection of LLM Generated Content By Measuring Token Repetition Probability",
-      "date": "2026-07-05T00:13:12.000Z",
-      "url": "http://arxiv.org/abs/2607.04061v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Can Dialects Be Steered Like Languages? Sparse Neurons and Distributed Directions in Arabic LLMs",
-      "date": "2026-07-04T16:04:44.000Z",
-      "url": "http://arxiv.org/abs/2607.03936v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Consistent but Miscalibrated: Evaluating LLM Limitations for Risk Communication in Natural Language",
-      "date": "2026-07-04T13:57:21.000Z",
-      "url": "http://arxiv.org/abs/2607.03882v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Evaluating LLM Uncertainty in Long-Form Generation Using Deterministic Ground Truth",
-      "date": "2026-07-04T13:25:18.000Z",
-      "url": "http://arxiv.org/abs/2607.03870v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "The Classics at SemEval-2026 Task 3: Combining Transformer Models and LLM-Generated Annotations for Dimensional Aspect-Based Sentiment Analysis",
-      "date": "2026-07-03T15:22:46.000Z",
-      "url": "http://arxiv.org/abs/2607.03414v1",
       "source": "arxiv"
     }
   ],
