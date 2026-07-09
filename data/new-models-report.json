@@ -1,8 +1,56 @@
 {
-  "timestamp": "2026-07-08T11:02:07.821Z",
+  "timestamp": "2026-07-09T11:54:59.722Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "PALS: Percentile-Aware Layerwise Sparsity for LLM Pruning",
+      "date": "2026-07-08T15:51:57.000Z",
+      "url": "http://arxiv.org/abs/2607.07557v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "SynthAVE: Scalable Synthetic Labeling for E-Commerce with LLM-Arena Validation",
+      "date": "2026-07-08T14:32:28.000Z",
+      "url": "http://arxiv.org/abs/2607.07469v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "From Atomic Actions to Standard Operating Procedures: Iterative Tool Optimization for Self-Evolving LLM Agents",
+      "date": "2026-07-08T12:09:49.000Z",
+      "url": "http://arxiv.org/abs/2607.07321v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Dissociating the Internal Representations of Sycophancy in LLMs",
+      "date": "2026-07-08T04:54:54.000Z",
+      "url": "http://arxiv.org/abs/2607.07003v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "MILES: Modular Instruction Memory with Learnable Selection for Self-Improving LLM Reasoning",
+      "date": "2026-07-08T03:51:37.000Z",
+      "url": "http://arxiv.org/abs/2607.06974v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Large Language Models (LLMs) and Generative AI in Cybersecurity and Privacy: A Survey of Dual-Use Risks, AI-Generated Malware, Explainability, and Defensive Strategies",
+      "date": "2026-07-08T03:40:26.000Z",
+      "url": "http://arxiv.org/abs/2607.06963v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLMs Silently Correct African American English: Auditing and Mitigating Dialect Bias via Activation Steering",
+      "date": "2026-07-07T22:36:30.000Z",
+      "url": "http://arxiv.org/abs/2607.06845v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Gradient-Based Speech-to-Text Alignment for Any ASR Model: From CTC to Speech LLMs",
+      "date": "2026-07-07T21:57:54.000Z",
+      "url": "http://arxiv.org/abs/2607.06831v1",
+      "source": "arxiv"
+    },
     {
       "title": "RSF-GLLM: Bridging the Semantic Gap in Multi-Hop Knowledge Graph QA via Recurrent Soft-Flow and Decoupled LLM Generation",
       "date": "2026-07-07T17:32:36.000Z",
@@ -19,6 +67,12 @@
       "title": "From Voting to Agent Collaboration: Answer-Type-Aware LLM Pipelines for BioASQ 14b",
       "date": "2026-07-07T16:12:51.000Z",
       "url": "http://arxiv.org/abs/2607.06452v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Healthier LLMs: Retrieval-Augmented Generation for Public Health Question Answering",
+      "date": "2026-07-07T14:47:42.000Z",
+      "url": "http://arxiv.org/abs/2607.06641v1",
       "source": "arxiv"
     },
     {
@@ -67,60 +121,6 @@
       "title": "Integrating knowledge graphs and multilingual scholarly corpora for domain-adaptive LLMs in SSH",
       "date": "2026-07-07T07:56:56.000Z",
       "url": "http://arxiv.org/abs/2607.05956v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Inject or Navigate? Token-Efficient Retrieval for LLM Analysis of Transactional Legal Documents",
-      "date": "2026-07-07T02:42:06.000Z",
-      "url": "http://arxiv.org/abs/2607.05764v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "When Should LLMs Search? Counterfactual Supervision for Search Routing",
-      "date": "2026-07-07T02:23:12.000Z",
-      "url": "http://arxiv.org/abs/2607.05752v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Prompt Robustness Is Task-Dependent: Comparing Objective and Belief-Style Questions in LLM Evaluation",
-      "date": "2026-07-06T18:47:47.000Z",
-      "url": "http://arxiv.org/abs/2607.05554v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Most LLM Conformity Needs No Speaker: Measuring the Speaker-Free Floor in Peer-Pressure Benchmarks",
-      "date": "2026-07-06T18:27:19.000Z",
-      "url": "http://arxiv.org/abs/2607.05545v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
-      "date": "2026-07-06T17:59:35.000Z",
-      "url": "http://arxiv.org/abs/2607.05391v2",
-      "source": "arxiv"
-    },
-    {
-      "title": "How Much is Left? LLMs Linearly Encode Their Remaining Output Length",
-      "date": "2026-07-06T16:56:04.000Z",
-      "url": "http://arxiv.org/abs/2607.05316v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Rating the Pitch, Not the Product: User Evaluations of LLMs Reflect Expectations More Than Performance",
-      "date": "2026-07-06T14:05:41.000Z",
-      "url": "http://arxiv.org/abs/2607.05113v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Knowledge Knows, Verbalization Tells: Disentangling Latent Directions for Mathematical Solvability in LLMs",
-      "date": "2026-07-06T12:55:21.000Z",
-      "url": "http://arxiv.org/abs/2607.05013v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Train Smarter, Not Longer: Memorization-Guided Data Reuse for Efficient LLM Training",
-      "date": "2026-07-06T11:57:32.000Z",
-      "url": "http://arxiv.org/abs/2607.04969v1",
       "source": "arxiv"
     }
   ],
