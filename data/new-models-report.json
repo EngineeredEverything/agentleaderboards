@@ -1,8 +1,92 @@
 {
-  "timestamp": "2026-07-09T11:54:59.722Z",
+  "timestamp": "2026-07-10T11:49:16.000Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "Validity of LLMs as data annotators: AMALIA on authority",
+      "date": "2026-07-09T17:34:25.000Z",
+      "url": "http://arxiv.org/abs/2607.08731v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Do You Need a Frontier Model as a Citation Verifier? Benchmarking Rubric LLMs for Deep-Research Source Attribution",
+      "date": "2026-07-09T17:01:40.000Z",
+      "url": "http://arxiv.org/abs/2607.08700v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "When the Judge Changes, So Does the Measurement: Auditing LLM-as-Judge Reliability",
+      "date": "2026-07-09T14:31:05.000Z",
+      "url": "http://arxiv.org/abs/2607.08535v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Two Axes of LLM Abstention: Answer Correctness and Question Answerability",
+      "date": "2026-07-09T13:17:56.000Z",
+      "url": "http://arxiv.org/abs/2607.08456v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "SQuaD-SQL: Efficient Text-to-SQL with Small Language Models via LLM-Guided Knowledge Distillation",
+      "date": "2026-07-09T06:56:20.000Z",
+      "url": "http://arxiv.org/abs/2607.08161v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "ICDAR 2026 HIPE-OCRepair Competition on LLM-Assisted OCR Post-Correction for Historical Documents",
+      "date": "2026-07-09T06:26:13.000Z",
+      "url": "http://arxiv.org/abs/2607.08143v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "What LLM Forecasters Know but Don't Say: Probing Internal Representations for Calibration and Faithfulness",
+      "date": "2026-07-09T01:52:09.000Z",
+      "url": "http://arxiv.org/abs/2607.08046v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "From Prompts to Contracts: Harness Engineering for Auditable Enterprise LLM Agents",
+      "date": "2026-07-09T01:08:33.000Z",
+      "url": "http://arxiv.org/abs/2607.08028v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Can We Trust LLM's Logic? Quantifying Uncertainty, Coherence, and Robustness via a Graph-Based Framework",
+      "date": "2026-07-09T00:45:26.000Z",
+      "url": "http://arxiv.org/abs/2607.08017v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Tool-Making and Self-Evolving LLM Agents in Low-Latency Systems",
+      "date": "2026-07-09T00:27:13.000Z",
+      "url": "http://arxiv.org/abs/2607.08010v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs",
+      "date": "2026-07-09T00:27:07.000Z",
+      "url": "http://arxiv.org/abs/2607.08009v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "When Implausible Tokens Get Reinforced: Tail-Aware Credit Calibration for LLM Reinforcement Learning",
+      "date": "2026-07-08T23:00:54.000Z",
+      "url": "http://arxiv.org/abs/2607.07976v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Validating LLMs in social science: Epistemic threats and emerging norms",
+      "date": "2026-07-08T20:59:10.000Z",
+      "url": "http://arxiv.org/abs/2607.07915v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Scalable and Culturally Specific Stereotype Dataset Construction via Human-LLM Collaboration",
+      "date": "2026-07-08T20:06:00.000Z",
+      "url": "http://arxiv.org/abs/2607.07895v1",
+      "source": "arxiv"
+    },
     {
       "title": "PALS: Percentile-Aware Layerwise Sparsity for LLM Pruning",
       "date": "2026-07-08T15:51:57.000Z",
@@ -37,90 +121,6 @@
       "title": "Large Language Models (LLMs) and Generative AI in Cybersecurity and Privacy: A Survey of Dual-Use Risks, AI-Generated Malware, Explainability, and Defensive Strategies",
       "date": "2026-07-08T03:40:26.000Z",
       "url": "http://arxiv.org/abs/2607.06963v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLMs Silently Correct African American English: Auditing and Mitigating Dialect Bias via Activation Steering",
-      "date": "2026-07-07T22:36:30.000Z",
-      "url": "http://arxiv.org/abs/2607.06845v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Gradient-Based Speech-to-Text Alignment for Any ASR Model: From CTC to Speech LLMs",
-      "date": "2026-07-07T21:57:54.000Z",
-      "url": "http://arxiv.org/abs/2607.06831v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "RSF-GLLM: Bridging the Semantic Gap in Multi-Hop Knowledge Graph QA via Recurrent Soft-Flow and Decoupled LLM Generation",
-      "date": "2026-07-07T17:32:36.000Z",
-      "url": "http://arxiv.org/abs/2607.06527v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "WordVoice: Explicit and Decoupled Multi-Dimensional Word-Level Control for LLM-Based TTS",
-      "date": "2026-07-07T16:22:59.000Z",
-      "url": "http://arxiv.org/abs/2607.06461v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "From Voting to Agent Collaboration: Answer-Type-Aware LLM Pipelines for BioASQ 14b",
-      "date": "2026-07-07T16:12:51.000Z",
-      "url": "http://arxiv.org/abs/2607.06452v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Healthier LLMs: Retrieval-Augmented Generation for Public Health Question Answering",
-      "date": "2026-07-07T14:47:42.000Z",
-      "url": "http://arxiv.org/abs/2607.06641v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Estimating Uncertainty from Reasoning: A Large-Scale Study of Multi- and Crosslingual MCQA Performance in LLMs",
-      "date": "2026-07-07T14:25:09.000Z",
-      "url": "http://arxiv.org/abs/2607.06327v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Improving LLM-Generated Process Model Quality Through Reinforcement Learning: The Role of Reward Function Design",
-      "date": "2026-07-07T11:53:02.000Z",
-      "url": "http://arxiv.org/abs/2607.06175v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLM Agents for Deliberative Collaboration: A Study on Joint Decision Making Under Partial Observability",
-      "date": "2026-07-07T11:34:10.000Z",
-      "url": "http://arxiv.org/abs/2607.06157v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Prompting Complexity: Shortest Prompts for Texts and Behaviors in LLMs",
-      "date": "2026-07-07T11:12:44.000Z",
-      "url": "http://arxiv.org/abs/2607.06145v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Measuring the practice of shared-decision making (OPTION12): An Investigation into Open-sourced Smaller LLMs (OS-sLLMs) for Better Privacy and Sustainability",
-      "date": "2026-07-07T10:37:04.000Z",
-      "url": "http://arxiv.org/abs/2607.06127v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "From Blueprint to Reality: Modeling and Applying Putnam's Social Capital Theory with LLM-based Multi-agent Simulations",
-      "date": "2026-07-07T09:49:23.000Z",
-      "url": "http://arxiv.org/abs/2607.06080v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "PolyWorkBench: Benchmarking Multilingual Long-Horizon LLM Agents",
-      "date": "2026-07-07T08:50:09.000Z",
-      "url": "http://arxiv.org/abs/2607.06008v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Integrating knowledge graphs and multilingual scholarly corpora for domain-adaptive LLMs in SSH",
-      "date": "2026-07-07T07:56:56.000Z",
-      "url": "http://arxiv.org/abs/2607.05956v1",
       "source": "arxiv"
     }
   ],
