@@ -1,8 +1,26 @@
 {
-  "timestamp": "2026-07-12T10:26:13.245Z",
+  "timestamp": "2026-07-13T11:59:23.119Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation",
+      "date": "2026-07-10T16:54:52.000Z",
+      "url": "http://arxiv.org/abs/2607.09600v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Self-Guided Test-Time Training for Long-Context LLMs",
+      "date": "2026-07-10T13:45:56.000Z",
+      "url": "http://arxiv.org/abs/2607.09415v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "AgentKGV: Agentic LLM-RAG Framework with Two-Stage Training for the Fact Verification of Knowledge Graphs",
+      "date": "2026-07-10T04:22:34.000Z",
+      "url": "http://arxiv.org/abs/2607.09092v1",
+      "source": "arxiv"
+    },
     {
       "title": "Validity of LLMs as data annotators: AMALIA on authority",
       "date": "2026-07-09T17:34:25.000Z",
@@ -103,24 +121,6 @@
       "title": "From Atomic Actions to Standard Operating Procedures: Iterative Tool Optimization for Self-Evolving LLM Agents",
       "date": "2026-07-08T12:09:49.000Z",
       "url": "http://arxiv.org/abs/2607.07321v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Dissociating the Internal Representations of Sycophancy in LLMs",
-      "date": "2026-07-08T04:54:54.000Z",
-      "url": "http://arxiv.org/abs/2607.07003v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "MILES: Modular Instruction Memory with Learnable Selection for Self-Improving LLM Reasoning",
-      "date": "2026-07-08T03:51:37.000Z",
-      "url": "http://arxiv.org/abs/2607.06974v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Large Language Models (LLMs) and Generative AI in Cybersecurity and Privacy: A Survey of Dual-Use Risks, AI-Generated Malware, Explainability, and Defensive Strategies",
-      "date": "2026-07-08T03:40:26.000Z",
-      "url": "http://arxiv.org/abs/2607.06963v1",
       "source": "arxiv"
     }
   ],
