@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-07-13T11:59:23.119Z",
+  "timestamp": "2026-07-14T10:42:48.343Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
-      "title": "Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation",
-      "date": "2026-07-10T16:54:52.000Z",
-      "url": "http://arxiv.org/abs/2607.09600v1",
+      "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
+      "date": "2026-07-13T17:58:37.000Z",
+      "url": "http://arxiv.org/abs/2607.11881v1",
       "source": "arxiv"
     },
     {
-      "title": "Self-Guided Test-Time Training for Long-Context LLMs",
-      "date": "2026-07-10T13:45:56.000Z",
-      "url": "http://arxiv.org/abs/2607.09415v1",
+      "title": "Inside the Unfair Judge: A Mechanistic Interpretability Account of LLM-as-Judge Bias",
+      "date": "2026-07-13T17:55:19.000Z",
+      "url": "http://arxiv.org/abs/2607.11871v1",
       "source": "arxiv"
     },
     {
-      "title": "AgentKGV: Agentic LLM-RAG Framework with Two-Stage Training for the Fact Verification of Knowledge Graphs",
-      "date": "2026-07-10T04:22:34.000Z",
-      "url": "http://arxiv.org/abs/2607.09092v1",
+      "title": "Production and Perception in LLMs: A Token Probability Approach",
+      "date": "2026-07-13T15:33:45.000Z",
+      "url": "http://arxiv.org/abs/2607.11703v1",
       "source": "arxiv"
     },
     {
-      "title": "Validity of LLMs as data annotators: AMALIA on authority",
-      "date": "2026-07-09T17:34:25.000Z",
-      "url": "http://arxiv.org/abs/2607.08731v1",
+      "title": "RAGU: A Multi-Step GraphRAG Engine with a Compact Domain-Adapted LLM",
+      "date": "2026-07-13T15:20:51.000Z",
+      "url": "http://arxiv.org/abs/2607.11683v1",
       "source": "arxiv"
     },
     {
-      "title": "Do You Need a Frontier Model as a Citation Verifier? Benchmarking Rubric LLMs for Deep-Research Source Attribution",
-      "date": "2026-07-09T17:01:40.000Z",
-      "url": "http://arxiv.org/abs/2607.08700v1",
+      "title": "Extending LLM Context via Associative Recurrent Memory",
+      "date": "2026-07-13T14:37:24.000Z",
+      "url": "http://arxiv.org/abs/2607.11614v1",
       "source": "arxiv"
     },
     {
-      "title": "When the Judge Changes, So Does the Measurement: Auditing LLM-as-Judge Reliability",
-      "date": "2026-07-09T14:31:05.000Z",
-      "url": "http://arxiv.org/abs/2607.08535v1",
+      "title": "PaperRouter-Agent: A Content-Grounded LLM Agent for Personalized Hierarchical Paper Routing",
+      "date": "2026-07-13T13:47:02.000Z",
+      "url": "http://arxiv.org/abs/2607.11564v1",
       "source": "arxiv"
     },
     {
-      "title": "Two Axes of LLM Abstention: Answer Correctness and Question Answerability",
-      "date": "2026-07-09T13:17:56.000Z",
-      "url": "http://arxiv.org/abs/2607.08456v1",
+      "title": "Are LLMs ready for HardChoices?",
+      "date": "2026-07-13T12:25:32.000Z",
+      "url": "http://arxiv.org/abs/2607.11471v1",
       "source": "arxiv"
     },
     {
-      "title": "SQuaD-SQL: Efficient Text-to-SQL with Small Language Models via LLM-Guided Knowledge Distillation",
-      "date": "2026-07-09T06:56:20.000Z",
-      "url": "http://arxiv.org/abs/2607.08161v1",
+      "title": "Confidently Wrong: Detecting Hallucinations in Financial Question Answering from LLM Internal States",
+      "date": "2026-07-13T11:22:25.000Z",
+      "url": "http://arxiv.org/abs/2607.11414v1",
       "source": "arxiv"
     },
     {
-      "title": "ICDAR 2026 HIPE-OCRepair Competition on LLM-Assisted OCR Post-Correction for Historical Documents",
-      "date": "2026-07-09T06:26:13.000Z",
-      "url": "http://arxiv.org/abs/2607.08143v1",
+      "title": "Cross-Architecture LLM Ensembles, Feature-Based Reranking and Retrieval-Augmented Prompting for Legal Information Processing",
+      "date": "2026-07-13T11:07:57.000Z",
+      "url": "http://arxiv.org/abs/2607.11400v1",
       "source": "arxiv"
     },
     {
-      "title": "What LLM Forecasters Know but Don't Say: Probing Internal Representations for Calibration and Faithfulness",
-      "date": "2026-07-09T01:52:09.000Z",
-      "url": "http://arxiv.org/abs/2607.08046v1",
+      "title": "Beyond Sally-Anne: Evaluating Theory of Mind in LLMs using Epistemic Schelling Points",
+      "date": "2026-07-13T10:27:22.000Z",
+      "url": "http://arxiv.org/abs/2607.11363v1",
       "source": "arxiv"
     },
     {
-      "title": "From Prompts to Contracts: Harness Engineering for Auditable Enterprise LLM Agents",
-      "date": "2026-07-09T01:08:33.000Z",
-      "url": "http://arxiv.org/abs/2607.08028v1",
+      "title": "The Paternalistic Filter: Epistemic Injustice and Differential Refusal in LLM-Mediated History Education for Marginalized Romanian Students",
+      "date": "2026-07-13T09:10:19.000Z",
+      "url": "http://arxiv.org/abs/2607.11292v1",
       "source": "arxiv"
     },
     {
-      "title": "Can We Trust LLM's Logic? Quantifying Uncertainty, Coherence, and Robustness via a Graph-Based Framework",
-      "date": "2026-07-09T00:45:26.000Z",
-      "url": "http://arxiv.org/abs/2607.08017v1",
+      "title": "Automated Textbook Auditing with Multi-Agent LLM Systems",
+      "date": "2026-07-13T08:58:03.000Z",
+      "url": "http://arxiv.org/abs/2607.11276v1",
       "source": "arxiv"
     },
     {
-      "title": "Tool-Making and Self-Evolving LLM Agents in Low-Latency Systems",
-      "date": "2026-07-09T00:27:13.000Z",
-      "url": "http://arxiv.org/abs/2607.08010v1",
+      "title": "Enhancing LLMs through human feedback: a journey towards self-improvement",
+      "date": "2026-07-13T08:51:08.000Z",
+      "url": "http://arxiv.org/abs/2607.11267v1",
       "source": "arxiv"
     },
     {
-      "title": "From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs",
-      "date": "2026-07-09T00:27:07.000Z",
-      "url": "http://arxiv.org/abs/2607.08009v1",
+      "title": "TreeThink: A Modular Tree Search Library for Mathematical Reasoning with LLMs",
+      "date": "2026-07-13T08:40:33.000Z",
+      "url": "http://arxiv.org/abs/2607.11258v1",
       "source": "arxiv"
     },
     {
-      "title": "When Implausible Tokens Get Reinforced: Tail-Aware Credit Calibration for LLM Reinforcement Learning",
-      "date": "2026-07-08T23:00:54.000Z",
-      "url": "http://arxiv.org/abs/2607.07976v1",
+      "title": "ProgramTab: Boosting Table Reasoning of LLMs via Programmatic Paradigm",
+      "date": "2026-07-13T07:58:57.000Z",
+      "url": "http://arxiv.org/abs/2607.11207v1",
       "source": "arxiv"
     },
     {
-      "title": "Validating LLMs in social science: Epistemic threats and emerging norms",
-      "date": "2026-07-08T20:59:10.000Z",
-      "url": "http://arxiv.org/abs/2607.07915v1",
+      "title": "Amplitude-Only FFN Intervention for Tool-Structured LLM Inference Method: Gated Evaluation Protocol, and Cross-Model Empirical Results",
+      "date": "2026-07-13T07:28:55.000Z",
+      "url": "http://arxiv.org/abs/2607.11183v1",
       "source": "arxiv"
     },
     {
-      "title": "Scalable and Culturally Specific Stereotype Dataset Construction via Human-LLM Collaboration",
-      "date": "2026-07-08T20:06:00.000Z",
-      "url": "http://arxiv.org/abs/2607.07895v1",
+      "title": "Do LLMs Fabricate Legal Citations? A Bilingual Benchmark on Saudi Data Protection Law and the GDPR",
+      "date": "2026-07-13T06:03:54.000Z",
+      "url": "http://arxiv.org/abs/2607.11127v1",
       "source": "arxiv"
     },
     {
-      "title": "PALS: Percentile-Aware Layerwise Sparsity for LLM Pruning",
-      "date": "2026-07-08T15:51:57.000Z",
-      "url": "http://arxiv.org/abs/2607.07557v1",
+      "title": "AgentCheck: A Reproduce-Intervene-Mitigate Workbench for LLM Agents over MCP",
+      "date": "2026-07-13T05:14:12.000Z",
+      "url": "http://arxiv.org/abs/2607.11098v1",
       "source": "arxiv"
     },
     {
-      "title": "SynthAVE: Scalable Synthetic Labeling for E-Commerce with LLM-Arena Validation",
-      "date": "2026-07-08T14:32:28.000Z",
-      "url": "http://arxiv.org/abs/2607.07469v1",
+      "title": "MJ: Multi-turn LLM Jailbreaking via Decomposed Credit Assignment",
+      "date": "2026-07-13T04:19:37.000Z",
+      "url": "http://arxiv.org/abs/2607.11070v1",
       "source": "arxiv"
     },
     {
-      "title": "From Atomic Actions to Standard Operating Procedures: Iterative Tool Optimization for Self-Evolving LLM Agents",
-      "date": "2026-07-08T12:09:49.000Z",
-      "url": "http://arxiv.org/abs/2607.07321v1",
+      "title": "Flout at Your Own Risk: LLMs Struggle with Pragmatic Cooperativity Under Epistemic Asymmetry",
+      "date": "2026-07-13T03:31:56.000Z",
+      "url": "http://arxiv.org/abs/2607.11053v1",
       "source": "arxiv"
     }
   ],
