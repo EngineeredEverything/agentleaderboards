@@ -1,8 +1,74 @@
 {
-  "timestamp": "2026-07-14T10:42:48.343Z",
+  "timestamp": "2026-07-15T10:47:00.875Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "LLM Judges Can Be Too Generous When There Is No Reference Answer",
+      "date": "2026-07-14T15:31:33.000Z",
+      "url": "http://arxiv.org/abs/2607.12885v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Can LLMs Write Reliable Rubrics? A Meta-Evaluation for Experiment Reproduction",
+      "date": "2026-07-14T14:52:42.000Z",
+      "url": "http://arxiv.org/abs/2607.12835v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Who Grades the Grader? Co-Evolving Evaluation Metrics and Skills for Self-Improving LLM Agents",
+      "date": "2026-07-14T14:02:50.000Z",
+      "url": "http://arxiv.org/abs/2607.12790v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Can Induced Emotion Bias LLM Behaviors in Sequential Decision Making?",
+      "date": "2026-07-14T11:09:51.000Z",
+      "url": "http://arxiv.org/abs/2607.12631v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "A JoLT for the KV Cache: Near-Lossless KV Cache Compression via Joint Tucker and JL-Residual Allocation for LLMs",
+      "date": "2026-07-14T09:23:20.000Z",
+      "url": "http://arxiv.org/abs/2607.12550v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Shared Subcircuit Lets LLMs Count Down Across Tasks",
+      "date": "2026-07-14T02:30:45.000Z",
+      "url": "http://arxiv.org/abs/2607.12279v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Code-MUE: Measuring Code LLMs' Uncertainty through Execution-based Semantic Interaction Graphs",
+      "date": "2026-07-14T02:23:17.000Z",
+      "url": "http://arxiv.org/abs/2607.12273v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Speculate with Memory: Lossless Acceleration for LLM Agents",
+      "date": "2026-07-14T00:36:31.000Z",
+      "url": "http://arxiv.org/abs/2607.12236v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Fin-Analyst at FinMMEval 2026 Task 3: A Live Hybrid Trading Agent with LLM Specialists and Rule-Based Signals",
+      "date": "2026-07-14T00:27:07.000Z",
+      "url": "http://arxiv.org/abs/2607.12233v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "RCWT: Measuring Task-Budget Displacement from Coordination Content in LLM Calls",
+      "date": "2026-07-13T23:31:44.000Z",
+      "url": "http://arxiv.org/abs/2607.12216v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "CityBehavEx: A Scalable and Empirically Validated LLM-Assisted Urban Simulation Platform",
+      "date": "2026-07-13T19:03:25.000Z",
+      "url": "http://arxiv.org/abs/2607.12086v1",
+      "source": "arxiv"
+    },
     {
       "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
       "date": "2026-07-13T17:58:37.000Z",
@@ -55,72 +121,6 @@
       "title": "Cross-Architecture LLM Ensembles, Feature-Based Reranking and Retrieval-Augmented Prompting for Legal Information Processing",
       "date": "2026-07-13T11:07:57.000Z",
       "url": "http://arxiv.org/abs/2607.11400v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Beyond Sally-Anne: Evaluating Theory of Mind in LLMs using Epistemic Schelling Points",
-      "date": "2026-07-13T10:27:22.000Z",
-      "url": "http://arxiv.org/abs/2607.11363v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "The Paternalistic Filter: Epistemic Injustice and Differential Refusal in LLM-Mediated History Education for Marginalized Romanian Students",
-      "date": "2026-07-13T09:10:19.000Z",
-      "url": "http://arxiv.org/abs/2607.11292v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Automated Textbook Auditing with Multi-Agent LLM Systems",
-      "date": "2026-07-13T08:58:03.000Z",
-      "url": "http://arxiv.org/abs/2607.11276v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Enhancing LLMs through human feedback: a journey towards self-improvement",
-      "date": "2026-07-13T08:51:08.000Z",
-      "url": "http://arxiv.org/abs/2607.11267v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "TreeThink: A Modular Tree Search Library for Mathematical Reasoning with LLMs",
-      "date": "2026-07-13T08:40:33.000Z",
-      "url": "http://arxiv.org/abs/2607.11258v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "ProgramTab: Boosting Table Reasoning of LLMs via Programmatic Paradigm",
-      "date": "2026-07-13T07:58:57.000Z",
-      "url": "http://arxiv.org/abs/2607.11207v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Amplitude-Only FFN Intervention for Tool-Structured LLM Inference Method: Gated Evaluation Protocol, and Cross-Model Empirical Results",
-      "date": "2026-07-13T07:28:55.000Z",
-      "url": "http://arxiv.org/abs/2607.11183v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Do LLMs Fabricate Legal Citations? A Bilingual Benchmark on Saudi Data Protection Law and the GDPR",
-      "date": "2026-07-13T06:03:54.000Z",
-      "url": "http://arxiv.org/abs/2607.11127v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "AgentCheck: A Reproduce-Intervene-Mitigate Workbench for LLM Agents over MCP",
-      "date": "2026-07-13T05:14:12.000Z",
-      "url": "http://arxiv.org/abs/2607.11098v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "MJ: Multi-turn LLM Jailbreaking via Decomposed Credit Assignment",
-      "date": "2026-07-13T04:19:37.000Z",
-      "url": "http://arxiv.org/abs/2607.11070v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Flout at Your Own Risk: LLMs Struggle with Pragmatic Cooperativity Under Epistemic Asymmetry",
-      "date": "2026-07-13T03:31:56.000Z",
-      "url": "http://arxiv.org/abs/2607.11053v1",
       "source": "arxiv"
     }
   ],
