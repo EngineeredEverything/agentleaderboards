@@ -1,8 +1,98 @@
 {
-  "timestamp": "2026-07-15T10:47:00.875Z",
+  "timestamp": "2026-07-16T10:56:37.777Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "Hindcast: Replaying Prediction Markets to Evaluate LLM Forecasters",
+      "date": "2026-07-15T17:21:43.000Z",
+      "url": "http://arxiv.org/abs/2607.14051v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Can an Old Dog Be Taught New Tricks? Taking LLMs Beyond Sentence Level Translation",
+      "date": "2026-07-15T17:10:24.000Z",
+      "url": "http://arxiv.org/abs/2607.14040v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Groc-PO: Grounded Context Preference Optimization for Truthful Multimodal LLMs",
+      "date": "2026-07-15T11:28:27.000Z",
+      "url": "http://arxiv.org/abs/2607.13712v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Test Oracle Problem in Synthetic LLM-as-Judge Corpora: Disappearance, Distortion and a Validation Protocol",
+      "date": "2026-07-15T11:12:54.000Z",
+      "url": "http://arxiv.org/abs/2607.13707v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Memory as a Controlled Process: Learned Adaptive Memory Management for LLM Agents",
+      "date": "2026-07-15T08:32:40.000Z",
+      "url": "http://arxiv.org/abs/2607.13591v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "MyAG: A Graph-Based Framework for Designing and Analyzing Composable LLM Agent Systems",
+      "date": "2026-07-15T06:03:52.000Z",
+      "url": "http://arxiv.org/abs/2607.13474v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Data-Efficient Adaptation of LLMs via Attention Head Reweighting",
+      "date": "2026-07-15T04:03:24.000Z",
+      "url": "http://arxiv.org/abs/2607.13425v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Evaluation Ability Does Not Imply Optimization Utility: LLM-as-a-Judge Signals in Closed-Loop Table Recognition",
+      "date": "2026-07-15T00:14:31.000Z",
+      "url": "http://arxiv.org/abs/2607.13347v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Meta-Learning Preferences for Multilingual LLM Alignment",
+      "date": "2026-07-14T22:38:39.000Z",
+      "url": "http://arxiv.org/abs/2607.13315v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Where Does the Noise Come From? A Variance-Components Decomposition of Non-Determinism in LLM Brand Answers",
+      "date": "2026-07-14T22:12:52.000Z",
+      "url": "http://arxiv.org/abs/2607.13304v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Discourse-Aware Policy Analysis with Argumentation: A Hybrid LLM-Symbolic Framework for Disaster Governance",
+      "date": "2026-07-14T20:47:38.000Z",
+      "url": "http://arxiv.org/abs/2607.13260v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Adaptive Filtering of the KV Cache: Diagnosing and Correcting Structural-Role Bias in LLM Inference",
+      "date": "2026-07-14T18:55:20.000Z",
+      "url": "http://arxiv.org/abs/2607.13205v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "What Models Express, Suppress, and Resist: Auditing Open-Weight LLMs with Persona Vectors",
+      "date": "2026-07-14T18:10:20.000Z",
+      "url": "http://arxiv.org/abs/2607.13162v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Do LLMs Need Architectural Changes for Simultaneous Speech Translation? A Prefix-to-Prefix Data Driven Approach",
+      "date": "2026-07-14T18:07:18.000Z",
+      "url": "http://arxiv.org/abs/2607.13158v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "ShortOPD: Recovering Pruned LLMs with Short-to-Long On-Policy Distillation",
+      "date": "2026-07-14T17:50:50.000Z",
+      "url": "http://arxiv.org/abs/2607.13124v1",
+      "source": "arxiv"
+    },
     {
       "title": "LLM Judges Can Be Too Generous When There Is No Reference Answer",
       "date": "2026-07-14T15:31:33.000Z",
@@ -31,96 +121,6 @@
       "title": "A JoLT for the KV Cache: Near-Lossless KV Cache Compression via Joint Tucker and JL-Residual Allocation for LLMs",
       "date": "2026-07-14T09:23:20.000Z",
       "url": "http://arxiv.org/abs/2607.12550v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "A Shared Subcircuit Lets LLMs Count Down Across Tasks",
-      "date": "2026-07-14T02:30:45.000Z",
-      "url": "http://arxiv.org/abs/2607.12279v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Code-MUE: Measuring Code LLMs' Uncertainty through Execution-based Semantic Interaction Graphs",
-      "date": "2026-07-14T02:23:17.000Z",
-      "url": "http://arxiv.org/abs/2607.12273v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Speculate with Memory: Lossless Acceleration for LLM Agents",
-      "date": "2026-07-14T00:36:31.000Z",
-      "url": "http://arxiv.org/abs/2607.12236v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Fin-Analyst at FinMMEval 2026 Task 3: A Live Hybrid Trading Agent with LLM Specialists and Rule-Based Signals",
-      "date": "2026-07-14T00:27:07.000Z",
-      "url": "http://arxiv.org/abs/2607.12233v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "RCWT: Measuring Task-Budget Displacement from Coordination Content in LLM Calls",
-      "date": "2026-07-13T23:31:44.000Z",
-      "url": "http://arxiv.org/abs/2607.12216v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "CityBehavEx: A Scalable and Empirically Validated LLM-Assisted Urban Simulation Platform",
-      "date": "2026-07-13T19:03:25.000Z",
-      "url": "http://arxiv.org/abs/2607.12086v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
-      "date": "2026-07-13T17:58:37.000Z",
-      "url": "http://arxiv.org/abs/2607.11881v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Inside the Unfair Judge: A Mechanistic Interpretability Account of LLM-as-Judge Bias",
-      "date": "2026-07-13T17:55:19.000Z",
-      "url": "http://arxiv.org/abs/2607.11871v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Production and Perception in LLMs: A Token Probability Approach",
-      "date": "2026-07-13T15:33:45.000Z",
-      "url": "http://arxiv.org/abs/2607.11703v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "RAGU: A Multi-Step GraphRAG Engine with a Compact Domain-Adapted LLM",
-      "date": "2026-07-13T15:20:51.000Z",
-      "url": "http://arxiv.org/abs/2607.11683v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Extending LLM Context via Associative Recurrent Memory",
-      "date": "2026-07-13T14:37:24.000Z",
-      "url": "http://arxiv.org/abs/2607.11614v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "PaperRouter-Agent: A Content-Grounded LLM Agent for Personalized Hierarchical Paper Routing",
-      "date": "2026-07-13T13:47:02.000Z",
-      "url": "http://arxiv.org/abs/2607.11564v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Are LLMs ready for HardChoices?",
-      "date": "2026-07-13T12:25:32.000Z",
-      "url": "http://arxiv.org/abs/2607.11471v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Confidently Wrong: Detecting Hallucinations in Financial Question Answering from LLM Internal States",
-      "date": "2026-07-13T11:22:25.000Z",
-      "url": "http://arxiv.org/abs/2607.11414v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Cross-Architecture LLM Ensembles, Feature-Based Reranking and Retrieval-Augmented Prompting for Legal Information Processing",
-      "date": "2026-07-13T11:07:57.000Z",
-      "url": "http://arxiv.org/abs/2607.11400v1",
       "source": "arxiv"
     }
   ],
