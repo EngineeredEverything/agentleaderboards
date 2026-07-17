@@ -1,8 +1,86 @@
 {
-  "timestamp": "2026-07-16T10:56:37.777Z",
+  "timestamp": "2026-07-17T10:44:41.438Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "In-Place Tokenizer Expansion for Pre-trained LLMs",
+      "date": "2026-07-16T17:32:38.000Z",
+      "url": "http://arxiv.org/abs/2607.15232v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Grokipedia vs Wikipedia: An LLM-Based Audit of Political Neutrality along Ideologies",
+      "date": "2026-07-16T15:49:49.000Z",
+      "url": "http://arxiv.org/abs/2607.15146v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents",
+      "date": "2026-07-16T15:08:29.000Z",
+      "url": "http://arxiv.org/abs/2607.15095v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution",
+      "date": "2026-07-16T12:25:16.000Z",
+      "url": "http://arxiv.org/abs/2607.14905v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Innocuous-Seeming Data, Latent Ideology: Ideological Generalisation in Finetuned LLMs",
+      "date": "2026-07-16T12:05:45.000Z",
+      "url": "http://arxiv.org/abs/2607.14888v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Harnessing LLMs for Reliable Academic Supervision: A Comparative Study",
+      "date": "2026-07-16T08:14:27.000Z",
+      "url": "http://arxiv.org/abs/2607.14707v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Investigating first-language bias in LLM-based automated essay scoring: A cross-prompt evaluation of an open-weight AI-model on TOEFL essays",
+      "date": "2026-07-16T06:10:08.000Z",
+      "url": "http://arxiv.org/abs/2607.14605v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "RetroAgent: Harnessing LLMs to Search Over Structured Memory for Agentic Retrosynthesis Planning",
+      "date": "2026-07-16T03:05:38.000Z",
+      "url": "http://arxiv.org/abs/2607.14512v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLM Evaluators are Biased across Languages",
+      "date": "2026-07-16T01:53:09.000Z",
+      "url": "http://arxiv.org/abs/2607.14480v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "MamaBench: Benchmarking LLM Robustness in Maternal and Child Health Diagnosis through Counterfactual Clinical Perturbation",
+      "date": "2026-07-15T21:56:19.000Z",
+      "url": "http://arxiv.org/abs/2607.14385v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Multi-Head Latent Control: A Unified Interface for LLM Agent Decision Making",
+      "date": "2026-07-15T18:36:54.000Z",
+      "url": "http://arxiv.org/abs/2607.14277v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "MonteRET: AI Agent Enhancing Multimodal LLMs with Multi-granularity Knowledge Retrieval for Chest CT Report Generation",
+      "date": "2026-07-15T18:17:13.000Z",
+      "url": "http://arxiv.org/abs/2607.14264v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Severance Problem: LLMs are Unaware of the Person Beyond the Prompt",
+      "date": "2026-07-15T18:11:49.000Z",
+      "url": "http://arxiv.org/abs/2607.14250v1",
+      "source": "arxiv"
+    },
     {
       "title": "Hindcast: Replaying Prediction Markets to Evaluate LLM Forecasters",
       "date": "2026-07-15T17:21:43.000Z",
@@ -43,84 +121,6 @@
       "title": "Data-Efficient Adaptation of LLMs via Attention Head Reweighting",
       "date": "2026-07-15T04:03:24.000Z",
       "url": "http://arxiv.org/abs/2607.13425v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Evaluation Ability Does Not Imply Optimization Utility: LLM-as-a-Judge Signals in Closed-Loop Table Recognition",
-      "date": "2026-07-15T00:14:31.000Z",
-      "url": "http://arxiv.org/abs/2607.13347v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Meta-Learning Preferences for Multilingual LLM Alignment",
-      "date": "2026-07-14T22:38:39.000Z",
-      "url": "http://arxiv.org/abs/2607.13315v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Where Does the Noise Come From? A Variance-Components Decomposition of Non-Determinism in LLM Brand Answers",
-      "date": "2026-07-14T22:12:52.000Z",
-      "url": "http://arxiv.org/abs/2607.13304v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Discourse-Aware Policy Analysis with Argumentation: A Hybrid LLM-Symbolic Framework for Disaster Governance",
-      "date": "2026-07-14T20:47:38.000Z",
-      "url": "http://arxiv.org/abs/2607.13260v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Adaptive Filtering of the KV Cache: Diagnosing and Correcting Structural-Role Bias in LLM Inference",
-      "date": "2026-07-14T18:55:20.000Z",
-      "url": "http://arxiv.org/abs/2607.13205v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "What Models Express, Suppress, and Resist: Auditing Open-Weight LLMs with Persona Vectors",
-      "date": "2026-07-14T18:10:20.000Z",
-      "url": "http://arxiv.org/abs/2607.13162v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Do LLMs Need Architectural Changes for Simultaneous Speech Translation? A Prefix-to-Prefix Data Driven Approach",
-      "date": "2026-07-14T18:07:18.000Z",
-      "url": "http://arxiv.org/abs/2607.13158v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "ShortOPD: Recovering Pruned LLMs with Short-to-Long On-Policy Distillation",
-      "date": "2026-07-14T17:50:50.000Z",
-      "url": "http://arxiv.org/abs/2607.13124v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLM Judges Can Be Too Generous When There Is No Reference Answer",
-      "date": "2026-07-14T15:31:33.000Z",
-      "url": "http://arxiv.org/abs/2607.12885v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Can LLMs Write Reliable Rubrics? A Meta-Evaluation for Experiment Reproduction",
-      "date": "2026-07-14T14:52:42.000Z",
-      "url": "http://arxiv.org/abs/2607.12835v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Who Grades the Grader? Co-Evolving Evaluation Metrics and Skills for Self-Improving LLM Agents",
-      "date": "2026-07-14T14:02:50.000Z",
-      "url": "http://arxiv.org/abs/2607.12790v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Can Induced Emotion Bias LLM Behaviors in Sequential Decision Making?",
-      "date": "2026-07-14T11:09:51.000Z",
-      "url": "http://arxiv.org/abs/2607.12631v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "A JoLT for the KV Cache: Near-Lossless KV Cache Compression via Joint Tucker and JL-Residual Allocation for LLMs",
-      "date": "2026-07-14T09:23:20.000Z",
-      "url": "http://arxiv.org/abs/2607.12550v1",
       "source": "arxiv"
     }
   ],
