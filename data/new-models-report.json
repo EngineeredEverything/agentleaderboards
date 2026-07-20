@@ -1,8 +1,32 @@
 {
-  "timestamp": "2026-07-19T10:25:13.953Z",
+  "timestamp": "2026-07-20T11:42:27.276Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "From Plausible to Actionable: A Position on LLM Self-Explanations",
+      "date": "2026-07-17T13:44:19.000Z",
+      "url": "http://arxiv.org/abs/2607.15957v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Before the Action: Benchmarking LLMs on Prospective Hypothesis Discovery",
+      "date": "2026-07-17T08:56:43.000Z",
+      "url": "http://arxiv.org/abs/2607.15766v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "SkillCorpus: Consolidating and Evaluating the Open Skill Ecosystem for Real-World LLM Agents",
+      "date": "2026-07-17T01:55:17.000Z",
+      "url": "http://arxiv.org/abs/2607.15557v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "VarRate: Training-Free Variable-Rate KV Cache Compression for Long-Context LLMs",
+      "date": "2026-07-16T23:03:14.000Z",
+      "url": "http://arxiv.org/abs/2607.15498v1",
+      "source": "arxiv"
+    },
     {
       "title": "In-Place Tokenizer Expansion for Pre-trained LLMs",
       "date": "2026-07-16T17:32:38.000Z",
@@ -18,7 +42,7 @@
     {
       "title": "Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents",
       "date": "2026-07-16T15:08:29.000Z",
-      "url": "http://arxiv.org/abs/2607.15095v1",
+      "url": "http://arxiv.org/abs/2607.15095v2",
       "source": "arxiv"
     },
     {
@@ -97,30 +121,6 @@
       "title": "Groc-PO: Grounded Context Preference Optimization for Truthful Multimodal LLMs",
       "date": "2026-07-15T11:28:27.000Z",
       "url": "http://arxiv.org/abs/2607.13712v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "The Test Oracle Problem in Synthetic LLM-as-Judge Corpora: Disappearance, Distortion and a Validation Protocol",
-      "date": "2026-07-15T11:12:54.000Z",
-      "url": "http://arxiv.org/abs/2607.13707v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Memory as a Controlled Process: Learned Adaptive Memory Management for LLM Agents",
-      "date": "2026-07-15T08:32:40.000Z",
-      "url": "http://arxiv.org/abs/2607.13591v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "MyAG: A Graph-Based Framework for Designing and Analyzing Composable LLM Agent Systems",
-      "date": "2026-07-15T06:03:52.000Z",
-      "url": "http://arxiv.org/abs/2607.13474v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Data-Efficient Adaptation of LLMs via Attention Head Reweighting",
-      "date": "2026-07-15T04:03:24.000Z",
-      "url": "http://arxiv.org/abs/2607.13425v1",
       "source": "arxiv"
     }
   ],
