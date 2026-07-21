@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-07-20T11:42:27.276Z",
+  "timestamp": "2026-07-21T11:05:34.866Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
-      "title": "From Plausible to Actionable: A Position on LLM Self-Explanations",
-      "date": "2026-07-17T13:44:19.000Z",
-      "url": "http://arxiv.org/abs/2607.15957v1",
+      "title": "It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief",
+      "date": "2026-07-20T17:58:31.000Z",
+      "url": "http://arxiv.org/abs/2607.18232v1",
       "source": "arxiv"
     },
     {
-      "title": "Before the Action: Benchmarking LLMs on Prospective Hypothesis Discovery",
-      "date": "2026-07-17T08:56:43.000Z",
-      "url": "http://arxiv.org/abs/2607.15766v1",
+      "title": "SWE-Pruner Pro: The Coder LLM Already Knows What to Prune",
+      "date": "2026-07-20T17:47:44.000Z",
+      "url": "http://arxiv.org/abs/2607.18213v1",
       "source": "arxiv"
     },
     {
-      "title": "SkillCorpus: Consolidating and Evaluating the Open Skill Ecosystem for Real-World LLM Agents",
-      "date": "2026-07-17T01:55:17.000Z",
-      "url": "http://arxiv.org/abs/2607.15557v1",
+      "title": "VEHBench: A Stage-Local Diagnostic Benchmark for LLM-Assisted Vibration Energy Harvester Design",
+      "date": "2026-07-20T17:17:05.000Z",
+      "url": "http://arxiv.org/abs/2607.18181v1",
       "source": "arxiv"
     },
     {
-      "title": "VarRate: Training-Free Variable-Rate KV Cache Compression for Long-Context LLMs",
-      "date": "2026-07-16T23:03:14.000Z",
-      "url": "http://arxiv.org/abs/2607.15498v1",
+      "title": "Do Language Models Dream of Binding Molecules? Benchmarking LLMs under Spatial Constraints",
+      "date": "2026-07-20T16:43:54.000Z",
+      "url": "http://arxiv.org/abs/2607.18144v1",
       "source": "arxiv"
     },
     {
-      "title": "In-Place Tokenizer Expansion for Pre-trained LLMs",
-      "date": "2026-07-16T17:32:38.000Z",
-      "url": "http://arxiv.org/abs/2607.15232v1",
+      "title": "How Does Alignment Tuning Shape Representations of Sycophancy and Related Cue-Induced Biases in LLMs?",
+      "date": "2026-07-20T16:10:06.000Z",
+      "url": "http://arxiv.org/abs/2607.18114v1",
       "source": "arxiv"
     },
     {
-      "title": "Grokipedia vs Wikipedia: An LLM-Based Audit of Political Neutrality along Ideologies",
-      "date": "2026-07-16T15:49:49.000Z",
-      "url": "http://arxiv.org/abs/2607.15146v1",
+      "title": "LLM-as-a-Coach: Experiential Learning for Non-Verifiable Tasks",
+      "date": "2026-07-20T16:08:49.000Z",
+      "url": "http://arxiv.org/abs/2607.18110v1",
       "source": "arxiv"
     },
     {
-      "title": "Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents",
-      "date": "2026-07-16T15:08:29.000Z",
-      "url": "http://arxiv.org/abs/2607.15095v2",
+      "title": "VDAR-Router: Adaptive LLMs Routing via Verbalized Query Difficulty Analysis Retrieval",
+      "date": "2026-07-20T16:00:45.000Z",
+      "url": "http://arxiv.org/abs/2607.18098v1",
       "source": "arxiv"
     },
     {
-      "title": "Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution",
-      "date": "2026-07-16T12:25:16.000Z",
-      "url": "http://arxiv.org/abs/2607.14905v1",
+      "title": "An Early Warning of Emerging Biosecurity Risks in Frontier LLMs",
+      "date": "2026-07-20T15:26:23.000Z",
+      "url": "http://arxiv.org/abs/2607.18056v1",
       "source": "arxiv"
     },
     {
-      "title": "Innocuous-Seeming Data, Latent Ideology: Ideological Generalisation in Finetuned LLMs",
-      "date": "2026-07-16T12:05:45.000Z",
-      "url": "http://arxiv.org/abs/2607.14888v1",
+      "title": "Benchmarking Resource-Efficient LLMs for Research Topic Ontology Generation in the Biomedical Field",
+      "date": "2026-07-20T12:48:41.000Z",
+      "url": "http://arxiv.org/abs/2607.17902v1",
       "source": "arxiv"
     },
     {
-      "title": "Harnessing LLMs for Reliable Academic Supervision: A Comparative Study",
-      "date": "2026-07-16T08:14:27.000Z",
-      "url": "http://arxiv.org/abs/2607.14707v1",
+      "title": "When a Name Is Not a Name: A Benchmark Dataset and Distilled Reasoning for Culturally Entangled Bangla Homographs in Low-Resource LLMs",
+      "date": "2026-07-20T11:17:19.000Z",
+      "url": "http://arxiv.org/abs/2607.17828v1",
       "source": "arxiv"
     },
     {
-      "title": "Investigating first-language bias in LLM-based automated essay scoring: A cross-prompt evaluation of an open-weight AI-model on TOEFL essays",
-      "date": "2026-07-16T06:10:08.000Z",
-      "url": "http://arxiv.org/abs/2607.14605v1",
+      "title": "C$^2$KV: Compressed and Composable KV Cache Reuse for Efficient LLM Inference",
+      "date": "2026-07-20T09:09:23.000Z",
+      "url": "http://arxiv.org/abs/2607.17715v1",
       "source": "arxiv"
     },
     {
-      "title": "RetroAgent: Harnessing LLMs to Search Over Structured Memory for Agentic Retrosynthesis Planning",
-      "date": "2026-07-16T03:05:38.000Z",
-      "url": "http://arxiv.org/abs/2607.14512v1",
+      "title": "The Librarian Who Refused to Code: Model-Dependent Identity Enactment in LLM Code Generation",
+      "date": "2026-07-19T21:47:58.000Z",
+      "url": "http://arxiv.org/abs/2607.17420v1",
       "source": "arxiv"
     },
     {
-      "title": "LLM Evaluators are Biased across Languages",
-      "date": "2026-07-16T01:53:09.000Z",
-      "url": "http://arxiv.org/abs/2607.14480v1",
+      "title": "Literary Non-Style in LLM-Generated Text",
+      "date": "2026-07-19T12:33:39.000Z",
+      "url": "http://arxiv.org/abs/2607.17228v1",
       "source": "arxiv"
     },
     {
-      "title": "MamaBench: Benchmarking LLM Robustness in Maternal and Child Health Diagnosis through Counterfactual Clinical Perturbation",
-      "date": "2026-07-15T21:56:19.000Z",
-      "url": "http://arxiv.org/abs/2607.14385v1",
+      "title": "SlotGuard: Stop Oversharing Private Local Context in LLM Agent Transcri",
+      "date": "2026-07-19T09:13:08.000Z",
+      "url": "http://arxiv.org/abs/2607.17147v1",
       "source": "arxiv"
     },
     {
-      "title": "Multi-Head Latent Control: A Unified Interface for LLM Agent Decision Making",
-      "date": "2026-07-15T18:36:54.000Z",
-      "url": "http://arxiv.org/abs/2607.14277v1",
+      "title": "A Systematic Evaluation of Traditional Privacy Policy Analysis Tools Against LLMs",
+      "date": "2026-07-19T04:50:05.000Z",
+      "url": "http://arxiv.org/abs/2607.17075v1",
       "source": "arxiv"
     },
     {
-      "title": "MonteRET: AI Agent Enhancing Multimodal LLMs with Multi-granularity Knowledge Retrieval for Chest CT Report Generation",
-      "date": "2026-07-15T18:17:13.000Z",
-      "url": "http://arxiv.org/abs/2607.14264v1",
+      "title": "Schema-Constrained Document-Level Event Argument Extraction with Lightweight LLM Fine-Tuning",
+      "date": "2026-07-18T13:04:06.000Z",
+      "url": "http://arxiv.org/abs/2607.16808v1",
       "source": "arxiv"
     },
     {
-      "title": "The Severance Problem: LLMs are Unaware of the Person Beyond the Prompt",
-      "date": "2026-07-15T18:11:49.000Z",
-      "url": "http://arxiv.org/abs/2607.14250v1",
+      "title": "DS@GT ARC at eRisk 2026: Hybrid Multi-Agent LLM System with Structured Algorithmic Guidance for Conversational Depression Screening",
+      "date": "2026-07-18T09:02:19.000Z",
+      "url": "http://arxiv.org/abs/2607.16712v1",
       "source": "arxiv"
     },
     {
-      "title": "Hindcast: Replaying Prediction Markets to Evaluate LLM Forecasters",
-      "date": "2026-07-15T17:21:43.000Z",
-      "url": "http://arxiv.org/abs/2607.14051v1",
+      "title": "Are Arithmetic Heuristic Neurons Form-Invariant? A Mechanistic Analysis of Symbols, Text, and Code in LLMs",
+      "date": "2026-07-18T08:02:50.000Z",
+      "url": "http://arxiv.org/abs/2607.16693v1",
       "source": "arxiv"
     },
     {
-      "title": "Can an Old Dog Be Taught New Tricks? Taking LLMs Beyond Sentence Level Translation",
-      "date": "2026-07-15T17:10:24.000Z",
-      "url": "http://arxiv.org/abs/2607.14040v1",
+      "title": "From Memory to Skills: Evidence-Grounded Co-Evolution Governance for Long-Horizon LLM Agents",
+      "date": "2026-07-18T03:46:22.000Z",
+      "url": "http://arxiv.org/abs/2607.16621v1",
       "source": "arxiv"
     },
     {
-      "title": "Groc-PO: Grounded Context Preference Optimization for Truthful Multimodal LLMs",
-      "date": "2026-07-15T11:28:27.000Z",
-      "url": "http://arxiv.org/abs/2607.13712v1",
+      "title": "Committed Before Reasoning: Behavioral Reproduction and Preliminary Activation-Level Evidence of Answer Pre-Commitment in an Open-Weight LLM",
+      "date": "2026-07-17T18:49:15.000Z",
+      "url": "http://arxiv.org/abs/2607.16451v1",
       "source": "arxiv"
     }
   ],
