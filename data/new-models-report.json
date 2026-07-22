@@ -1,8 +1,92 @@
 {
-  "timestamp": "2026-07-21T11:05:34.866Z",
+  "timestamp": "2026-07-22T11:06:55.741Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "Inference-Time Steering for Cross-Lingual Factual Consistency in LLMs",
+      "date": "2026-07-21T16:15:05.000Z",
+      "url": "http://arxiv.org/abs/2607.19243v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "MeetingToM: Evaluating Multimodal LLMs on Theory-of-Mind Reasoning in Multi-Party Meetings",
+      "date": "2026-07-21T16:05:49.000Z",
+      "url": "http://arxiv.org/abs/2607.19235v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Beyond Score Prediction: LLM-Based Essay Scoring and Feedback Generation via Reinforcement Learning with Rubric Rewards",
+      "date": "2026-07-21T15:49:02.000Z",
+      "url": "http://arxiv.org/abs/2607.19219v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Computational Humor with Multimodal LLMs: Methods, Datasets, Evaluation, and Challenges",
+      "date": "2026-07-21T11:53:46.000Z",
+      "url": "http://arxiv.org/abs/2607.19011v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "AutoJourn: Multi-Perspective Summarisation, Bias Detection and Bias Neutralisation for LLM-Generated News in Automated Journalism",
+      "date": "2026-07-21T11:18:00.000Z",
+      "url": "http://arxiv.org/abs/2607.18983v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Reasoning Error from Known Fact: Step-Level Self-Consistency Group Relative Policy Optimization for LLM",
+      "date": "2026-07-21T09:56:58.000Z",
+      "url": "http://arxiv.org/abs/2607.18915v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "HindsightBench: A Black-Box Behavioral Audit Protocol for Parametric Hindsight in Time-Indexed LLM Decision Tasks",
+      "date": "2026-07-21T08:58:36.000Z",
+      "url": "http://arxiv.org/abs/2607.18867v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "AI Tour Meeting: Group Travel Planning by LLM Agents",
+      "date": "2026-07-21T07:36:46.000Z",
+      "url": "http://arxiv.org/abs/2607.18806v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "AgentDebugX: An Open-Source Toolkit for Failure Observability, Attribution, and Recovery in LLM Agents",
+      "date": "2026-07-21T06:21:13.000Z",
+      "url": "http://arxiv.org/abs/2607.18754v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Find Before You Fine-Tune: A Diagnostic Study of Small LLMs for Cybersecurity QA",
+      "date": "2026-07-21T05:32:40.000Z",
+      "url": "http://arxiv.org/abs/2607.18725v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Mark, Don't Erase: Token Inoculation for Dual-Use Knowledge in LLMs",
+      "date": "2026-07-21T02:15:39.000Z",
+      "url": "http://arxiv.org/abs/2607.18639v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Story Shapes the Agent: Narrative Priors in LLM Behavior",
+      "date": "2026-07-20T23:03:16.000Z",
+      "url": "http://arxiv.org/abs/2607.18566v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Using Fine-Tuned LLMs to Identify Indicators of Vulnerability in UK Police Incident Logs",
+      "date": "2026-07-20T18:58:33.000Z",
+      "url": "http://arxiv.org/abs/2607.18446v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Relay-Bench: Evaluating LLMs on Multi-Domain Reasoning Chains",
+      "date": "2026-07-20T18:46:17.000Z",
+      "url": "http://arxiv.org/abs/2607.18438v1",
+      "source": "arxiv"
+    },
     {
       "title": "It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief",
       "date": "2026-07-20T17:58:31.000Z",
@@ -37,90 +121,6 @@
       "title": "LLM-as-a-Coach: Experiential Learning for Non-Verifiable Tasks",
       "date": "2026-07-20T16:08:49.000Z",
       "url": "http://arxiv.org/abs/2607.18110v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "VDAR-Router: Adaptive LLMs Routing via Verbalized Query Difficulty Analysis Retrieval",
-      "date": "2026-07-20T16:00:45.000Z",
-      "url": "http://arxiv.org/abs/2607.18098v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "An Early Warning of Emerging Biosecurity Risks in Frontier LLMs",
-      "date": "2026-07-20T15:26:23.000Z",
-      "url": "http://arxiv.org/abs/2607.18056v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Benchmarking Resource-Efficient LLMs for Research Topic Ontology Generation in the Biomedical Field",
-      "date": "2026-07-20T12:48:41.000Z",
-      "url": "http://arxiv.org/abs/2607.17902v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "When a Name Is Not a Name: A Benchmark Dataset and Distilled Reasoning for Culturally Entangled Bangla Homographs in Low-Resource LLMs",
-      "date": "2026-07-20T11:17:19.000Z",
-      "url": "http://arxiv.org/abs/2607.17828v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "C$^2$KV: Compressed and Composable KV Cache Reuse for Efficient LLM Inference",
-      "date": "2026-07-20T09:09:23.000Z",
-      "url": "http://arxiv.org/abs/2607.17715v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "The Librarian Who Refused to Code: Model-Dependent Identity Enactment in LLM Code Generation",
-      "date": "2026-07-19T21:47:58.000Z",
-      "url": "http://arxiv.org/abs/2607.17420v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Literary Non-Style in LLM-Generated Text",
-      "date": "2026-07-19T12:33:39.000Z",
-      "url": "http://arxiv.org/abs/2607.17228v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "SlotGuard: Stop Oversharing Private Local Context in LLM Agent Transcri",
-      "date": "2026-07-19T09:13:08.000Z",
-      "url": "http://arxiv.org/abs/2607.17147v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "A Systematic Evaluation of Traditional Privacy Policy Analysis Tools Against LLMs",
-      "date": "2026-07-19T04:50:05.000Z",
-      "url": "http://arxiv.org/abs/2607.17075v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Schema-Constrained Document-Level Event Argument Extraction with Lightweight LLM Fine-Tuning",
-      "date": "2026-07-18T13:04:06.000Z",
-      "url": "http://arxiv.org/abs/2607.16808v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "DS@GT ARC at eRisk 2026: Hybrid Multi-Agent LLM System with Structured Algorithmic Guidance for Conversational Depression Screening",
-      "date": "2026-07-18T09:02:19.000Z",
-      "url": "http://arxiv.org/abs/2607.16712v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Are Arithmetic Heuristic Neurons Form-Invariant? A Mechanistic Analysis of Symbols, Text, and Code in LLMs",
-      "date": "2026-07-18T08:02:50.000Z",
-      "url": "http://arxiv.org/abs/2607.16693v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "From Memory to Skills: Evidence-Grounded Co-Evolution Governance for Long-Horizon LLM Agents",
-      "date": "2026-07-18T03:46:22.000Z",
-      "url": "http://arxiv.org/abs/2607.16621v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Committed Before Reasoning: Behavioral Reproduction and Preliminary Activation-Level Evidence of Answer Pre-Commitment in an Open-Weight LLM",
-      "date": "2026-07-17T18:49:15.000Z",
-      "url": "http://arxiv.org/abs/2607.16451v1",
       "source": "arxiv"
     }
   ],
