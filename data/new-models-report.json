@@ -1,8 +1,44 @@
 {
-  "timestamp": "2026-07-22T11:06:55.741Z",
+  "timestamp": "2026-07-23T11:06:39.804Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "Notes to Self: Can LLMs Benefit from Experiential Abstractions?",
+      "date": "2026-07-22T17:02:34.000Z",
+      "url": "http://arxiv.org/abs/2607.20372v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Which Values Do LLMs Confuse? A Schwartz-Based Recognition Study",
+      "date": "2026-07-22T15:22:14.000Z",
+      "url": "http://arxiv.org/abs/2607.20270v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Understanding the Impact of Linguistic Realization Choices on LLM Stance with Causal Tracing",
+      "date": "2026-07-22T13:19:58.000Z",
+      "url": "http://arxiv.org/abs/2607.20115v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Rewarding Better Thinking for LLM Preference Alignment",
+      "date": "2026-07-22T06:57:55.000Z",
+      "url": "http://arxiv.org/abs/2607.19824v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Adaptive Capitulation: A Structural Failure Mode of LLM Responses in Vulnerability Contexts",
+      "date": "2026-07-21T23:38:59.000Z",
+      "url": "http://arxiv.org/abs/2607.19629v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "When Reasoning Narrows the Move: Diversity Collapse in LLM Game Play",
+      "date": "2026-07-21T19:10:38.000Z",
+      "url": "http://arxiv.org/abs/2607.19523v1",
+      "source": "arxiv"
+    },
     {
       "title": "Inference-Time Steering for Cross-Lingual Factual Consistency in LLMs",
       "date": "2026-07-21T16:15:05.000Z",
@@ -52,6 +88,12 @@
       "source": "arxiv"
     },
     {
+      "title": "BaseRT: Advancing Best-in-Class LLM Inference with Apple M5 Neural Accelerators",
+      "date": "2026-07-21T06:42:18.000Z",
+      "url": "http://arxiv.org/abs/2607.19438v1",
+      "source": "arxiv"
+    },
+    {
       "title": "AgentDebugX: An Open-Source Toolkit for Failure Observability, Attribution, and Recovery in LLM Agents",
       "date": "2026-07-21T06:21:13.000Z",
       "url": "http://arxiv.org/abs/2607.18754v1",
@@ -79,48 +121,6 @@
       "title": "Using Fine-Tuned LLMs to Identify Indicators of Vulnerability in UK Police Incident Logs",
       "date": "2026-07-20T18:58:33.000Z",
       "url": "http://arxiv.org/abs/2607.18446v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Relay-Bench: Evaluating LLMs on Multi-Domain Reasoning Chains",
-      "date": "2026-07-20T18:46:17.000Z",
-      "url": "http://arxiv.org/abs/2607.18438v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief",
-      "date": "2026-07-20T17:58:31.000Z",
-      "url": "http://arxiv.org/abs/2607.18232v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "SWE-Pruner Pro: The Coder LLM Already Knows What to Prune",
-      "date": "2026-07-20T17:47:44.000Z",
-      "url": "http://arxiv.org/abs/2607.18213v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "VEHBench: A Stage-Local Diagnostic Benchmark for LLM-Assisted Vibration Energy Harvester Design",
-      "date": "2026-07-20T17:17:05.000Z",
-      "url": "http://arxiv.org/abs/2607.18181v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Do Language Models Dream of Binding Molecules? Benchmarking LLMs under Spatial Constraints",
-      "date": "2026-07-20T16:43:54.000Z",
-      "url": "http://arxiv.org/abs/2607.18144v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "How Does Alignment Tuning Shape Representations of Sycophancy and Related Cue-Induced Biases in LLMs?",
-      "date": "2026-07-20T16:10:06.000Z",
-      "url": "http://arxiv.org/abs/2607.18114v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLM-as-a-Coach: Experiential Learning for Non-Verifiable Tasks",
-      "date": "2026-07-20T16:08:49.000Z",
-      "url": "http://arxiv.org/abs/2607.18110v1",
       "source": "arxiv"
     }
   ],
