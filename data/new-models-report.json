@@ -1,12 +1,78 @@
 {
-  "timestamp": "2026-07-28T11:14:48.060Z",
+  "timestamp": "2026-07-29T11:23:38.336Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
+      "title": "Polistemics: Evaluating LLMs as Information Mediators in Politics &amp; Elections",
+      "date": "2026-07-28T16:40:18.000Z",
+      "url": "http://arxiv.org/abs/2607.25953v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Cost-Effective Multimodal LLM Reasoning Framework for Question Answering over Irregular Clinical Time Series",
+      "date": "2026-07-28T16:33:41.000Z",
+      "url": "http://arxiv.org/abs/2607.25947v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Stemma: Induced Decision Regions Reveal LLM Provenance",
+      "date": "2026-07-28T15:42:53.000Z",
+      "url": "http://arxiv.org/abs/2607.25880v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Human-in-the-Loop Corpus for LLM-Based Simplification of Scientific Summaries",
+      "date": "2026-07-28T12:12:39.000Z",
+      "url": "http://arxiv.org/abs/2607.25630v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Beyond Self-Knowledge: Propagating Uncertainty Across Reasoning and Retrieval in LLMs",
+      "date": "2026-07-28T11:30:25.000Z",
+      "url": "http://arxiv.org/abs/2607.25600v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "PILA: Plug-and-Play Insertion for LLM-native Advertising",
+      "date": "2026-07-28T11:20:00.000Z",
+      "url": "http://arxiv.org/abs/2607.25590v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "IRIS: Reusable Identity Representations from Frozen LLMs for Entity Alignment",
+      "date": "2026-07-28T11:05:46.000Z",
+      "url": "http://arxiv.org/abs/2607.25579v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "CAST: Game Solvers as Turn-Level Teachers for LLM Agents",
+      "date": "2026-07-28T05:39:01.000Z",
+      "url": "http://arxiv.org/abs/2607.25308v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Interpretable Column Annotation with LLM-Symbolized Decision Process Materialization",
+      "date": "2026-07-28T03:02:05.000Z",
+      "url": "http://arxiv.org/abs/2607.25228v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "How Affect Propagates among LLM Agents: Emergent Emotional Contagion in Crowd Simulation",
+      "date": "2026-07-27T23:22:17.000Z",
+      "url": "http://arxiv.org/abs/2607.25140v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "DS@GT ARC at CheckThat! 2026: LLM-Based Trace Ranking and Grouped Reward Modeling for Multilingual Numerical Claim Verification",
+      "date": "2026-07-27T20:59:14.000Z",
+      "url": "http://arxiv.org/abs/2607.25069v1",
+      "source": "arxiv"
+    },
+    {
       "title": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
       "date": "2026-07-27T17:59:49.000Z",
-      "url": "http://arxiv.org/abs/2607.24743v1",
+      "url": "http://arxiv.org/abs/2607.24743v2",
       "source": "arxiv"
     },
     {
@@ -52,75 +118,9 @@
       "source": "arxiv"
     },
     {
-      "title": "Kalypso: Relational LLM Serving",
-      "date": "2026-07-26T19:29:31.000Z",
-      "url": "http://arxiv.org/abs/2607.23815v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Zing: Social Mind for LLMs",
-      "date": "2026-07-26T16:25:45.000Z",
-      "url": "http://arxiv.org/abs/2607.23740v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Language Shapes Instruction Hierarchy Compliance in Multilingual LLMs",
-      "date": "2026-07-26T08:50:28.000Z",
-      "url": "http://arxiv.org/abs/2607.23545v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Guiding Language Models to Be More Empathetic: Culturally Sensitive Mental Health Advice Generation Through Human-LLM Collaboration",
-      "date": "2026-07-26T08:27:19.000Z",
-      "url": "http://arxiv.org/abs/2607.23538v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Auditing Alignment Controllability in LLMs via Political Axes",
-      "date": "2026-07-26T07:38:11.000Z",
-      "url": "http://arxiv.org/abs/2607.23519v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Do LLM Debates Repeat Arguments Differently Across Languages?",
-      "date": "2026-07-26T03:46:03.000Z",
-      "url": "http://arxiv.org/abs/2607.23442v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Reasoning or Memorization: Can LLMs Understand and Generate Chinese Xiehouyu Riddles?",
-      "date": "2026-07-26T03:39:29.000Z",
-      "url": "http://arxiv.org/abs/2607.23440v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "SMART: LLM-Augmented Hybrid Retrieval for Dynamic Product Ads",
-      "date": "2026-07-25T09:41:21.000Z",
-      "url": "http://arxiv.org/abs/2607.23121v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Speech Signals Complement LLMs for Predicting Interpersonal Attraction in Speed Dating",
-      "date": "2026-07-25T04:22:32.000Z",
-      "url": "http://arxiv.org/abs/2607.23037v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Beyond Direct Answering: Aligning Educational LLMs as Socratic Guides via Heuristic Reinforcement Learning",
-      "date": "2026-07-25T02:21:32.000Z",
-      "url": "http://arxiv.org/abs/2607.22996v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "ConsistencyGate: Preventing Memory Contamination in LLM Agents via Self-Consistency Admission Control",
-      "date": "2026-07-25T00:08:09.000Z",
-      "url": "http://arxiv.org/abs/2607.22962v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Not All LLM Reasoning is Visible in the Chain-of-Thought",
-      "date": "2026-07-24T21:32:48.000Z",
-      "url": "http://arxiv.org/abs/2607.22925v1",
+      "title": "Ranked by Position: Order Sensitivity as an Exploitable Attack Surface in LLM Listwise Recommenders",
+      "date": "2026-07-26T22:32:12.000Z",
+      "url": "http://arxiv.org/abs/2607.24869v1",
       "source": "arxiv"
     }
   ],
