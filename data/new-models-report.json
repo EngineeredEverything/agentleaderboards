@@ -1,8 +1,104 @@
 {
-  "timestamp": "2026-07-29T11:23:38.336Z",
+  "timestamp": "2026-07-30T11:05:09.859Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding",
+      "date": "2026-07-29T17:33:47.000Z",
+      "url": "http://arxiv.org/abs/2607.27155v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Linguistic Monoculture in LLM-Assisted Language Use",
+      "date": "2026-07-29T17:04:36.000Z",
+      "url": "http://arxiv.org/abs/2607.27134v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "On-Policy Distillation for LLM Safety: A Routing Approach to Template-Robust Realignment",
+      "date": "2026-07-29T16:07:19.000Z",
+      "url": "http://arxiv.org/abs/2607.27081v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Evaluating Regional Bias in LLMs From Abstract Stereotype to Concrete Social Decision-Making",
+      "date": "2026-07-29T15:20:36.000Z",
+      "url": "http://arxiv.org/abs/2607.27022v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "TREK: A Travel Reasoning and Evaluation Kit for LLM Agents in Complex Trip Planning",
+      "date": "2026-07-29T14:35:29.000Z",
+      "url": "http://arxiv.org/abs/2607.26977v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Generation or Judgement? A Paradigm Perspective on LLM-Based Emotion-Cause Pair Extraction in Conversation",
+      "date": "2026-07-29T14:28:55.000Z",
+      "url": "http://arxiv.org/abs/2607.26967v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Latent-IM: Latent Interaction Management for Speech LLMs",
+      "date": "2026-07-29T13:56:28.000Z",
+      "url": "http://arxiv.org/abs/2607.26928v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Dual-Path LLM Reasoning for Multimodal Few-Shot Knowledge Graph Completion",
+      "date": "2026-07-29T13:40:51.000Z",
+      "url": "http://arxiv.org/abs/2607.26909v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "From Representations to Behaviors: Exploring the Person-Situation-Behavior Triad in LLMs",
+      "date": "2026-07-29T12:36:47.000Z",
+      "url": "http://arxiv.org/abs/2607.26853v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Filesystem-Based Memory for LLM Agents: Organization, Evolution, and Sustainability",
+      "date": "2026-07-29T08:59:43.000Z",
+      "url": "http://arxiv.org/abs/2607.26637v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Prosody-driven Jailbreaks in Audio LLMs: A Controlled Study and Mechanistic Analysis",
+      "date": "2026-07-29T07:12:44.000Z",
+      "url": "http://arxiv.org/abs/2607.26541v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Knowledge before Reasoning: EC-Reason-Bench, a Training-Free Diagnostic Benchmark for LLM Enzyme Classification",
+      "date": "2026-07-29T02:16:09.000Z",
+      "url": "http://arxiv.org/abs/2607.26397v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Symphony of Bias: Exploring Gender Associations with Musical Instruments in Multimodal LLMs",
+      "date": "2026-07-29T00:08:35.000Z",
+      "url": "http://arxiv.org/abs/2607.26355v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "When Synthetic Users Fail: A Cross-Domain Benchmark of LLM-Simulated Human Survey Responses",
+      "date": "2026-07-28T23:43:00.000Z",
+      "url": "http://arxiv.org/abs/2607.26348v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach",
+      "date": "2026-07-28T22:33:16.000Z",
+      "url": "http://arxiv.org/abs/2607.26317v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Evaluating Prompt Scope and Demonstration Similarity in Local LLM Machine Translation",
+      "date": "2026-07-28T21:26:36.000Z",
+      "url": "http://arxiv.org/abs/2607.26286v1",
+      "source": "arxiv"
+    },
     {
       "title": "Polistemics: Evaluating LLMs as Information Mediators in Politics &amp; Elections",
       "date": "2026-07-28T16:40:18.000Z",
@@ -25,102 +121,6 @@
       "title": "A Human-in-the-Loop Corpus for LLM-Based Simplification of Scientific Summaries",
       "date": "2026-07-28T12:12:39.000Z",
       "url": "http://arxiv.org/abs/2607.25630v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Beyond Self-Knowledge: Propagating Uncertainty Across Reasoning and Retrieval in LLMs",
-      "date": "2026-07-28T11:30:25.000Z",
-      "url": "http://arxiv.org/abs/2607.25600v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "PILA: Plug-and-Play Insertion for LLM-native Advertising",
-      "date": "2026-07-28T11:20:00.000Z",
-      "url": "http://arxiv.org/abs/2607.25590v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "IRIS: Reusable Identity Representations from Frozen LLMs for Entity Alignment",
-      "date": "2026-07-28T11:05:46.000Z",
-      "url": "http://arxiv.org/abs/2607.25579v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "CAST: Game Solvers as Turn-Level Teachers for LLM Agents",
-      "date": "2026-07-28T05:39:01.000Z",
-      "url": "http://arxiv.org/abs/2607.25308v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Interpretable Column Annotation with LLM-Symbolized Decision Process Materialization",
-      "date": "2026-07-28T03:02:05.000Z",
-      "url": "http://arxiv.org/abs/2607.25228v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "How Affect Propagates among LLM Agents: Emergent Emotional Contagion in Crowd Simulation",
-      "date": "2026-07-27T23:22:17.000Z",
-      "url": "http://arxiv.org/abs/2607.25140v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "DS@GT ARC at CheckThat! 2026: LLM-Based Trace Ranking and Grouped Reward Modeling for Multilingual Numerical Claim Verification",
-      "date": "2026-07-27T20:59:14.000Z",
-      "url": "http://arxiv.org/abs/2607.25069v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
-      "date": "2026-07-27T17:59:49.000Z",
-      "url": "http://arxiv.org/abs/2607.24743v2",
-      "source": "arxiv"
-    },
-    {
-      "title": "LEX-EC: A Lexical Evidence-Channel Audit Framework for Zero-Shot LLM Personality Classification in Black-Box Settings",
-      "date": "2026-07-27T13:45:12.000Z",
-      "url": "http://arxiv.org/abs/2607.24435v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Closed-Loop Validation-Repair for Healthcare Interoperability: A Multi-Model Study of Schema Compliance in Clinical LLMs",
-      "date": "2026-07-27T12:45:27.000Z",
-      "url": "http://arxiv.org/abs/2607.24371v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Beyond Aggregate Risk: Role-Stratified Conformal Risk Control for LLM Tool Calls",
-      "date": "2026-07-27T12:21:18.000Z",
-      "url": "http://arxiv.org/abs/2607.24343v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Gubernaut: A Deterministic Homeostatic Controller for Affect-Regulated LLM Agents, Validated Across Independent Model Families",
-      "date": "2026-07-27T12:17:21.000Z",
-      "url": "http://arxiv.org/abs/2607.24339v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLM-based Source Code Compression via Thresholded Symbol Ranking",
-      "date": "2026-07-27T09:12:00.000Z",
-      "url": "http://arxiv.org/abs/2607.24192v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLM-Based vs. Lexicon-Based Sentiment Signals for Tail-Risk Detection in Meme Stocks",
-      "date": "2026-07-27T07:16:12.000Z",
-      "url": "http://arxiv.org/abs/2607.24072v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "SyRuP: Enhancing System-Prompt Following via Reward-Guided Prediction in LLM Decoding",
-      "date": "2026-07-27T04:39:13.000Z",
-      "url": "http://arxiv.org/abs/2607.23991v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Ranked by Position: Order Sensitivity as an Exploitable Attack Surface in LLM Listwise Recommenders",
-      "date": "2026-07-26T22:32:12.000Z",
-      "url": "http://arxiv.org/abs/2607.24869v1",
       "source": "arxiv"
     }
   ],
