@@ -1,8 +1,74 @@
 {
-  "timestamp": "2026-07-30T11:05:09.859Z",
+  "timestamp": "2026-07-31T11:27:39.449Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "WIDE: Boosting Adaptive LLM Inference via Token-level Dynamic Width Pruning",
+      "date": "2026-07-30T16:01:03.000Z",
+      "url": "http://arxiv.org/abs/2607.28418v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLMs struggle to simulate human belief updates in controlled environments",
+      "date": "2026-07-30T15:19:18.000Z",
+      "url": "http://arxiv.org/abs/2607.28347v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "CACHE-UK: A Stability-Aware Memory Editor for Sequentially Updated Quantized LLMs in Finance",
+      "date": "2026-07-30T14:36:11.000Z",
+      "url": "http://arxiv.org/abs/2607.28292v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Fidelity Is Not Safety: Gently-Compressed LLMs Pass Every Data-Free Quality Guard Yet Invent Procedure Steps in Agentic Execution",
+      "date": "2026-07-30T13:33:09.000Z",
+      "url": "http://arxiv.org/abs/2607.28196v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models",
+      "date": "2026-07-30T12:37:28.000Z",
+      "url": "http://arxiv.org/abs/2607.28128v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Challenges in annotations by humans and LLMs: A case study of evaluative language",
+      "date": "2026-07-30T12:28:54.000Z",
+      "url": "http://arxiv.org/abs/2607.28119v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "PCAP-LM: An LLM-Native Text Representation for TLS Bulk Traffic Analysis",
+      "date": "2026-07-30T12:10:12.000Z",
+      "url": "http://arxiv.org/abs/2607.28100v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Reasoning Consensus: Structural Ensembling of LLM Reasoning via Weighted DAG Aggregation",
+      "date": "2026-07-30T07:14:50.000Z",
+      "url": "http://arxiv.org/abs/2607.27783v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Prox: Training-Free FFN Activation Sparsity via Approximate Intermediate-Channel Salience in LLMs",
+      "date": "2026-07-30T02:20:01.000Z",
+      "url": "http://arxiv.org/abs/2607.27591v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Benchmarking LLM Competence on Logical Inference over Probability Operators",
+      "date": "2026-07-29T19:22:09.000Z",
+      "url": "http://arxiv.org/abs/2607.27405v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "HSS-Synth: Humanities and Social Sciences Data Synthesis for LLMs",
+      "date": "2026-07-29T18:37:14.000Z",
+      "url": "http://arxiv.org/abs/2607.27379v1",
+      "source": "arxiv"
+    },
     {
       "title": "OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding",
       "date": "2026-07-29T17:33:47.000Z",
@@ -55,72 +121,6 @@
       "title": "From Representations to Behaviors: Exploring the Person-Situation-Behavior Triad in LLMs",
       "date": "2026-07-29T12:36:47.000Z",
       "url": "http://arxiv.org/abs/2607.26853v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Filesystem-Based Memory for LLM Agents: Organization, Evolution, and Sustainability",
-      "date": "2026-07-29T08:59:43.000Z",
-      "url": "http://arxiv.org/abs/2607.26637v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Prosody-driven Jailbreaks in Audio LLMs: A Controlled Study and Mechanistic Analysis",
-      "date": "2026-07-29T07:12:44.000Z",
-      "url": "http://arxiv.org/abs/2607.26541v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Knowledge before Reasoning: EC-Reason-Bench, a Training-Free Diagnostic Benchmark for LLM Enzyme Classification",
-      "date": "2026-07-29T02:16:09.000Z",
-      "url": "http://arxiv.org/abs/2607.26397v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Symphony of Bias: Exploring Gender Associations with Musical Instruments in Multimodal LLMs",
-      "date": "2026-07-29T00:08:35.000Z",
-      "url": "http://arxiv.org/abs/2607.26355v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "When Synthetic Users Fail: A Cross-Domain Benchmark of LLM-Simulated Human Survey Responses",
-      "date": "2026-07-28T23:43:00.000Z",
-      "url": "http://arxiv.org/abs/2607.26348v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach",
-      "date": "2026-07-28T22:33:16.000Z",
-      "url": "http://arxiv.org/abs/2607.26317v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Evaluating Prompt Scope and Demonstration Similarity in Local LLM Machine Translation",
-      "date": "2026-07-28T21:26:36.000Z",
-      "url": "http://arxiv.org/abs/2607.26286v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Polistemics: Evaluating LLMs as Information Mediators in Politics &amp; Elections",
-      "date": "2026-07-28T16:40:18.000Z",
-      "url": "http://arxiv.org/abs/2607.25953v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "A Cost-Effective Multimodal LLM Reasoning Framework for Question Answering over Irregular Clinical Time Series",
-      "date": "2026-07-28T16:33:41.000Z",
-      "url": "http://arxiv.org/abs/2607.25947v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Stemma: Induced Decision Regions Reveal LLM Provenance",
-      "date": "2026-07-28T15:42:53.000Z",
-      "url": "http://arxiv.org/abs/2607.25880v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "A Human-in-the-Loop Corpus for LLM-Based Simplification of Scientific Summaries",
-      "date": "2026-07-28T12:12:39.000Z",
-      "url": "http://arxiv.org/abs/2607.25630v1",
       "source": "arxiv"
     }
   ],
