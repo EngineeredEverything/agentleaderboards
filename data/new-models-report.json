@@ -1,8 +1,92 @@
 {
-  "timestamp": "2026-08-02T10:38:32.985Z",
+  "timestamp": "2026-08-03T12:20:03.687Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "TokTier: Exact Stateful Tokenization for Agentic LLM Serving",
+      "date": "2026-07-31T17:56:30.000Z",
+      "url": "http://arxiv.org/abs/2607.29678v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Know It, Act on It: Investigating Memory Utilization in LLM Personalization",
+      "date": "2026-07-31T13:57:21.000Z",
+      "url": "http://arxiv.org/abs/2607.29433v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "PTP: Previous-Token Prediction based LLM Inversion for Near-Exact Prompt Reconstruction",
+      "date": "2026-07-31T13:01:43.000Z",
+      "url": "http://arxiv.org/abs/2607.29378v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+      "date": "2026-07-31T13:01:06.000Z",
+      "url": "http://arxiv.org/abs/2607.29377v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "CalibratedRubric: Task-Adaptive Rubric Banks for Open-Ended LLM Evaluation",
+      "date": "2026-07-31T10:21:56.000Z",
+      "url": "http://arxiv.org/abs/2607.29252v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Knowing When to Quit: Diagnosing and Training LLMs to Abort Futile Reasoning",
+      "date": "2026-07-31T09:30:33.000Z",
+      "url": "http://arxiv.org/abs/2607.29211v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Can Zero-Shot LLMs Predict Child Malnutrition? A Fairness and Temporal Robustness Study",
+      "date": "2026-07-31T07:06:22.000Z",
+      "url": "http://arxiv.org/abs/2607.29082v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "BLADE: Boundary-Expanded and Layer-Adaptive Dynamic Exit for Efficient LLM Reasoning",
+      "date": "2026-07-31T02:36:55.000Z",
+      "url": "http://arxiv.org/abs/2607.28966v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "FairFund-Bench: Evaluating Distributive Bias in LLM Resource Allocation",
+      "date": "2026-07-31T01:29:16.000Z",
+      "url": "http://arxiv.org/abs/2607.28934v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Token-Level Diagnosis of Sycophancy in LLMs with Attribution-Guided Steering",
+      "date": "2026-07-31T00:05:36.000Z",
+      "url": "http://arxiv.org/abs/2607.28906v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "TextCloak: Thwarting Unauthorized LLM Exploitation via RL-Driven Unlearnable Text",
+      "date": "2026-07-30T22:01:36.000Z",
+      "url": "http://arxiv.org/abs/2607.28862v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Benchmarks Are Not Validation: A System-Level View of Financial LLM Applications",
+      "date": "2026-07-30T21:07:27.000Z",
+      "url": "http://arxiv.org/abs/2607.28840v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Rolling With Resistance: Preference-Optimized LLM Counselors Can Trade Goal Persistence for Relational Attunement in Motivational Interviewing",
+      "date": "2026-07-30T20:16:03.000Z",
+      "url": "http://arxiv.org/abs/2607.28814v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Benchmarks Are Not Monolithic: Sample-Level Auditing and Orchestration for LLM Evaluation",
+      "date": "2026-07-30T19:51:55.000Z",
+      "url": "http://arxiv.org/abs/2607.28801v1",
+      "source": "arxiv"
+    },
     {
       "title": "WIDE: Boosting Adaptive LLM Inference via Token-level Dynamic Width Pruning",
       "date": "2026-07-30T16:01:03.000Z",
@@ -37,90 +121,6 @@
       "title": "Challenges in annotations by humans and LLMs: A case study of evaluative language",
       "date": "2026-07-30T12:28:54.000Z",
       "url": "http://arxiv.org/abs/2607.28119v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "PCAP-LM: An LLM-Native Text Representation for TLS Bulk Traffic Analysis",
-      "date": "2026-07-30T12:10:12.000Z",
-      "url": "http://arxiv.org/abs/2607.28100v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Reasoning Consensus: Structural Ensembling of LLM Reasoning via Weighted DAG Aggregation",
-      "date": "2026-07-30T07:14:50.000Z",
-      "url": "http://arxiv.org/abs/2607.27783v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Prox: Training-Free FFN Activation Sparsity via Approximate Intermediate-Channel Salience in LLMs",
-      "date": "2026-07-30T02:20:01.000Z",
-      "url": "http://arxiv.org/abs/2607.27591v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Benchmarking LLM Competence on Logical Inference over Probability Operators",
-      "date": "2026-07-29T19:22:09.000Z",
-      "url": "http://arxiv.org/abs/2607.27405v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "HSS-Synth: Humanities and Social Sciences Data Synthesis for LLMs",
-      "date": "2026-07-29T18:37:14.000Z",
-      "url": "http://arxiv.org/abs/2607.27379v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding",
-      "date": "2026-07-29T17:33:47.000Z",
-      "url": "http://arxiv.org/abs/2607.27155v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Linguistic Monoculture in LLM-Assisted Language Use",
-      "date": "2026-07-29T17:04:36.000Z",
-      "url": "http://arxiv.org/abs/2607.27134v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "On-Policy Distillation for LLM Safety: A Routing Approach to Template-Robust Realignment",
-      "date": "2026-07-29T16:07:19.000Z",
-      "url": "http://arxiv.org/abs/2607.27081v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Evaluating Regional Bias in LLMs From Abstract Stereotype to Concrete Social Decision-Making",
-      "date": "2026-07-29T15:20:36.000Z",
-      "url": "http://arxiv.org/abs/2607.27022v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "TREK: A Travel Reasoning and Evaluation Kit for LLM Agents in Complex Trip Planning",
-      "date": "2026-07-29T14:35:29.000Z",
-      "url": "http://arxiv.org/abs/2607.26977v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Generation or Judgement? A Paradigm Perspective on LLM-Based Emotion-Cause Pair Extraction in Conversation",
-      "date": "2026-07-29T14:28:55.000Z",
-      "url": "http://arxiv.org/abs/2607.26967v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Latent-IM: Latent Interaction Management for Speech LLMs",
-      "date": "2026-07-29T13:56:28.000Z",
-      "url": "http://arxiv.org/abs/2607.26928v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Dual-Path LLM Reasoning for Multimodal Few-Shot Knowledge Graph Completion",
-      "date": "2026-07-29T13:40:51.000Z",
-      "url": "http://arxiv.org/abs/2607.26909v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "From Representations to Behaviors: Exploring the Person-Situation-Behavior Triad in LLMs",
-      "date": "2026-07-29T12:36:47.000Z",
-      "url": "http://arxiv.org/abs/2607.26853v1",
       "source": "arxiv"
     }
   ],
