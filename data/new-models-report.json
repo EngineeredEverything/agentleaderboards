@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-08-03T12:20:03.687Z",
+  "timestamp": "2026-08-04T11:21:17.628Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
-      "title": "TokTier: Exact Stateful Tokenization for Agentic LLM Serving",
-      "date": "2026-07-31T17:56:30.000Z",
-      "url": "http://arxiv.org/abs/2607.29678v1",
+      "title": "MedPRESS: A Multi-turn Benchmark for Patient-Pressure-Induced Medical Sycophancy in LLMs",
+      "date": "2026-08-03T17:17:29.000Z",
+      "url": "http://arxiv.org/abs/2608.02520v1",
       "source": "arxiv"
     },
     {
-      "title": "Know It, Act on It: Investigating Memory Utilization in LLM Personalization",
-      "date": "2026-07-31T13:57:21.000Z",
-      "url": "http://arxiv.org/abs/2607.29433v1",
+      "title": "LiveMem: Maintaining Memory State Continuity in Long-Running LLM Inference",
+      "date": "2026-08-03T17:12:05.000Z",
+      "url": "http://arxiv.org/abs/2608.02515v1",
       "source": "arxiv"
     },
     {
-      "title": "PTP: Previous-Token Prediction based LLM Inversion for Near-Exact Prompt Reconstruction",
-      "date": "2026-07-31T13:01:43.000Z",
-      "url": "http://arxiv.org/abs/2607.29378v1",
+      "title": "Cultural Awareness is Represented but Not Decoded: Tracing Mythological Knowledge across 18 Open-Source LLMs",
+      "date": "2026-08-03T16:53:15.000Z",
+      "url": "http://arxiv.org/abs/2608.02486v1",
       "source": "arxiv"
     },
     {
-      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
-      "date": "2026-07-31T13:01:06.000Z",
-      "url": "http://arxiv.org/abs/2607.29377v1",
+      "title": "CTRAG: An In-Context Retrieval-based Framework for Automated Compliance Checking using LLMs",
+      "date": "2026-08-03T16:40:16.000Z",
+      "url": "http://arxiv.org/abs/2608.02472v1",
       "source": "arxiv"
     },
     {
-      "title": "CalibratedRubric: Task-Adaptive Rubric Banks for Open-Ended LLM Evaluation",
-      "date": "2026-07-31T10:21:56.000Z",
-      "url": "http://arxiv.org/abs/2607.29252v1",
+      "title": "Right Answer, Wrong Method: Shortcut Hacking Misleads the Evaluation of LLM Reasoning on Frontier Science Benchmarks",
+      "date": "2026-08-03T16:21:56.000Z",
+      "url": "http://arxiv.org/abs/2608.02442v1",
       "source": "arxiv"
     },
     {
-      "title": "Knowing When to Quit: Diagnosing and Training LLMs to Abort Futile Reasoning",
-      "date": "2026-07-31T09:30:33.000Z",
-      "url": "http://arxiv.org/abs/2607.29211v1",
+      "title": "Training-Free versus Training-Based Intent Classification in LLMs: Accuracy, Robustness, and Failure Modes",
+      "date": "2026-08-03T15:53:49.000Z",
+      "url": "http://arxiv.org/abs/2608.02415v1",
       "source": "arxiv"
     },
     {
-      "title": "Can Zero-Shot LLMs Predict Child Malnutrition? A Fairness and Temporal Robustness Study",
-      "date": "2026-07-31T07:06:22.000Z",
-      "url": "http://arxiv.org/abs/2607.29082v1",
+      "title": "TELLER: Non-intrusive Cross-Layer Root-Cause Analysis for LLM Inference",
+      "date": "2026-08-03T09:39:11.000Z",
+      "url": "http://arxiv.org/abs/2608.01975v1",
       "source": "arxiv"
     },
     {
-      "title": "BLADE: Boundary-Expanded and Layer-Adaptive Dynamic Exit for Efficient LLM Reasoning",
-      "date": "2026-07-31T02:36:55.000Z",
-      "url": "http://arxiv.org/abs/2607.28966v1",
+      "title": "RADAR: Rubric-Aware Dependency and Redundancy Analysis for LLM-as-Judge Evaluation",
+      "date": "2026-08-03T07:21:32.000Z",
+      "url": "http://arxiv.org/abs/2608.01810v1",
       "source": "arxiv"
     },
     {
-      "title": "FairFund-Bench: Evaluating Distributive Bias in LLM Resource Allocation",
-      "date": "2026-07-31T01:29:16.000Z",
-      "url": "http://arxiv.org/abs/2607.28934v1",
+      "title": "Toward Plasticity-Preserving KL Regularization for Capability Retention in LLM Reinforcement Learning",
+      "date": "2026-08-03T06:10:33.000Z",
+      "url": "http://arxiv.org/abs/2608.01743v1",
       "source": "arxiv"
     },
     {
-      "title": "Token-Level Diagnosis of Sycophancy in LLMs with Attribution-Guided Steering",
-      "date": "2026-07-31T00:05:36.000Z",
-      "url": "http://arxiv.org/abs/2607.28906v1",
+      "title": "MemSIF: From Structured Interactions to Dual-Track Fact Memory for LLM Agents",
+      "date": "2026-08-03T06:09:57.000Z",
+      "url": "http://arxiv.org/abs/2608.01742v1",
       "source": "arxiv"
     },
     {
-      "title": "TextCloak: Thwarting Unauthorized LLM Exploitation via RL-Driven Unlearnable Text",
-      "date": "2026-07-30T22:01:36.000Z",
-      "url": "http://arxiv.org/abs/2607.28862v1",
+      "title": "Style Wins, Substance Loses: A Diagnosis of LLM-as-Judge in Idea Generation",
+      "date": "2026-08-03T04:01:02.000Z",
+      "url": "http://arxiv.org/abs/2608.01666v1",
       "source": "arxiv"
     },
     {
-      "title": "Benchmarks Are Not Validation: A System-Level View of Financial LLM Applications",
-      "date": "2026-07-30T21:07:27.000Z",
-      "url": "http://arxiv.org/abs/2607.28840v1",
+      "title": "Human-LLM Alignment in Language Attitudes Toward Non-Native Japanese",
+      "date": "2026-08-03T02:59:59.000Z",
+      "url": "http://arxiv.org/abs/2608.01629v1",
       "source": "arxiv"
     },
     {
-      "title": "Rolling With Resistance: Preference-Optimized LLM Counselors Can Trade Goal Persistence for Relational Attunement in Motivational Interviewing",
-      "date": "2026-07-30T20:16:03.000Z",
-      "url": "http://arxiv.org/abs/2607.28814v1",
+      "title": "PALMs: Using Multi Construct-Grounded Rationales for Modeling Population Preferences in LLMs",
+      "date": "2026-08-02T19:31:59.000Z",
+      "url": "http://arxiv.org/abs/2608.01458v1",
       "source": "arxiv"
     },
     {
-      "title": "Benchmarks Are Not Monolithic: Sample-Level Auditing and Orchestration for LLM Evaluation",
-      "date": "2026-07-30T19:51:55.000Z",
-      "url": "http://arxiv.org/abs/2607.28801v1",
+      "title": "When Retrieval Helps and Distracts: Evaluating Evidence-Generating LLMs for Biomedical Claim Verification",
+      "date": "2026-08-02T17:43:28.000Z",
+      "url": "http://arxiv.org/abs/2608.01409v1",
       "source": "arxiv"
     },
     {
-      "title": "WIDE: Boosting Adaptive LLM Inference via Token-level Dynamic Width Pruning",
-      "date": "2026-07-30T16:01:03.000Z",
-      "url": "http://arxiv.org/abs/2607.28418v1",
+      "title": "Language Equality has a Price: A Systematic Investigation of Multi-turn LLM Performance for EU-24+",
+      "date": "2026-08-02T17:20:01.000Z",
+      "url": "http://arxiv.org/abs/2608.01395v1",
       "source": "arxiv"
     },
     {
-      "title": "LLMs struggle to simulate human belief updates in controlled environments",
-      "date": "2026-07-30T15:19:18.000Z",
-      "url": "http://arxiv.org/abs/2607.28347v1",
+      "title": "Attend to Your Own Thoughts: Breaking the Barrier for Post-Training Quantization of Reasoning LLMs through the Lens of 1.58-Bit Quantization",
+      "date": "2026-08-02T08:22:43.000Z",
+      "url": "http://arxiv.org/abs/2608.01078v1",
       "source": "arxiv"
     },
     {
-      "title": "CACHE-UK: A Stability-Aware Memory Editor for Sequentially Updated Quantized LLMs in Finance",
-      "date": "2026-07-30T14:36:11.000Z",
-      "url": "http://arxiv.org/abs/2607.28292v1",
+      "title": "Don't Offer What Can't Be Done: Deterministic Executability Gating for LLM Skill Selection at Scale",
+      "date": "2026-08-02T07:32:49.000Z",
+      "url": "http://arxiv.org/abs/2608.01050v1",
       "source": "arxiv"
     },
     {
-      "title": "Fidelity Is Not Safety: Gently-Compressed LLMs Pass Every Data-Free Quality Guard Yet Invent Procedure Steps in Agentic Execution",
-      "date": "2026-07-30T13:33:09.000Z",
-      "url": "http://arxiv.org/abs/2607.28196v1",
+      "title": "Why LLMs Give In: Conversational Factors and Reasoning Behind Medical Sycophancy",
+      "date": "2026-08-02T05:49:25.000Z",
+      "url": "http://arxiv.org/abs/2608.01017v1",
       "source": "arxiv"
     },
     {
-      "title": "Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models",
-      "date": "2026-07-30T12:37:28.000Z",
-      "url": "http://arxiv.org/abs/2607.28128v1",
+      "title": "Cloud-ScPO: Hidden-State Geometry for Semi-Supervised Preference Optimization in LLM Reasoning",
+      "date": "2026-08-02T05:33:41.000Z",
+      "url": "http://arxiv.org/abs/2608.01014v1",
       "source": "arxiv"
     },
     {
-      "title": "Challenges in annotations by humans and LLMs: A case study of evaluative language",
-      "date": "2026-07-30T12:28:54.000Z",
-      "url": "http://arxiv.org/abs/2607.28119v1",
+      "title": "SCHEDBench: A Benchmark for Evaluating LLM Constraint Faithfulness in Natural-Language Combinatorial Scheduling",
+      "date": "2026-08-02T04:41:20.000Z",
+      "url": "http://arxiv.org/abs/2608.00991v1",
       "source": "arxiv"
     }
   ],
