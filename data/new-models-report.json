@@ -1,8 +1,116 @@
 {
-  "timestamp": "2026-08-05T11:18:03.871Z",
+  "timestamp": "2026-08-06T11:20:59.158Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "Toward Skill-Native LLMs: Skill Entropy for Benchmarking and Training Long-Horizon Reasoning",
+      "date": "2026-08-05T17:57:16.000Z",
+      "url": "http://arxiv.org/abs/2608.05139v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "State2State: Environment-Derived Mid-Training for LLM Agents",
+      "date": "2026-08-05T15:02:41.000Z",
+      "url": "http://arxiv.org/abs/2608.04934v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Evaluation Pitfalls and Sparsity Limitations in LLM-based Confidence Estimates for Classification",
+      "date": "2026-08-05T14:24:34.000Z",
+      "url": "http://arxiv.org/abs/2608.04899v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "A-SR: Self-Evolving Agentic LLMs for Symbolic Regression via Hierarchical Coordination",
+      "date": "2026-08-05T14:01:10.000Z",
+      "url": "http://arxiv.org/abs/2608.04872v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Skill-Use: Can LLMs Actually Use Skills in Agentic Harnesses?",
+      "date": "2026-08-05T13:29:16.000Z",
+      "url": "http://arxiv.org/abs/2608.04828v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Trace, Verify, and Correct: A Training-Free Framework for Spatial Reasoning in Multimodal LLMs",
+      "date": "2026-08-05T12:26:23.000Z",
+      "url": "http://arxiv.org/abs/2608.04759v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Easy to Complete, Hard to Choose: Investigating LLM Performance on the ProverbIT Benchmark",
+      "date": "2026-08-05T10:28:51.000Z",
+      "url": "http://arxiv.org/abs/2608.04670v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "EASy: Towards Efficient LLM-Based Agentic System",
+      "date": "2026-08-05T08:50:36.000Z",
+      "url": "http://arxiv.org/abs/2608.04588v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Personalization Mirage: How LLMs Fabricate User Profiles, and Why Self-Monitoring Misleads",
+      "date": "2026-08-05T08:00:54.000Z",
+      "url": "http://arxiv.org/abs/2608.04570v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Relational Response Fields: A General Theory of Black-Box LLM Response Consistency and Recovery",
+      "date": "2026-08-05T07:43:41.000Z",
+      "url": "http://arxiv.org/abs/2608.04552v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Evaluator Is Part of the Experiment: Measuring Open-Ended LLM Conformity",
+      "date": "2026-08-05T05:38:34.000Z",
+      "url": "http://arxiv.org/abs/2608.04463v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Social Pressure Breaks Majority Voting in LLM Safety Panels",
+      "date": "2026-08-05T03:51:12.000Z",
+      "url": "http://arxiv.org/abs/2608.04415v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "MIDAS: Multi-LLM Iterative Data-Adaptive Summarization",
+      "date": "2026-08-05T00:33:39.000Z",
+      "url": "http://arxiv.org/abs/2608.04307v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Eliciting Intrinsic Hallucinations in LLMs via Semantically Equivalent Adversarial Attacks",
+      "date": "2026-08-04T23:25:40.000Z",
+      "url": "http://arxiv.org/abs/2608.04286v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLM-based Vulnerability Discovery in Business Process Documentation",
+      "date": "2026-08-04T23:01:30.000Z",
+      "url": "http://arxiv.org/abs/2608.04271v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Hallucinations on the Board: Tool-Augmented Evaluation of LLM Chess Commentary",
+      "date": "2026-08-04T21:31:01.000Z",
+      "url": "http://arxiv.org/abs/2608.04240v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Behavioral Skill Reconstruction: Reconstructing Hidden Functionality from LLM Agent Skills",
+      "date": "2026-08-04T19:51:15.000Z",
+      "url": "http://arxiv.org/abs/2608.04192v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "FinPerMA: A Theory-Informed, Event-Grounded Personalized-Memory Benchmark for LLM Agents",
+      "date": "2026-08-04T18:00:04.000Z",
+      "url": "http://arxiv.org/abs/2608.04095v1",
+      "source": "arxiv"
+    },
     {
       "title": "ParVL: Parallel Scaling and Expandable Compute Allocation for Multimodal LLMs",
       "date": "2026-08-04T17:59:58.000Z",
@@ -13,114 +121,6 @@
       "title": "WorldCup Arena: Prospective, Leakage-Free Evaluation of Frontier LLMs on a Live Tournament",
       "date": "2026-08-04T17:59:55.000Z",
       "url": "http://arxiv.org/abs/2608.04008v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Agogic: Performance-Timed Music Tokens for LLM-Native Text-to-Symbolic-Music Generation",
-      "date": "2026-08-04T17:56:49.000Z",
-      "url": "http://arxiv.org/abs/2608.03999v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "DS@GT-ARC at eRisk 2026 Task 3: Sparse, Semantic, and LLM Reranking for ADHD Symptom Sentences",
-      "date": "2026-08-04T16:19:22.000Z",
-      "url": "http://arxiv.org/abs/2608.03883v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "ContinualSkillBench: Can LLM Agents Truly Evolve Their Capabilities?",
-      "date": "2026-08-04T16:15:02.000Z",
-      "url": "http://arxiv.org/abs/2608.03874v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Efficient Knowledge Distillation for LLMs: Offline Top-K Logits and a Fused Chunked KL Loss",
-      "date": "2026-08-04T15:11:45.000Z",
-      "url": "http://arxiv.org/abs/2608.03796v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Evaluating LLMs in Database Scenarios: A Lifecycle Benchmark for Assessing Their Potential in Core Database Tasks",
-      "date": "2026-08-04T15:10:09.000Z",
-      "url": "http://arxiv.org/abs/2608.03794v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "How Closely Do LLM Reviews Align with Human Peer Review?",
-      "date": "2026-08-04T13:39:36.000Z",
-      "url": "http://arxiv.org/abs/2608.03659v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Language-Specialized Multi-Teacher On-Policy Distillation for Multilingual LLM-Based ASR",
-      "date": "2026-08-04T13:02:47.000Z",
-      "url": "http://arxiv.org/abs/2608.03610v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "SFT Conflicts, RL Coexists: A Theoretical and Empirical Analysis of Multi-Task Learning for LLMs",
-      "date": "2026-08-04T12:32:26.000Z",
-      "url": "http://arxiv.org/abs/2608.03573v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "ConlangBench: Exploring Language Knowledge and Learning in LLMs through Diverse Constructed Languages",
-      "date": "2026-08-04T11:45:10.000Z",
-      "url": "http://arxiv.org/abs/2608.03505v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Beyond Initialization Loss: A Systematic Study of Token Embedding Initialization Strategies for LLM Vocabulary Extension",
-      "date": "2026-08-04T11:32:10.000Z",
-      "url": "http://arxiv.org/abs/2608.03494v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Predicting Multilingual Classification and Translation Performance of LLMs with Cross-Lingual Alignment $\\unicode{x2013}$ Is English Enough?",
-      "date": "2026-08-04T10:44:40.000Z",
-      "url": "http://arxiv.org/abs/2608.03446v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Don't Let Me Ask for It: LLMs Show Deficiencies in Active Multi-Turn Information Acquisition for Abductive Inference",
-      "date": "2026-08-04T09:39:24.000Z",
-      "url": "http://arxiv.org/abs/2608.03388v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Distractor-Aware Truncation: Disentangling Context-Length Effects from Signal Loss in Long-Context LLM Benchmarks",
-      "date": "2026-08-04T08:08:04.000Z",
-      "url": "http://arxiv.org/abs/2608.03297v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "The Tell-Tale Trace: Detecting Reasoning Failures in LLMs Using Chain-of-Thought Dynamics",
-      "date": "2026-08-04T08:04:36.000Z",
-      "url": "http://arxiv.org/abs/2608.03291v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Relational Priors as Convergence Pressure in LLM-Based Multi-Agent Systems",
-      "date": "2026-08-04T07:11:28.000Z",
-      "url": "http://arxiv.org/abs/2608.03239v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Reachability Is Not Realization: Tracing the Sources of LLM Benchmark Gains",
-      "date": "2026-08-04T06:52:27.000Z",
-      "url": "http://arxiv.org/abs/2608.03219v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners",
-      "date": "2026-08-04T06:47:26.000Z",
-      "url": "http://arxiv.org/abs/2608.03206v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "DP-MemView: A Memory Interface for Attribute-Level Transcript Privacy in Long-Term LLM Agents",
-      "date": "2026-08-04T05:00:10.000Z",
-      "url": "http://arxiv.org/abs/2608.03130v1",
       "source": "arxiv"
     }
   ],
