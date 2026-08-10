@@ -1,8 +1,80 @@
 {
-  "timestamp": "2026-08-09T09:36:04.080Z",
+  "timestamp": "2026-08-10T10:13:54.437Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity",
+      "date": "2026-08-07T17:55:48.000Z",
+      "url": "http://arxiv.org/abs/2608.07460v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "An Exploratory Evaluation of LLM-Assisted Rewriting of Moderate-Complexity Financial Sentences for DisCoCat-Based Sentiment Analysis",
+      "date": "2026-08-07T17:23:01.000Z",
+      "url": "http://arxiv.org/abs/2608.07439v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "PsychoAgent: An Affect-Sensitive Cognitive Architecture for Conflict-Aware Memory in LLM Agents",
+      "date": "2026-08-07T17:22:29.000Z",
+      "url": "http://arxiv.org/abs/2608.07438v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "GeoBenchLLM: A Comprehensive Benchmark for Evaluating LLMs on Geo-Related Tasks",
+      "date": "2026-08-07T16:58:04.000Z",
+      "url": "http://arxiv.org/abs/2608.07411v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Grammar Engineering Meets LLMs: Development of Cantonese and Irish ParGram Treebanks",
+      "date": "2026-08-07T14:44:19.000Z",
+      "url": "http://arxiv.org/abs/2608.07283v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Measuring Concept Content in Text from LLM Activations: ESG Evidence from Concept Vectors and Linear Probes",
+      "date": "2026-08-07T13:21:50.000Z",
+      "url": "http://arxiv.org/abs/2608.07208v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "GPTKB 2.0: Browsing, Querying, and Auditing a Disambiguated LLM-Derived Knowledge Base",
+      "date": "2026-08-07T09:10:30.000Z",
+      "url": "http://arxiv.org/abs/2608.06992v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Can Language Models Imagine Without Seeing? Ekphrasis: Measuring Visual Creative Ideation in Text-Only LLMs",
+      "date": "2026-08-07T08:44:00.000Z",
+      "url": "http://arxiv.org/abs/2608.06967v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLMRouter: Unified Infrastructure for Developing, Evaluating, and Deploying LLM Routers",
+      "date": "2026-08-07T06:46:58.000Z",
+      "url": "http://arxiv.org/abs/2608.06867v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Horizon Gap: Planning, Memory, Execution, Training, and Evaluation for Long-Horizon LLM Agents",
+      "date": "2026-08-07T00:19:48.000Z",
+      "url": "http://arxiv.org/abs/2608.06663v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Beyond \"AI Language\": The case for the idiolectal nature of LLM output",
+      "date": "2026-08-06T21:03:13.000Z",
+      "url": "http://arxiv.org/abs/2608.06589v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Do AI Personas Grow? Analyzing and Benchmarking Personality Evolution in LLM Agents After Life Events",
+      "date": "2026-08-06T18:25:58.000Z",
+      "url": "http://arxiv.org/abs/2608.06485v1",
+      "source": "arxiv"
+    },
     {
       "title": "Benchmarking and Enhancing LLMs for Rule-Intensive Review of National Standard Documents",
       "date": "2026-08-06T17:27:23.000Z",
@@ -49,78 +121,6 @@
       "title": "Enhancing Social Intelligence in LLMs with Hierarchical Reasoning and Utterance-Level Goal Rewarding",
       "date": "2026-08-06T10:00:50.000Z",
       "url": "http://arxiv.org/abs/2608.05832v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "When Self-Evolution Backfires: Pre-Commit Gating against Skill Contamination in LLM Agents",
-      "date": "2026-08-06T09:43:04.000Z",
-      "url": "http://arxiv.org/abs/2608.05810v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "How to Recognize New Words: A Comparison Between Context Biasing Methods and Speech LLMs",
-      "date": "2026-08-06T08:45:33.000Z",
-      "url": "http://arxiv.org/abs/2608.05759v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Once a Response, Always a Response: Detecting LLM-generated Text via Latent Prompt Restoration",
-      "date": "2026-08-06T08:22:19.000Z",
-      "url": "http://arxiv.org/abs/2608.05741v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Mitigating Scoring Bias in LLM-as-a-Judge via Random Number Generation",
-      "date": "2026-08-06T08:09:42.000Z",
-      "url": "http://arxiv.org/abs/2608.05726v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "DreamGuard: Efficient Runtime Guardrail for LLM Agents via Risk-Aware World Model",
-      "date": "2026-08-06T07:37:49.000Z",
-      "url": "http://arxiv.org/abs/2608.05695v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Answer First, Reason Later: Commitment Order in Diffusion LLMs",
-      "date": "2026-08-06T07:25:04.000Z",
-      "url": "http://arxiv.org/abs/2608.05687v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Reasoning Errors Have a Region and a Direction in the Residual-Stream Trajectory of LLMs",
-      "date": "2026-08-06T06:58:10.000Z",
-      "url": "http://arxiv.org/abs/2608.05660v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Relay, Don't Route: Adaptive Population Handoff for Cost-Efficient LLM-Driven Evolution",
-      "date": "2026-08-06T06:48:08.000Z",
-      "url": "http://arxiv.org/abs/2608.05651v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Refining Over Resampling: Test-Time Self-Correction for LLM Reasoning",
-      "date": "2026-08-06T06:38:37.000Z",
-      "url": "http://arxiv.org/abs/2608.05643v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "FOCUS: Decoupling Expert Personas in LLMs to Enhance Domain Expert Capabilities",
-      "date": "2026-08-06T05:13:59.000Z",
-      "url": "http://arxiv.org/abs/2608.05611v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "EcoAgent-Bench: Evaluating Economic Decision-Making in Budget-Constrained LLM Agents",
-      "date": "2026-08-06T01:47:47.000Z",
-      "url": "http://arxiv.org/abs/2608.05519v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "EvoHarness-RL: Learning Self-Evolving Runtime Harness for Long-Horizon LLM Agents",
-      "date": "2026-08-05T22:29:20.000Z",
-      "url": "http://arxiv.org/abs/2608.05446v1",
       "source": "arxiv"
     }
   ],
