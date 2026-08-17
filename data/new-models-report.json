@@ -1,8 +1,44 @@
 {
-  "timestamp": "2026-08-16T09:23:48.012Z",
+  "timestamp": "2026-08-17T09:37:39.002Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "LLMs Don't Pay for the Jump",
+      "date": "2026-08-14T15:36:35.000Z",
+      "url": "http://arxiv.org/abs/2608.14397v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Four-Axis Trustworthiness Benchmark for LLM-as-Judge in Principle-Based Regulation",
+      "date": "2026-08-14T14:20:38.000Z",
+      "url": "http://arxiv.org/abs/2608.14329v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "AnchorBench: A Multi-Pathway Benchmark for the Anchoring Effect in LLMs",
+      "date": "2026-08-14T14:04:42.000Z",
+      "url": "http://arxiv.org/abs/2608.14320v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "The More Popular, The Harder to Forget: Adaptive Popularity for LLM Unlearning",
+      "date": "2026-08-14T12:03:03.000Z",
+      "url": "http://arxiv.org/abs/2608.14229v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Geometric Filtering of LLM-Generated Samples for Few-Shot Text Classification",
+      "date": "2026-08-14T01:29:03.000Z",
+      "url": "http://arxiv.org/abs/2608.13866v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "When Lexical Change Misleads: Rethinking Dynamic Topic Model Evaluation with Traditional and LLM-Based Metrics",
+      "date": "2026-08-13T23:54:41.000Z",
+      "url": "http://arxiv.org/abs/2608.13835v1",
+      "source": "arxiv"
+    },
     {
       "title": "Toward a Gricean Retreat: Probing LLMs for Knowledge Boundaries and Referent Specificity",
       "date": "2026-08-13T17:13:41.000Z",
@@ -85,42 +121,6 @@
       "title": "Who Thinks Best Depends on How Long You Let Them: Budget-Dependent Rankings in LLM Evaluation",
       "date": "2026-08-12T15:11:35.000Z",
       "url": "http://arxiv.org/abs/2608.12150v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "A corpus-specific clinical RAG system matches or outperforms newer frontier LLMs on HealthBench",
-      "date": "2026-08-12T14:55:46.000Z",
-      "url": "http://arxiv.org/abs/2608.12138v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Do LLMs Take Care of Their Own? Similarity Signals Can Induce Cooperation",
-      "date": "2026-08-12T14:47:15.000Z",
-      "url": "http://arxiv.org/abs/2608.12125v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LODESTAR: Trustworthy Entropy Is Navigated, Not Merely Measured -- Reinforced Polarizer Keeps a Frozen LLM from Being Confidently Misled by the Wrong Evidence",
-      "date": "2026-08-12T11:06:45.000Z",
-      "url": "http://arxiv.org/abs/2608.11922v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "ToolHazard: Scaling Adversarial Environments for Security Evaluation and Alignment of LLM-based Agents",
-      "date": "2026-08-12T10:05:09.000Z",
-      "url": "http://arxiv.org/abs/2608.11878v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Quantifying the Relationship Between Clinical Safety and Environmental Impact in Therapeutic LLMs",
-      "date": "2026-08-12T09:14:26.000Z",
-      "url": "http://arxiv.org/abs/2608.11830v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "GRPO for Financial Advice Generation: Outperforming Commercial LLMs under CATE Evaluation",
-      "date": "2026-08-12T08:28:15.000Z",
-      "url": "http://arxiv.org/abs/2608.11787v1",
       "source": "arxiv"
     }
   ],
