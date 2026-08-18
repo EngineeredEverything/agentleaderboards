@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-08-17T09:37:39.002Z",
+  "timestamp": "2026-08-18T09:29:19.132Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
-      "title": "LLMs Don't Pay for the Jump",
-      "date": "2026-08-14T15:36:35.000Z",
-      "url": "http://arxiv.org/abs/2608.14397v1",
+      "title": "PCA-guided Activation Scaling for Monotonic Bidirectional Control over LLM Sycophancy",
+      "date": "2026-08-17T14:48:49.000Z",
+      "url": "http://arxiv.org/abs/2608.16650v1",
       "source": "arxiv"
     },
     {
-      "title": "A Four-Axis Trustworthiness Benchmark for LLM-as-Judge in Principle-Based Regulation",
-      "date": "2026-08-14T14:20:38.000Z",
-      "url": "http://arxiv.org/abs/2608.14329v1",
+      "title": "Toward Better Assessment of LLMs' Performance in Clinical Error Detection",
+      "date": "2026-08-17T14:41:53.000Z",
+      "url": "http://arxiv.org/abs/2608.16643v1",
       "source": "arxiv"
     },
     {
-      "title": "AnchorBench: A Multi-Pathway Benchmark for the Anchoring Effect in LLMs",
-      "date": "2026-08-14T14:04:42.000Z",
-      "url": "http://arxiv.org/abs/2608.14320v1",
+      "title": "STAGE: Controlled Objective Admission for Multi-Preference LLM Alignment",
+      "date": "2026-08-17T13:24:11.000Z",
+      "url": "http://arxiv.org/abs/2608.16553v1",
       "source": "arxiv"
     },
     {
-      "title": "The More Popular, The Harder to Forget: Adaptive Popularity for LLM Unlearning",
-      "date": "2026-08-14T12:03:03.000Z",
-      "url": "http://arxiv.org/abs/2608.14229v1",
+      "title": "Computational KJ-Ho: An Analyst-Bias-Free Insight Extraction Framework from Large-Scale Qualitative Data Using Domain-Specialized LLMs",
+      "date": "2026-08-17T12:04:18.000Z",
+      "url": "http://arxiv.org/abs/2608.16467v1",
       "source": "arxiv"
     },
     {
-      "title": "Geometric Filtering of LLM-Generated Samples for Few-Shot Text Classification",
-      "date": "2026-08-14T01:29:03.000Z",
-      "url": "http://arxiv.org/abs/2608.13866v1",
+      "title": "Clause Encounters of the Third Kind: Can LLMs Replace Language Teachers?",
+      "date": "2026-08-17T08:58:30.000Z",
+      "url": "http://arxiv.org/abs/2608.16286v1",
       "source": "arxiv"
     },
     {
-      "title": "When Lexical Change Misleads: Rethinking Dynamic Topic Model Evaluation with Traditional and LLM-Based Metrics",
-      "date": "2026-08-13T23:54:41.000Z",
-      "url": "http://arxiv.org/abs/2608.13835v1",
+      "title": "QUMem: Personalized Memory for Query-Conditioned User-State Inference in LLM Agents",
+      "date": "2026-08-17T06:34:24.000Z",
+      "url": "http://arxiv.org/abs/2608.16168v1",
       "source": "arxiv"
     },
     {
-      "title": "Toward a Gricean Retreat: Probing LLMs for Knowledge Boundaries and Referent Specificity",
-      "date": "2026-08-13T17:13:41.000Z",
-      "url": "http://arxiv.org/abs/2608.13484v1",
+      "title": "HyperSkill: Self-Evolving LLM Agents via Hypergraph-Structured Skill Memory",
+      "date": "2026-08-17T05:10:27.000Z",
+      "url": "http://arxiv.org/abs/2608.16114v1",
       "source": "arxiv"
     },
     {
-      "title": "Reduced Matrix Multiplication: Input-Adaptive Matrix-Product Reduction for LLM Inference",
-      "date": "2026-08-13T16:16:04.000Z",
-      "url": "http://arxiv.org/abs/2608.13426v1",
+      "title": "CAPO: Constraint-Aware Prompt Optimization for LLM Agents",
+      "date": "2026-08-17T04:01:04.000Z",
+      "url": "http://arxiv.org/abs/2608.16068v1",
       "source": "arxiv"
     },
     {
-      "title": "It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
-      "date": "2026-08-13T14:54:23.000Z",
-      "url": "http://arxiv.org/abs/2608.13328v1",
+      "title": "$R^3$-Bench: LLMs Struggle with Resource-Rational Reasoning under Shared Budgets",
+      "date": "2026-08-17T02:59:58.000Z",
+      "url": "http://arxiv.org/abs/2608.16033v1",
       "source": "arxiv"
     },
     {
-      "title": "Beyond Local Accuracy: A Protocol-Level Identifiability Audit for Controlled LLM Reasoning Evaluation",
-      "date": "2026-08-13T14:49:47.000Z",
-      "url": "http://arxiv.org/abs/2608.13326v1",
+      "title": "Prior Audit-Repair Context Shifts LLM Verifier Thresholds Toward Leniency",
+      "date": "2026-08-17T01:41:43.000Z",
+      "url": "http://arxiv.org/abs/2608.16003v1",
       "source": "arxiv"
     },
     {
-      "title": "Refusing Intent, Not Form: Wrapper-Based Intent-Group Supervision for LLM Safety",
-      "date": "2026-08-13T14:33:15.000Z",
-      "url": "http://arxiv.org/abs/2608.13304v1",
+      "title": "From Sequence to Structure: Relational Uncertainty Propagation for LLM Agents",
+      "date": "2026-08-17T01:40:14.000Z",
+      "url": "http://arxiv.org/abs/2608.16002v1",
       "source": "arxiv"
     },
     {
-      "title": "Which LLM Is Your Ideal Companion? Evaluating Emotional Companion Capabilities of LLMs Based on Adult Attachment Theory",
-      "date": "2026-08-13T12:32:33.000Z",
-      "url": "http://arxiv.org/abs/2608.13168v1",
+      "title": "A Scalable Pipeline for LLM-Teacher Distillation Labeling: Work-Stealing Job Scheduling and Memory-Aware GPU Concurrency",
+      "date": "2026-08-17T00:02:25.000Z",
+      "url": "http://arxiv.org/abs/2608.15975v1",
       "source": "arxiv"
     },
     {
-      "title": "LigBench: A Unified and Human-Aligned Benchmark for LLM-based Research Idea Generation",
-      "date": "2026-08-13T12:11:23.000Z",
-      "url": "http://arxiv.org/abs/2608.13136v1",
+      "title": "LLMs Get Smarter from Targeted Synthetic Multilingual Data",
+      "date": "2026-08-16T23:38:26.000Z",
+      "url": "http://arxiv.org/abs/2608.15964v1",
       "source": "arxiv"
     },
     {
-      "title": "LycheeMemory V2: Efficient Long-Term Memory for LLM Agents via Semantic Segment-Level Consolidation",
-      "date": "2026-08-13T09:13:15.000Z",
-      "url": "http://arxiv.org/abs/2608.12990v1",
+      "title": "Ask to Be Sure: Informative Interactions for Confident Multi-Turn LLM Recommendation",
+      "date": "2026-08-16T22:14:12.000Z",
+      "url": "http://arxiv.org/abs/2608.15949v1",
       "source": "arxiv"
     },
     {
-      "title": "Unifying Depth and Width Pruning for LLMs via Binary Knapsack Optimization",
-      "date": "2026-08-13T08:32:18.000Z",
-      "url": "http://arxiv.org/abs/2608.12953v1",
+      "title": "PLSQLBench: Benchmarking LLM Systems for Executable Procedural Database Programming",
+      "date": "2026-08-16T21:03:21.000Z",
+      "url": "http://arxiv.org/abs/2608.15931v1",
       "source": "arxiv"
     },
     {
-      "title": "The Embedder's Dilemma: LLMs Are Better, but at What Cost?",
-      "date": "2026-08-13T06:39:45.000Z",
-      "url": "http://arxiv.org/abs/2608.12875v1",
+      "title": "When Stories Evolve: Benchmarking LLM Storytelling Across Agent Architectures in Open-Ended World Simulations",
+      "date": "2026-08-16T09:46:45.000Z",
+      "url": "http://arxiv.org/abs/2608.15654v1",
       "source": "arxiv"
     },
     {
-      "title": "CRAFT: LLM-Based Iterative Refinement for Temporal Reasoning over Clinical Narratives",
-      "date": "2026-08-13T03:37:11.000Z",
-      "url": "http://arxiv.org/abs/2608.12779v1",
+      "title": "Do Assessment Instruments Measure the Same Thing for Humans and LLMs? A Latent Structure Analysis",
+      "date": "2026-08-16T08:52:58.000Z",
+      "url": "http://arxiv.org/abs/2608.15630v1",
       "source": "arxiv"
     },
     {
-      "title": "Tracing Provenance and Detecting Tampering with Complementary LLM Watermarks",
-      "date": "2026-08-13T01:55:16.000Z",
-      "url": "http://arxiv.org/abs/2608.12713v1",
+      "title": "The Machine's Internal Clock: Do LLMs Share Human Temporal Illusions?",
+      "date": "2026-08-15T19:54:49.000Z",
+      "url": "http://arxiv.org/abs/2608.15394v1",
       "source": "arxiv"
     },
     {
-      "title": "LLMs Are Not Good Strategists, Yet Memory-Enhanced Agency Boosts Reasoning",
-      "date": "2026-08-12T22:17:24.000Z",
-      "url": "http://arxiv.org/abs/2608.12626v1",
+      "title": "RamseyGadgets: A Graph Construction Dataset for LLMs",
+      "date": "2026-08-15T03:15:07.000Z",
+      "url": "http://arxiv.org/abs/2608.14999v1",
       "source": "arxiv"
     },
     {
-      "title": "Who Thinks Best Depends on How Long You Let Them: Budget-Dependent Rankings in LLM Evaluation",
-      "date": "2026-08-12T15:11:35.000Z",
-      "url": "http://arxiv.org/abs/2608.12150v1",
+      "title": "T-LLM Compiler: Trusted LLM-based Code Optimization and Verification Framework",
+      "date": "2026-08-15T00:56:40.000Z",
+      "url": "http://arxiv.org/abs/2608.14953v1",
       "source": "arxiv"
     }
   ],
