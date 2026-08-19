@@ -1,8 +1,110 @@
 {
-  "timestamp": "2026-08-18T09:29:19.132Z",
+  "timestamp": "2026-08-19T09:30:21.529Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "Chain-of-Experience for Continual LLM Improvement",
+      "date": "2026-08-18T17:22:54.000Z",
+      "url": "http://arxiv.org/abs/2608.18027v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Judge, Retrieve, or Abstain: Uncertainty-Guarded LLM Judging with Provable Risk Guarantees",
+      "date": "2026-08-18T16:42:02.000Z",
+      "url": "http://arxiv.org/abs/2608.17994v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Encoded but Not Actionable: Auditing the Decode-Generate-Steer Gap in Frozen LLMs for Geometric Constraints",
+      "date": "2026-08-18T14:40:28.000Z",
+      "url": "http://arxiv.org/abs/2608.17843v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "From Global Benchmarks to Local Evaluations: Benchmarking LLMs for the German Public Sector",
+      "date": "2026-08-18T14:28:33.000Z",
+      "url": "http://arxiv.org/abs/2608.17827v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Interpretable Humans, Alien LLMs: Expert Analysis of Latent Structures in Assessment Responses",
+      "date": "2026-08-18T14:08:25.000Z",
+      "url": "http://arxiv.org/abs/2608.17810v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Whether LLMs Can Navigate Beliefs and Facts Depends on How You Phrase It",
+      "date": "2026-08-18T14:06:26.000Z",
+      "url": "http://arxiv.org/abs/2608.17809v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "An Empirical Study of Reward Specification and Benchmark Reliability in GRPO-based LLM Unlearning",
+      "date": "2026-08-18T14:04:29.000Z",
+      "url": "http://arxiv.org/abs/2608.17804v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "What Aggregate Scores Miss: Measuring Item-Level Regressions in Commercial LLM API Migrations",
+      "date": "2026-08-18T12:44:54.000Z",
+      "url": "http://arxiv.org/abs/2608.17719v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLM-Derived Preference Judgments Are Not Self-Consistent",
+      "date": "2026-08-18T11:01:47.000Z",
+      "url": "http://arxiv.org/abs/2608.17644v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Reflex-Guard: A Low-Latency Guardrail for LLM Prompt Safety Using Dense Semantic Embeddings",
+      "date": "2026-08-18T09:19:22.000Z",
+      "url": "http://arxiv.org/abs/2608.17556v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "From Entity Mentions to Tone: An LLM-Based Pipeline for Media Bias Analysis",
+      "date": "2026-08-18T07:33:37.000Z",
+      "url": "http://arxiv.org/abs/2608.17454v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Decomposition Attacks Across Unlinkable Identities: Limits of Stateful Defenses for LLM Services",
+      "date": "2026-08-18T07:26:30.000Z",
+      "url": "http://arxiv.org/abs/2608.17445v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "PTXBench: Benchmark and Adapt LLMs for GPU Kernel Optimization with Architecture-specific PTX",
+      "date": "2026-08-18T05:14:41.000Z",
+      "url": "http://arxiv.org/abs/2608.17379v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLMs for Medical Consultation Are Evaluated Too Late: The Preformulation Gap",
+      "date": "2026-08-18T03:40:56.000Z",
+      "url": "http://arxiv.org/abs/2608.17330v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Can LLMs Reason in a Legally Meaningful Manner? A Small-scale Study on European Court of Human Rights Cases",
+      "date": "2026-08-17T22:11:22.000Z",
+      "url": "http://arxiv.org/abs/2608.17168v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "KnowSim: Evaluating Information Calibration in LLM Assistants with User Simulators that Learn",
+      "date": "2026-08-17T21:33:26.000Z",
+      "url": "http://arxiv.org/abs/2608.17150v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Institution-Specific LLM Prompting Recovers PHI That De-identification Systems and Their Gold Standards Both Miss",
+      "date": "2026-08-17T18:56:04.000Z",
+      "url": "http://arxiv.org/abs/2608.17051v1",
+      "source": "arxiv"
+    },
     {
       "title": "PCA-guided Activation Scaling for Monotonic Bidirectional Control over LLM Sycophancy",
       "date": "2026-08-17T14:48:49.000Z",
@@ -19,108 +121,6 @@
       "title": "STAGE: Controlled Objective Admission for Multi-Preference LLM Alignment",
       "date": "2026-08-17T13:24:11.000Z",
       "url": "http://arxiv.org/abs/2608.16553v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Computational KJ-Ho: An Analyst-Bias-Free Insight Extraction Framework from Large-Scale Qualitative Data Using Domain-Specialized LLMs",
-      "date": "2026-08-17T12:04:18.000Z",
-      "url": "http://arxiv.org/abs/2608.16467v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Clause Encounters of the Third Kind: Can LLMs Replace Language Teachers?",
-      "date": "2026-08-17T08:58:30.000Z",
-      "url": "http://arxiv.org/abs/2608.16286v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "QUMem: Personalized Memory for Query-Conditioned User-State Inference in LLM Agents",
-      "date": "2026-08-17T06:34:24.000Z",
-      "url": "http://arxiv.org/abs/2608.16168v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "HyperSkill: Self-Evolving LLM Agents via Hypergraph-Structured Skill Memory",
-      "date": "2026-08-17T05:10:27.000Z",
-      "url": "http://arxiv.org/abs/2608.16114v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "CAPO: Constraint-Aware Prompt Optimization for LLM Agents",
-      "date": "2026-08-17T04:01:04.000Z",
-      "url": "http://arxiv.org/abs/2608.16068v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "$R^3$-Bench: LLMs Struggle with Resource-Rational Reasoning under Shared Budgets",
-      "date": "2026-08-17T02:59:58.000Z",
-      "url": "http://arxiv.org/abs/2608.16033v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Prior Audit-Repair Context Shifts LLM Verifier Thresholds Toward Leniency",
-      "date": "2026-08-17T01:41:43.000Z",
-      "url": "http://arxiv.org/abs/2608.16003v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "From Sequence to Structure: Relational Uncertainty Propagation for LLM Agents",
-      "date": "2026-08-17T01:40:14.000Z",
-      "url": "http://arxiv.org/abs/2608.16002v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "A Scalable Pipeline for LLM-Teacher Distillation Labeling: Work-Stealing Job Scheduling and Memory-Aware GPU Concurrency",
-      "date": "2026-08-17T00:02:25.000Z",
-      "url": "http://arxiv.org/abs/2608.15975v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLMs Get Smarter from Targeted Synthetic Multilingual Data",
-      "date": "2026-08-16T23:38:26.000Z",
-      "url": "http://arxiv.org/abs/2608.15964v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Ask to Be Sure: Informative Interactions for Confident Multi-Turn LLM Recommendation",
-      "date": "2026-08-16T22:14:12.000Z",
-      "url": "http://arxiv.org/abs/2608.15949v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "PLSQLBench: Benchmarking LLM Systems for Executable Procedural Database Programming",
-      "date": "2026-08-16T21:03:21.000Z",
-      "url": "http://arxiv.org/abs/2608.15931v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "When Stories Evolve: Benchmarking LLM Storytelling Across Agent Architectures in Open-Ended World Simulations",
-      "date": "2026-08-16T09:46:45.000Z",
-      "url": "http://arxiv.org/abs/2608.15654v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Do Assessment Instruments Measure the Same Thing for Humans and LLMs? A Latent Structure Analysis",
-      "date": "2026-08-16T08:52:58.000Z",
-      "url": "http://arxiv.org/abs/2608.15630v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "The Machine's Internal Clock: Do LLMs Share Human Temporal Illusions?",
-      "date": "2026-08-15T19:54:49.000Z",
-      "url": "http://arxiv.org/abs/2608.15394v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "RamseyGadgets: A Graph Construction Dataset for LLMs",
-      "date": "2026-08-15T03:15:07.000Z",
-      "url": "http://arxiv.org/abs/2608.14999v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "T-LLM Compiler: Trusted LLM-based Code Optimization and Verification Framework",
-      "date": "2026-08-15T00:56:40.000Z",
-      "url": "http://arxiv.org/abs/2608.14953v1",
       "source": "arxiv"
     }
   ],
