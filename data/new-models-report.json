@@ -1,8 +1,68 @@
 {
-  "timestamp": "2026-08-19T09:30:21.529Z",
+  "timestamp": "2026-08-20T09:30:57.265Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "Grading the Graders: Verification Autonomy Levels (L0-L5) for LLM Reasoning",
+      "date": "2026-08-19T15:10:00.000Z",
+      "url": "http://arxiv.org/abs/2608.19009v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Decomposing Wrong-Consensus Agreement in LLM Self-Consistency: A GPT-4.1 Case Study",
+      "date": "2026-08-19T10:50:15.000Z",
+      "url": "http://arxiv.org/abs/2608.18795v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Can a Lightweight Multimodal Model Estimate LLM Reasoning Performance? A Study for Compute-Optimal Document Inference",
+      "date": "2026-08-19T06:33:33.000Z",
+      "url": "http://arxiv.org/abs/2608.18591v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "From Storage to Access: Verifiable Activation of Parametric Knowledge in LLMs via Explicit Priming and Implicit Reasoning",
+      "date": "2026-08-19T06:20:34.000Z",
+      "url": "http://arxiv.org/abs/2608.18581v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Compress and Forget: bitsandbytes Quantization Amplifies Proactive Interference in LLMs",
+      "date": "2026-08-19T06:17:13.000Z",
+      "url": "http://arxiv.org/abs/2608.18578v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Beyond LLM-Based Reasoning: Lightweight GNNs for Agent Failure Attribution",
+      "date": "2026-08-19T06:16:09.000Z",
+      "url": "http://arxiv.org/abs/2608.18575v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Evaluating and Explaining Prompt Sensitivity of LLMs Using Interactions",
+      "date": "2026-08-19T04:45:59.000Z",
+      "url": "http://arxiv.org/abs/2608.18539v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Pedagogical AI in Mental Health: A Tri-Stream Fine-Tuned LLM Framework for Automated Clinical Supervision and Risk Triage",
+      "date": "2026-08-19T02:10:15.000Z",
+      "url": "http://arxiv.org/abs/2608.18438v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Figurative and Cultural Knowledge in LLMs: Investigating Cross-Domain Transfer through Fine-Tuning",
+      "date": "2026-08-18T22:25:17.000Z",
+      "url": "http://arxiv.org/abs/2608.18361v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Redakto - The Incognito Tab for LLMs",
+      "date": "2026-08-18T19:21:12.000Z",
+      "url": "http://arxiv.org/abs/2608.18260v1",
+      "source": "arxiv"
+    },
     {
       "title": "Chain-of-Experience for Continual LLM Improvement",
       "date": "2026-08-18T17:22:54.000Z",
@@ -61,66 +121,6 @@
       "title": "Reflex-Guard: A Low-Latency Guardrail for LLM Prompt Safety Using Dense Semantic Embeddings",
       "date": "2026-08-18T09:19:22.000Z",
       "url": "http://arxiv.org/abs/2608.17556v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "From Entity Mentions to Tone: An LLM-Based Pipeline for Media Bias Analysis",
-      "date": "2026-08-18T07:33:37.000Z",
-      "url": "http://arxiv.org/abs/2608.17454v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Decomposition Attacks Across Unlinkable Identities: Limits of Stateful Defenses for LLM Services",
-      "date": "2026-08-18T07:26:30.000Z",
-      "url": "http://arxiv.org/abs/2608.17445v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "PTXBench: Benchmark and Adapt LLMs for GPU Kernel Optimization with Architecture-specific PTX",
-      "date": "2026-08-18T05:14:41.000Z",
-      "url": "http://arxiv.org/abs/2608.17379v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLMs for Medical Consultation Are Evaluated Too Late: The Preformulation Gap",
-      "date": "2026-08-18T03:40:56.000Z",
-      "url": "http://arxiv.org/abs/2608.17330v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Can LLMs Reason in a Legally Meaningful Manner? A Small-scale Study on European Court of Human Rights Cases",
-      "date": "2026-08-17T22:11:22.000Z",
-      "url": "http://arxiv.org/abs/2608.17168v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "KnowSim: Evaluating Information Calibration in LLM Assistants with User Simulators that Learn",
-      "date": "2026-08-17T21:33:26.000Z",
-      "url": "http://arxiv.org/abs/2608.17150v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Institution-Specific LLM Prompting Recovers PHI That De-identification Systems and Their Gold Standards Both Miss",
-      "date": "2026-08-17T18:56:04.000Z",
-      "url": "http://arxiv.org/abs/2608.17051v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "PCA-guided Activation Scaling for Monotonic Bidirectional Control over LLM Sycophancy",
-      "date": "2026-08-17T14:48:49.000Z",
-      "url": "http://arxiv.org/abs/2608.16650v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Toward Better Assessment of LLMs' Performance in Clinical Error Detection",
-      "date": "2026-08-17T14:41:53.000Z",
-      "url": "http://arxiv.org/abs/2608.16643v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "STAGE: Controlled Objective Admission for Multi-Preference LLM Alignment",
-      "date": "2026-08-17T13:24:11.000Z",
-      "url": "http://arxiv.org/abs/2608.16553v1",
       "source": "arxiv"
     }
   ],
