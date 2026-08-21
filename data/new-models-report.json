@@ -1,12 +1,102 @@
 {
-  "timestamp": "2026-08-20T09:30:57.265Z",
+  "timestamp": "2026-08-21T09:33:11.366Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
+      "title": "AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement",
+      "date": "2026-08-20T17:56:59.000Z",
+      "url": "http://arxiv.org/abs/2608.20318v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Break It Down, Pass It On: Cross-Task Skill Transfer in LLM Agents",
+      "date": "2026-08-20T17:12:08.000Z",
+      "url": "http://arxiv.org/abs/2608.20274v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "MemTrapBench: Benchmarking Cognitive Traps in LLM Memory Use",
+      "date": "2026-08-20T16:00:17.000Z",
+      "url": "http://arxiv.org/abs/2608.20202v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Multi-Agent Orchestration with the Common-Sense Reasoning Capabilities of LLMs for Autonomous Driving",
+      "date": "2026-08-20T14:56:15.000Z",
+      "url": "http://arxiv.org/abs/2608.20129v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "PolicyGuide: From Guarding One Action to Guiding the Whole Workflow for Policy-Compliant LLM Agents",
+      "date": "2026-08-20T10:13:19.000Z",
+      "url": "http://arxiv.org/abs/2608.19861v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "MileGPO: Milestone Inference with Local Evidence for Graph-Based Policy Optimization of Long-Horizon LLM Agents",
+      "date": "2026-08-20T08:58:27.000Z",
+      "url": "http://arxiv.org/abs/2608.19803v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Stopping and Routing LLM Judge Panels",
+      "date": "2026-08-20T08:58:00.000Z",
+      "url": "http://arxiv.org/abs/2608.19802v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Credit Without Ground Truth: Auditing Step-Level Credit Assignment in LLM Agents Against Executed Replay",
+      "date": "2026-08-20T08:04:00.000Z",
+      "url": "http://arxiv.org/abs/2608.19760v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving",
+      "date": "2026-08-20T08:02:55.000Z",
+      "url": "http://arxiv.org/abs/2608.19758v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "PersonalBench: Measuring the Authorship Gap in LLM Personalization",
+      "date": "2026-08-20T07:48:20.000Z",
+      "url": "http://arxiv.org/abs/2608.19746v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Asymmetric Harms of LLM Compression",
+      "date": "2026-08-20T06:06:14.000Z",
+      "url": "http://arxiv.org/abs/2608.19670v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "ReCache: Efficient KV Cache Reuse and Compression for Tool-Augmented LLM Agents",
+      "date": "2026-08-20T05:57:24.000Z",
+      "url": "http://arxiv.org/abs/2608.19662v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Mitigating Identity Essentialism in LLM Agents with Longitudinal Life Trajectories",
+      "date": "2026-08-20T04:13:11.000Z",
+      "url": "http://arxiv.org/abs/2608.19621v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Remember, Verify, or Ask? Cross-Family Evaluation of Memory Commitment in LLM Agents",
+      "date": "2026-08-20T02:11:03.000Z",
+      "url": "http://arxiv.org/abs/2608.19564v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Are LLMs becoming similarly creative? Evidence from three years of models",
+      "date": "2026-08-19T20:44:26.000Z",
+      "url": "http://arxiv.org/abs/2608.19437v1",
+      "source": "arxiv"
+    },
+    {
       "title": "Grading the Graders: Verification Autonomy Levels (L0-L5) for LLM Reasoning",
       "date": "2026-08-19T15:10:00.000Z",
-      "url": "http://arxiv.org/abs/2608.19009v1",
+      "url": "http://arxiv.org/abs/2608.19009v2",
       "source": "arxiv"
     },
     {
@@ -30,97 +120,7 @@
     {
       "title": "Compress and Forget: bitsandbytes Quantization Amplifies Proactive Interference in LLMs",
       "date": "2026-08-19T06:17:13.000Z",
-      "url": "http://arxiv.org/abs/2608.18578v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Beyond LLM-Based Reasoning: Lightweight GNNs for Agent Failure Attribution",
-      "date": "2026-08-19T06:16:09.000Z",
-      "url": "http://arxiv.org/abs/2608.18575v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Evaluating and Explaining Prompt Sensitivity of LLMs Using Interactions",
-      "date": "2026-08-19T04:45:59.000Z",
-      "url": "http://arxiv.org/abs/2608.18539v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Pedagogical AI in Mental Health: A Tri-Stream Fine-Tuned LLM Framework for Automated Clinical Supervision and Risk Triage",
-      "date": "2026-08-19T02:10:15.000Z",
-      "url": "http://arxiv.org/abs/2608.18438v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Figurative and Cultural Knowledge in LLMs: Investigating Cross-Domain Transfer through Fine-Tuning",
-      "date": "2026-08-18T22:25:17.000Z",
-      "url": "http://arxiv.org/abs/2608.18361v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Redakto - The Incognito Tab for LLMs",
-      "date": "2026-08-18T19:21:12.000Z",
-      "url": "http://arxiv.org/abs/2608.18260v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Chain-of-Experience for Continual LLM Improvement",
-      "date": "2026-08-18T17:22:54.000Z",
-      "url": "http://arxiv.org/abs/2608.18027v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Judge, Retrieve, or Abstain: Uncertainty-Guarded LLM Judging with Provable Risk Guarantees",
-      "date": "2026-08-18T16:42:02.000Z",
-      "url": "http://arxiv.org/abs/2608.17994v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Encoded but Not Actionable: Auditing the Decode-Generate-Steer Gap in Frozen LLMs for Geometric Constraints",
-      "date": "2026-08-18T14:40:28.000Z",
-      "url": "http://arxiv.org/abs/2608.17843v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "From Global Benchmarks to Local Evaluations: Benchmarking LLMs for the German Public Sector",
-      "date": "2026-08-18T14:28:33.000Z",
-      "url": "http://arxiv.org/abs/2608.17827v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Interpretable Humans, Alien LLMs: Expert Analysis of Latent Structures in Assessment Responses",
-      "date": "2026-08-18T14:08:25.000Z",
-      "url": "http://arxiv.org/abs/2608.17810v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Whether LLMs Can Navigate Beliefs and Facts Depends on How You Phrase It",
-      "date": "2026-08-18T14:06:26.000Z",
-      "url": "http://arxiv.org/abs/2608.17809v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "An Empirical Study of Reward Specification and Benchmark Reliability in GRPO-based LLM Unlearning",
-      "date": "2026-08-18T14:04:29.000Z",
-      "url": "http://arxiv.org/abs/2608.17804v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "What Aggregate Scores Miss: Measuring Item-Level Regressions in Commercial LLM API Migrations",
-      "date": "2026-08-18T12:44:54.000Z",
-      "url": "http://arxiv.org/abs/2608.17719v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLM-Derived Preference Judgments Are Not Self-Consistent",
-      "date": "2026-08-18T11:01:47.000Z",
-      "url": "http://arxiv.org/abs/2608.17644v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Reflex-Guard: A Low-Latency Guardrail for LLM Prompt Safety Using Dense Semantic Embeddings",
-      "date": "2026-08-18T09:19:22.000Z",
-      "url": "http://arxiv.org/abs/2608.17556v1",
+      "url": "http://arxiv.org/abs/2608.18578v2",
       "source": "arxiv"
     }
   ],
