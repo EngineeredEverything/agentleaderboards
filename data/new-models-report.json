@@ -1,8 +1,86 @@
 {
-  "timestamp": "2026-08-25T09:32:03.423Z",
+  "timestamp": "2026-08-26T09:37:24.908Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "Confident at the moment of action: belief miscalibration in LLM play under hidden information",
+      "date": "2026-08-25T15:18:18.000Z",
+      "url": "http://arxiv.org/abs/2608.24691v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Is Discrete Difficulty Sufficient? Leveraging Continuous Difficulty for Efficient Self-Consistency in LLMs",
+      "date": "2026-08-25T14:17:30.000Z",
+      "url": "http://arxiv.org/abs/2608.24590v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "When Do Supervised UQ Ensembles Improve LLM Hallucination Detection? A Robustness Study",
+      "date": "2026-08-25T12:43:07.000Z",
+      "url": "http://arxiv.org/abs/2608.24492v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "RecurSE: Bounded Recursive Self-Evaluation for LLM Rubric Judges",
+      "date": "2026-08-25T08:35:04.000Z",
+      "url": "http://arxiv.org/abs/2608.24231v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "'Ghaib in Translation' aka Unseen Harm: Measuring Cross-Script Safety Inconsistency with 'Missed-in-Urdu' Scores in LLM Hate Speech Detection",
+      "date": "2026-08-25T07:58:40.000Z",
+      "url": "http://arxiv.org/abs/2608.24191v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "TrustDABench: Benchmarking Reliability and Robustness of LLMs for Structured Data Analysis",
+      "date": "2026-08-25T07:09:01.000Z",
+      "url": "http://arxiv.org/abs/2608.24145v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "When Less Is More: An Empirical Study of Minimal Responses in Counseling Dialogues and the Behavior of LLMs",
+      "date": "2026-08-25T05:22:11.000Z",
+      "url": "http://arxiv.org/abs/2608.24080v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "AgentSpec: Speculative Decoding for Batch Inference of LLM Agents",
+      "date": "2026-08-25T02:49:29.000Z",
+      "url": "http://arxiv.org/abs/2608.24004v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Names Can Hurt: Spotting Slopsquatting Risks Caused by Package Name Hallucinations in Local Coding LLMs",
+      "date": "2026-08-24T23:10:49.000Z",
+      "url": "http://arxiv.org/abs/2608.23897v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Markets, Not Planners: Decentralized Orchestration of LLM Agents with Private Information",
+      "date": "2026-08-24T22:15:37.000Z",
+      "url": "http://arxiv.org/abs/2608.23867v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Learning to Grade Efficiently: A Bandit-Driven Prompt-Selection Framework for Low-Cost LLM Essay Scoring",
+      "date": "2026-08-24T20:42:56.000Z",
+      "url": "http://arxiv.org/abs/2608.23814v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Discovering Cross-Language Reasoning Invariance in LLMs with Geometry-Invariant Sparse Autoencoders",
+      "date": "2026-08-24T20:17:55.000Z",
+      "url": "http://arxiv.org/abs/2608.23809v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "When Youth Enter The Chat: An Epistemic Shift in the Validation of LLM-Based Measures of Student Talk",
+      "date": "2026-08-24T19:25:12.000Z",
+      "url": "http://arxiv.org/abs/2608.23780v1",
+      "source": "arxiv"
+    },
     {
       "title": "How Useful are LLMs for Grammar Engineering? Cantonese ParGram Resources and Controlled Experimental Evaluation with English Baselines",
       "date": "2026-08-24T16:21:32.000Z",
@@ -24,7 +102,7 @@
     {
       "title": "Beyond the Stability-Exploration Dilemma: Environmental Regularization for LLM Policy Optimization",
       "date": "2026-08-24T14:30:59.000Z",
-      "url": "http://arxiv.org/abs/2608.23311v1",
+      "url": "http://arxiv.org/abs/2608.23311v2",
       "source": "arxiv"
     },
     {
@@ -43,84 +121,6 @@
       "title": "Activation-Weighted Seeded Residual Coding for Low-Bit LLM Weight Repair",
       "date": "2026-08-24T11:49:37.000Z",
       "url": "http://arxiv.org/abs/2608.23144v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Molecular LLM Agents: From Architectural Design to Scientific Autonomy",
-      "date": "2026-08-24T11:09:25.000Z",
-      "url": "http://arxiv.org/abs/2608.23104v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Beyond Verdicts: A Graph-Based Analysis of Human and LLM Reasoning in Scientific Fact-Checking",
-      "date": "2026-08-24T09:53:30.000Z",
-      "url": "http://arxiv.org/abs/2608.23047v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Beyond Surface Cues: Disentangling Sociocultural Signals in Multilingual LLMs",
-      "date": "2026-08-24T09:32:16.000Z",
-      "url": "http://arxiv.org/abs/2608.23026v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Most of the LLM routing gap is task type",
-      "date": "2026-08-24T09:28:35.000Z",
-      "url": "http://arxiv.org/abs/2608.23023v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLM Pedagogical Behavior in AI Tutoring Interactions",
-      "date": "2026-08-24T08:57:40.000Z",
-      "url": "http://arxiv.org/abs/2608.22993v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Closed-Loop Bayesian Molecular Inverse Design with Semantic LLM Surrogates",
-      "date": "2026-08-24T08:30:01.000Z",
-      "url": "http://arxiv.org/abs/2608.22967v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Your AI, On a Dial: Controlling Investment Bias in LLMs with a Single Neuron",
-      "date": "2026-08-24T06:33:02.000Z",
-      "url": "http://arxiv.org/abs/2608.22852v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "SDoH-Aware Narrative Anchoring Bias in Medical LLMs for Trustworthy Clinical Decision Support",
-      "date": "2026-08-24T04:58:32.000Z",
-      "url": "http://arxiv.org/abs/2608.22802v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "TRACE: A Self-Evolving Skill Bank for Consistent, Limit-Aware LLM Agents",
-      "date": "2026-08-24T04:36:03.000Z",
-      "url": "http://arxiv.org/abs/2608.22793v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "DelistBench: Evaluating Search-Enabled LLMs for Auditable Corporate-Event Database Completion",
-      "date": "2026-08-24T03:46:20.000Z",
-      "url": "http://arxiv.org/abs/2608.22770v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "WnW: Waxing-and-Waning KV Cache for Long-Form Speech LLMs",
-      "date": "2026-08-24T01:48:30.000Z",
-      "url": "http://arxiv.org/abs/2608.22704v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Teaching LLMs How ICU Physicians Approach Clinical Reasoning Through OMOP-Aligned Retrieval Improves Reasoning Across Clinical Domains",
-      "date": "2026-08-23T22:14:04.000Z",
-      "url": "http://arxiv.org/abs/2608.22622v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "From Diagnosis to Redesign: Using Quantitative Ethnography to Improve Multi-Agent LLM Reasoning",
-      "date": "2026-08-23T19:27:40.000Z",
-      "url": "http://arxiv.org/abs/2608.22566v1",
       "source": "arxiv"
     }
   ],
