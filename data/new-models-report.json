@@ -1,8 +1,98 @@
 {
-  "timestamp": "2026-08-27T19:25:10.158Z",
+  "timestamp": "2026-08-28T20:41:23.317Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "Boosting LLM Exploration via Weak-Model Guidance in RLVR",
+      "date": "2026-08-27T17:45:50.000Z",
+      "url": "http://arxiv.org/abs/2608.27420v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Difference-in-Differences on a Censored Rating Scale Can Manufacture an Effect: Evidence from a Pre-Registered LLM-Judge Audit",
+      "date": "2026-08-27T16:10:16.000Z",
+      "url": "http://arxiv.org/abs/2608.27309v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "What Makes Good Agentic Data? An ACE Lens on Data Generation for LLM Agents",
+      "date": "2026-08-27T15:43:50.000Z",
+      "url": "http://arxiv.org/abs/2608.27260v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "BALMS: Benchmarking Agentic LLMs for Longitudinal Mental Health Sensing",
+      "date": "2026-08-27T15:00:17.000Z",
+      "url": "http://arxiv.org/abs/2608.27219v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Calibrated Enough to Know, Not Calibrated to Act: Fabricated Evidence Makes LLM Agents Commit to the Unknowable",
+      "date": "2026-08-27T14:20:08.000Z",
+      "url": "http://arxiv.org/abs/2608.27167v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "JudgeStealer: Extracting LLM Judging Capabilities across Evaluation Protocols",
+      "date": "2026-08-27T11:28:32.000Z",
+      "url": "http://arxiv.org/abs/2608.26982v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "From Atomic to Agentic: Towards Interpretable Evaluation of LLMs' Agentic Mathematical Capabilities",
+      "date": "2026-08-27T10:52:06.000Z",
+      "url": "http://arxiv.org/abs/2608.26950v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Planting a Latent Variable in Natural-Looking Text: a More Realistic Test of Belief States in LLMs and Their Link to Concept Geometry",
+      "date": "2026-08-27T09:45:00.000Z",
+      "url": "http://arxiv.org/abs/2608.26887v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "C-Unseen: Weak Signal Detection in Dynamic Temporal Knowledge Graphs via LLM Reasoning",
+      "date": "2026-08-27T09:33:51.000Z",
+      "url": "http://arxiv.org/abs/2608.26870v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Equal Ranking Quality, Different Decisions: Training Order-Consistent LLM Scorers",
+      "date": "2026-08-27T07:55:42.000Z",
+      "url": "http://arxiv.org/abs/2608.26762v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Do LLMs Understand Personality? Rethinking Persona Fidelity Evaluation through Structured Behavioral Inference",
+      "date": "2026-08-27T06:27:51.000Z",
+      "url": "http://arxiv.org/abs/2608.26674v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Multi-Expert Conformal Risk Control for Pairwise LLM Judging in Open-Ended Dialogue",
+      "date": "2026-08-27T02:03:27.000Z",
+      "url": "http://arxiv.org/abs/2608.26529v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Zero-Shot Self-Orchestration with Ledger-Based Control for Improved LLM Coding Performance",
+      "date": "2026-08-27T00:11:41.000Z",
+      "url": "http://arxiv.org/abs/2608.26480v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LowRankArena: A Standardized Evaluation Platform for SVD-Based LLM Compression",
+      "date": "2026-08-26T20:27:21.000Z",
+      "url": "http://arxiv.org/abs/2608.26389v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Knowledge-Verified Emergent Deception in LLM Agents Under Conflicting Incentives",
+      "date": "2026-08-26T19:56:13.000Z",
+      "url": "http://arxiv.org/abs/2608.26372v1",
+      "source": "arxiv"
+    },
     {
       "title": "Trace Integrity for LLM Data Agents: A Vision for Auditable Structured Reasoning in Real-World Systems",
       "date": "2026-08-26T17:15:24.000Z",
@@ -30,97 +120,7 @@
     {
       "title": "Unveiling Spectral Mechanisms in Training-Free LLM Text Detection",
       "date": "2026-08-26T16:01:17.000Z",
-      "url": "http://arxiv.org/abs/2608.25944v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "From Passive Response to Proactive Correction: Enhancing LLM Robustness Against Input Fact Perturbations",
-      "date": "2026-08-26T15:13:50.000Z",
-      "url": "http://arxiv.org/abs/2608.25894v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Anchoring Bias in LLM-as-a-Judge Systems: Prior Scores Compromise Evaluation Independence",
-      "date": "2026-08-26T14:41:24.000Z",
-      "url": "http://arxiv.org/abs/2608.25869v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Skill Issue: Are Skills Language-Invariant in LLMs?",
-      "date": "2026-08-26T14:12:29.000Z",
-      "url": "http://arxiv.org/abs/2608.25832v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Localize-Then-Decide Guarantees for LLM Judgments",
-      "date": "2026-08-26T14:04:37.000Z",
-      "url": "http://arxiv.org/abs/2608.25824v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "From Specialization to Generalization: Instruction-tuned LLMs for Robust Harmful Content Mitigation",
-      "date": "2026-08-26T10:24:31.000Z",
-      "url": "http://arxiv.org/abs/2608.25605v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "ClueWeaver: Reward-Guided Dual-Agent Evidence Reasoning for Compact LLMs on Literary Long Narratives",
-      "date": "2026-08-26T08:39:09.000Z",
-      "url": "http://arxiv.org/abs/2608.25531v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "TOPAS: Workflow-Aware Prefix-State Scheduling for Multi-Agent LLM Serving",
-      "date": "2026-08-26T08:33:10.000Z",
-      "url": "http://arxiv.org/abs/2608.25523v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Adaptive Triggering for Bias Correction in LLM Reasoning",
-      "date": "2026-08-26T05:08:35.000Z",
-      "url": "http://arxiv.org/abs/2608.25379v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Routed Graph Handoff: Adaptive Format Selection for Multi-Agent LLM Delegation",
-      "date": "2026-08-26T01:24:34.000Z",
-      "url": "http://arxiv.org/abs/2608.25277v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Groundhog Bit-Flip Attack: Seeding Infinite Generation Loops in Mixture-of-Experts LLMs through Bit Flips",
-      "date": "2026-08-26T01:23:01.000Z",
-      "url": "http://arxiv.org/abs/2608.25276v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "The \"Curse of Knowledge\" in LLM Query Simulation: Concept Provenance for Tracing Answer-Side Intrusion",
-      "date": "2026-08-26T00:06:31.000Z",
-      "url": "http://arxiv.org/abs/2608.25245v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Rare Diseases, Common Dilemmas: LLMs Prioritize Equal Resource Distribution over Patient Benefit in Decision-Making",
-      "date": "2026-08-25T23:54:22.000Z",
-      "url": "http://arxiv.org/abs/2608.25236v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Belief Cascades Drive Persuasion in LLM Agent Networks",
-      "date": "2026-08-25T21:01:19.000Z",
-      "url": "http://arxiv.org/abs/2608.25152v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "MTDiag: A Multi-Turn Diagnostic Dataset Towards Clinically Meaningful LLM Evaluation",
-      "date": "2026-08-25T19:27:10.000Z",
-      "url": "http://arxiv.org/abs/2608.25085v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "DataKernelBench: Can LLMs Optimize Database Queries on GPUs?",
-      "date": "2026-08-25T18:57:39.000Z",
-      "url": "http://arxiv.org/abs/2608.25061v1",
+      "url": "http://arxiv.org/abs/2608.25944v2",
       "source": "arxiv"
     }
   ],
