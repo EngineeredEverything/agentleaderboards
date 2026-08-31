@@ -1,8 +1,86 @@
 {
-  "timestamp": "2026-08-30T14:15:47.859Z",
+  "timestamp": "2026-08-31T16:41:48.162Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "Ladders in Chaos: When, How, (and Perhaps Why) Does Test-Time Scaling Improve LLM Machine Translation",
+      "date": "2026-08-28T16:22:39.000Z",
+      "url": "http://arxiv.org/abs/2608.28496v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "NL2AGBench: Benchmarking LLM Auto-Formalization for AlphaGeometry",
+      "date": "2026-08-28T16:07:16.000Z",
+      "url": "http://arxiv.org/abs/2608.28481v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Blind Men and the Elephant: Probing the Epistemic Myopia of LLMs under Long-Tail Divergent Knowledge",
+      "date": "2026-08-28T16:06:01.000Z",
+      "url": "http://arxiv.org/abs/2608.28478v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Semantic Head Specialization Guides Hybrid ViT Attention for Multimodal LLMs",
+      "date": "2026-08-28T14:40:47.000Z",
+      "url": "http://arxiv.org/abs/2608.28383v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Layered LLM Defenses as an Ensemble: Access Tiers, Inference Cost, and the Measured Failure Correlation Between Defense Layers",
+      "date": "2026-08-28T13:36:06.000Z",
+      "url": "http://arxiv.org/abs/2608.28327v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "H-Scale: Hessian-Guided Scale Refinement for NVFP4 Sub-Byte LLM Inference",
+      "date": "2026-08-28T09:22:17.000Z",
+      "url": "http://arxiv.org/abs/2608.28113v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Speculative Probing: LLM Monitoring at Speculative-Decoding Cost",
+      "date": "2026-08-28T09:07:58.000Z",
+      "url": "http://arxiv.org/abs/2608.28099v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Auditing Generative Audio Calls for Known-Task Audio-LLM Evaluation",
+      "date": "2026-08-28T01:33:47.000Z",
+      "url": "http://arxiv.org/abs/2608.27817v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Representation of syntax in LLMs through the lens of linear distance and similarity-aware entropy",
+      "date": "2026-08-28T01:17:18.000Z",
+      "url": "http://arxiv.org/abs/2608.27813v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Compositional Failure in Audio-Visual LLMs: Late-Layer Prior Dominance Under Cross-modal Conflict",
+      "date": "2026-08-27T23:48:10.000Z",
+      "url": "http://arxiv.org/abs/2608.27785v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "SURE-Challenge: Evaluating Speech Evidence Before Speech-LLM Generation",
+      "date": "2026-08-27T23:28:42.000Z",
+      "url": "http://arxiv.org/abs/2608.27783v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Informational Antilocality and the Locality Bias in LLMs",
+      "date": "2026-08-27T22:49:08.000Z",
+      "url": "http://arxiv.org/abs/2608.27760v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Calls are Coming from Inside the Model: Investigating Probe-based Detection of Tool-Calling Errors in LLMs",
+      "date": "2026-08-27T22:26:25.000Z",
+      "url": "http://arxiv.org/abs/2608.27750v1",
+      "source": "arxiv"
+    },
     {
       "title": "Boosting LLM Exploration via Weak-Model Guidance in RLVR",
       "date": "2026-08-27T17:45:50.000Z",
@@ -43,84 +121,6 @@
       "title": "From Atomic to Agentic: Towards Interpretable Evaluation of LLMs' Agentic Mathematical Capabilities",
       "date": "2026-08-27T10:52:06.000Z",
       "url": "http://arxiv.org/abs/2608.26950v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Planting a Latent Variable in Natural-Looking Text: a More Realistic Test of Belief States in LLMs and Their Link to Concept Geometry",
-      "date": "2026-08-27T09:45:00.000Z",
-      "url": "http://arxiv.org/abs/2608.26887v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "C-Unseen: Weak Signal Detection in Dynamic Temporal Knowledge Graphs via LLM Reasoning",
-      "date": "2026-08-27T09:33:51.000Z",
-      "url": "http://arxiv.org/abs/2608.26870v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Equal Ranking Quality, Different Decisions: Training Order-Consistent LLM Scorers",
-      "date": "2026-08-27T07:55:42.000Z",
-      "url": "http://arxiv.org/abs/2608.26762v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Do LLMs Understand Personality? Rethinking Persona Fidelity Evaluation through Structured Behavioral Inference",
-      "date": "2026-08-27T06:27:51.000Z",
-      "url": "http://arxiv.org/abs/2608.26674v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Multi-Expert Conformal Risk Control for Pairwise LLM Judging in Open-Ended Dialogue",
-      "date": "2026-08-27T02:03:27.000Z",
-      "url": "http://arxiv.org/abs/2608.26529v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Zero-Shot Self-Orchestration with Ledger-Based Control for Improved LLM Coding Performance",
-      "date": "2026-08-27T00:11:41.000Z",
-      "url": "http://arxiv.org/abs/2608.26480v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LowRankArena: A Standardized Evaluation Platform for SVD-Based LLM Compression",
-      "date": "2026-08-26T20:27:21.000Z",
-      "url": "http://arxiv.org/abs/2608.26389v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Knowledge-Verified Emergent Deception in LLM Agents Under Conflicting Incentives",
-      "date": "2026-08-26T19:56:13.000Z",
-      "url": "http://arxiv.org/abs/2608.26372v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Trace Integrity for LLM Data Agents: A Vision for Auditable Structured Reasoning in Real-World Systems",
-      "date": "2026-08-26T17:15:24.000Z",
-      "url": "http://arxiv.org/abs/2608.26036v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "A Self-Evolving Multi-Agent Framework Defense against LLM Jailbreak Attacks",
-      "date": "2026-08-26T16:52:06.000Z",
-      "url": "http://arxiv.org/abs/2608.26008v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "AsymSpec: Context-Asymmetric Speculative Decoding for Agentic LLMs",
-      "date": "2026-08-26T16:50:02.000Z",
-      "url": "http://arxiv.org/abs/2608.26004v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "When Personality Meets Quantization: A Layer-wise MBTI Analysis of Quantized LLMs",
-      "date": "2026-08-26T16:32:50.000Z",
-      "url": "http://arxiv.org/abs/2608.25977v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Unveiling Spectral Mechanisms in Training-Free LLM Text Detection",
-      "date": "2026-08-26T16:01:17.000Z",
-      "url": "http://arxiv.org/abs/2608.25944v2",
       "source": "arxiv"
     }
   ],
