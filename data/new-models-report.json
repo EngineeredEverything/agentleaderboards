@@ -1,8 +1,104 @@
 {
-  "timestamp": "2026-09-02T13:12:53.803Z",
+  "timestamp": "2026-09-03T13:14:06.417Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "User Feedback Provides a Unique Signal that LLMs Can not Detect",
+      "date": "2026-09-02T17:42:44.000Z",
+      "url": "http://arxiv.org/abs/2609.02859v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Incremental Pooled LLM Evaluation for Cost-Effective Retrieval Model Selection",
+      "date": "2026-09-02T15:47:49.000Z",
+      "url": "http://arxiv.org/abs/2609.02745v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "CORAL: An LLM-Native Harness for Production Recommender Systems",
+      "date": "2026-09-02T15:40:36.000Z",
+      "url": "http://arxiv.org/abs/2609.02730v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "From Tokens to Semantics: Leveraging Complementary Signals for Hallucination Detection in Black-Box LLMs",
+      "date": "2026-09-02T14:50:24.000Z",
+      "url": "http://arxiv.org/abs/2609.02679v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "How LLMs Build Fictional Worlds: Setting and Narrative Space in AI-Generated Creative Storytelling",
+      "date": "2026-09-02T11:51:44.000Z",
+      "url": "http://arxiv.org/abs/2609.02482v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Learning to Fuse LLMs with Ontology Rankers for Rare-Disease Diagnosis",
+      "date": "2026-09-02T11:44:21.000Z",
+      "url": "http://arxiv.org/abs/2609.02473v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "MultiGhostBench: A Multilingual Benchmark for Long-Form LLM-Generated Text Attribution under Distribution Shifts",
+      "date": "2026-09-02T09:52:45.000Z",
+      "url": "http://arxiv.org/abs/2609.02379v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "RideSkill: A Hierarchical Algorithm for Generalized Ride Sharing with LLM-Driven Automatic Evolution",
+      "date": "2026-09-02T07:57:03.000Z",
+      "url": "http://arxiv.org/abs/2609.02250v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "MASkills: Continual Skills Optimization for Multi-Agent LLM Systems",
+      "date": "2026-09-02T04:34:17.000Z",
+      "url": "http://arxiv.org/abs/2609.02094v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "XMerge: Cross-Axis Selection and Reconstructive Layer Merging for LLM Depth Compression",
+      "date": "2026-09-02T04:12:44.000Z",
+      "url": "http://arxiv.org/abs/2609.02083v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "NS-Copilot: An LLM-Driven Agent System for Autonomous Neuroscience Analysis",
+      "date": "2026-09-02T00:57:05.000Z",
+      "url": "http://arxiv.org/abs/2609.01971v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Grounded, Compute-Efficient LLM Policy Agents for Energy-Poverty Equity in Physically-Constrained Peer-to-Peer Energy Markets",
+      "date": "2026-09-01T22:37:34.000Z",
+      "url": "http://arxiv.org/abs/2609.01918v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Accurate in space, unreliable in time: how LLMs represent national cultural change",
+      "date": "2026-09-01T22:03:06.000Z",
+      "url": "http://arxiv.org/abs/2609.01902v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "How Do Prompt Variations Affect Energy Consumption in On-Device LLMs?",
+      "date": "2026-09-01T19:08:04.000Z",
+      "url": "http://arxiv.org/abs/2609.01798v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "VakyArth: Evaluating Pragmatic Competence in LLMs across Indic Languages",
+      "date": "2026-09-01T19:00:32.000Z",
+      "url": "http://arxiv.org/abs/2609.01788v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Harness Engineering in LLM Tool Use via Agent-Native Reusable Tool Primitives",
+      "date": "2026-09-01T18:07:09.000Z",
+      "url": "http://arxiv.org/abs/2609.01736v1",
+      "source": "arxiv"
+    },
     {
       "title": "Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation",
       "date": "2026-09-01T17:59:49.000Z",
@@ -25,102 +121,6 @@
       "title": "Scaling Near-Optimal SFT-RL Annotation Budget Allocation from Small to Large LLMs",
       "date": "2026-09-01T17:39:55.000Z",
       "url": "http://arxiv.org/abs/2609.01573v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "From Production Traffic to Post-Training: Building a Self-Hosted LLM That Covers the Corporate Request Mix",
-      "date": "2026-09-01T17:39:26.000Z",
-      "url": "http://arxiv.org/abs/2609.01572v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "GlossoGen: Emergent Language in Complex Multi-Agent LLM Interactions",
-      "date": "2026-09-01T16:22:07.000Z",
-      "url": "http://arxiv.org/abs/2609.01491v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?",
-      "date": "2026-09-01T15:45:33.000Z",
-      "url": "http://arxiv.org/abs/2609.01437v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Citing Less Critically: LLMs Reshape the Rhetoric and Reach of Scientific Citation",
-      "date": "2026-09-01T15:42:04.000Z",
-      "url": "http://arxiv.org/abs/2609.01432v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "From Rollouts to Recipes: Self-Contained Post-Training for LLMs",
-      "date": "2026-09-01T15:36:26.000Z",
-      "url": "http://arxiv.org/abs/2609.01422v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Separating Syntax from Language: A Mechanistic Account of Translation in Multilingual LLMs",
-      "date": "2026-09-01T14:58:38.000Z",
-      "url": "http://arxiv.org/abs/2609.01356v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Ready to Speak: Aligning LLMs for TTS-Friendly Text Generation",
-      "date": "2026-09-01T13:44:43.000Z",
-      "url": "http://arxiv.org/abs/2609.01246v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "CaRL-EM: Cost-Aware Reinforcement Learning for Entity Matching with LLMs",
-      "date": "2026-09-01T13:05:47.000Z",
-      "url": "http://arxiv.org/abs/2609.01195v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLMPEDIA: Browsing, Verifying, and Comparing the Parametric Encyclopedic Knowledge of LLMs",
-      "date": "2026-09-01T12:56:02.000Z",
-      "url": "http://arxiv.org/abs/2609.01182v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Latent Recurrent Thoughts: Recurrent Refinement of Proposed Latents for Reasoning with Frozen LLMs",
-      "date": "2026-09-01T11:56:17.000Z",
-      "url": "http://arxiv.org/abs/2609.01117v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Post-hoc Alignment of LLM-judges to Human Judgment Distribution",
-      "date": "2026-09-01T11:03:56.000Z",
-      "url": "http://arxiv.org/abs/2609.01073v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Inspicio: Open-Vocabulary, LLM-Based Sense Retrieval for Historical Languages",
-      "date": "2026-09-01T09:46:38.000Z",
-      "url": "http://arxiv.org/abs/2609.00998v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "PersianAnonymizer: Evaluating LLM-Labeled Training for Efficient NER-based Anonymization in Persian",
-      "date": "2026-09-01T09:18:11.000Z",
-      "url": "http://arxiv.org/abs/2609.00958v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "RPCBench: A Benchmark for Proactive Premise Critique in LLM-based Recommendation",
-      "date": "2026-09-01T08:44:56.000Z",
-      "url": "http://arxiv.org/abs/2609.00918v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Control-Data Flow Separation: Stable Prompt Optimization in Multi-Agent LLMs",
-      "date": "2026-09-01T03:04:08.000Z",
-      "url": "http://arxiv.org/abs/2609.00621v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Investigating Assistant Bias in LLM User Simulators Using a Role Vector",
-      "date": "2026-09-01T02:49:30.000Z",
-      "url": "http://arxiv.org/abs/2609.00608v1",
       "source": "arxiv"
     }
   ],
