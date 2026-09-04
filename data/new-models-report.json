@@ -1,8 +1,92 @@
 {
-  "timestamp": "2026-09-03T13:14:06.417Z",
+  "timestamp": "2026-09-04T13:08:10.340Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "Two-Stage Reinforcement Learning for Sound and Adversarial Test Generation in Code LLMs",
+      "date": "2026-09-03T14:55:08.000Z",
+      "url": "http://arxiv.org/abs/2609.03955v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Speak for Me: Giving LLMs the Situational Awareness to Participate in a Meeting",
+      "date": "2026-09-03T14:38:09.000Z",
+      "url": "http://arxiv.org/abs/2609.03923v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "CROCODIL: Cross-Model Code Editing with LLMs",
+      "date": "2026-09-03T14:12:42.000Z",
+      "url": "http://arxiv.org/abs/2609.03894v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Flip, Don't Shuffle: Watermarking LLMs at the Speed of Inference",
+      "date": "2026-09-03T13:38:49.000Z",
+      "url": "http://arxiv.org/abs/2609.03844v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Circuit for Plural Reference: How LLMs Represent and Retrieve Singular and Plural Entities",
+      "date": "2026-09-03T11:23:11.000Z",
+      "url": "http://arxiv.org/abs/2609.03687v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "KhatianDoc: A Human-Verified Benchmark Diagnosing Multimodal LLM Failure on Bengali Legal Land Records",
+      "date": "2026-09-03T09:46:41.000Z",
+      "url": "http://arxiv.org/abs/2609.03597v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Lost in Reordering: Structural Sensitivity of Multilingual LLMs under Semantics-Preserving Perturbations",
+      "date": "2026-09-03T08:10:43.000Z",
+      "url": "http://arxiv.org/abs/2609.03511v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "It's the Problem, Not the Path: Budget and Difficulty Confounds in LLM Reasoning Trajectories",
+      "date": "2026-09-03T06:47:55.000Z",
+      "url": "http://arxiv.org/abs/2609.03436v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Decoupled Analysis-Judging: An Automated Creativity Evaluator Using LLMs in Complex Multi-step Creativity Tasks",
+      "date": "2026-09-03T06:44:04.000Z",
+      "url": "http://arxiv.org/abs/2609.03432v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "From Zero to Hero: An Open LLM Ecosystem for Armenian",
+      "date": "2026-09-03T04:15:04.000Z",
+      "url": "http://arxiv.org/abs/2609.03350v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Counterfactual Fairness Audits of Multi-Step Clinical LLM Agents Require a Measured Per-Action Instability Floor",
+      "date": "2026-09-02T23:38:17.000Z",
+      "url": "http://arxiv.org/abs/2609.03221v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Analyst in the Prompt: Role, Retrieval, and Memory Biases in LLM Financial Analysis",
+      "date": "2026-09-02T23:28:42.000Z",
+      "url": "http://arxiv.org/abs/2609.03218v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLMs Learn Better In-Context from Rules than from Examples",
+      "date": "2026-09-02T23:02:38.000Z",
+      "url": "http://arxiv.org/abs/2609.03213v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "No country for old linguists: LLM-brain alignment underdetermines neural computation",
+      "date": "2026-09-02T20:52:09.000Z",
+      "url": "http://arxiv.org/abs/2609.03160v1",
+      "source": "arxiv"
+    },
     {
       "title": "User Feedback Provides a Unique Signal that LLMs Can not Detect",
       "date": "2026-09-02T17:42:44.000Z",
@@ -37,90 +121,6 @@
       "title": "Learning to Fuse LLMs with Ontology Rankers for Rare-Disease Diagnosis",
       "date": "2026-09-02T11:44:21.000Z",
       "url": "http://arxiv.org/abs/2609.02473v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "MultiGhostBench: A Multilingual Benchmark for Long-Form LLM-Generated Text Attribution under Distribution Shifts",
-      "date": "2026-09-02T09:52:45.000Z",
-      "url": "http://arxiv.org/abs/2609.02379v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "RideSkill: A Hierarchical Algorithm for Generalized Ride Sharing with LLM-Driven Automatic Evolution",
-      "date": "2026-09-02T07:57:03.000Z",
-      "url": "http://arxiv.org/abs/2609.02250v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "MASkills: Continual Skills Optimization for Multi-Agent LLM Systems",
-      "date": "2026-09-02T04:34:17.000Z",
-      "url": "http://arxiv.org/abs/2609.02094v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "XMerge: Cross-Axis Selection and Reconstructive Layer Merging for LLM Depth Compression",
-      "date": "2026-09-02T04:12:44.000Z",
-      "url": "http://arxiv.org/abs/2609.02083v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "NS-Copilot: An LLM-Driven Agent System for Autonomous Neuroscience Analysis",
-      "date": "2026-09-02T00:57:05.000Z",
-      "url": "http://arxiv.org/abs/2609.01971v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Grounded, Compute-Efficient LLM Policy Agents for Energy-Poverty Equity in Physically-Constrained Peer-to-Peer Energy Markets",
-      "date": "2026-09-01T22:37:34.000Z",
-      "url": "http://arxiv.org/abs/2609.01918v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Accurate in space, unreliable in time: how LLMs represent national cultural change",
-      "date": "2026-09-01T22:03:06.000Z",
-      "url": "http://arxiv.org/abs/2609.01902v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "How Do Prompt Variations Affect Energy Consumption in On-Device LLMs?",
-      "date": "2026-09-01T19:08:04.000Z",
-      "url": "http://arxiv.org/abs/2609.01798v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "VakyArth: Evaluating Pragmatic Competence in LLMs across Indic Languages",
-      "date": "2026-09-01T19:00:32.000Z",
-      "url": "http://arxiv.org/abs/2609.01788v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Harness Engineering in LLM Tool Use via Agent-Native Reusable Tool Primitives",
-      "date": "2026-09-01T18:07:09.000Z",
-      "url": "http://arxiv.org/abs/2609.01736v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation",
-      "date": "2026-09-01T17:59:49.000Z",
-      "url": "http://arxiv.org/abs/2609.01604v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "StudentSim: Training LLM-based Student Simulators",
-      "date": "2026-09-01T17:55:10.000Z",
-      "url": "http://arxiv.org/abs/2609.01591v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "The Structure of Quantization Damage in LLMs: Why the Next Bit Should Be Spent Globally",
-      "date": "2026-09-01T17:53:41.000Z",
-      "url": "http://arxiv.org/abs/2609.01587v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Scaling Near-Optimal SFT-RL Annotation Budget Allocation from Small to Large LLMs",
-      "date": "2026-09-01T17:39:55.000Z",
-      "url": "http://arxiv.org/abs/2609.01573v1",
       "source": "arxiv"
     }
   ],
