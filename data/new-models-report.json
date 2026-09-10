@@ -1,7 +1,128 @@
 {
-  "timestamp": "2026-09-09T13:22:44.478Z",
+  "timestamp": "2026-09-10T13:18:37.986Z",
   "existingCount": 0,
   "newModels": [],
-  "recentPapers": [],
+  "recentPapers": [
+    {
+      "title": "Retrofitting Code Using LLMs to Support Exceptional Behavior",
+      "date": "2026-09-09T16:18:47.000Z",
+      "url": "http://arxiv.org/abs/2609.10397v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Why Is Video Still So Expensive? A Survey of Inference-Efficiency Mechanisms in Video and Audiovisual LLMs",
+      "date": "2026-09-09T15:50:39.000Z",
+      "url": "http://arxiv.org/abs/2609.10355v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "DiSCo: A Distribution-First Steering and Cultural Prior Evaluation Framework for Measuring Cultural Preference Bias in LLMs",
+      "date": "2026-09-09T14:40:08.000Z",
+      "url": "http://arxiv.org/abs/2609.10253v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Answer Path and the Grounding Instruction in LLM Question Answering over Knowledge Graphs",
+      "date": "2026-09-09T14:31:11.000Z",
+      "url": "http://arxiv.org/abs/2609.10237v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "If It's Not Buggy, Don't Fix It: On the Dynamics of Iterative Bug-fixing with LLMs",
+      "date": "2026-09-09T13:00:47.000Z",
+      "url": "http://arxiv.org/abs/2609.10123v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "ProbPlug: A Plugin Uncertainty Network for Reliable Confidence in LLM Binary Classification",
+      "date": "2026-09-09T13:00:22.000Z",
+      "url": "http://arxiv.org/abs/2609.10122v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "5-Dialects-BN: Unmasking the Impact of Transliteration on Bangla Dialectal LLMs",
+      "date": "2026-09-09T09:52:19.000Z",
+      "url": "http://arxiv.org/abs/2609.09964v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "When Does Defendant Statement Matter? A Study of Bias and Persuasion in LLM-Simulated Jurors",
+      "date": "2026-09-09T08:43:34.000Z",
+      "url": "http://arxiv.org/abs/2609.09887v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "HyperTrace: Hypothesis-Based Preference Tracing for Online LLM Personalization",
+      "date": "2026-09-09T07:40:21.000Z",
+      "url": "http://arxiv.org/abs/2609.09835v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "UnitBoost: Managing Compound LLM Systems with a Merge Operator, Not a Model",
+      "date": "2026-09-09T07:17:23.000Z",
+      "url": "http://arxiv.org/abs/2609.09815v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "SocialRL: Refining LLMs' Social Intelligence through Multi-turn Reinforcement Learning and Reward Design",
+      "date": "2026-09-09T06:06:34.000Z",
+      "url": "http://arxiv.org/abs/2609.09764v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "When Auditors Fabricate: Batch-Size Degradation and Confident Hallucination in LLM Detection of Planted Document Contamination",
+      "date": "2026-09-09T04:29:45.000Z",
+      "url": "http://arxiv.org/abs/2609.09696v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "PELM: Power Efficient On-Device LLM Inference with Speculative Decoding and Dynamic Voltage Frequency Scaling",
+      "date": "2026-09-09T03:27:51.000Z",
+      "url": "http://arxiv.org/abs/2609.09662v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Do LLMs Make More Mistakes If They Do Not Believe the Input Data?",
+      "date": "2026-09-08T18:55:45.000Z",
+      "url": "http://arxiv.org/abs/2609.09363v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "SWORD: Wikidata-based Distortions Reveal Hidden Cross-Lingual Inconsistencies in LLM Factual Error Rejection",
+      "date": "2026-09-08T18:39:01.000Z",
+      "url": "http://arxiv.org/abs/2609.09349v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+      "date": "2026-09-08T17:59:41.000Z",
+      "url": "http://arxiv.org/abs/2609.09153v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Measuring LLM Sycophancy under Sustained Multi-Turn Pressure",
+      "date": "2026-09-08T17:35:04.000Z",
+      "url": "http://arxiv.org/abs/2609.09090v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Audit Decides the Verdict: Instrument Effects Rival Demographic Bias in LLM Decision Audits",
+      "date": "2026-09-08T17:08:53.000Z",
+      "url": "http://arxiv.org/abs/2609.09048v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Answer-Distribution Trajectories: A Stochastic-Dynamics View of LLM Reasoning",
+      "date": "2026-09-08T16:58:40.000Z",
+      "url": "http://arxiv.org/abs/2609.09030v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "PlannerForge: LLM Agents for Scenario-Based Testing of Motion Planners in Autonomous Driving",
+      "date": "2026-09-08T16:19:06.000Z",
+      "url": "http://arxiv.org/abs/2609.08965v1",
+      "source": "arxiv"
+    }
+  ],
   "withBenchmarks": 0
 }
