@@ -1,8 +1,62 @@
 {
-  "timestamp": "2026-09-10T13:18:37.986Z",
+  "timestamp": "2026-09-11T13:13:06.929Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "Nuha-Speech: Building General-Purpose Arabic Speech-LLMs",
+      "date": "2026-09-10T17:50:35.000Z",
+      "url": "http://arxiv.org/abs/2609.11892v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "RetroThinker: Enabling Retrospective Thinking in Speech LLMs",
+      "date": "2026-09-10T17:41:53.000Z",
+      "url": "http://arxiv.org/abs/2609.11864v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Component-Aware Differential Privacy for Federated Multilingual Speech-LLMs",
+      "date": "2026-09-10T16:17:19.000Z",
+      "url": "http://arxiv.org/abs/2609.11762v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "RAG-Safety-Bench: Reliable Evaluation of Retrieval-Augmented LLM Safety",
+      "date": "2026-09-10T16:12:25.000Z",
+      "url": "http://arxiv.org/abs/2609.11758v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Can LLMs Normalize Databases? A Benchmark and Multi-Agent Framework for Schema Normalization",
+      "date": "2026-09-10T06:34:35.000Z",
+      "url": "http://arxiv.org/abs/2609.11141v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "When Noise Fabricates Bias: The Fragility of LLM-as-a-Judge Bias Measurement under Noisy Text",
+      "date": "2026-09-10T04:14:03.000Z",
+      "url": "http://arxiv.org/abs/2609.11067v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Rethinking Verbalized Confidence for LLM-as-a-Judge: A Compatibility Shift on Post-2025 Proprietary Models",
+      "date": "2026-09-10T02:17:35.000Z",
+      "url": "http://arxiv.org/abs/2609.10996v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLM-Anchored Paralinguistic Enrichment for Alzheimer's Disease Detection",
+      "date": "2026-09-09T22:58:52.000Z",
+      "url": "http://arxiv.org/abs/2609.10896v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Multilingual in Name Only? Cultural and Linguistic Weaknesses of LLMs in Urdu",
+      "date": "2026-09-09T18:59:52.000Z",
+      "url": "http://arxiv.org/abs/2609.10758v1",
+      "source": "arxiv"
+    },
     {
       "title": "Retrofitting Code Using LLMs to Support Exceptional Behavior",
       "date": "2026-09-09T16:18:47.000Z",
@@ -67,60 +121,6 @@
       "title": "SocialRL: Refining LLMs' Social Intelligence through Multi-turn Reinforcement Learning and Reward Design",
       "date": "2026-09-09T06:06:34.000Z",
       "url": "http://arxiv.org/abs/2609.09764v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "When Auditors Fabricate: Batch-Size Degradation and Confident Hallucination in LLM Detection of Planted Document Contamination",
-      "date": "2026-09-09T04:29:45.000Z",
-      "url": "http://arxiv.org/abs/2609.09696v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "PELM: Power Efficient On-Device LLM Inference with Speculative Decoding and Dynamic Voltage Frequency Scaling",
-      "date": "2026-09-09T03:27:51.000Z",
-      "url": "http://arxiv.org/abs/2609.09662v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Do LLMs Make More Mistakes If They Do Not Believe the Input Data?",
-      "date": "2026-09-08T18:55:45.000Z",
-      "url": "http://arxiv.org/abs/2609.09363v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "SWORD: Wikidata-based Distortions Reveal Hidden Cross-Lingual Inconsistencies in LLM Factual Error Rejection",
-      "date": "2026-09-08T18:39:01.000Z",
-      "url": "http://arxiv.org/abs/2609.09349v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
-      "date": "2026-09-08T17:59:41.000Z",
-      "url": "http://arxiv.org/abs/2609.09153v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Measuring LLM Sycophancy under Sustained Multi-Turn Pressure",
-      "date": "2026-09-08T17:35:04.000Z",
-      "url": "http://arxiv.org/abs/2609.09090v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "The Audit Decides the Verdict: Instrument Effects Rival Demographic Bias in LLM Decision Audits",
-      "date": "2026-09-08T17:08:53.000Z",
-      "url": "http://arxiv.org/abs/2609.09048v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Answer-Distribution Trajectories: A Stochastic-Dynamics View of LLM Reasoning",
-      "date": "2026-09-08T16:58:40.000Z",
-      "url": "http://arxiv.org/abs/2609.09030v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "PlannerForge: LLM Agents for Scenario-Based Testing of Motion Planners in Autonomous Driving",
-      "date": "2026-09-08T16:19:06.000Z",
-      "url": "http://arxiv.org/abs/2609.08965v1",
       "source": "arxiv"
     }
   ],
