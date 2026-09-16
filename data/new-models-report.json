@@ -1,7 +1,128 @@
 {
-  "timestamp": "2026-09-15T14:08:59.466Z",
+  "timestamp": "2026-09-16T14:01:08.247Z",
   "existingCount": 0,
   "newModels": [],
-  "recentPapers": [],
+  "recentPapers": [
+    {
+      "title": "When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control",
+      "date": "2026-09-15T17:52:24.000Z",
+      "url": "http://arxiv.org/abs/2609.17516v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity",
+      "date": "2026-09-15T17:51:48.000Z",
+      "url": "http://arxiv.org/abs/2609.17515v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Verifiable Social Reasoning for LLM Assistants",
+      "date": "2026-09-15T17:37:29.000Z",
+      "url": "http://arxiv.org/abs/2609.17496v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "An Empirical Study of Counterfactual Self-Explanations in LLMs",
+      "date": "2026-09-15T12:47:22.000Z",
+      "url": "http://arxiv.org/abs/2609.17119v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Can LLMs Follow the Pulse of a Crisis? Evaluating Crisis Sentiment in Bangladesh's July Uprising",
+      "date": "2026-09-15T11:08:25.000Z",
+      "url": "http://arxiv.org/abs/2609.16997v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Nameless Tokenization: A Lossless Tokenizer-Level Defense Against Control-Token Forgery in Open-Weight LLMs",
+      "date": "2026-09-15T11:00:03.000Z",
+      "url": "http://arxiv.org/abs/2609.16984v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Smarter by the Moment: Environment-Driven Dynamic Policies for Continual LLM Improvement",
+      "date": "2026-09-15T08:06:17.000Z",
+      "url": "http://arxiv.org/abs/2609.16800v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Benchmarking Factual Robustness of LLMs via Multi-conversation Persuasion",
+      "date": "2026-09-15T07:46:01.000Z",
+      "url": "http://arxiv.org/abs/2609.16777v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Japanese Stroke LLM Evaluation: A Conversational Benchmark for Safe Stroke Care in Japanese Using Large Language Models",
+      "date": "2026-09-15T07:13:49.000Z",
+      "url": "http://arxiv.org/abs/2609.16739v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Style-Debiased DPO: Updating LLM Knowledge with Factuality-Aware Synthetic Preference Data",
+      "date": "2026-09-15T02:26:19.000Z",
+      "url": "http://arxiv.org/abs/2609.16532v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Competence-Preserving Resume Perturbations Expose Presentation Sensitivity in LLM Screening",
+      "date": "2026-09-15T02:07:19.000Z",
+      "url": "http://arxiv.org/abs/2609.16517v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Beyond the Name: Demographic Leakage in De-Identified Résumés and Evaluation Artifacts in LLM Bias Audits",
+      "date": "2026-09-15T01:48:44.000Z",
+      "url": "http://arxiv.org/abs/2609.16501v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Early-Bird Decoding: Accelerating Diffusion LLMs with Learnable Block Sizes and Parallel Sampling",
+      "date": "2026-09-15T00:12:37.000Z",
+      "url": "http://arxiv.org/abs/2609.16450v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Interpreting and Steering LLM Agents for Social Simulations",
+      "date": "2026-09-14T23:23:23.000Z",
+      "url": "http://arxiv.org/abs/2609.16436v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "ReMova: Fine-tuning LLMs for English to Belarusian translation",
+      "date": "2026-09-14T23:12:01.000Z",
+      "url": "http://arxiv.org/abs/2609.16427v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "How Humans and LLMs Read Gender into Gender-Neutral Physical Descriptions",
+      "date": "2026-09-14T21:29:15.000Z",
+      "url": "http://arxiv.org/abs/2609.16366v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Decoy Direction Optimization: A Post-Hoc Defense Against LLM Abliteration",
+      "date": "2026-09-14T18:36:35.000Z",
+      "url": "http://arxiv.org/abs/2609.16204v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Router Within: Eliciting Native Skill Routing from a Frozen LLM",
+      "date": "2026-09-14T17:58:27.000Z",
+      "url": "http://arxiv.org/abs/2609.15982v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "HypoEvolve: Genetic Algorithms Enable Multi-Agent LLMs to Discover Scientific Hypotheses",
+      "date": "2026-09-14T17:44:49.000Z",
+      "url": "http://arxiv.org/abs/2609.15938v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Before You Poll with LLMs: A Deliberative Diagnostic Framework",
+      "date": "2026-09-14T16:41:48.000Z",
+      "url": "http://arxiv.org/abs/2609.15849v1",
+      "source": "arxiv"
+    }
+  ],
   "withBenchmarks": 0
 }
