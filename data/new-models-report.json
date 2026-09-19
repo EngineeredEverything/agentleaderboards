@@ -1,7 +1,128 @@
 {
-  "timestamp": "2026-09-18T13:22:45.710Z",
+  "timestamp": "2026-09-19T12:51:38.274Z",
   "existingCount": 0,
   "newModels": [],
-  "recentPapers": [],
+  "recentPapers": [
+    {
+      "title": "Chronicle: Cut-Point Replay for Regression Testing of LLM Agents",
+      "date": "2026-09-17T16:09:57.000Z",
+      "url": "http://arxiv.org/abs/2609.20625v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "WiC is Not WSD: A Study on LLMs and Lexical Ambiguity Resolution",
+      "date": "2026-09-17T15:45:33.000Z",
+      "url": "http://arxiv.org/abs/2609.20593v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "SAFARI: An Industrial Benchmark for LLM-Assisted Hazard Analysis and Risk Assessment",
+      "date": "2026-09-17T15:37:51.000Z",
+      "url": "http://arxiv.org/abs/2609.20584v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Xeno-Interpretability: Investigating the Alien Minds of LLMs",
+      "date": "2026-09-17T13:54:19.000Z",
+      "url": "http://arxiv.org/abs/2609.20408v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Benchmarking LLM Compliance with China AI Generated Content Regulations",
+      "date": "2026-09-17T09:58:14.000Z",
+      "url": "http://arxiv.org/abs/2609.19989v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Before the Arrest: Benchmarking LLMs on Criminal Profiling from Incomplete Evidence",
+      "date": "2026-09-17T09:38:22.000Z",
+      "url": "http://arxiv.org/abs/2609.19965v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "KoNeoBench: A Curated Evaluation Dataset for LLM Understanding of Korean Neologisms",
+      "date": "2026-09-17T08:58:49.000Z",
+      "url": "http://arxiv.org/abs/2609.19916v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "PetriBench: Benchmarking LLM Reasoning over Dynamic State Spaces",
+      "date": "2026-09-17T08:31:18.000Z",
+      "url": "http://arxiv.org/abs/2609.19883v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Reproducibility is not construct validity: LLM measurement of institutionally situated communication",
+      "date": "2026-09-17T08:19:58.000Z",
+      "url": "http://arxiv.org/abs/2609.19866v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Dictionary-Constrained Grapheme-to-Phoneme for Unsegmented Languages from LLM-Annotated Data",
+      "date": "2026-09-17T07:16:45.000Z",
+      "url": "http://arxiv.org/abs/2609.19805v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Evolution or Illusion? Rethinking Evaluation in LLM Evolutionary Search",
+      "date": "2026-09-17T07:12:42.000Z",
+      "url": "http://arxiv.org/abs/2609.19799v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "From Intent to Action: Benchmarking LLM Safety in Vehicle Voice Command Authorization",
+      "date": "2026-09-17T03:20:22.000Z",
+      "url": "http://arxiv.org/abs/2609.19630v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Semantic Layer Induction from Raw Telemetry via Hierarchical LLM and RAG Abstraction",
+      "date": "2026-09-17T03:05:17.000Z",
+      "url": "http://arxiv.org/abs/2609.19615v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "CliniCIRCA: A Modular LLM Framework for Constructing Longitudinal Mental Health Patient Journeys from Raw EHR Narratives",
+      "date": "2026-09-17T02:13:21.000Z",
+      "url": "http://arxiv.org/abs/2609.19585v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Role of Fine-grained Harm Signals in LLM Safety",
+      "date": "2026-09-16T19:40:50.000Z",
+      "url": "http://arxiv.org/abs/2609.19366v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Zeroth-Order Paradigm for LLM Preference Alignment",
+      "date": "2026-09-16T17:59:35.000Z",
+      "url": "http://arxiv.org/abs/2609.19144v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Monitoring and Discovering Reward Hacking with Internal Representations during LLM Evaluations",
+      "date": "2026-09-16T17:31:52.000Z",
+      "url": "http://arxiv.org/abs/2609.19101v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "DyMT-ESB: Dynamic Multi-Turn Evaluation of Social Bias in User-LLM Interactions",
+      "date": "2026-09-16T13:32:46.000Z",
+      "url": "http://arxiv.org/abs/2609.18649v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "STRETCH the Boundaries: A Unified Self-Taught Framework for Progressive LLM Evolution",
+      "date": "2026-09-16T13:27:16.000Z",
+      "url": "http://arxiv.org/abs/2609.18642v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Market Signal Injection: Adversarial Context Manipulation of LLM Pricing Agents",
+      "date": "2026-09-16T09:16:08.000Z",
+      "url": "http://arxiv.org/abs/2609.18357v1",
+      "source": "arxiv"
+    }
+  ],
   "withBenchmarks": 0
 }
