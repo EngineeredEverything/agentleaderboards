@@ -1,8 +1,38 @@
 {
-  "timestamp": "2026-09-20T13:26:24.925Z",
+  "timestamp": "2026-09-21T15:38:39.950Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "An Interpretable Memory Decision Controller for LLM Agents Based on Three-Signal Complementarity: Decoupling Confidence and Consistency",
+      "date": "2026-09-18T17:34:13.000Z",
+      "url": "http://arxiv.org/abs/2609.22043v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Do Personality-Tuned LLMs Make Better Social Agents?",
+      "date": "2026-09-18T14:52:26.000Z",
+      "url": "http://arxiv.org/abs/2609.21857v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Accelerating Dense LLMs via L0-regularized Mixture-of-Experts",
+      "date": "2026-09-18T12:08:31.000Z",
+      "url": "http://arxiv.org/abs/2609.21672v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Steering LLMs Responses Towards Moral Foundations on the Norwegian MFQ-30",
+      "date": "2026-09-18T11:25:22.000Z",
+      "url": "http://arxiv.org/abs/2609.21636v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
+      "date": "2026-09-17T21:15:34.000Z",
+      "url": "http://arxiv.org/abs/2609.21096v1",
+      "source": "arxiv"
+    },
     {
       "title": "Chronicle: Cut-Point Replay for Regression Testing of LLM Agents",
       "date": "2026-09-17T16:09:57.000Z",
@@ -90,37 +120,7 @@
     {
       "title": "The Role of Fine-grained Harm Signals in LLM Safety",
       "date": "2026-09-16T19:40:50.000Z",
-      "url": "http://arxiv.org/abs/2609.19366v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "A Zeroth-Order Paradigm for LLM Preference Alignment",
-      "date": "2026-09-16T17:59:35.000Z",
-      "url": "http://arxiv.org/abs/2609.19144v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Monitoring and Discovering Reward Hacking with Internal Representations during LLM Evaluations",
-      "date": "2026-09-16T17:31:52.000Z",
-      "url": "http://arxiv.org/abs/2609.19101v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "DyMT-ESB: Dynamic Multi-Turn Evaluation of Social Bias in User-LLM Interactions",
-      "date": "2026-09-16T13:32:46.000Z",
-      "url": "http://arxiv.org/abs/2609.18649v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "STRETCH the Boundaries: A Unified Self-Taught Framework for Progressive LLM Evolution",
-      "date": "2026-09-16T13:27:16.000Z",
-      "url": "http://arxiv.org/abs/2609.18642v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Market Signal Injection: Adversarial Context Manipulation of LLM Pricing Agents",
-      "date": "2026-09-16T09:16:08.000Z",
-      "url": "http://arxiv.org/abs/2609.18357v1",
+      "url": "http://arxiv.org/abs/2609.19366v2",
       "source": "arxiv"
     }
   ],
