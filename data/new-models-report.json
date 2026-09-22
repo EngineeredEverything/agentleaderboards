@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-09-21T15:38:39.950Z",
+  "timestamp": "2026-09-22T13:53:10.794Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
-      "title": "An Interpretable Memory Decision Controller for LLM Agents Based on Three-Signal Complementarity: Decoupling Confidence and Consistency",
-      "date": "2026-09-18T17:34:13.000Z",
-      "url": "http://arxiv.org/abs/2609.22043v1",
+      "title": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction",
+      "date": "2026-09-21T17:56:53.000Z",
+      "url": "http://arxiv.org/abs/2609.24983v1",
       "source": "arxiv"
     },
     {
-      "title": "Do Personality-Tuned LLMs Make Better Social Agents?",
-      "date": "2026-09-18T14:52:26.000Z",
-      "url": "http://arxiv.org/abs/2609.21857v1",
+      "title": "Emergent Collusion in Long-Horizon LLM Agent Interaction",
+      "date": "2026-09-21T17:52:48.000Z",
+      "url": "http://arxiv.org/abs/2609.24967v1",
       "source": "arxiv"
     },
     {
-      "title": "Accelerating Dense LLMs via L0-regularized Mixture-of-Experts",
-      "date": "2026-09-18T12:08:31.000Z",
-      "url": "http://arxiv.org/abs/2609.21672v1",
+      "title": "Human-LLM Deliberation as Interactive Proof: Conditions for Verifiability Without Transparency",
+      "date": "2026-09-21T17:00:15.000Z",
+      "url": "http://arxiv.org/abs/2609.24895v1",
       "source": "arxiv"
     },
     {
-      "title": "Steering LLMs Responses Towards Moral Foundations on the Norwegian MFQ-30",
-      "date": "2026-09-18T11:25:22.000Z",
-      "url": "http://arxiv.org/abs/2609.21636v1",
+      "title": "Extracting Arguments, Not Just Classifying Them: Instruction-Tuned LLMs for Generative Component Detection",
+      "date": "2026-09-21T16:30:38.000Z",
+      "url": "http://arxiv.org/abs/2609.24855v1",
       "source": "arxiv"
     },
     {
-      "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
-      "date": "2026-09-17T21:15:34.000Z",
-      "url": "http://arxiv.org/abs/2609.21096v1",
+      "title": "When Quantization Preserves Accuracy but Not Evidence: Explanation-Aware Post-Training Quantization for Medical LLMs",
+      "date": "2026-09-21T15:59:06.000Z",
+      "url": "http://arxiv.org/abs/2609.24799v1",
       "source": "arxiv"
     },
     {
-      "title": "Chronicle: Cut-Point Replay for Regression Testing of LLM Agents",
-      "date": "2026-09-17T16:09:57.000Z",
-      "url": "http://arxiv.org/abs/2609.20625v1",
+      "title": "Assessing Readability with LLMs: The Role of Reasoning and Few-Shot Prompting",
+      "date": "2026-09-21T14:22:39.000Z",
+      "url": "http://arxiv.org/abs/2609.24650v1",
       "source": "arxiv"
     },
     {
-      "title": "WiC is Not WSD: A Study on LLMs and Lexical Ambiguity Resolution",
-      "date": "2026-09-17T15:45:33.000Z",
-      "url": "http://arxiv.org/abs/2609.20593v1",
+      "title": "QLoRA Fine-Tuning of Ministral LLM for Sequence-to-Function Protein Annotation",
+      "date": "2026-09-21T13:09:59.000Z",
+      "url": "http://arxiv.org/abs/2609.24538v1",
       "source": "arxiv"
     },
     {
-      "title": "SAFARI: An Industrial Benchmark for LLM-Assisted Hazard Analysis and Risk Assessment",
-      "date": "2026-09-17T15:37:51.000Z",
-      "url": "http://arxiv.org/abs/2609.20584v1",
+      "title": "LLJ Cards: Best practices for the Use of LLMs as Judges",
+      "date": "2026-09-21T12:54:07.000Z",
+      "url": "http://arxiv.org/abs/2609.24516v1",
       "source": "arxiv"
     },
     {
-      "title": "Xeno-Interpretability: Investigating the Alien Minds of LLMs",
-      "date": "2026-09-17T13:54:19.000Z",
-      "url": "http://arxiv.org/abs/2609.20408v1",
+      "title": "SupportCal: Label-Free Calibration of Post-Trained LLMs via Reference Support and Corroboration",
+      "date": "2026-09-21T09:02:41.000Z",
+      "url": "http://arxiv.org/abs/2609.24303v1",
       "source": "arxiv"
     },
     {
-      "title": "Benchmarking LLM Compliance with China AI Generated Content Regulations",
-      "date": "2026-09-17T09:58:14.000Z",
-      "url": "http://arxiv.org/abs/2609.19989v1",
+      "title": "Efficient LLM Distillation for Bangladesh Legal Context: A Smartphone-Compatible Retrieval-Augmented Generation Model",
+      "date": "2026-09-21T06:48:27.000Z",
+      "url": "http://arxiv.org/abs/2609.24177v1",
       "source": "arxiv"
     },
     {
-      "title": "Before the Arrest: Benchmarking LLMs on Criminal Profiling from Incomplete Evidence",
-      "date": "2026-09-17T09:38:22.000Z",
-      "url": "http://arxiv.org/abs/2609.19965v1",
+      "title": "From Tables to Quantified Statements: Evaluating LLM Inference Generation through Executable Verification",
+      "date": "2026-09-21T00:36:36.000Z",
+      "url": "http://arxiv.org/abs/2609.23966v1",
       "source": "arxiv"
     },
     {
-      "title": "KoNeoBench: A Curated Evaluation Dataset for LLM Understanding of Korean Neologisms",
-      "date": "2026-09-17T08:58:49.000Z",
-      "url": "http://arxiv.org/abs/2609.19916v1",
+      "title": "Some Dialects Are More Equal Than Others: Non-Prestigious Arabic Dialectal Bias in LLMs",
+      "date": "2026-09-21T00:03:17.000Z",
+      "url": "http://arxiv.org/abs/2609.23955v1",
       "source": "arxiv"
     },
     {
-      "title": "PetriBench: Benchmarking LLM Reasoning over Dynamic State Spaces",
-      "date": "2026-09-17T08:31:18.000Z",
-      "url": "http://arxiv.org/abs/2609.19883v1",
+      "title": "Time-Incremental Continued Pretraining of LLMs: Knowledge Updates Without Catastrophic Forgetting",
+      "date": "2026-09-20T22:44:54.000Z",
+      "url": "http://arxiv.org/abs/2609.23916v1",
       "source": "arxiv"
     },
     {
-      "title": "Reproducibility is not construct validity: LLM measurement of institutionally situated communication",
-      "date": "2026-09-17T08:19:58.000Z",
-      "url": "http://arxiv.org/abs/2609.19866v1",
+      "title": "From UNDRR Reports to Event Records: Schema-Constrained LLM Extraction of Georeferenced Disasters",
+      "date": "2026-09-20T20:14:51.000Z",
+      "url": "http://arxiv.org/abs/2609.23853v1",
       "source": "arxiv"
     },
     {
-      "title": "Dictionary-Constrained Grapheme-to-Phoneme for Unsegmented Languages from LLM-Annotated Data",
-      "date": "2026-09-17T07:16:45.000Z",
-      "url": "http://arxiv.org/abs/2609.19805v1",
+      "title": "Federated Multilingual Speech-LLMs: Architecture and Aggregation Strategy Benchmarking",
+      "date": "2026-09-20T19:23:15.000Z",
+      "url": "http://arxiv.org/abs/2609.23825v1",
       "source": "arxiv"
     },
     {
-      "title": "Evolution or Illusion? Rethinking Evaluation in LLM Evolutionary Search",
-      "date": "2026-09-17T07:12:42.000Z",
-      "url": "http://arxiv.org/abs/2609.19799v1",
+      "title": "Constrained Decoding Eliminates Structural Failures in Small LLMs but Reveals a Scale-Dependent Semantic Gap",
+      "date": "2026-09-20T16:44:57.000Z",
+      "url": "http://arxiv.org/abs/2609.23742v1",
       "source": "arxiv"
     },
     {
-      "title": "From Intent to Action: Benchmarking LLM Safety in Vehicle Voice Command Authorization",
-      "date": "2026-09-17T03:20:22.000Z",
-      "url": "http://arxiv.org/abs/2609.19630v1",
+      "title": "Beyond Relevance: Structured Semantic Supervision for Product Search with LLM-Augmented Annotations",
+      "date": "2026-09-20T13:49:02.000Z",
+      "url": "http://arxiv.org/abs/2609.23646v1",
       "source": "arxiv"
     },
     {
-      "title": "Semantic Layer Induction from Raw Telemetry via Hierarchical LLM and RAG Abstraction",
-      "date": "2026-09-17T03:05:17.000Z",
-      "url": "http://arxiv.org/abs/2609.19615v1",
+      "title": "BabelArena: A Large-Scale Multilingual Benchmark for LLM Agents",
+      "date": "2026-09-20T09:25:38.000Z",
+      "url": "http://arxiv.org/abs/2609.23490v1",
       "source": "arxiv"
     },
     {
-      "title": "CliniCIRCA: A Modular LLM Framework for Constructing Longitudinal Mental Health Patient Journeys from Raw EHR Narratives",
-      "date": "2026-09-17T02:13:21.000Z",
-      "url": "http://arxiv.org/abs/2609.19585v1",
+      "title": "RPMem: Learning Long-Term Recurrent Parametric Memory Across Sessions for LLM Agents",
+      "date": "2026-09-20T08:51:10.000Z",
+      "url": "http://arxiv.org/abs/2609.23466v1",
       "source": "arxiv"
     },
     {
-      "title": "The Role of Fine-grained Harm Signals in LLM Safety",
-      "date": "2026-09-16T19:40:50.000Z",
-      "url": "http://arxiv.org/abs/2609.19366v2",
+      "title": "PSD: Pseudo Self-Distillation of Memory Representation Capabilities for LLM Agents",
+      "date": "2026-09-20T08:24:52.000Z",
+      "url": "http://arxiv.org/abs/2609.23449v1",
       "source": "arxiv"
     }
   ],
