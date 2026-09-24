@@ -1,8 +1,86 @@
 {
-  "timestamp": "2026-09-23T14:03:42.618Z",
+  "timestamp": "2026-09-24T14:00:22.035Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "Can LLMs Reason About Runtime Behavior? A Repository-Level Dynamic Benchmark",
+      "date": "2026-09-23T17:46:50.000Z",
+      "url": "http://arxiv.org/abs/2609.28449v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Agent-Editing World Model: Rethinking World Modeling for LLM Agents",
+      "date": "2026-09-23T17:18:26.000Z",
+      "url": "http://arxiv.org/abs/2609.28416v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Fine-Tuning LLMs for Translation: General Forgetting Mitigation Does Not Preserve MT-Specific Instruction Following",
+      "date": "2026-09-23T17:02:59.000Z",
+      "url": "http://arxiv.org/abs/2609.28395v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Exact Feedback Is Not Control: Evaluating Text-based Closed-Loop Revision in LLMs",
+      "date": "2026-09-23T14:06:52.000Z",
+      "url": "http://arxiv.org/abs/2609.28150v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Can LLMs Catch a Rigged Backtest? A Clean-Control Calibration Benchmark",
+      "date": "2026-09-23T13:25:25.000Z",
+      "url": "http://arxiv.org/abs/2609.28090v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing",
+      "date": "2026-09-23T12:51:08.000Z",
+      "url": "http://arxiv.org/abs/2609.28026v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Evaluating Open-Weight LLMs for Turkish Domain Documents Under Retrieval and Hardware Constraints",
+      "date": "2026-09-23T12:33:57.000Z",
+      "url": "http://arxiv.org/abs/2609.28007v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "SkillGym: Internalizing Human Skills into LLMs for Real-World Problem Solving",
+      "date": "2026-09-23T11:35:34.000Z",
+      "url": "http://arxiv.org/abs/2609.27717v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Can One Adapted Model Do It All? Fine-Tuning Strategy Selection for Customer Support LLMs",
+      "date": "2026-09-23T02:46:50.000Z",
+      "url": "http://arxiv.org/abs/2609.27262v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Count Evidence, Not Sentences: Tempered Evidence Fusion of LLM Judgments for Long-Text Value Measurement",
+      "date": "2026-09-22T23:52:38.000Z",
+      "url": "http://arxiv.org/abs/2609.27165v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "What Changes When Fact-Verification Scores Improve? Evidence and Answer Accounting Across Trained Verifiers and LLMs",
+      "date": "2026-09-22T21:02:40.000Z",
+      "url": "http://arxiv.org/abs/2609.27064v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Experts Rise Where LLMs Disagree: Using Cross-Model Disagreement to Target Expert Effort in LLM Codebook Revision for Large-Scale Annotation",
+      "date": "2026-09-22T18:19:23.000Z",
+      "url": "http://arxiv.org/abs/2609.26926v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "COMED: The Missing Middle Between Routing and Collaboration in Multi-LLM Inference",
+      "date": "2026-09-22T18:10:07.000Z",
+      "url": "http://arxiv.org/abs/2609.26913v1",
+      "source": "arxiv"
+    },
     {
       "title": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs",
       "date": "2026-09-22T17:59:57.000Z",
@@ -43,84 +121,6 @@
       "title": "ARAFA: An LLM-Generated Arabic Fact-Checking Dataset",
       "date": "2026-09-22T07:59:16.000Z",
       "url": "http://arxiv.org/abs/2609.25833v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "How Strongly Should Task State Influence an LLM Agent?",
-      "date": "2026-09-22T04:42:44.000Z",
-      "url": "http://arxiv.org/abs/2609.25686v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Efficient Cost-Aware LLM Evaluation via Bayesian Bandit Gittins Indices",
-      "date": "2026-09-22T03:56:43.000Z",
-      "url": "http://arxiv.org/abs/2609.25645v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Rewired or Gated? How Instruction Tuning Shapes Knowledge-Conflict Circuits in LLMs",
-      "date": "2026-09-22T02:49:16.000Z",
-      "url": "http://arxiv.org/abs/2609.25602v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Compressing Long Context into Answer-Aligned Memory Embeddings for LLM Inference",
-      "date": "2026-09-22T01:10:49.000Z",
-      "url": "http://arxiv.org/abs/2609.25537v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Passes Alone, Fails Together: Benchmarking Semantic Coordination in Parallel LLM-Agent Development",
-      "date": "2026-09-21T20:38:50.000Z",
-      "url": "http://arxiv.org/abs/2609.25396v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Trains but Doesn't Learn: A Post-Training Delivery Benchmark for LLM Agents as Forward-Deployed Engineers",
-      "date": "2026-09-21T18:01:24.000Z",
-      "url": "http://arxiv.org/abs/2609.25237v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction",
-      "date": "2026-09-21T17:56:53.000Z",
-      "url": "http://arxiv.org/abs/2609.24983v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Emergent Collusion in Long-Horizon LLM Agent Interaction",
-      "date": "2026-09-21T17:52:48.000Z",
-      "url": "http://arxiv.org/abs/2609.24967v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Human-LLM Deliberation as Interactive Proof: Conditions for Verifiability Without Transparency",
-      "date": "2026-09-21T17:00:15.000Z",
-      "url": "http://arxiv.org/abs/2609.24895v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Extracting Arguments, Not Just Classifying Them: Instruction-Tuned LLMs for Generative Component Detection",
-      "date": "2026-09-21T16:30:38.000Z",
-      "url": "http://arxiv.org/abs/2609.24855v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "When Quantization Preserves Accuracy but Not Evidence: Explanation-Aware Post-Training Quantization for Medical LLMs",
-      "date": "2026-09-21T15:59:06.000Z",
-      "url": "http://arxiv.org/abs/2609.24799v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Assessing Readability with LLMs: The Role of Reasoning and Few-Shot Prompting",
-      "date": "2026-09-21T14:22:39.000Z",
-      "url": "http://arxiv.org/abs/2609.24650v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "QLoRA Fine-Tuning of Ministral LLM for Sequence-to-Function Protein Annotation",
-      "date": "2026-09-21T13:09:59.000Z",
-      "url": "http://arxiv.org/abs/2609.24538v1",
       "source": "arxiv"
     }
   ],
