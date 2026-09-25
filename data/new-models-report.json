@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-09-24T14:00:22.035Z",
+  "timestamp": "2026-09-25T14:24:39.292Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
-      "title": "Can LLMs Reason About Runtime Behavior? A Repository-Level Dynamic Benchmark",
-      "date": "2026-09-23T17:46:50.000Z",
-      "url": "http://arxiv.org/abs/2609.28449v1",
+      "title": "PrivDrift: Auditing User-Secret Leakage Under Topic Drift in Active LLM Conversations",
+      "date": "2026-09-24T16:39:18.000Z",
+      "url": "http://arxiv.org/abs/2609.30094v1",
       "source": "arxiv"
     },
     {
-      "title": "Agent-Editing World Model: Rethinking World Modeling for LLM Agents",
-      "date": "2026-09-23T17:18:26.000Z",
-      "url": "http://arxiv.org/abs/2609.28416v1",
+      "title": "How Reproducible Are Evaluation Conclusions? A Self-Audit of LLM-Inferred Prompt Structure",
+      "date": "2026-09-24T16:28:15.000Z",
+      "url": "http://arxiv.org/abs/2609.30074v1",
       "source": "arxiv"
     },
     {
-      "title": "Fine-Tuning LLMs for Translation: General Forgetting Mitigation Does Not Preserve MT-Specific Instruction Following",
-      "date": "2026-09-23T17:02:59.000Z",
-      "url": "http://arxiv.org/abs/2609.28395v1",
+      "title": "Scoring Both Directions: LLMs realize the MRS they cannot reliably parse",
+      "date": "2026-09-24T16:27:54.000Z",
+      "url": "http://arxiv.org/abs/2609.30071v1",
       "source": "arxiv"
     },
     {
-      "title": "Exact Feedback Is Not Control: Evaluating Text-based Closed-Loop Revision in LLMs",
-      "date": "2026-09-23T14:06:52.000Z",
-      "url": "http://arxiv.org/abs/2609.28150v1",
+      "title": "Cultural Divergence Preservation: Diagnosing Flattening and Caricature in LLM-Simulated Survey Populations",
+      "date": "2026-09-24T14:59:06.000Z",
+      "url": "http://arxiv.org/abs/2609.29928v1",
       "source": "arxiv"
     },
     {
-      "title": "Can LLMs Catch a Rigged Backtest? A Clean-Control Calibration Benchmark",
-      "date": "2026-09-23T13:25:25.000Z",
-      "url": "http://arxiv.org/abs/2609.28090v1",
+      "title": "Encoded but Not Decoded: Layer-Localized Evidence for a Three-Level Gap in LLM Syntax",
+      "date": "2026-09-24T14:13:26.000Z",
+      "url": "http://arxiv.org/abs/2609.29848v1",
       "source": "arxiv"
     },
     {
-      "title": "Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing",
-      "date": "2026-09-23T12:51:08.000Z",
-      "url": "http://arxiv.org/abs/2609.28026v1",
+      "title": "Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs",
+      "date": "2026-09-24T14:12:08.000Z",
+      "url": "http://arxiv.org/abs/2609.29845v1",
       "source": "arxiv"
     },
     {
-      "title": "Evaluating Open-Weight LLMs for Turkish Domain Documents Under Retrieval and Hardware Constraints",
-      "date": "2026-09-23T12:33:57.000Z",
-      "url": "http://arxiv.org/abs/2609.28007v1",
+      "title": "ChunkRank: Model-Aware Text Chunking and Abstention-Aware Answer Selection for LLM Pipelines",
+      "date": "2026-09-24T13:59:51.000Z",
+      "url": "http://arxiv.org/abs/2609.29828v1",
       "source": "arxiv"
     },
     {
-      "title": "SkillGym: Internalizing Human Skills into LLMs for Real-World Problem Solving",
-      "date": "2026-09-23T11:35:34.000Z",
-      "url": "http://arxiv.org/abs/2609.27717v1",
+      "title": "CORDIAL: Calibrating Ordinal LLM Outputs from Few Labels",
+      "date": "2026-09-24T13:41:29.000Z",
+      "url": "http://arxiv.org/abs/2609.29807v1",
       "source": "arxiv"
     },
     {
-      "title": "Can One Adapted Model Do It All? Fine-Tuning Strategy Selection for Customer Support LLMs",
-      "date": "2026-09-23T02:46:50.000Z",
-      "url": "http://arxiv.org/abs/2609.27262v1",
+      "title": "JEV vs. LLMs as Rubric Judges: Cheaper, Faster, and Wrong in the Same Places",
+      "date": "2026-09-24T13:16:21.000Z",
+      "url": "http://arxiv.org/abs/2609.29769v1",
       "source": "arxiv"
     },
     {
-      "title": "Count Evidence, Not Sentences: Tempered Evidence Fusion of LLM Judgments for Long-Text Value Measurement",
-      "date": "2026-09-22T23:52:38.000Z",
-      "url": "http://arxiv.org/abs/2609.27165v1",
+      "title": "Rufus-Air: An Open LLM Post-Training Recipe",
+      "date": "2026-09-24T11:45:03.000Z",
+      "url": "http://arxiv.org/abs/2609.29421v1",
       "source": "arxiv"
     },
     {
-      "title": "What Changes When Fact-Verification Scores Improve? Evidence and Answer Accounting Across Trained Verifiers and LLMs",
-      "date": "2026-09-22T21:02:40.000Z",
-      "url": "http://arxiv.org/abs/2609.27064v1",
+      "title": "Likelihood Ranking doesn't Scale Like Prompting in LLMs",
+      "date": "2026-09-24T11:16:53.000Z",
+      "url": "http://arxiv.org/abs/2609.29390v1",
       "source": "arxiv"
     },
     {
-      "title": "Experts Rise Where LLMs Disagree: Using Cross-Model Disagreement to Target Expert Effort in LLM Codebook Revision for Large-Scale Annotation",
-      "date": "2026-09-22T18:19:23.000Z",
-      "url": "http://arxiv.org/abs/2609.26926v1",
+      "title": "ArGuard Shared Task: Harmful Content Detection in Arabic Memes and LLM Prompts",
+      "date": "2026-09-24T10:22:59.000Z",
+      "url": "http://arxiv.org/abs/2609.29349v1",
       "source": "arxiv"
     },
     {
-      "title": "COMED: The Missing Middle Between Routing and Collaboration in Multi-LLM Inference",
-      "date": "2026-09-22T18:10:07.000Z",
-      "url": "http://arxiv.org/abs/2609.26913v1",
+      "title": "Where LLM Graders Succeed and Break: Evidence from Two Computer-Science Exams",
+      "date": "2026-09-24T10:07:57.000Z",
+      "url": "http://arxiv.org/abs/2609.29333v1",
       "source": "arxiv"
     },
     {
-      "title": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs",
-      "date": "2026-09-22T17:59:57.000Z",
-      "url": "http://arxiv.org/abs/2609.26796v1",
+      "title": "Grammatical \"grandmother neurons\" are rare in LLMs",
+      "date": "2026-09-24T10:04:37.000Z",
+      "url": "http://arxiv.org/abs/2609.29328v1",
       "source": "arxiv"
     },
     {
-      "title": "Beyond Repeated Sampling: Learning Search Policies for LLM Reasoning",
-      "date": "2026-09-22T16:56:53.000Z",
-      "url": "http://arxiv.org/abs/2609.26704v1",
+      "title": "Design and Evaluation of LLM Chaining-Based Task Planning for General Purpose Service Robots",
+      "date": "2026-09-24T05:23:43.000Z",
+      "url": "http://arxiv.org/abs/2609.29043v1",
       "source": "arxiv"
     },
     {
-      "title": "A retrospective analysis on the use of LLMs to study infant syntax learning",
-      "date": "2026-09-22T14:58:07.000Z",
-      "url": "http://arxiv.org/abs/2609.26539v1",
+      "title": "MeshHeal: Two-Timescale Self-Healing for Gray Failures in Decentralized LLM Agent Networks",
+      "date": "2026-09-24T04:29:37.000Z",
+      "url": "http://arxiv.org/abs/2609.29015v1",
       "source": "arxiv"
     },
     {
-      "title": "Calibration as a First-Class Criterion in LLM Evaluation",
-      "date": "2026-09-22T14:28:31.000Z",
-      "url": "http://arxiv.org/abs/2609.26489v1",
+      "title": "Polite but Misaligned: Evaluating LLM Politeness Judgments Against Human Pragmatic Norms",
+      "date": "2026-09-24T04:08:59.000Z",
+      "url": "http://arxiv.org/abs/2609.29001v1",
       "source": "arxiv"
     },
     {
-      "title": "Behavior is Not Enough: A Mechanism-Based Evaluation of Social Norm Emergence in LLM Societies",
-      "date": "2026-09-22T14:21:04.000Z",
-      "url": "http://arxiv.org/abs/2609.26481v1",
+      "title": "Script Choice in LLMs: Evidence for Late-Layer Commitment",
+      "date": "2026-09-23T21:02:39.000Z",
+      "url": "http://arxiv.org/abs/2609.28784v1",
       "source": "arxiv"
     },
     {
-      "title": "ClusterFewshot: Improving Few-shot Optimization for LLMs workflow",
-      "date": "2026-09-22T09:45:29.000Z",
-      "url": "http://arxiv.org/abs/2609.25939v1",
+      "title": "PTC-Bias: Phoneme-Level Temporal Competition for Bias Retrieval and Post-Decoding Correction in Speech LLMs",
+      "date": "2026-09-23T19:13:08.000Z",
+      "url": "http://arxiv.org/abs/2609.28727v1",
       "source": "arxiv"
     },
     {
-      "title": "ARAFA: An LLM-Generated Arabic Fact-Checking Dataset",
-      "date": "2026-09-22T07:59:16.000Z",
-      "url": "http://arxiv.org/abs/2609.25833v1",
+      "title": "Benchmarking Argumentative Behaviour of LLMs: A Study of Defences Against Character Attacks",
+      "date": "2026-09-23T18:14:32.000Z",
+      "url": "http://arxiv.org/abs/2609.28673v1",
       "source": "arxiv"
     }
   ],
