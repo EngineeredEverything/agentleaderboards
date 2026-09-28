@@ -1,12 +1,96 @@
 {
-  "timestamp": "2026-09-27T14:32:47.896Z",
+  "timestamp": "2026-09-28T17:19:48.978Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
+      "title": "Evaluating Cultural Awareness of LLMs for Haitian Creole",
+      "date": "2026-09-25T16:47:07.000Z",
+      "url": "http://arxiv.org/abs/2609.31506v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "PriceBench: A Diagnostic Benchmark for Price, Quality, and Brand Preferences in LLM Booking Agents",
+      "date": "2026-09-25T16:17:28.000Z",
+      "url": "http://arxiv.org/abs/2609.31468v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "ViSTA: A Simple Bridge Extends Visual Alignment to Clinical Time-Series Understanding in Multimodal LLMs",
+      "date": "2026-09-25T16:06:29.000Z",
+      "url": "http://arxiv.org/abs/2609.31448v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Improving Visual Sensitivity of LLMs on Multimodal Machine Translation with Metric-based Loss Weighting",
+      "date": "2026-09-25T11:59:57.000Z",
+      "url": "http://arxiv.org/abs/2609.31169v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Modeling Student Sensemaking with LLMs and Knowledge-Graph-Guided Inference",
+      "date": "2026-09-25T09:41:27.000Z",
+      "url": "http://arxiv.org/abs/2609.31046v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Same Text, Different Numbers: The Divergence of LLM-Based Measures",
+      "date": "2026-09-25T09:04:10.000Z",
+      "url": "http://arxiv.org/abs/2609.31013v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "G$^2$PTQ: Improving LLM Post-Training Quantization with Generalized Gradient Compensation",
+      "date": "2026-09-25T08:53:14.000Z",
+      "url": "http://arxiv.org/abs/2609.31009v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Effects of Transcript Compression on LLM-based Medical Misinformation Detection in Japanese YouTube Videos",
+      "date": "2026-09-25T06:42:44.000Z",
+      "url": "http://arxiv.org/abs/2609.30882v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Enhancing Assessment of Self-Consistency in LLM Explanations using Perturbation Strength",
+      "date": "2026-09-25T05:53:13.000Z",
+      "url": "http://arxiv.org/abs/2609.30849v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Thinking Less to Simulate Better: Intuitive Prompting Improves LLM Agents Simulating Individual Social Media Reactions, Including Unfamiliar Content",
+      "date": "2026-09-24T21:14:39.000Z",
+      "url": "http://arxiv.org/abs/2609.30563v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Breaking Homogeneity: Diversifying Persona Sets for Creative LLM Outputs",
+      "date": "2026-09-24T19:29:25.000Z",
+      "url": "http://arxiv.org/abs/2609.30492v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "RAZOR: Pruning Replaceable Experts in LLMs",
+      "date": "2026-09-24T19:02:55.000Z",
+      "url": "http://arxiv.org/abs/2609.30465v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Inference-Time Target Speaker Unlearning in LLM-Based Automatic Speech Recognition",
+      "date": "2026-09-24T18:33:58.000Z",
+      "url": "http://arxiv.org/abs/2609.30439v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "All In Good Time: Causality-Aware Framework for LLM-Based Simultaneous Speech-to-Speech Translation",
+      "date": "2026-09-24T18:13:26.000Z",
+      "url": "http://arxiv.org/abs/2609.30416v1",
+      "source": "arxiv"
+    },
+    {
       "title": "PrivDrift: Auditing User-Secret Leakage Under Topic Drift in Active LLM Conversations",
       "date": "2026-09-24T16:39:18.000Z",
-      "url": "http://arxiv.org/abs/2609.30094v1",
+      "url": "http://arxiv.org/abs/2609.30094v2",
       "source": "arxiv"
     },
     {
@@ -37,90 +121,6 @@
       "title": "Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs",
       "date": "2026-09-24T14:12:08.000Z",
       "url": "http://arxiv.org/abs/2609.29845v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "ChunkRank: Model-Aware Text Chunking and Abstention-Aware Answer Selection for LLM Pipelines",
-      "date": "2026-09-24T13:59:51.000Z",
-      "url": "http://arxiv.org/abs/2609.29828v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "CORDIAL: Calibrating Ordinal LLM Outputs from Few Labels",
-      "date": "2026-09-24T13:41:29.000Z",
-      "url": "http://arxiv.org/abs/2609.29807v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "JEV vs. LLMs as Rubric Judges: Cheaper, Faster, and Wrong in the Same Places",
-      "date": "2026-09-24T13:16:21.000Z",
-      "url": "http://arxiv.org/abs/2609.29769v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Rufus-Air: An Open LLM Post-Training Recipe",
-      "date": "2026-09-24T11:45:03.000Z",
-      "url": "http://arxiv.org/abs/2609.29421v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Likelihood Ranking doesn't Scale Like Prompting in LLMs",
-      "date": "2026-09-24T11:16:53.000Z",
-      "url": "http://arxiv.org/abs/2609.29390v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "ArGuard Shared Task: Harmful Content Detection in Arabic Memes and LLM Prompts",
-      "date": "2026-09-24T10:22:59.000Z",
-      "url": "http://arxiv.org/abs/2609.29349v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Where LLM Graders Succeed and Break: Evidence from Two Computer-Science Exams",
-      "date": "2026-09-24T10:07:57.000Z",
-      "url": "http://arxiv.org/abs/2609.29333v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Grammatical \"grandmother neurons\" are rare in LLMs",
-      "date": "2026-09-24T10:04:37.000Z",
-      "url": "http://arxiv.org/abs/2609.29328v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Design and Evaluation of LLM Chaining-Based Task Planning for General Purpose Service Robots",
-      "date": "2026-09-24T05:23:43.000Z",
-      "url": "http://arxiv.org/abs/2609.29043v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "MeshHeal: Two-Timescale Self-Healing for Gray Failures in Decentralized LLM Agent Networks",
-      "date": "2026-09-24T04:29:37.000Z",
-      "url": "http://arxiv.org/abs/2609.29015v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Polite but Misaligned: Evaluating LLM Politeness Judgments Against Human Pragmatic Norms",
-      "date": "2026-09-24T04:08:59.000Z",
-      "url": "http://arxiv.org/abs/2609.29001v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Script Choice in LLMs: Evidence for Late-Layer Commitment",
-      "date": "2026-09-23T21:02:39.000Z",
-      "url": "http://arxiv.org/abs/2609.28784v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "PTC-Bias: Phoneme-Level Temporal Competition for Bias Retrieval and Post-Decoding Correction in Speech LLMs",
-      "date": "2026-09-23T19:13:08.000Z",
-      "url": "http://arxiv.org/abs/2609.28727v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Benchmarking Argumentative Behaviour of LLMs: A Study of Defences Against Character Attacks",
-      "date": "2026-09-23T18:14:32.000Z",
-      "url": "http://arxiv.org/abs/2609.28673v1",
       "source": "arxiv"
     }
   ],
