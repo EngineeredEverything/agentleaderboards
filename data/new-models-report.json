@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-09-29T15:20:52.208Z",
+  "timestamp": "2026-09-30T15:36:23.037Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
-      "title": "QuanReview: Offline, Auditable Reconciliation of Human and LLM Span Annotations",
-      "date": "2026-09-28T17:33:14.000Z",
-      "url": "http://arxiv.org/abs/2609.35685v1",
+      "title": "Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering",
+      "date": "2026-09-29T17:59:52.000Z",
+      "url": "http://arxiv.org/abs/2609.38177v1",
       "source": "arxiv"
     },
     {
-      "title": "Can LLMs Value the Right Evidence? Evidence-Value Misalignment in Dynamic Medical Diagnosis",
-      "date": "2026-09-28T16:59:47.000Z",
-      "url": "http://arxiv.org/abs/2609.35627v1",
+      "title": "AdviSD: Learning to Advise Frontier LLMs via Targeted Multi-Turn Self-Distillation",
+      "date": "2026-09-29T17:55:40.000Z",
+      "url": "http://arxiv.org/abs/2609.38142v1",
       "source": "arxiv"
     },
     {
-      "title": "Share-Borne AI Virus: Memory-Hopping Attacks Across LLM Agents",
-      "date": "2026-09-28T16:34:52.000Z",
-      "url": "http://arxiv.org/abs/2609.35576v1",
+      "title": "Pruning for Efficiency, Paying in Fairness: Demographic Disparities in Pruned Speech-LLMs",
+      "date": "2026-09-29T17:46:50.000Z",
+      "url": "http://arxiv.org/abs/2609.38106v1",
       "source": "arxiv"
     },
     {
-      "title": "Representation Alignment as a Bottleneck in LLM-Based Retrosynthesis Planning",
-      "date": "2026-09-28T16:32:13.000Z",
-      "url": "http://arxiv.org/abs/2609.35571v1",
+      "title": "Gender bias across LLMs is common and highly heterogenous",
+      "date": "2026-09-29T17:11:53.000Z",
+      "url": "http://arxiv.org/abs/2609.38036v1",
       "source": "arxiv"
     },
     {
-      "title": "LLMs are General Asynchronous Agents",
-      "date": "2026-09-28T15:35:26.000Z",
-      "url": "http://arxiv.org/abs/2609.35427v1",
+      "title": "Overcoming Scaling Limits in On-Policy Self-Distillation for LLM Reasoning",
+      "date": "2026-09-29T16:08:54.000Z",
+      "url": "http://arxiv.org/abs/2609.37915v1",
       "source": "arxiv"
     },
     {
-      "title": "Frontier Learning: Training LLM Reasoners at the Edge of Capability",
-      "date": "2026-09-28T15:35:20.000Z",
-      "url": "http://arxiv.org/abs/2609.35426v1",
+      "title": "It's All Training: A Fully Synthetic Single-Stage Recipe for LLMs",
+      "date": "2026-09-29T15:58:02.000Z",
+      "url": "http://arxiv.org/abs/2609.37891v1",
       "source": "arxiv"
     },
     {
-      "title": "Semantic Prefix Oracles for LLM Decoding: Contracts and Differential Validation",
-      "date": "2026-09-28T15:34:59.000Z",
-      "url": "http://arxiv.org/abs/2609.35425v1",
+      "title": "Storage Is Not Strategy: State-Conditioned Support Control for LLM Unlearning",
+      "date": "2026-09-29T15:44:42.000Z",
+      "url": "http://arxiv.org/abs/2609.37858v1",
       "source": "arxiv"
     },
     {
-      "title": "Multilinguality in Hybrid Attention LLMs",
-      "date": "2026-09-28T15:14:07.000Z",
-      "url": "http://arxiv.org/abs/2609.35378v1",
+      "title": "AnthroDial: Benchmarking LLM Anthropomorphism in Autonomous Social Interaction",
+      "date": "2026-09-29T15:43:07.000Z",
+      "url": "http://arxiv.org/abs/2609.37853v1",
       "source": "arxiv"
     },
     {
-      "title": "How Well Can LLMs Simulate Real Learner Evaluations of Educational Feedback?",
-      "date": "2026-09-28T15:12:55.000Z",
-      "url": "http://arxiv.org/abs/2609.35376v1",
+      "title": "FOCUS: Training-Free Decision-Preserving Context Compression for LLM Agents",
+      "date": "2026-09-29T13:45:34.000Z",
+      "url": "http://arxiv.org/abs/2609.37590v1",
       "source": "arxiv"
     },
     {
-      "title": "MemoReason: Evaluating the Effect of Parametric Memory on Contextual Reasoning in LLMs",
-      "date": "2026-09-28T14:48:06.000Z",
-      "url": "http://arxiv.org/abs/2609.35312v1",
+      "title": "Pair Difficulty Matters: Rethinking Pairwise LLM-as-a-Judge Evaluation and Consistency",
+      "date": "2026-09-29T13:40:25.000Z",
+      "url": "http://arxiv.org/abs/2609.37577v1",
       "source": "arxiv"
     },
     {
-      "title": "Epistemic Policy Divergence in Multi-Turn LLM Contamination: A Protocol-Gradient Investigation",
-      "date": "2026-09-28T14:46:00.000Z",
-      "url": "http://arxiv.org/abs/2609.35308v1",
+      "title": "MERGE: Multi-LLM Ensemble for Retrieval via Generative Enrichment",
+      "date": "2026-09-29T13:39:54.000Z",
+      "url": "http://arxiv.org/abs/2609.37574v1",
       "source": "arxiv"
     },
     {
-      "title": "Measuring Collapse and Correction in Homogeneous-Panel LLM Debate",
-      "date": "2026-09-28T14:31:19.000Z",
-      "url": "http://arxiv.org/abs/2609.35279v1",
+      "title": "SemOPT: Fixing Semantic Errors in LLM-based Optimization Modeling via Reward-Guided Search",
+      "date": "2026-09-29T12:22:59.000Z",
+      "url": "http://arxiv.org/abs/2609.37361v1",
       "source": "arxiv"
     },
     {
-      "title": "Rubric-Aware On-Policy Self-Distillation for LLM Personalization",
-      "date": "2026-09-28T14:21:21.000Z",
-      "url": "http://arxiv.org/abs/2609.35262v1",
+      "title": "Trajectory Soup: Pushing the Compute-Scaling Frontier of LLM Mid-training via Diverse Trajectories",
+      "date": "2026-09-29T09:57:15.000Z",
+      "url": "http://arxiv.org/abs/2609.37169v1",
       "source": "arxiv"
     },
     {
-      "title": "SCBO: Semantically Coherent Batching and Ordering for LLM-Based Social Surveys",
-      "date": "2026-09-28T14:17:35.000Z",
-      "url": "http://arxiv.org/abs/2609.35250v1",
+      "title": "LLM unbranding: Erasing Commercial Identity while Preserving Generic Utility",
+      "date": "2026-09-29T09:33:10.000Z",
+      "url": "http://arxiv.org/abs/2609.37127v1",
       "source": "arxiv"
     },
     {
-      "title": "Echoes of Deeds: Moral History Can Shape and Steer LLM Behavioral Choices",
-      "date": "2026-09-28T12:57:14.000Z",
-      "url": "http://arxiv.org/abs/2609.35070v1",
+      "title": "Unlocking the Critic: Reward-Free Policy Optimization for LLM Post-Training",
+      "date": "2026-09-29T09:28:57.000Z",
+      "url": "http://arxiv.org/abs/2609.37119v1",
       "source": "arxiv"
     },
     {
-      "title": "VEX-Bench: Benchmarking Verification Complexity of LLM-Generated Misinformation",
-      "date": "2026-09-28T12:26:51.000Z",
-      "url": "http://arxiv.org/abs/2609.35028v1",
+      "title": "Dating the Model: Hidden Dates in System Prompts Affect LLM Evaluation",
+      "date": "2026-09-29T07:45:31.000Z",
+      "url": "http://arxiv.org/abs/2609.36931v1",
       "source": "arxiv"
     },
     {
-      "title": "See it, Say it, Sorted: Mechanistic Diagnosis and Parameter-Space Mitigation of Emergent Misalignment in LLMs",
-      "date": "2026-09-28T11:51:35.000Z",
-      "url": "http://arxiv.org/abs/2609.34970v1",
+      "title": "Seeing What Should Be Heard: Diagnosing and Repairing Cross-Modal Shortcuts in Omni-Modal LLMs",
+      "date": "2026-09-29T06:12:42.000Z",
+      "url": "http://arxiv.org/abs/2609.36798v1",
       "source": "arxiv"
     },
     {
-      "title": "Pass or Fail? Evaluating LLMs on Two Greek Examination Benchmarks",
-      "date": "2026-09-28T10:03:59.000Z",
-      "url": "http://arxiv.org/abs/2609.34800v1",
+      "title": "CHAIN: Calibrated LLM Forecasting via Causal-Temporal Hypergraph Inference",
+      "date": "2026-09-29T04:30:42.000Z",
+      "url": "http://arxiv.org/abs/2609.36689v1",
       "source": "arxiv"
     },
     {
-      "title": "When Do Model Internals Help? Exploring the Role of Representation Engineering in LLM Safety",
-      "date": "2026-09-28T09:50:08.000Z",
-      "url": "http://arxiv.org/abs/2609.34771v1",
+      "title": "When Updating Stops Being Learning: Rethinking LLM Self-Evolution via learnable information gain",
+      "date": "2026-09-29T02:27:47.000Z",
+      "url": "http://arxiv.org/abs/2609.36535v1",
       "source": "arxiv"
     },
     {
-      "title": "Using LLMs to Detect LLM-Generated Texts: A Cross-Generation Analysis",
-      "date": "2026-09-28T09:13:26.000Z",
-      "url": "http://arxiv.org/abs/2609.34691v1",
+      "title": "Eternal Sunshine of the Spotless Mind: Systematically Erasing LLM's Memories",
+      "date": "2026-09-29T00:11:56.000Z",
+      "url": "http://arxiv.org/abs/2609.36414v1",
       "source": "arxiv"
     }
   ],
