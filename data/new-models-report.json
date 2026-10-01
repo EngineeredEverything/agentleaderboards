@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-09-30T15:36:23.037Z",
+  "timestamp": "2026-10-01T15:59:16.423Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
-      "title": "Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering",
-      "date": "2026-09-29T17:59:52.000Z",
-      "url": "http://arxiv.org/abs/2609.38177v1",
+      "title": "Linguistic Loopholes in LLM Unlearning: From a 174-Language Benchmark to Coverage-Aware Unlearning",
+      "date": "2026-09-30T17:48:13.000Z",
+      "url": "http://arxiv.org/abs/2609.40286v1",
       "source": "arxiv"
     },
     {
-      "title": "AdviSD: Learning to Advise Frontier LLMs via Targeted Multi-Turn Self-Distillation",
-      "date": "2026-09-29T17:55:40.000Z",
-      "url": "http://arxiv.org/abs/2609.38142v1",
+      "title": "PhantomEnvironments: Training LLM Agents in Fictional Worlds",
+      "date": "2026-09-30T17:26:57.000Z",
+      "url": "http://arxiv.org/abs/2609.40221v1",
       "source": "arxiv"
     },
     {
-      "title": "Pruning for Efficiency, Paying in Fairness: Demographic Disparities in Pruned Speech-LLMs",
-      "date": "2026-09-29T17:46:50.000Z",
-      "url": "http://arxiv.org/abs/2609.38106v1",
+      "title": "Debias It Yourself: Teaching LLMs Cognitive Bias Mitigation Interventions",
+      "date": "2026-09-30T16:46:19.000Z",
+      "url": "http://arxiv.org/abs/2609.40124v1",
       "source": "arxiv"
     },
     {
-      "title": "Gender bias across LLMs is common and highly heterogenous",
-      "date": "2026-09-29T17:11:53.000Z",
-      "url": "http://arxiv.org/abs/2609.38036v1",
+      "title": "Persistent Context Graphs for Efficient Memory Compaction in LLM Agents",
+      "date": "2026-09-30T16:43:28.000Z",
+      "url": "http://arxiv.org/abs/2609.40118v1",
       "source": "arxiv"
     },
     {
-      "title": "Overcoming Scaling Limits in On-Policy Self-Distillation for LLM Reasoning",
-      "date": "2026-09-29T16:08:54.000Z",
-      "url": "http://arxiv.org/abs/2609.37915v1",
+      "title": "The Concrete-Arbitrary Gap: Kinship Reasoning in LLMs Is Not Indifferent to Presentation",
+      "date": "2026-09-30T15:06:20.000Z",
+      "url": "http://arxiv.org/abs/2609.39913v1",
       "source": "arxiv"
     },
     {
-      "title": "It's All Training: A Fully Synthetic Single-Stage Recipe for LLMs",
-      "date": "2026-09-29T15:58:02.000Z",
-      "url": "http://arxiv.org/abs/2609.37891v1",
+      "title": "LLM Persona Unlearning",
+      "date": "2026-09-30T14:55:52.000Z",
+      "url": "http://arxiv.org/abs/2609.39882v1",
       "source": "arxiv"
     },
     {
-      "title": "Storage Is Not Strategy: State-Conditioned Support Control for LLM Unlearning",
-      "date": "2026-09-29T15:44:42.000Z",
-      "url": "http://arxiv.org/abs/2609.37858v1",
+      "title": "Stress-Testing LLM Lie Detectors: Role-Play Failures and Spurious Correlations",
+      "date": "2026-09-30T14:17:30.000Z",
+      "url": "http://arxiv.org/abs/2609.39807v1",
       "source": "arxiv"
     },
     {
-      "title": "AnthroDial: Benchmarking LLM Anthropomorphism in Autonomous Social Interaction",
-      "date": "2026-09-29T15:43:07.000Z",
-      "url": "http://arxiv.org/abs/2609.37853v1",
+      "title": "Explore-on-Graph: Hybrid Embedding-LLM Reasoning for Knowledge Graph Question Answering under Incompleteness",
+      "date": "2026-09-30T14:08:06.000Z",
+      "url": "http://arxiv.org/abs/2609.39786v1",
       "source": "arxiv"
     },
     {
-      "title": "FOCUS: Training-Free Decision-Preserving Context Compression for LLM Agents",
-      "date": "2026-09-29T13:45:34.000Z",
-      "url": "http://arxiv.org/abs/2609.37590v1",
+      "title": "SEPAL: Separated Expert Pairs with Answer-Level Fusion for Reliable LLM Collaboration",
+      "date": "2026-09-30T12:49:00.000Z",
+      "url": "http://arxiv.org/abs/2609.39645v1",
       "source": "arxiv"
     },
     {
-      "title": "Pair Difficulty Matters: Rethinking Pairwise LLM-as-a-Judge Evaluation and Consistency",
-      "date": "2026-09-29T13:40:25.000Z",
-      "url": "http://arxiv.org/abs/2609.37577v1",
+      "title": "Compact Language, Complex Model Shifts: How and Where Ambiguity and Underspecification Affect LLMs",
+      "date": "2026-09-30T12:06:45.000Z",
+      "url": "http://arxiv.org/abs/2609.39572v1",
       "source": "arxiv"
     },
     {
-      "title": "MERGE: Multi-LLM Ensemble for Retrieval via Generative Enrichment",
-      "date": "2026-09-29T13:39:54.000Z",
-      "url": "http://arxiv.org/abs/2609.37574v1",
+      "title": "Can Computation from Earlier Problems Help LLMs Solve New Ones?",
+      "date": "2026-09-30T09:43:16.000Z",
+      "url": "http://arxiv.org/abs/2609.39394v1",
       "source": "arxiv"
     },
     {
-      "title": "SemOPT: Fixing Semantic Errors in LLM-based Optimization Modeling via Reward-Guided Search",
-      "date": "2026-09-29T12:22:59.000Z",
-      "url": "http://arxiv.org/abs/2609.37361v1",
+      "title": "Working Around the Compute Ceiling: Byte-Exact Memory in Galahad Makes LLM Reading a One-Time Cost LLM Reading a One-Time Cost",
+      "date": "2026-09-30T09:16:40.000Z",
+      "url": "http://arxiv.org/abs/2609.39358v1",
       "source": "arxiv"
     },
     {
-      "title": "Trajectory Soup: Pushing the Compute-Scaling Frontier of LLM Mid-training via Diverse Trajectories",
-      "date": "2026-09-29T09:57:15.000Z",
-      "url": "http://arxiv.org/abs/2609.37169v1",
+      "title": "Offline Guidance, Online Reasoning: Reusing LLM Feedback for Small Language Models",
+      "date": "2026-09-30T09:09:56.000Z",
+      "url": "http://arxiv.org/abs/2609.39346v1",
       "source": "arxiv"
     },
     {
-      "title": "LLM unbranding: Erasing Commercial Identity while Preserving Generic Utility",
-      "date": "2026-09-29T09:33:10.000Z",
-      "url": "http://arxiv.org/abs/2609.37127v1",
+      "title": "Taming Speculative Search for Test-Time Scaling in LLM Serving",
+      "date": "2026-09-30T09:04:53.000Z",
+      "url": "http://arxiv.org/abs/2609.39334v1",
       "source": "arxiv"
     },
     {
-      "title": "Unlocking the Critic: Reward-Free Policy Optimization for LLM Post-Training",
-      "date": "2026-09-29T09:28:57.000Z",
-      "url": "http://arxiv.org/abs/2609.37119v1",
+      "title": "Beyond Text: LLM-Based Dimensional Emotion Evaluation in Multimodal Dialogue",
+      "date": "2026-09-30T06:09:48.000Z",
+      "url": "http://arxiv.org/abs/2609.39072v1",
       "source": "arxiv"
     },
     {
-      "title": "Dating the Model: Hidden Dates in System Prompts Affect LLM Evaluation",
-      "date": "2026-09-29T07:45:31.000Z",
-      "url": "http://arxiv.org/abs/2609.36931v1",
+      "title": "Covert Assistance: Helpful LLM Agents Evade Oversight in Multi-Agent Systems",
+      "date": "2026-09-30T05:57:59.000Z",
+      "url": "http://arxiv.org/abs/2609.39050v1",
       "source": "arxiv"
     },
     {
-      "title": "Seeing What Should Be Heard: Diagnosing and Repairing Cross-Modal Shortcuts in Omni-Modal LLMs",
-      "date": "2026-09-29T06:12:42.000Z",
-      "url": "http://arxiv.org/abs/2609.36798v1",
+      "title": "Structure vs. Chain-of-Thought: Evaluating LLM Criteria Extraction for Depression Severity",
+      "date": "2026-09-30T05:57:26.000Z",
+      "url": "http://arxiv.org/abs/2609.39049v1",
       "source": "arxiv"
     },
     {
-      "title": "CHAIN: Calibrated LLM Forecasting via Causal-Temporal Hypergraph Inference",
-      "date": "2026-09-29T04:30:42.000Z",
-      "url": "http://arxiv.org/abs/2609.36689v1",
+      "title": "The Invisible Language Tax: Token Premiums of French and Regional Languages in 2026 LLM Tokenizers, and a French-Optimized Prototype",
+      "date": "2026-09-30T05:14:43.000Z",
+      "url": "http://arxiv.org/abs/2609.39001v1",
       "source": "arxiv"
     },
     {
-      "title": "When Updating Stops Being Learning: Rethinking LLM Self-Evolution via learnable information gain",
-      "date": "2026-09-29T02:27:47.000Z",
-      "url": "http://arxiv.org/abs/2609.36535v1",
+      "title": "Fairness Beyond a Single Run: Training-Seed Variability in Speech LLM Adaptation",
+      "date": "2026-09-30T04:51:32.000Z",
+      "url": "http://arxiv.org/abs/2609.38976v1",
       "source": "arxiv"
     },
     {
-      "title": "Eternal Sunshine of the Spotless Mind: Systematically Erasing LLM's Memories",
-      "date": "2026-09-29T00:11:56.000Z",
-      "url": "http://arxiv.org/abs/2609.36414v1",
+      "title": "Making LLMs Say What They Think: Measuring and Improving CoT-Interpretability Alignment",
+      "date": "2026-09-30T04:44:26.000Z",
+      "url": "http://arxiv.org/abs/2609.38972v1",
       "source": "arxiv"
     }
   ],
