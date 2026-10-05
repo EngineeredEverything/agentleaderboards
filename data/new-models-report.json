@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-10-04T14:36:40.986Z",
+  "timestamp": "2026-10-05T17:51:58.185Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
-      "title": "LLM2Jev: LLMs Are Already Jev-Style Decision Models -- When and How to Fine-Tune Them",
-      "date": "2026-10-01T17:15:24.000Z",
-      "url": "http://arxiv.org/abs/2610.02076v1",
+      "title": "FrugalEvo: Towards Cost-Aware LLM-Guided Program Evolution",
+      "date": "2026-10-02T17:44:05.000Z",
+      "url": "http://arxiv.org/abs/2610.03675v1",
       "source": "arxiv"
     },
     {
-      "title": "CARM: Cancellation-Aware Response Masking for LLM Reinforcement Learning",
-      "date": "2026-10-01T16:51:56.000Z",
-      "url": "http://arxiv.org/abs/2610.02039v1",
+      "title": "Writerslogic at the CLEF 2026 SimpleText Track: Multi-Candidate LLM Simplification and Stacked Complexity Spotting",
+      "date": "2026-10-02T16:44:53.000Z",
+      "url": "http://arxiv.org/abs/2610.03567v1",
       "source": "arxiv"
     },
     {
-      "title": "Old Ideas, Novel Problems: The Instability of LLM-Based Novelty Evaluation",
-      "date": "2026-10-01T16:43:18.000Z",
-      "url": "http://arxiv.org/abs/2610.02022v1",
+      "title": "Author Representation Strategies for Zero-Shot Authorship Attribution: A Comparative Study of LLM-Based and Embedding-Based Approaches",
+      "date": "2026-10-02T16:16:47.000Z",
+      "url": "http://arxiv.org/abs/2610.03531v1",
       "source": "arxiv"
     },
     {
-      "title": "Mem++: Non-Destructive Memory for Long-Term Organizational LLM Agents",
-      "date": "2026-10-01T16:32:38.000Z",
-      "url": "http://arxiv.org/abs/2610.02002v1",
+      "title": "Passing the Test You Trained On: Re-evaluating Prompt-Injection Detectors for LLM Agents",
+      "date": "2026-10-02T15:30:11.000Z",
+      "url": "http://arxiv.org/abs/2610.03448v1",
       "source": "arxiv"
     },
     {
-      "title": "Where LLMs Fail with Visualization DSLs",
-      "date": "2026-10-01T15:30:59.000Z",
-      "url": "http://arxiv.org/abs/2610.01873v1",
+      "title": "Source Preference in the Wild: How LLM Agents Favor Items by Source, and How to Reduce It",
+      "date": "2026-10-02T12:10:03.000Z",
+      "url": "http://arxiv.org/abs/2610.03195v1",
       "source": "arxiv"
     },
     {
-      "title": "Detecting Inconsistencies in Model Specifications with LLM-as-Verifier Reasoning",
-      "date": "2026-10-01T15:13:31.000Z",
-      "url": "http://arxiv.org/abs/2610.01847v1",
+      "title": "Not Until the Evidence Says So: Teaching LLM Investigators When to Close a Case",
+      "date": "2026-10-02T12:06:02.000Z",
+      "url": "http://arxiv.org/abs/2610.03190v1",
       "source": "arxiv"
     },
     {
-      "title": "Acmite: Mitigating Gender Bias in LLMs through Concept-Guided Mutual Information",
-      "date": "2026-10-01T13:46:57.000Z",
-      "url": "http://arxiv.org/abs/2610.01696v1",
+      "title": "The Fragility of Trigger-Tag Mechanisms for Misuse Detection in Open-Weight LLMs",
+      "date": "2026-10-02T10:45:14.000Z",
+      "url": "http://arxiv.org/abs/2610.03124v1",
       "source": "arxiv"
     },
     {
-      "title": "Can LLMs Reliably Annotate Bioassay Metadata to Improve Data Readiness?",
-      "date": "2026-10-01T12:54:29.000Z",
-      "url": "http://arxiv.org/abs/2610.01616v1",
+      "title": "Building Interpretable Feature Representations for Resume-Vacancy Matching by Distilling Production LLM Signals",
+      "date": "2026-10-02T10:30:32.000Z",
+      "url": "http://arxiv.org/abs/2610.03112v1",
       "source": "arxiv"
     },
     {
-      "title": "Which LLM to pick? Online Active Model Selection for Large Language Models",
-      "date": "2026-10-01T12:43:21.000Z",
-      "url": "http://arxiv.org/abs/2610.01592v1",
+      "title": "Ontological Instability and Statistical Amplification: The Paradox of \"Humanizing\" LLM-Generated Text",
+      "date": "2026-10-02T10:28:25.000Z",
+      "url": "http://arxiv.org/abs/2610.03110v1",
       "source": "arxiv"
     },
     {
-      "title": "How the Audit Rule Shapes Faithful Factor Explanations in LLMs",
-      "date": "2026-10-01T11:48:59.000Z",
-      "url": "http://arxiv.org/abs/2610.01514v1",
+      "title": "Ask, Relax, or Act? Evaluating Actionable Indeterminacy in LLM Preference Reasoning",
+      "date": "2026-10-02T10:22:42.000Z",
+      "url": "http://arxiv.org/abs/2610.03102v1",
       "source": "arxiv"
     },
     {
-      "title": "OverAct: Measuring and Mitigating Proactive Over-Authorization in LLM Tool-Calling Agents",
-      "date": "2026-10-01T11:44:45.000Z",
-      "url": "http://arxiv.org/abs/2610.01508v1",
+      "title": "MintEval: Do LLMs Implement the Trading Strategy You Asked For? A Behavioural-Equivalence Benchmark for Natural-Language-to-Strategy Code",
+      "date": "2026-10-02T10:01:26.000Z",
+      "url": "http://arxiv.org/abs/2610.03080v1",
       "source": "arxiv"
     },
     {
-      "title": "When Does a Second Model Help? Cross-Model Review in LLM Verification",
-      "date": "2026-10-01T11:12:36.000Z",
-      "url": "http://arxiv.org/abs/2610.01471v1",
+      "title": "Sentry: Learning to Recover from LLM Agent Failures at Test Time",
+      "date": "2026-10-02T08:26:47.000Z",
+      "url": "http://arxiv.org/abs/2610.02994v1",
       "source": "arxiv"
     },
     {
-      "title": "Generalization Is Stability, Not Accuracy: Multi-Axis Evaluation of LLMs",
-      "date": "2026-10-01T10:27:25.000Z",
-      "url": "http://arxiv.org/abs/2610.01428v1",
+      "title": "Evaluating LLM-as-a-Judge Beyond Score Alignment: A Psychometric Analysis of Residual Judging Difficulty",
+      "date": "2026-10-02T06:13:00.000Z",
+      "url": "http://arxiv.org/abs/2610.02877v1",
       "source": "arxiv"
     },
     {
-      "title": "LLM-Assisted Discovery of Typed Semantic Links for Ontology Network Construction",
-      "date": "2026-10-01T09:59:00.000Z",
-      "url": "http://arxiv.org/abs/2610.01393v1",
+      "title": "How Robust Is Multimodal Claim Verification to LLM Rewriting?",
+      "date": "2026-10-02T05:31:40.000Z",
+      "url": "http://arxiv.org/abs/2610.02841v1",
       "source": "arxiv"
     },
     {
-      "title": "Evaluating Biomedical Reranking for LLM-Based Question Answering over Longitudinal Clinical Notes",
-      "date": "2026-10-01T08:49:43.000Z",
-      "url": "http://arxiv.org/abs/2610.01324v1",
+      "title": "Clinical Concept Centers in LLMs",
+      "date": "2026-10-02T05:22:12.000Z",
+      "url": "http://arxiv.org/abs/2610.02829v1",
       "source": "arxiv"
     },
     {
-      "title": "What Wins a Vote? Formatting, Length, and Lexical Diversity in the French Compar:IA LLM Arena",
-      "date": "2026-10-01T08:47:35.000Z",
-      "url": "http://arxiv.org/abs/2610.01316v1",
+      "title": "FSPO: Policy-Consistent Risk and Pareto-Feasible Control for Budgeted LLM RL Post-Training",
+      "date": "2026-10-02T05:19:54.000Z",
+      "url": "http://arxiv.org/abs/2610.02828v1",
       "source": "arxiv"
     },
     {
-      "title": "Science Utopia? Closed-Loop LLM Simulation of Academic Research Ecosystems",
-      "date": "2026-10-01T07:51:10.000Z",
-      "url": "http://arxiv.org/abs/2610.01257v1",
+      "title": "EpiWorld: Grounding LLM Policy Agents in Epidemiological World Models",
+      "date": "2026-10-02T03:16:28.000Z",
+      "url": "http://arxiv.org/abs/2610.02744v1",
       "source": "arxiv"
     },
     {
-      "title": "Evaluating the Robustness of Japanese LLMs to IME-Related and Typographical Errors",
-      "date": "2026-10-01T07:40:06.000Z",
-      "url": "http://arxiv.org/abs/2610.01241v1",
+      "title": "Silent Dissent: LLM Agents That Yield to the Majority Still Represent Their Original Premise",
+      "date": "2026-10-02T02:37:05.000Z",
+      "url": "http://arxiv.org/abs/2610.02702v1",
       "source": "arxiv"
     },
     {
-      "title": "Probe with Participation Trophies: Random-Reward RL as a Probe of LLM Capability",
-      "date": "2026-10-01T05:05:29.000Z",
-      "url": "http://arxiv.org/abs/2610.01066v1",
+      "title": "LEAP: Learning Efficient Action Proposals For LLM Agents",
+      "date": "2026-10-02T01:44:03.000Z",
+      "url": "http://arxiv.org/abs/2610.02670v1",
       "source": "arxiv"
     },
     {
-      "title": "Beyond Final Accuracy: Auditing Communication in LLM Multi-Agent Systems",
-      "date": "2026-10-01T04:34:59.000Z",
-      "url": "http://arxiv.org/abs/2610.01042v1",
+      "title": "Right Order, Wrong Scale: Auditing LLM Judges for Occupational AI Measurement",
+      "date": "2026-10-01T21:14:49.000Z",
+      "url": "http://arxiv.org/abs/2610.02492v1",
       "source": "arxiv"
     }
   ],
