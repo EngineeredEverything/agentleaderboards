@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-10-06T15:40:40.357Z",
+  "timestamp": "2026-10-07T16:04:42.203Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
-      "title": "MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents",
-      "date": "2026-10-05T17:58:06.000Z",
-      "url": "http://arxiv.org/abs/2610.06830v1",
+      "title": "IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas",
+      "date": "2026-10-06T17:59:01.000Z",
+      "url": "http://arxiv.org/abs/2610.08781v1",
       "source": "arxiv"
     },
     {
-      "title": "Improving Diversity in LLM Short Story Generation",
-      "date": "2026-10-05T17:16:29.000Z",
-      "url": "http://arxiv.org/abs/2610.06729v1",
+      "title": "Sherpa: Teaching LLMs to Teach Adaptively",
+      "date": "2026-10-06T17:58:18.000Z",
+      "url": "http://arxiv.org/abs/2610.08778v1",
       "source": "arxiv"
     },
     {
-      "title": "Reading the Mood: Emotion-Guided Book-to-Music Recommendation via CGANs and LLMs",
-      "date": "2026-10-05T17:01:18.000Z",
-      "url": "http://arxiv.org/abs/2610.06703v1",
+      "title": "The Missing Minimal Pair: Stereotype Evaluation in LLMs",
+      "date": "2026-10-06T17:41:44.000Z",
+      "url": "http://arxiv.org/abs/2610.08747v1",
       "source": "arxiv"
     },
     {
-      "title": "Aligning Multimodal Patient Evidence with Biomedical Knowledge Graphs for Clinical LLMs",
-      "date": "2026-10-05T16:51:11.000Z",
-      "url": "http://arxiv.org/abs/2610.06685v1",
+      "title": "Agreement Is Not Validity: Cross-Model LLM Consensus in Diagnosing Student Failure Modes in K-12 Math Tutoring Dialogue",
+      "date": "2026-10-06T17:16:03.000Z",
+      "url": "http://arxiv.org/abs/2610.08703v1",
       "source": "arxiv"
     },
     {
-      "title": "LoGRA: Scaling LLM Reinforcement Learning with Low-Rank Gradient Sketches",
-      "date": "2026-10-05T16:28:11.000Z",
-      "url": "http://arxiv.org/abs/2610.06647v1",
+      "title": "Principled Under Pressure: Post-Training Decides Whether LLMs Act on Their Own Moral Judgment",
+      "date": "2026-10-06T16:52:23.000Z",
+      "url": "http://arxiv.org/abs/2610.08670v1",
       "source": "arxiv"
     },
     {
-      "title": "JEV versus LLMs: Accuracy, Cost and Calibration on Seven Political Science Replications",
-      "date": "2026-10-05T16:22:03.000Z",
-      "url": "http://arxiv.org/abs/2610.06625v1",
+      "title": "Latent space bias directions in LLMs capture confidence, not fairness",
+      "date": "2026-10-06T15:42:35.000Z",
+      "url": "http://arxiv.org/abs/2610.08559v1",
       "source": "arxiv"
     },
     {
-      "title": "Anatomy of LLM Sycophancy: What a Flip Rate Hides",
-      "date": "2026-10-05T15:32:45.000Z",
-      "url": "http://arxiv.org/abs/2610.06522v1",
+      "title": "CoDe-LoRA: Mitigating the Orthogonality Dilemma in Continual Learning of LLMs via Knowledge Consolidation and Decoupling",
+      "date": "2026-10-06T13:17:25.000Z",
+      "url": "http://arxiv.org/abs/2610.08312v1",
       "source": "arxiv"
     },
     {
-      "title": "RAISED: Self-Distillation for Robustness to Prompt Injection in LLM Agents",
-      "date": "2026-10-05T14:21:30.000Z",
-      "url": "http://arxiv.org/abs/2610.06401v1",
+      "title": "Penalty-Framed No-Valid-Option MCQA: Analyzing LLM Abstention under Invalid Choices",
+      "date": "2026-10-06T11:04:20.000Z",
+      "url": "http://arxiv.org/abs/2610.08153v1",
       "source": "arxiv"
     },
     {
-      "title": "Breaking Bureaucracy: Evaluating open-source LLMs for legal document review",
-      "date": "2026-10-05T13:47:32.000Z",
-      "url": "http://arxiv.org/abs/2610.06345v1",
+      "title": "DirectSpeech2LLM: A Simple End-to-End Framework to Mitigate Prompt Overfitting in Speech-LLMs",
+      "date": "2026-10-06T10:16:49.000Z",
+      "url": "http://arxiv.org/abs/2610.08085v1",
       "source": "arxiv"
     },
     {
-      "title": "Cross-lingual Calibration of Pre-Generation Success Probes for Multilingual LLM Routing",
-      "date": "2026-10-05T12:26:05.000Z",
-      "url": "http://arxiv.org/abs/2610.06216v1",
+      "title": "POLAR: Ontology-Guided Risk Prevention for Tool-Calling LLM Agents",
+      "date": "2026-10-06T10:14:16.000Z",
+      "url": "http://arxiv.org/abs/2610.08082v1",
       "source": "arxiv"
     },
     {
-      "title": "Anosognosia in LLMs: Probing Self-Awareness of Quantized Computational Substrate",
-      "date": "2026-10-05T11:55:01.000Z",
-      "url": "http://arxiv.org/abs/2610.06174v1",
+      "title": "Language Carries the Expert's Impression: Instrument-Anchored LLM Judges Transfer Counseling-Quality Assessment and Beat In-Domain Training",
+      "date": "2026-10-06T09:53:25.000Z",
+      "url": "http://arxiv.org/abs/2610.08055v1",
       "source": "arxiv"
     },
     {
-      "title": "MS-Exam-Gen: Source-Grounded Benchmark Construction for Evaluating LLMs on Textual Multiple Sclerosis MRI Knowledge",
-      "date": "2026-10-05T11:41:57.000Z",
-      "url": "http://arxiv.org/abs/2610.06170v1",
+      "title": "Structured but Silent: Probing Capability Requirements in LLM Hidden States",
+      "date": "2026-10-06T09:12:53.000Z",
+      "url": "http://arxiv.org/abs/2610.08018v1",
       "source": "arxiv"
     },
     {
-      "title": "Attention Tax, Handoff Tax: A Stylised Model of When Multi-Agent LLM Systems Help",
-      "date": "2026-10-05T10:04:20.000Z",
-      "url": "http://arxiv.org/abs/2610.06069v1",
+      "title": "Confidence Reasoning Graphs: Structured Confidence Estimation for LLM Agents",
+      "date": "2026-10-06T08:22:14.000Z",
+      "url": "http://arxiv.org/abs/2610.07948v1",
       "source": "arxiv"
     },
     {
-      "title": "Differentiable Bit-Widths: Co-optimizing Pruning and Quantization via SVD for Ultra-Efficient LLM Compression",
-      "date": "2026-10-05T09:25:08.000Z",
-      "url": "http://arxiv.org/abs/2610.06026v1",
+      "title": "Rethinking Faithfulness in LLMs: A Pairwise Context-Sensitive Perspective",
+      "date": "2026-10-06T07:42:38.000Z",
+      "url": "http://arxiv.org/abs/2610.07894v1",
       "source": "arxiv"
     },
     {
-      "title": "StagQ: Constraint-Driven Multi-Precision Weight Quantization for LLMs",
-      "date": "2026-10-05T08:28:43.000Z",
-      "url": "http://arxiv.org/abs/2610.05977v1",
+      "title": "One Step at a Time: Trading LLM Autonomy for Process Predictability",
+      "date": "2026-10-06T06:10:42.000Z",
+      "url": "http://arxiv.org/abs/2610.07817v1",
       "source": "arxiv"
     },
     {
-      "title": "MedicalHarness: A Controlled Evaluation of LLMs and Agent Harnesses on Medical Tasks",
-      "date": "2026-10-05T04:22:28.000Z",
-      "url": "http://arxiv.org/abs/2610.05778v1",
+      "title": "Persistent Memory in Multi-Agent LLM Inference: What It Costs, What It Buys, and When You Can Tell",
+      "date": "2026-10-06T05:17:44.000Z",
+      "url": "http://arxiv.org/abs/2610.07782v1",
       "source": "arxiv"
     },
     {
-      "title": "Expanding LLM Reasoning",
-      "date": "2026-10-04T22:40:06.000Z",
-      "url": "http://arxiv.org/abs/2610.05584v1",
+      "title": "Does Steering Break Your Model? A Multi-Dimensional Evaluation Suite for LLM Steering Methods",
+      "date": "2026-10-06T04:16:57.000Z",
+      "url": "http://arxiv.org/abs/2610.07722v1",
       "source": "arxiv"
     },
     {
-      "title": "Don't Judge an LLM Only by Its Activations: Discovering Suppressed Safety Features via Counterfactual Activation Potential",
-      "date": "2026-10-04T21:13:06.000Z",
-      "url": "http://arxiv.org/abs/2610.05541v1",
+      "title": "Detecting LLM-Assisted Vietnamese Writing via Keystrokes under Behavioral Manipulation",
+      "date": "2026-10-06T03:45:12.000Z",
+      "url": "http://arxiv.org/abs/2610.07700v1",
       "source": "arxiv"
     },
     {
-      "title": "Dataset Signatures in Human-LLM Interactions and User Modeling",
-      "date": "2026-10-04T20:58:44.000Z",
-      "url": "http://arxiv.org/abs/2610.05534v1",
+      "title": "LOGIC: An LLM Benchmark for Intent-Grounded Change Impact in Aerospace Electrical Systems",
+      "date": "2026-10-06T01:14:09.000Z",
+      "url": "http://arxiv.org/abs/2610.07580v1",
       "source": "arxiv"
     },
     {
-      "title": "GNN-CB: A Graph Neural Network Competition Benchmark for Human and LLM Evaluation",
-      "date": "2026-10-04T17:16:44.000Z",
-      "url": "http://arxiv.org/abs/2610.05387v1",
+      "title": "Disentangling Models from Personas in Heterogeneous LLM Simulations",
+      "date": "2026-10-06T00:01:30.000Z",
+      "url": "http://arxiv.org/abs/2610.07535v1",
       "source": "arxiv"
     }
   ],
