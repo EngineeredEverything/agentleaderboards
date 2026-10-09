@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-10-08T16:06:57.970Z",
+  "timestamp": "2026-10-09T15:48:46.457Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
-      "title": "EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
-      "date": "2026-10-07T17:58:52.000Z",
-      "url": "http://arxiv.org/abs/2610.10533v1",
+      "title": "WOVEN: Weaving Visual World Modeling into Multimodal LLMs",
+      "date": "2026-10-08T17:52:03.000Z",
+      "url": "http://arxiv.org/abs/2610.12417v1",
       "source": "arxiv"
     },
     {
-      "title": "PHRBench: A Behavioral Evaluation of Post-Hallucination Reasoning in LLMs",
-      "date": "2026-10-07T17:25:23.000Z",
-      "url": "http://arxiv.org/abs/2610.10455v1",
+      "title": "Long Text to Predictive Features: LLM-Guided Blockwise Feature Engineering via Executable Program Search",
+      "date": "2026-10-08T17:39:11.000Z",
+      "url": "http://arxiv.org/abs/2610.12390v1",
       "source": "arxiv"
     },
     {
-      "title": "Nobody Truly Agrees on Sentiment: Humans, Bespoke Tools, and LLMs Struggle with Social Media Texts",
-      "date": "2026-10-07T16:11:12.000Z",
-      "url": "http://arxiv.org/abs/2610.10318v1",
+      "title": "OnTrack: Real-Time Monitoring and Intervention in LLM Agent Trajectories via Streaming Structure-Aware Optimal Transport",
+      "date": "2026-10-08T17:32:08.000Z",
+      "url": "http://arxiv.org/abs/2610.12375v1",
       "source": "arxiv"
     },
     {
-      "title": "LLM Persuasion Is in the Eye of the Evaluation",
-      "date": "2026-10-07T15:19:54.000Z",
-      "url": "http://arxiv.org/abs/2610.10232v1",
+      "title": "Accurate but Not Humble: Evaluating Epistemic Humility in LLM Agents under Knowledge Conflict",
+      "date": "2026-10-08T17:25:06.000Z",
+      "url": "http://arxiv.org/abs/2610.12360v1",
       "source": "arxiv"
     },
     {
-      "title": "From Prompts to Trees: Effective LLM-Guided Tree Generation for Few-Shot Tabular Classification",
-      "date": "2026-10-07T15:18:11.000Z",
-      "url": "http://arxiv.org/abs/2610.10227v1",
+      "title": "SparseDecoding: Decoding-Aware Pruning for Accurate and Efficient LLM Inference",
+      "date": "2026-10-08T17:06:32.000Z",
+      "url": "http://arxiv.org/abs/2610.12327v1",
       "source": "arxiv"
     },
     {
-      "title": "Cache the Encoder Within:Compact, Reusable Memory across LLM Queries",
-      "date": "2026-10-07T13:28:25.000Z",
-      "url": "http://arxiv.org/abs/2610.10058v1",
+      "title": "Verdict Without the Rule: Diagnosing and Auditing Regulatory Rule Sensitivity in LLM Compliance Systems",
+      "date": "2026-10-08T16:59:40.000Z",
+      "url": "http://arxiv.org/abs/2610.12313v1",
       "source": "arxiv"
     },
     {
-      "title": "Sensitive-Topic Leakage Through LLM Routing Metadata: Measurement and Mitigation",
-      "date": "2026-10-07T12:47:37.000Z",
-      "url": "http://arxiv.org/abs/2610.09981v1",
+      "title": "TokenRouter: Efficient Serving System for Token-Level LLM Routing",
+      "date": "2026-10-08T16:21:50.000Z",
+      "url": "http://arxiv.org/abs/2610.12242v1",
       "source": "arxiv"
     },
     {
-      "title": "LiveMACE: Process-Aware Evaluation of LLM Agent Capabilities in Evolving Markets",
-      "date": "2026-10-07T11:33:21.000Z",
-      "url": "http://arxiv.org/abs/2610.09872v1",
+      "title": "All Verdicts are Not Equal: Rethinking LLM Judge Reliability",
+      "date": "2026-10-08T14:55:29.000Z",
+      "url": "http://arxiv.org/abs/2610.12083v1",
       "source": "arxiv"
     },
     {
-      "title": "Training Advisors for LLM Agents from Task Outcomes",
-      "date": "2026-10-07T11:14:26.000Z",
-      "url": "http://arxiv.org/abs/2610.09858v1",
+      "title": "Natural Language to First-Order Logic LLM-based Autoformalization",
+      "date": "2026-10-08T14:24:12.000Z",
+      "url": "http://arxiv.org/abs/2610.12030v1",
       "source": "arxiv"
     },
     {
-      "title": "MIRROR: From Imitation to Internalization in LLM Personalization",
-      "date": "2026-10-07T10:10:01.000Z",
-      "url": "http://arxiv.org/abs/2610.09795v1",
+      "title": "Examining Social Attribution in LLM Reasoning: A Theory-Guided Probing Methodology",
+      "date": "2026-10-08T14:20:06.000Z",
+      "url": "http://arxiv.org/abs/2610.12022v1",
       "source": "arxiv"
     },
     {
-      "title": "Decoupling Logic from Persona: Structural Immunity of Edge LLM Agents to Context Pollution",
-      "date": "2026-10-07T09:53:28.000Z",
-      "url": "http://arxiv.org/abs/2610.09772v1",
+      "title": "DataVista: Diagnosing Multimodal LLMs on Data Video Understanding",
+      "date": "2026-10-08T14:02:35.000Z",
+      "url": "http://arxiv.org/abs/2610.11993v1",
       "source": "arxiv"
     },
     {
-      "title": "Bridge Routing Heads: Where Multilingual Multi-hop Reasoning Lives in LLMs",
-      "date": "2026-10-07T09:28:25.000Z",
-      "url": "http://arxiv.org/abs/2610.09733v1",
+      "title": "Specialized Decision Models vs. General-Purpose LLMs: Benchmarking Jev Across Knowledge, Reasoning, and Multilingual Tasks",
+      "date": "2026-10-08T13:52:42.000Z",
+      "url": "http://arxiv.org/abs/2610.11978v1",
       "source": "arxiv"
     },
     {
-      "title": "Rubric Spans are Label Representations: Joint LLM Encoding for Short Answer Scoring",
-      "date": "2026-10-07T08:29:04.000Z",
-      "url": "http://arxiv.org/abs/2610.09660v1",
+      "title": "Can Decision Models Understand Stance? Evaluating Jev Against General-Purpose LLMs",
+      "date": "2026-10-08T13:05:52.000Z",
+      "url": "http://arxiv.org/abs/2610.11901v1",
       "source": "arxiv"
     },
     {
-      "title": "When Rank Rises as LLMs Degrade",
-      "date": "2026-10-07T08:22:30.000Z",
-      "url": "http://arxiv.org/abs/2610.09647v1",
+      "title": "Forms of LLM-Integrated Applications from LLM-Chats to Autonomous AI Agent System",
+      "date": "2026-10-08T13:05:33.000Z",
+      "url": "http://arxiv.org/abs/2610.11899v1",
       "source": "arxiv"
     },
     {
-      "title": "How Do LLMs Change Predictions Under Negation?",
-      "date": "2026-10-07T07:12:16.000Z",
-      "url": "http://arxiv.org/abs/2610.09571v1",
+      "title": "Same Outcome, Different Evidence: Intent Recovery in LLM Safety Evaluation",
+      "date": "2026-10-08T11:50:32.000Z",
+      "url": "http://arxiv.org/abs/2610.11766v1",
       "source": "arxiv"
     },
     {
-      "title": "Right Number, Wrong State? Measuring Cross-Jurisdiction Substitution in LLM Recall of State Policy",
-      "date": "2026-10-07T05:12:42.000Z",
-      "url": "http://arxiv.org/abs/2610.09458v1",
+      "title": "Thinking Inertia: LLMs Keep Thinking When Told Not To",
+      "date": "2026-10-08T11:49:37.000Z",
+      "url": "http://arxiv.org/abs/2610.11765v1",
       "source": "arxiv"
     },
     {
-      "title": "Arctic Questions, Missing Answers: A Dataset and Benchmark for LLM Abstention in Arctic Science",
-      "date": "2026-10-07T04:58:28.000Z",
-      "url": "http://arxiv.org/abs/2610.09446v1",
+      "title": "Measuring Cultural Alignment Beyond the Average: A Framework for Evaluating Maternal-Health LLM Interactions in Indian Contexts",
+      "date": "2026-10-08T09:35:15.000Z",
+      "url": "http://arxiv.org/abs/2610.11586v1",
       "source": "arxiv"
     },
     {
-      "title": "Finding the Right Balance: Relevance and Diversity in LLM Retrieval",
-      "date": "2026-10-07T04:14:31.000Z",
-      "url": "http://arxiv.org/abs/2610.09412v1",
+      "title": "Adapting English Quality Classifiers for Multilingual LLM Pretraining Data Selection",
+      "date": "2026-10-08T09:33:32.000Z",
+      "url": "http://arxiv.org/abs/2610.11585v1",
       "source": "arxiv"
     },
     {
-      "title": "The Persona Hierarchy Model: Understanding Contextual Generalization in Fine-Tuning LLMs",
-      "date": "2026-10-07T03:40:44.000Z",
-      "url": "http://arxiv.org/abs/2610.09384v1",
+      "title": "Constitutional Gating and Deterministic Recovery for Multi-Agent LLM Negotiation: Ablations Against a Stateful Adversarial Gatekeeper",
+      "date": "2026-10-08T09:10:45.000Z",
+      "url": "http://arxiv.org/abs/2610.11542v1",
       "source": "arxiv"
     },
     {
-      "title": "From Uncertainty to Action: Learning to Steer LLM Agents",
-      "date": "2026-10-06T21:05:50.000Z",
-      "url": "http://arxiv.org/abs/2610.09115v1",
+      "title": "Does Modern Standard Arabic (MSA) Dominate Arabic Dialects in LLMs? A Representation-Level Analysis",
+      "date": "2026-10-08T08:46:47.000Z",
+      "url": "http://arxiv.org/abs/2610.11510v1",
       "source": "arxiv"
     }
   ],
