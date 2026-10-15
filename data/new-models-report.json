@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-10-14T14:19:11.166Z",
+  "timestamp": "2026-10-15T13:55:28.255Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
-      "title": "Back-Translation Still Matters: Leveraging Monolingual Data for Low-Resource Machine Translation with LLMs",
-      "date": "2026-10-13T17:50:18.000Z",
-      "url": "http://arxiv.org/abs/2610.18818v1",
+      "title": "One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves LLM Agent Robustness",
+      "date": "2026-10-14T17:56:06.000Z",
+      "url": "http://arxiv.org/abs/2610.20576v1",
       "source": "arxiv"
     },
     {
-      "title": "Where Do LLM Ensemble Gains Come From? Decomposing Candidate Value, Diversity, and Aggregation",
-      "date": "2026-10-13T17:36:51.000Z",
-      "url": "http://arxiv.org/abs/2610.18786v1",
+      "title": "Manacá-1B-Instruct-2: Reproducible Safety Alignment for a Native Brazilian-Portuguese LLM. Negative DPO Results, a Controlled Composition Scan, and a Silent Failure Mode of the LLM Judge",
+      "date": "2026-10-14T17:53:46.000Z",
+      "url": "http://arxiv.org/abs/2610.20570v1",
       "source": "arxiv"
     },
     {
-      "title": "BLADE: Auditing Information Use for Failure Attribution in LLM Multi-Agent Systems",
-      "date": "2026-10-13T17:34:34.000Z",
-      "url": "http://arxiv.org/abs/2610.18780v1",
+      "title": "PerSo: Investigating Facets of LLMs' Social Intelligence in Real-World Persuasion Scenarios",
+      "date": "2026-10-14T17:39:35.000Z",
+      "url": "http://arxiv.org/abs/2610.20548v1",
       "source": "arxiv"
     },
     {
-      "title": "Looking Complete Is Not Being Grounded: Evaluating LLM Sitreps Against Human-Authored Situation Reports",
-      "date": "2026-10-13T17:23:19.000Z",
-      "url": "http://arxiv.org/abs/2610.18762v1",
+      "title": "Same Claim, Different Interpretations: How LLM Agents Resolve Ambiguity in Scientific Claims",
+      "date": "2026-10-14T16:42:05.000Z",
+      "url": "http://arxiv.org/abs/2610.20457v1",
       "source": "arxiv"
     },
     {
-      "title": "Beyond Answer Voting: Fine-Grained Correction of LLM Reasoning through Graph Alignment across Sampled Traces",
-      "date": "2026-10-13T15:58:02.000Z",
-      "url": "http://arxiv.org/abs/2610.18606v1",
+      "title": "From Unreliable to Usable: Decomposing Failure Modes and Confidence Signals in LLM Entity Extraction - Evidence from Cyber Threat Intelligence",
+      "date": "2026-10-14T16:13:09.000Z",
+      "url": "http://arxiv.org/abs/2610.20417v1",
       "source": "arxiv"
     },
     {
-      "title": "Rethinking Projector Training in Multimodal LLMs",
-      "date": "2026-10-13T15:53:53.000Z",
-      "url": "http://arxiv.org/abs/2610.18598v1",
+      "title": "Cross-Model In-Context Neurofeedback Reveals (Limited) Activation Control in LLMs",
+      "date": "2026-10-14T13:24:26.000Z",
+      "url": "http://arxiv.org/abs/2610.20179v1",
       "source": "arxiv"
     },
     {
-      "title": "How Reliable Are System-One Decisions in Medicine? A Comparative Study of Jev, Jev-like Models, and LLMs",
-      "date": "2026-10-13T15:15:46.000Z",
-      "url": "http://arxiv.org/abs/2610.18529v1",
+      "title": "LLM-Based Policy Compliance Verification of Loan Applications",
+      "date": "2026-10-14T13:12:51.000Z",
+      "url": "http://arxiv.org/abs/2610.20155v1",
       "source": "arxiv"
     },
     {
-      "title": "Do Factuality Methods Make LLMs More Factual? Reproducibility and Fair Comparison",
-      "date": "2026-10-13T13:54:51.000Z",
-      "url": "http://arxiv.org/abs/2610.18415v1",
+      "title": "Designing Textual Interfaces To Enhance Llm Reasoning On Audio-Visual Question Answering",
+      "date": "2026-10-14T12:23:59.000Z",
+      "url": "http://arxiv.org/abs/2610.20085v1",
       "source": "arxiv"
     },
     {
-      "title": "Not All Drift Is a Mechanism: Tracing Prompt Adaptation in LLMs",
-      "date": "2026-10-13T13:52:52.000Z",
-      "url": "http://arxiv.org/abs/2610.18412v1",
+      "title": "Which Knowledge Should LLMs Trust? Uncovering a Generalizable Steering Direction Across Knowledge Conflicts",
+      "date": "2026-10-14T12:06:32.000Z",
+      "url": "http://arxiv.org/abs/2610.20067v1",
       "source": "arxiv"
     },
     {
-      "title": "Pin It on Anyone: Certified Targeted Displacement of Multi-Bit LLM Watermarks Without the Key",
-      "date": "2026-10-13T13:24:34.000Z",
-      "url": "http://arxiv.org/abs/2610.18359v1",
+      "title": "LintEval: Benchmarking LLMs on Linter-Guided File Refactoring",
+      "date": "2026-10-14T11:36:55.000Z",
+      "url": "http://arxiv.org/abs/2610.20027v1",
       "source": "arxiv"
     },
     {
-      "title": "Prompt or Policy? Optimizing Physician Slate Presentations with LLM User Simulators",
-      "date": "2026-10-13T12:52:47.000Z",
-      "url": "http://arxiv.org/abs/2610.18309v1",
+      "title": "Gray-Box Hallucination Detection in LLMs with Token Identities",
+      "date": "2026-10-14T11:12:12.000Z",
+      "url": "http://arxiv.org/abs/2610.19996v1",
       "source": "arxiv"
     },
     {
-      "title": "Claim Framing as a Driver of LLM Sycophancy",
-      "date": "2026-10-13T11:02:55.000Z",
-      "url": "http://arxiv.org/abs/2610.18159v1",
+      "title": "Not All Criteria Matter: Importance-Aware Criteria Weighting for Rubric-Based LLM Evaluation",
+      "date": "2026-10-14T10:05:43.000Z",
+      "url": "http://arxiv.org/abs/2610.19915v1",
       "source": "arxiv"
     },
     {
-      "title": "Fan Out or Relay? Ownership-Aware Routing for LLM Agents Querying Siloed Tables",
-      "date": "2026-10-13T11:01:37.000Z",
-      "url": "http://arxiv.org/abs/2610.18157v1",
+      "title": "Beyond Benchmark Accuracy: A Diagnostic Test for LLM Chemical Prediction",
+      "date": "2026-10-14T10:03:05.000Z",
+      "url": "http://arxiv.org/abs/2610.19906v1",
       "source": "arxiv"
     },
     {
-      "title": "SparPR: Runtime KV-Cache Recovery for Resource-Constrained LLM Inference on Consumer Hardware",
-      "date": "2026-10-13T10:47:05.000Z",
-      "url": "http://arxiv.org/abs/2610.18140v1",
+      "title": "SEA-HELM Audio: Evaluating Multilingual ASR-LLM Pipeline Performance Across SEA-HELM Subsets",
+      "date": "2026-10-14T09:29:36.000Z",
+      "url": "http://arxiv.org/abs/2610.19869v1",
       "source": "arxiv"
     },
     {
-      "title": "Narrative Lookahead in LLMs: Event-Level Decodability, Predictive Advantage, and Steering",
-      "date": "2026-10-13T10:34:26.000Z",
-      "url": "http://arxiv.org/abs/2610.18121v1",
+      "title": "MAPLE: A Multi-Axis Parametric Knowledge Extraction Lens for LLM Evaluation",
+      "date": "2026-10-14T09:02:05.000Z",
+      "url": "http://arxiv.org/abs/2610.19827v1",
       "source": "arxiv"
     },
     {
-      "title": "inLoRA-MINT: Internal Representations for Auditing Training Data in Domain-adapted LLMs",
-      "date": "2026-10-13T09:40:58.000Z",
-      "url": "http://arxiv.org/abs/2610.18051v1",
+      "title": "Does the Linguistic Register of Thinking Matter? Wenyan as a Compact Reasoning Register for Chinese LLMs",
+      "date": "2026-10-14T08:04:05.000Z",
+      "url": "http://arxiv.org/abs/2610.19741v1",
       "source": "arxiv"
     },
     {
-      "title": "Training LLMs for Multi-Agent Collaboration with Verifiable Information Rewards",
-      "date": "2026-10-13T07:46:48.000Z",
-      "url": "http://arxiv.org/abs/2610.17893v1",
+      "title": "RouteWeaver: Weaving Mode Selection and Execution into Unified LLM Routing",
+      "date": "2026-10-14T07:33:05.000Z",
+      "url": "http://arxiv.org/abs/2610.19705v1",
       "source": "arxiv"
     },
     {
-      "title": "Many Right Answers, One Training Example: Removing Responder Noise from GRPO for LLM Recommenders",
-      "date": "2026-10-13T05:57:20.000Z",
-      "url": "http://arxiv.org/abs/2610.17771v1",
+      "title": "Measuring and Reducing Unusable Replies of LLM Agents",
+      "date": "2026-10-14T06:35:49.000Z",
+      "url": "http://arxiv.org/abs/2610.19659v1",
       "source": "arxiv"
     },
     {
-      "title": "Encoding Context into LLM Weights: What Makes It Context?",
-      "date": "2026-10-13T04:08:13.000Z",
-      "url": "http://arxiv.org/abs/2610.17686v1",
+      "title": "Divergent Paths: Learning an Outcome-Predictive Representation of LLM Agent Trajectories",
+      "date": "2026-10-14T05:36:22.000Z",
+      "url": "http://arxiv.org/abs/2610.19614v1",
       "source": "arxiv"
     },
     {
-      "title": "Dissociating Answerability from Extraction in LLM Question Answering over Radiology Reports",
-      "date": "2026-10-13T01:55:59.000Z",
-      "url": "http://arxiv.org/abs/2610.17576v1",
+      "title": "Are We Really Measuring Forgetting? Pitfalls in Evaluating Machine Unlearning for Multimodal LLMs",
+      "date": "2026-10-14T05:36:03.000Z",
+      "url": "http://arxiv.org/abs/2610.19613v1",
       "source": "arxiv"
     }
   ],
