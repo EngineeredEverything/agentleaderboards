@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-10-19T16:10:44.171Z",
+  "timestamp": "2026-10-20T14:05:15.685Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
-      "title": "Recognizing Study Lineage Is Not Enough: Over-Crediting Same-Trial Evidence in LLM-Based Medical Verification",
-      "date": "2026-10-16T16:42:10.000Z",
-      "url": "http://arxiv.org/abs/2610.23721v1",
+      "title": "Safety Mid-Training: Internalizing LLM Safety as a Foundational Capability",
+      "date": "2026-10-19T17:49:49.000Z",
+      "url": "http://arxiv.org/abs/2610.26809v1",
       "source": "arxiv"
     },
     {
-      "title": "The Cognitive Cost of LLM Writing: A Reading-Time Comparison with Human Text",
-      "date": "2026-10-16T16:35:41.000Z",
-      "url": "http://arxiv.org/abs/2610.23715v1",
+      "title": "Game of Phones: Harnessing Game Theory and LLMs in 'Bot Wars' to Counteract Phone Scams",
+      "date": "2026-10-19T17:35:02.000Z",
+      "url": "http://arxiv.org/abs/2610.26781v1",
       "source": "arxiv"
     },
     {
-      "title": "VISTA: Steering LLMs with Latent User Values Inferred from a Few Survey Answers",
-      "date": "2026-10-16T16:28:57.000Z",
-      "url": "http://arxiv.org/abs/2610.23702v1",
+      "title": "TokenGate: Adapting LLMs for Fast and Memory-Efficient Prefill with Learned Token Pruning",
+      "date": "2026-10-19T17:15:53.000Z",
+      "url": "http://arxiv.org/abs/2610.26754v1",
       "source": "arxiv"
     },
     {
-      "title": "Analyzing Occupational Gender Bias across the LLM Training Lifecycle",
-      "date": "2026-10-16T15:07:02.000Z",
-      "url": "http://arxiv.org/abs/2610.23587v1",
+      "title": "Which Model for Which Role? Cost-Efficient Pareto Recommendation for LLM Agentic Workflows",
+      "date": "2026-10-19T16:25:07.000Z",
+      "url": "http://arxiv.org/abs/2610.26676v1",
       "source": "arxiv"
     },
     {
-      "title": "MARS: Memory-Aware Routing for Session-Level LLM Assistants",
-      "date": "2026-10-16T15:04:22.000Z",
-      "url": "http://arxiv.org/abs/2610.23583v1",
+      "title": "From Outcomes to Components: A Counterfactual Evaluation Framework for LLM-Proposed Repairs",
+      "date": "2026-10-19T16:08:46.000Z",
+      "url": "http://arxiv.org/abs/2610.26650v1",
       "source": "arxiv"
     },
     {
-      "title": "Perceive, Solve, Reason: Progressive Capability Formation in Time Series-LLMs",
-      "date": "2026-10-16T14:23:23.000Z",
-      "url": "http://arxiv.org/abs/2610.23521v1",
+      "title": "Beyond Attack Success Rate: Cost-Aware Metric for Evaluating Iterative LLM Jailbreaks",
+      "date": "2026-10-19T15:36:41.000Z",
+      "url": "http://arxiv.org/abs/2610.26589v1",
       "source": "arxiv"
     },
     {
-      "title": "\"You\" Is Not Toxic: How LLM Labelers Rewrite the Web's Conversation Laws",
-      "date": "2026-10-16T13:29:30.000Z",
-      "url": "http://arxiv.org/abs/2610.23446v1",
+      "title": "RouterWorld: Scaling Conversational AI with Latency-Aware LLM Routing",
+      "date": "2026-10-19T14:45:25.000Z",
+      "url": "http://arxiv.org/abs/2610.26511v1",
       "source": "arxiv"
     },
     {
-      "title": "On the Tip of the Tongue: First-Token Cueing as a Behavioral Probe of Recall Failures in LLMs",
-      "date": "2026-10-16T12:55:36.000Z",
-      "url": "http://arxiv.org/abs/2610.23400v1",
+      "title": "An Empirical Study of Parameter-Efficient Fine-Tuning for Mixture-of-Experts LLMs",
+      "date": "2026-10-19T13:28:03.000Z",
+      "url": "http://arxiv.org/abs/2610.26370v1",
       "source": "arxiv"
     },
     {
-      "title": "Robust Function Calling for LLM Agents Under Interface Drift",
-      "date": "2026-10-16T11:49:37.000Z",
-      "url": "http://arxiv.org/abs/2610.23342v1",
+      "title": "Honeyed Words, Hidden Daggers: Benchmarking and Training LLMs to See Through Mock Politeness",
+      "date": "2026-10-19T09:19:38.000Z",
+      "url": "http://arxiv.org/abs/2610.26059v1",
       "source": "arxiv"
     },
     {
-      "title": "Self-Reflective Chain-of-Thought (SRCoT): Evidence-Based Text Generation via a Closed-Loop Retrieve--Reflect--Revise Pipeline on Edge LLMs",
-      "date": "2026-10-16T11:14:52.000Z",
-      "url": "http://arxiv.org/abs/2610.23311v1",
+      "title": "Balance-Aware Pivot Selection for Parallel Diffusion LLM Decoding",
+      "date": "2026-10-19T09:01:24.000Z",
+      "url": "http://arxiv.org/abs/2610.26040v1",
       "source": "arxiv"
     },
     {
-      "title": "Inferring L1 Backgrounds from L2 English with LLM Token Probabilities",
-      "date": "2026-10-16T11:12:42.000Z",
-      "url": "http://arxiv.org/abs/2610.23309v1",
+      "title": "Accelerated Drift of Scientific Prose in the LLM Era: Evidence from an Interrupted Time-Series Analysis",
+      "date": "2026-10-19T08:33:10.000Z",
+      "url": "http://arxiv.org/abs/2610.26008v1",
       "source": "arxiv"
     },
     {
-      "title": "Who Pays for Efficient Inference? Confidence-Based Small-to-Large LLM Routing Across Tasks and Languages",
-      "date": "2026-10-16T10:23:41.000Z",
-      "url": "http://arxiv.org/abs/2610.23249v1",
+      "title": "Scaling Synthetic Pre-training Data and Evaluation for Indic LLMs",
+      "date": "2026-10-19T08:30:55.000Z",
+      "url": "http://arxiv.org/abs/2610.26006v1",
       "source": "arxiv"
     },
     {
-      "title": "What LLMs Do in the Shadows: Reading Context Reliance from the Unembedding Dark Space",
-      "date": "2026-10-16T09:21:49.000Z",
-      "url": "http://arxiv.org/abs/2610.23182v1",
+      "title": "AdaExploreBench: Benchmarking LLM Agents for Proactive Exploration and Test-time Adaptation in Evolving Environments",
+      "date": "2026-10-19T07:41:50.000Z",
+      "url": "http://arxiv.org/abs/2610.25950v1",
       "source": "arxiv"
     },
     {
-      "title": "Before Retrieval Begins: Safety and Tool-Use Decisions in LLM Agents",
-      "date": "2026-10-16T07:42:47.000Z",
-      "url": "http://arxiv.org/abs/2610.23071v1",
+      "title": "Speech LLMs That Breathe: Modeling Non-Verbal Vocalizations in Dialogue",
+      "date": "2026-10-19T07:36:52.000Z",
+      "url": "http://arxiv.org/abs/2610.25942v1",
       "source": "arxiv"
     },
     {
-      "title": "ParetoChat: An LLM-Based Interface for Interactive Multi-Objective Optimization",
-      "date": "2026-10-16T07:39:39.000Z",
-      "url": "http://arxiv.org/abs/2610.23062v1",
+      "title": "Keep the Lineages Alive: Diversity-Preserving SMC for Diffusion LLM Decoding",
+      "date": "2026-10-19T07:30:07.000Z",
+      "url": "http://arxiv.org/abs/2610.25932v1",
       "source": "arxiv"
     },
     {
-      "title": "Same Person, Different Advice: Auditing LLM Financial Advice with Repeated Risk-Tolerance Responses",
-      "date": "2026-10-16T07:39:08.000Z",
-      "url": "http://arxiv.org/abs/2610.23060v1",
+      "title": "Budgeted Attack Scheduling for LLM Red-Teaming: The Roles of Static Priors, Semantic Guidance, and Online Feedback",
+      "date": "2026-10-19T06:54:41.000Z",
+      "url": "http://arxiv.org/abs/2610.25897v1",
       "source": "arxiv"
     },
     {
-      "title": "Controlling the Diversity-Quality Trade-Off of LLMs by Merging Models Before and After Alignment",
-      "date": "2026-10-16T06:24:10.000Z",
-      "url": "http://arxiv.org/abs/2610.22999v1",
+      "title": "Standing on the Shoulders of Giants: Enhancing LLM Agents for Automated Fact-Checking with Human Expert Skills",
+      "date": "2026-10-19T04:44:26.000Z",
+      "url": "http://arxiv.org/abs/2610.25777v1",
       "source": "arxiv"
     },
     {
-      "title": "Prism Attention: Proposal-Refined Index Sharing Mechanism for Efficient LLMs Inference",
-      "date": "2026-10-16T06:11:20.000Z",
-      "url": "http://arxiv.org/abs/2610.22985v1",
+      "title": "Computation, Not Memory: Chain-of-Thought and State Tracking in LLM Agents",
+      "date": "2026-10-19T04:18:24.000Z",
+      "url": "http://arxiv.org/abs/2610.25760v1",
       "source": "arxiv"
     },
     {
-      "title": "Beyond Surface Cues: Robust LLM-Generated Korean Text Detection",
-      "date": "2026-10-16T05:07:15.000Z",
-      "url": "http://arxiv.org/abs/2610.22940v1",
+      "title": "Does Unlearning Survive Collaboration? Robust Unlearning for Shared-Model LLM Teams",
+      "date": "2026-10-19T03:33:58.000Z",
+      "url": "http://arxiv.org/abs/2610.25731v1",
       "source": "arxiv"
     },
     {
-      "title": "Cooperation Without Adaptation: LLM Agents in a Collective-Risk Dilemma",
-      "date": "2026-10-16T03:38:04.000Z",
-      "url": "http://arxiv.org/abs/2610.22882v1",
+      "title": "Inside the Scorer: Mechanistic Evidence on Rubric Control in LLM-Based Automated Essay Scoring from 25 Base Models",
+      "date": "2026-10-19T03:26:30.000Z",
+      "url": "http://arxiv.org/abs/2610.25724v1",
       "source": "arxiv"
     }
   ],
