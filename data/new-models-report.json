@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-10-21T14:19:48.145Z",
+  "timestamp": "2026-10-22T14:19:30.447Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
-      "title": "OptionWorld: A Benchmark for Diagnosing Failures of LLMs as Long-Term Personal Assistants",
-      "date": "2026-10-20T16:38:43.000Z",
-      "url": "http://arxiv.org/abs/2610.28491v1",
+      "title": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
+      "date": "2026-10-21T17:59:14.000Z",
+      "url": "http://arxiv.org/abs/2610.30132v1",
       "source": "arxiv"
     },
     {
-      "title": "Every Model Leaves a Trace: Multi-Resolution LLM Fingerprinting",
-      "date": "2026-10-20T16:00:34.000Z",
-      "url": "http://arxiv.org/abs/2610.28434v1",
+      "title": "Environment Duels: A Microcosm of LLM Co-Evolution",
+      "date": "2026-10-21T17:55:31.000Z",
+      "url": "http://arxiv.org/abs/2610.30116v1",
       "source": "arxiv"
     },
     {
-      "title": "MAS-Guard: Unified Guardrails from Individual Agents to Multi-Agent LLM Systems",
-      "date": "2026-10-20T15:44:37.000Z",
-      "url": "http://arxiv.org/abs/2610.28397v1",
+      "title": "Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research",
+      "date": "2026-10-21T17:54:01.000Z",
+      "url": "http://arxiv.org/abs/2610.30113v1",
       "source": "arxiv"
     },
     {
-      "title": "Disclosure Begets Disclosure: A Self-Reinforcing Privacy Loop in LLM Agents with Persistent Memory",
-      "date": "2026-10-20T14:52:57.000Z",
-      "url": "http://arxiv.org/abs/2610.28315v1",
+      "title": "Did the Problem Actually Get Harder? Testing LLMs on Paired P and NP-Complete Problems Hardened by Adversarial Multi-Agent Rewriting",
+      "date": "2026-10-21T17:50:19.000Z",
+      "url": "http://arxiv.org/abs/2610.30103v1",
       "source": "arxiv"
     },
     {
-      "title": "How Language Models Learn Taste: Brand Preference in LLMs",
-      "date": "2026-10-20T14:26:19.000Z",
-      "url": "http://arxiv.org/abs/2610.28272v1",
+      "title": "HiddenLens: A Multi-Layer LLM Framework for Detecting and Resolving Hidden Assumptions in Software Requirements",
+      "date": "2026-10-21T16:35:35.000Z",
+      "url": "http://arxiv.org/abs/2610.29996v1",
       "source": "arxiv"
     },
     {
-      "title": "Temporal Evidence-Parameter Co-Alignment for LLM Reasoning over Temporal Knowledge Graphs",
-      "date": "2026-10-20T13:16:17.000Z",
-      "url": "http://arxiv.org/abs/2610.28176v1",
+      "title": "Commit or Abstain? System One Decision Models, LLMs, and Missing Legal Authority",
+      "date": "2026-10-21T16:17:49.000Z",
+      "url": "http://arxiv.org/abs/2610.29961v1",
       "source": "arxiv"
     },
     {
-      "title": "Reading Too Much Into It? Interpretive Preferences and Commitment in LLM Mentalisation under Ambiguity",
-      "date": "2026-10-20T12:18:11.000Z",
-      "url": "http://arxiv.org/abs/2610.28105v1",
+      "title": "Unintended Side Effects of Value Training in LLMs",
+      "date": "2026-10-21T15:58:53.000Z",
+      "url": "http://arxiv.org/abs/2610.29922v1",
       "source": "arxiv"
     },
     {
-      "title": "BAIT: Can LLMs Find What Biases a Reader? A Benchmark for Cognitive Bias Triggers in News",
-      "date": "2026-10-20T12:09:28.000Z",
-      "url": "http://arxiv.org/abs/2610.28092v1",
+      "title": "Every Part Has Its Role: Part-of-Speech Effects in LLM Post-Training",
+      "date": "2026-10-21T15:05:51.000Z",
+      "url": "http://arxiv.org/abs/2610.29843v1",
       "source": "arxiv"
     },
     {
-      "title": "Contextual Candour: Role-Aware Graduated Disclosure for LLMs over Mixed-Sensitivity Contexts",
-      "date": "2026-10-20T11:50:25.000Z",
-      "url": "http://arxiv.org/abs/2610.28067v1",
+      "title": "S-EDL: Eliciting Self-Evidence from Sequence Likelihoods for Semantic Calibration of LLMs",
+      "date": "2026-10-21T14:55:58.000Z",
+      "url": "http://arxiv.org/abs/2610.29832v1",
       "source": "arxiv"
     },
     {
-      "title": "Why Do LLMs Accept Generics? Explaining Acceptability using Psycholinguistic and Model-Derived Factors",
-      "date": "2026-10-20T09:40:13.000Z",
-      "url": "http://arxiv.org/abs/2610.27928v1",
+      "title": "Where Do LLMs Learn to Recommend AI?",
+      "date": "2026-10-21T14:13:52.000Z",
+      "url": "http://arxiv.org/abs/2610.29785v1",
       "source": "arxiv"
     },
     {
-      "title": "Polarity Blindness in LLM Safety: A Systematic Study of Negation, Antonym Substitution, and Adversarial Framing",
-      "date": "2026-10-20T09:22:50.000Z",
-      "url": "http://arxiv.org/abs/2610.27908v1",
+      "title": "ALIAS: Evaluating Performance and Memorization in LLM-Written TLA+ Specifications",
+      "date": "2026-10-21T14:02:02.000Z",
+      "url": "http://arxiv.org/abs/2610.29767v1",
       "source": "arxiv"
     },
     {
-      "title": "Testing Associative Creativity in Humans and Multimodal LLMs with Difficult-to-Name Visual Stimuli",
-      "date": "2026-10-20T09:13:16.000Z",
-      "url": "http://arxiv.org/abs/2610.27894v1",
+      "title": "Bridging Foundational and Agentic Capabilities of LLMs",
+      "date": "2026-10-21T13:50:43.000Z",
+      "url": "http://arxiv.org/abs/2610.29751v1",
       "source": "arxiv"
     },
     {
-      "title": "Are Linguistic and Arithmetic Circuits Dissociated in LLMs?",
-      "date": "2026-10-20T07:52:47.000Z",
-      "url": "http://arxiv.org/abs/2610.27790v1",
+      "title": "Conflicted Records: Typed Adversarial Contracts for Auditable LLM Output Quality Enforcement",
+      "date": "2026-10-21T12:43:35.000Z",
+      "url": "http://arxiv.org/abs/2610.29669v1",
       "source": "arxiv"
     },
     {
-      "title": "Hearsay or Fact? How Framing and Elicitation Shape LLM Probability Updates",
-      "date": "2026-10-20T07:05:40.000Z",
-      "url": "http://arxiv.org/abs/2610.27745v1",
+      "title": "LLMs as survey respondents: Comparison to simple semantic baselines",
+      "date": "2026-10-21T12:26:20.000Z",
+      "url": "http://arxiv.org/abs/2610.29645v1",
       "source": "arxiv"
     },
     {
-      "title": "When Does Experience Memory Help Closed-Loop LLM Driving Agents? A Controlled Evaluation with Resampled Warmup Pools, Token-Matched Fillers, and Audited Baselines",
-      "date": "2026-10-20T06:31:27.000Z",
-      "url": "http://arxiv.org/abs/2610.27714v1",
+      "title": "Beyond the Vote: When Do LLMs Add Value to Retrieval-Based Tabular Classification?",
+      "date": "2026-10-21T10:06:29.000Z",
+      "url": "http://arxiv.org/abs/2610.29520v1",
       "source": "arxiv"
     },
     {
-      "title": "Beyond Calibration: Temporal LLM Confidence Assessment Across Languages and Local Settings",
-      "date": "2026-10-20T06:19:35.000Z",
-      "url": "http://arxiv.org/abs/2610.27702v1",
+      "title": "Keeping Time vs. Understanding Time: Neither Alone Explains Temporal Reasoning in LLMs",
+      "date": "2026-10-21T09:58:46.000Z",
+      "url": "http://arxiv.org/abs/2610.29507v1",
       "source": "arxiv"
     },
     {
-      "title": "When LLMs Manipulate: Measuring Behavioral, Social, and Temporal Effects",
-      "date": "2026-10-20T03:41:05.000Z",
-      "url": "http://arxiv.org/abs/2610.27573v1",
+      "title": "LLM-Based Exogenous World Modeling for Dynamic Scheduling",
+      "date": "2026-10-21T07:01:25.000Z",
+      "url": "http://arxiv.org/abs/2610.29308v1",
       "source": "arxiv"
     },
     {
-      "title": "More Memory, Worse Agents: Error Reproduction and Anti-Persistence in LLM Agents",
-      "date": "2026-10-19T23:58:46.000Z",
-      "url": "http://arxiv.org/abs/2610.27406v1",
+      "title": "Same Probabilities, Different Advice: Gain-Loss Framing Effects in High-Stakes LLM Decision Support",
+      "date": "2026-10-21T06:46:33.000Z",
+      "url": "http://arxiv.org/abs/2610.29294v1",
       "source": "arxiv"
     },
     {
-      "title": "On the LLM Verification for Argument Graph Generation",
-      "date": "2026-10-19T22:41:41.000Z",
-      "url": "http://arxiv.org/abs/2610.27361v1",
+      "title": "Beyond Binary Labels: Diagnostic Evaluation of LLM Safety with Prompt-Level Rubrics",
+      "date": "2026-10-21T05:33:50.000Z",
+      "url": "http://arxiv.org/abs/2610.29225v1",
       "source": "arxiv"
     },
     {
-      "title": "RealControlBench: A Benchmark for Interpretability-Informed Fine-Grained Control of LLMs and Agents",
-      "date": "2026-10-19T21:10:03.000Z",
-      "url": "http://arxiv.org/abs/2610.27295v1",
+      "title": "Reasoning-Search-Augmented LLMs: An Operational Taxonomy, Benchmark Analysis and Controlled Evidence Synthesis",
+      "date": "2026-10-21T04:19:06.000Z",
+      "url": "http://arxiv.org/abs/2610.29189v1",
       "source": "arxiv"
     }
   ],
