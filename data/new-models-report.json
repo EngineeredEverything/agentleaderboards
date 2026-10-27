@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-10-26T15:49:57.967Z",
+  "timestamp": "2026-10-27T15:06:37.063Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
-      "title": "Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox",
-      "date": "2026-10-23T17:49:43.000Z",
-      "url": "http://arxiv.org/abs/2610.32955v1",
+      "title": "Preserve to Expand: Source-Aware Adaptation and Model Merging for Multilingual LLM-Based ASR",
+      "date": "2026-10-26T17:56:22.000Z",
+      "url": "http://arxiv.org/abs/2610.35846v1",
       "source": "arxiv"
     },
     {
-      "title": "Do \"True\" and \"False\" Add Up to One? Complement Consistency in LLM-Agent Opinion Simulations",
-      "date": "2026-10-23T16:44:20.000Z",
-      "url": "http://arxiv.org/abs/2610.32874v1",
+      "title": "Quantifying Claim Smoothing by LLM Research Agents",
+      "date": "2026-10-26T17:29:48.000Z",
+      "url": "http://arxiv.org/abs/2610.35793v1",
       "source": "arxiv"
     },
     {
-      "title": "J-Comm: Jacobian-Guided Latent Communication between LLM Agents",
-      "date": "2026-10-23T16:42:38.000Z",
-      "url": "http://arxiv.org/abs/2610.32871v1",
+      "title": "From Self-Confidence to Statistical Accuracy: Scaling Human-in-the-Loop Evaluation with Direct and LLM-Assisted Auditing",
+      "date": "2026-10-26T16:25:11.000Z",
+      "url": "http://arxiv.org/abs/2610.35698v1",
       "source": "arxiv"
     },
     {
-      "title": "ActionRAG: Evidence-Refining Graph Diffusion for Long-Term Memory in LLM Agents",
-      "date": "2026-10-23T14:59:37.000Z",
-      "url": "http://arxiv.org/abs/2610.32752v1",
+      "title": "Adapting LLM-SC to Living Sacred Heritage: Domain-Specific Extraction, Semantic Networks and Human Evaluation on Pashupatinath Temple Reviews",
+      "date": "2026-10-26T16:20:00.000Z",
+      "url": "http://arxiv.org/abs/2610.35685v1",
       "source": "arxiv"
     },
     {
-      "title": "The Butterfly Defects: Tracing Cooperation in LLM Agent Networks",
-      "date": "2026-10-23T14:46:57.000Z",
-      "url": "http://arxiv.org/abs/2610.32726v1",
+      "title": "S3AC: Stabilized, Selective, and Scalable Actor-Critic for LLM Reasoning",
+      "date": "2026-10-26T14:38:53.000Z",
+      "url": "http://arxiv.org/abs/2610.35518v1",
       "source": "arxiv"
     },
     {
-      "title": "Can LLM Annotators Match Human Consistency? Benchmarking Human Agreement and Optimizing Multi-Agent with Contrastive Knowledge",
-      "date": "2026-10-23T09:43:38.000Z",
-      "url": "http://arxiv.org/abs/2610.32415v1",
+      "title": "INVAR-Agri: Detecting Discrepancies in Multilingual Operator Manuals of Agricultural Implements with a Fine-Tuned LLM",
+      "date": "2026-10-26T13:31:34.000Z",
+      "url": "http://arxiv.org/abs/2610.35423v1",
       "source": "arxiv"
     },
     {
-      "title": "Beyond Final Outcomes: Quantifying Claim-Level Information Dynamics in Multi-Agent LLM Interaction",
-      "date": "2026-10-23T08:28:47.000Z",
-      "url": "http://arxiv.org/abs/2610.32333v1",
+      "title": "Constrained Decoding: Harmful or Beneficial? Revisiting Its Impact on LLM Performance",
+      "date": "2026-10-26T12:26:08.000Z",
+      "url": "http://arxiv.org/abs/2610.35328v1",
       "source": "arxiv"
     },
     {
-      "title": "\"Not\" is Not Lost in Translation: A Causal Analysis of Negation Representations in Multilingual LLMs",
-      "date": "2026-10-23T07:38:41.000Z",
-      "url": "http://arxiv.org/abs/2610.32281v1",
+      "title": "Style over Substance? Linguistic Bias in LLM-based Peer Review Copy title",
+      "date": "2026-10-26T11:34:31.000Z",
+      "url": "http://arxiv.org/abs/2610.35254v1",
       "source": "arxiv"
     },
     {
-      "title": "Not All Information Is Worth Asking For: Decision-Informed Information Seeking with LLMs",
-      "date": "2026-10-23T05:27:44.000Z",
-      "url": "http://arxiv.org/abs/2610.32181v1",
+      "title": "High Scores, Hidden Failures: Evaluating Codebook-Based LLM Content Analysis",
+      "date": "2026-10-26T10:40:54.000Z",
+      "url": "http://arxiv.org/abs/2610.35179v1",
       "source": "arxiv"
     },
     {
-      "title": "Shorter Is Not Cheaper: A Controlled Comparison of Declarative Animation Specifications and Free-Form Code for LLM-Generated Explanations",
-      "date": "2026-10-23T03:56:19.000Z",
-      "url": "http://arxiv.org/abs/2610.32129v1",
+      "title": "CoSA: The Conflict of Skills Attack in Real-World LLM Agent Ecosystems",
+      "date": "2026-10-26T09:25:38.000Z",
+      "url": "http://arxiv.org/abs/2610.35082v1",
       "source": "arxiv"
     },
     {
-      "title": "Tampered ML: Evaluating LLM Judgment of Machine Learning Research",
-      "date": "2026-10-23T03:32:38.000Z",
-      "url": "http://arxiv.org/abs/2610.32114v1",
+      "title": "Reason or Recite: Complementary Specialists with an LLM Judge for Traffic Anomaly Reasoning",
+      "date": "2026-10-26T08:05:21.000Z",
+      "url": "http://arxiv.org/abs/2610.34993v1",
       "source": "arxiv"
     },
     {
-      "title": "Context or Knowledge: How LLMs Attribute Their Own Answers",
-      "date": "2026-10-23T03:21:36.000Z",
-      "url": "http://arxiv.org/abs/2610.32109v1",
+      "title": "AskGLP1: A Knowledge Graph LLM Agent for Exploring GLP-1 Experience from Online Patient Narratives",
+      "date": "2026-10-26T07:59:20.000Z",
+      "url": "http://arxiv.org/abs/2610.34987v1",
       "source": "arxiv"
     },
     {
-      "title": "The Helpful Agent Problem: When Emergent Cooperation Among LLM Agents Bypasses Intended Workflows",
-      "date": "2026-10-22T22:55:40.000Z",
-      "url": "http://arxiv.org/abs/2610.31985v1",
+      "title": "Semantic Atoms for Scalable Text Analysis in Data Analytics in the Era of LLM-Based Agents",
+      "date": "2026-10-26T05:24:00.000Z",
+      "url": "http://arxiv.org/abs/2610.34860v1",
       "source": "arxiv"
     },
     {
-      "title": "Knowing Whom to Trust is not Enough: The Trust--Agreement Gap in Repeated Multi-Party LLM Negotiation",
-      "date": "2026-10-22T22:24:10.000Z",
-      "url": "http://arxiv.org/abs/2610.31971v1",
+      "title": "Text Is the Bottleneck: A Small-Scale Replication of LLM Game Playing in Riichi Mahjong",
+      "date": "2026-10-26T03:32:44.000Z",
+      "url": "http://arxiv.org/abs/2610.34791v1",
       "source": "arxiv"
     },
     {
-      "title": "Machine-Readable Operator Manuals over the ISO 11783 Network for Offline, Multilingual LLM Assistance",
-      "date": "2026-10-22T19:52:26.000Z",
-      "url": "http://arxiv.org/abs/2610.31863v1",
+      "title": "Agent Memory as Recommendation: Recommender-System Design for Long-Term Memory of LLM Agents",
+      "date": "2026-10-26T01:05:20.000Z",
+      "url": "http://arxiv.org/abs/2610.34673v1",
       "source": "arxiv"
     },
     {
-      "title": "Free Lunch for LLMs Confidence: The RL Critic Already Knows",
-      "date": "2026-10-22T18:57:52.000Z",
-      "url": "http://arxiv.org/abs/2610.31820v1",
+      "title": "What Effort Level Should I Choose? On the Economics of Reasoning Effort in LLM Agents",
+      "date": "2026-10-25T18:33:17.000Z",
+      "url": "http://arxiv.org/abs/2610.34491v1",
       "source": "arxiv"
     },
     {
-      "title": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
-      "date": "2026-10-22T17:58:52.000Z",
-      "url": "http://arxiv.org/abs/2610.31657v1",
+      "title": "A Russian, a Brazilian, and a German Walk into a Bar, Ask the Same Question-- And Get Three Different Answers: Profiling LLM Perspective Diversity on Contested Topics",
+      "date": "2026-10-25T13:14:41.000Z",
+      "url": "http://arxiv.org/abs/2610.34278v1",
       "source": "arxiv"
     },
     {
-      "title": "Would an LLM Match into a Residency? Uncertainty, Reasoning and Image Use of Open Language Models on the Spanish MIR Examination",
-      "date": "2026-10-22T17:23:11.000Z",
-      "url": "http://arxiv.org/abs/2610.31586v1",
+      "title": "Can LLMs Trust Appropriately? Evaluating Calibrated Reliance on Imperfect Partners",
+      "date": "2026-10-25T07:06:31.000Z",
+      "url": "http://arxiv.org/abs/2610.34107v1",
       "source": "arxiv"
     },
     {
-      "title": "From Structured Records to Patient Narratives: Preserving Clinical Alignment in LLM-Generated Health Summaries",
-      "date": "2026-10-22T15:58:57.000Z",
-      "url": "http://arxiv.org/abs/2610.31467v1",
+      "title": "The LALA Benchmark: Evaluating Literary and Linguistic Analysis in LLMs",
+      "date": "2026-10-25T05:38:57.000Z",
+      "url": "http://arxiv.org/abs/2610.34080v1",
       "source": "arxiv"
     },
     {
-      "title": "AfterDeleteBench: Auditing Post-Deletion Information Persistence in LLM Agents",
-      "date": "2026-10-22T14:41:36.000Z",
-      "url": "http://arxiv.org/abs/2610.31366v1",
+      "title": "Reversible Pseudonymisation of Documents Sent to External LLMs: an Open Bilingual Benchmark and an Engine",
+      "date": "2026-10-25T02:50:43.000Z",
+      "url": "http://arxiv.org/abs/2610.34012v1",
       "source": "arxiv"
     }
   ],
