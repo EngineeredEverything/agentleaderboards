@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-10-29T15:50:23.991Z",
+  "timestamp": "2026-10-30T15:30:56.087Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
-      "title": "Can LLMs Uncover Hidden Physical Laws through Free Exploration?",
-      "date": "2026-10-27T17:57:00.000Z",
-      "url": "http://arxiv.org/abs/2610.37649v1",
+      "title": "TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races",
+      "date": "2026-10-29T17:54:12.000Z",
+      "url": "http://arxiv.org/abs/2610.40613v1",
       "source": "arxiv"
     },
     {
-      "title": "Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions",
-      "date": "2026-10-27T17:49:39.000Z",
-      "url": "http://arxiv.org/abs/2610.37624v1",
+      "title": "Comparing Human Role-Players and LLM-Simulated Clients in Online Counselling Training: An Analysis of Counselling Patterns",
+      "date": "2026-10-29T17:41:59.000Z",
+      "url": "http://arxiv.org/abs/2610.40563v1",
       "source": "arxiv"
     },
     {
-      "title": "Where Should the Evaluation Budget Go in LLM-Driven Agent Scaffold Evolution?",
-      "date": "2026-10-27T14:06:26.000Z",
-      "url": "http://arxiv.org/abs/2610.37276v1",
+      "title": "A Low-Rank Space Captures Linear Alignment Between LLM and Human Neural Activity During Naturalistic Language Listening",
+      "date": "2026-10-29T17:23:44.000Z",
+      "url": "http://arxiv.org/abs/2610.40511v1",
       "source": "arxiv"
     },
     {
-      "title": "Watermark Basins: Black-Box Detection of Distilled LLMs",
-      "date": "2026-10-27T13:59:34.000Z",
-      "url": "http://arxiv.org/abs/2610.37266v1",
+      "title": "Preserving Utility in Continual LLM Unlearning via Orthogonal Projections",
+      "date": "2026-10-29T17:13:53.000Z",
+      "url": "http://arxiv.org/abs/2610.40483v1",
       "source": "arxiv"
     },
     {
-      "title": "AutoVend: Benchmarking LLM Agents on Long-Horizon Autonomous Vending Operations",
-      "date": "2026-10-27T10:33:06.000Z",
-      "url": "http://arxiv.org/abs/2610.36980v1",
+      "title": "Agentic LLM reasoning in pediatric diabetes outcome prediction from multimodal medical records",
+      "date": "2026-10-29T16:23:47.000Z",
+      "url": "http://arxiv.org/abs/2610.40379v1",
       "source": "arxiv"
     },
     {
-      "title": "JevRec: Linguistic Encoding with Jev-like Decision Modeling for LLM-based Generative Recommendation",
-      "date": "2026-10-27T09:59:44.000Z",
-      "url": "http://arxiv.org/abs/2610.36937v1",
+      "title": "Don't Lose the Thread: Empowering Long-Horizon LLM Agents with Cognitive Resource Self-Allocation",
+      "date": "2026-10-29T16:07:10.000Z",
+      "url": "http://arxiv.org/abs/2610.40350v1",
       "source": "arxiv"
     },
     {
-      "title": "Do We Need an LLM to Know Why Sources Conflict? Decision Models for Knowledge-Conflict Typing in RAG",
-      "date": "2026-10-27T09:43:21.000Z",
-      "url": "http://arxiv.org/abs/2610.36915v1",
+      "title": "Judged in Company: In-Context Batching Makes LLM Verdicts Depend on Other Items",
+      "date": "2026-10-29T15:14:16.000Z",
+      "url": "http://arxiv.org/abs/2610.40241v1",
       "source": "arxiv"
     },
     {
-      "title": "Words or Deeds? How LLMs Predict Users' Decisions in Human-Agent Dialogue",
-      "date": "2026-10-27T08:14:55.000Z",
-      "url": "http://arxiv.org/abs/2610.36813v1",
+      "title": "EpiAgent: Epistemic Self-Play for LLM Agents",
+      "date": "2026-10-29T15:05:08.000Z",
+      "url": "http://arxiv.org/abs/2610.40227v1",
       "source": "arxiv"
     },
     {
-      "title": "API-TAIL: Detecting Model Substitution in LLM APIs through Temperature-Aligned Likelihood Tails",
-      "date": "2026-10-27T08:04:04.000Z",
-      "url": "http://arxiv.org/abs/2610.36801v1",
+      "title": "Can LLMs Ignore What They Know? Measuring Knowledge Leakage in Persona-Based User Simulation",
+      "date": "2026-10-29T12:38:03.000Z",
+      "url": "http://arxiv.org/abs/2610.39939v1",
       "source": "arxiv"
     },
     {
-      "title": "Japanese Discourse Structure Analysis Based on Segmented Discourse Representation Theory Using LLMs",
-      "date": "2026-10-27T05:39:29.000Z",
-      "url": "http://arxiv.org/abs/2610.36667v1",
+      "title": "Surprise Alone Learns Lies: Evidence-Gated Continual Learning for LLMs from Streaming Claims",
+      "date": "2026-10-29T11:19:08.000Z",
+      "url": "http://arxiv.org/abs/2610.39840v1",
       "source": "arxiv"
     },
     {
-      "title": "Structured Maps for Landmark-Based Route Instructions with LLMs",
-      "date": "2026-10-27T03:36:49.000Z",
-      "url": "http://arxiv.org/abs/2610.36582v1",
+      "title": "Integrating Heterogeneous Echocardiography AI Outputs in Language Space: Learnable Late Fusion with a Supervised LLM",
+      "date": "2026-10-29T06:36:39.000Z",
+      "url": "http://arxiv.org/abs/2610.39464v1",
       "source": "arxiv"
     },
     {
-      "title": "MedConstBench: Benchmarking How Constitutions Steer LLMs in Medical Ethics",
-      "date": "2026-10-27T02:17:13.000Z",
-      "url": "http://arxiv.org/abs/2610.36513v1",
+      "title": "Robustness of Chatbot LLM Judgments of Presidential Actions and Hypothetical Reforms",
+      "date": "2026-10-29T05:32:29.000Z",
+      "url": "http://arxiv.org/abs/2610.39398v1",
       "source": "arxiv"
     },
     {
-      "title": "Detect Before You Disambiguate: Perturbation-Based Input Ambiguity Detection in LLMs",
-      "date": "2026-10-26T22:18:10.000Z",
-      "url": "http://arxiv.org/abs/2610.36353v1",
+      "title": "Tracing the Influence of Retrieved Literature on Scientific Ideation in LLMs",
+      "date": "2026-10-28T23:45:23.000Z",
+      "url": "http://arxiv.org/abs/2610.39060v1",
       "source": "arxiv"
     },
     {
-      "title": "LLM Hallucination Detection via Low-rank Multilinear Decomposition",
-      "date": "2026-10-26T19:24:13.000Z",
-      "url": "http://arxiv.org/abs/2610.36191v1",
+      "title": "Beyond Passing Tests: A Systematic Review and Controlled Re-evaluation of Techniques for Improving the Quality of LLM-Generated Code",
+      "date": "2026-10-28T22:02:40.000Z",
+      "url": "http://arxiv.org/abs/2610.38977v1",
       "source": "arxiv"
     },
     {
-      "title": "FinLLM-KG: Knowledge Graph-Enhanced LLMs for Financial Sentiment Analysis in Algorithmic Trading",
-      "date": "2026-10-26T18:08:20.000Z",
-      "url": "http://arxiv.org/abs/2610.36083v1",
+      "title": "AtomTree: A Hierarchical Framework for State-Aware Embodied Instruction Following with LLMs",
+      "date": "2026-10-28T19:30:40.000Z",
+      "url": "http://arxiv.org/abs/2610.38744v1",
       "source": "arxiv"
     },
     {
-      "title": "Preserve to Expand: Source-Aware Adaptation and Model Merging for Multilingual LLM-Based ASR",
-      "date": "2026-10-26T17:56:22.000Z",
-      "url": "http://arxiv.org/abs/2610.35846v1",
+      "title": "Quantum-Inspired Pairwise Ranking Aggregation via Active LLM Feedback",
+      "date": "2026-10-28T18:55:57.000Z",
+      "url": "http://arxiv.org/abs/2610.38683v1",
       "source": "arxiv"
     },
     {
-      "title": "Quantifying Claim Smoothing by LLM Research Agents",
-      "date": "2026-10-26T17:29:48.000Z",
-      "url": "http://arxiv.org/abs/2610.35793v1",
+      "title": "Right Numbers, Wrong Questions: Evaluating LLMs on Underspecified Financial Queries",
+      "date": "2026-10-28T10:48:32.000Z",
+      "url": "http://arxiv.org/abs/2610.38631v1",
       "source": "arxiv"
     },
     {
-      "title": "From Self-Confidence to Statistical Accuracy: Scaling Human-in-the-Loop Evaluation with Direct and LLM-Assisted Auditing",
-      "date": "2026-10-26T16:25:11.000Z",
-      "url": "http://arxiv.org/abs/2610.35698v1",
+      "title": "Repairs for Whom? Evaluator-Executor Mismatch in Selecting Repairs for Failed LLM Agents",
+      "date": "2026-10-28T10:29:11.000Z",
+      "url": "http://arxiv.org/abs/2610.38610v1",
       "source": "arxiv"
     },
     {
-      "title": "Adapting LLM-SC to Living Sacred Heritage: Domain-Specific Extraction, Semantic Networks and Human Evaluation on Pashupatinath Temple Reviews",
-      "date": "2026-10-26T16:20:00.000Z",
-      "url": "http://arxiv.org/abs/2610.35685v1",
+      "title": "Rethinking LLM Jailbreak Evaluation: Continuous Risk Landscapes Beyond Binary Outcomes",
+      "date": "2026-10-28T10:23:27.000Z",
+      "url": "http://arxiv.org/abs/2610.38595v1",
       "source": "arxiv"
     },
     {
-      "title": "S3AC: Stabilized, Selective, and Scalable Actor-Critic for LLM Reasoning",
-      "date": "2026-10-26T14:38:53.000Z",
-      "url": "http://arxiv.org/abs/2610.35518v1",
+      "title": "Do Audio LLMs HEAR Pain? Tracing Acoustic Evidence from Speech to Language Reasoning",
+      "date": "2026-10-28T10:05:41.000Z",
+      "url": "http://arxiv.org/abs/2610.38570v1",
       "source": "arxiv"
     }
   ],
