@@ -1,8 +1,68 @@
 {
-  "timestamp": "2026-11-01T15:44:02.096Z",
+  "timestamp": "2026-11-02T19:09:51.315Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "Completeness and Cost of Retrieval Structures for Multi-Tool Requests in LLM Agents",
+      "date": "2026-10-30T15:40:02.000Z",
+      "url": "http://arxiv.org/abs/2610.41905v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Precision--Recall Trade-off on the Inference Level for LLMs in Grammatical Error Correction",
+      "date": "2026-10-30T13:04:17.000Z",
+      "url": "http://arxiv.org/abs/2610.41698v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "When Steering Shifts Discourse: Identifying and Intervening on Discourse-Level Changes due to Activation Steering in LLMs",
+      "date": "2026-10-30T12:32:47.000Z",
+      "url": "http://arxiv.org/abs/2610.41661v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "DAPS: Dependency-Aware Premise Selection for LLM Theorem Proving",
+      "date": "2026-10-30T10:28:34.000Z",
+      "url": "http://arxiv.org/abs/2610.41536v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "KEEPER: Learning Control-Sufficient Textual Memory for Long-Horizon LLM Agents",
+      "date": "2026-10-30T09:36:06.000Z",
+      "url": "http://arxiv.org/abs/2610.41482v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Comparative Evaluation of LLM-Based Review Paradigms for Academic Paper Quality Assessment",
+      "date": "2026-10-30T08:02:25.000Z",
+      "url": "http://arxiv.org/abs/2610.41391v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "In-Model Context Compression with Agentic Soft Tokens for Long-Horizon LLM Agents",
+      "date": "2026-10-30T05:52:25.000Z",
+      "url": "http://arxiv.org/abs/2610.41291v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "TraceSpec: Understanding and Improving Speculative Decoding for LLM Agents",
+      "date": "2026-10-30T02:57:43.000Z",
+      "url": "http://arxiv.org/abs/2610.41177v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Lineage Is Memory: Parent Inheritance and Feedback Disclosure in Short-Budget LLM-Guided Optimization",
+      "date": "2026-10-30T02:31:45.000Z",
+      "url": "http://arxiv.org/abs/2610.41157v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "MUON-RT Reusing the Teacher's Trajectory for Momentum-Free Muon for LLM Self-Distillation",
+      "date": "2026-10-30T00:50:49.000Z",
+      "url": "http://arxiv.org/abs/2610.41104v1",
+      "source": "arxiv"
+    },
     {
       "title": "TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races",
       "date": "2026-10-29T17:54:12.000Z",
@@ -61,66 +121,6 @@
       "title": "Surprise Alone Learns Lies: Evidence-Gated Continual Learning for LLMs from Streaming Claims",
       "date": "2026-10-29T11:19:08.000Z",
       "url": "http://arxiv.org/abs/2610.39840v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Integrating Heterogeneous Echocardiography AI Outputs in Language Space: Learnable Late Fusion with a Supervised LLM",
-      "date": "2026-10-29T06:36:39.000Z",
-      "url": "http://arxiv.org/abs/2610.39464v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Robustness of Chatbot LLM Judgments of Presidential Actions and Hypothetical Reforms",
-      "date": "2026-10-29T05:32:29.000Z",
-      "url": "http://arxiv.org/abs/2610.39398v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Tracing the Influence of Retrieved Literature on Scientific Ideation in LLMs",
-      "date": "2026-10-28T23:45:23.000Z",
-      "url": "http://arxiv.org/abs/2610.39060v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Beyond Passing Tests: A Systematic Review and Controlled Re-evaluation of Techniques for Improving the Quality of LLM-Generated Code",
-      "date": "2026-10-28T22:02:40.000Z",
-      "url": "http://arxiv.org/abs/2610.38977v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "AtomTree: A Hierarchical Framework for State-Aware Embodied Instruction Following with LLMs",
-      "date": "2026-10-28T19:30:40.000Z",
-      "url": "http://arxiv.org/abs/2610.38744v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Quantum-Inspired Pairwise Ranking Aggregation via Active LLM Feedback",
-      "date": "2026-10-28T18:55:57.000Z",
-      "url": "http://arxiv.org/abs/2610.38683v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Right Numbers, Wrong Questions: Evaluating LLMs on Underspecified Financial Queries",
-      "date": "2026-10-28T10:48:32.000Z",
-      "url": "http://arxiv.org/abs/2610.38631v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Repairs for Whom? Evaluator-Executor Mismatch in Selecting Repairs for Failed LLM Agents",
-      "date": "2026-10-28T10:29:11.000Z",
-      "url": "http://arxiv.org/abs/2610.38610v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Rethinking LLM Jailbreak Evaluation: Continuous Risk Landscapes Beyond Binary Outcomes",
-      "date": "2026-10-28T10:23:27.000Z",
-      "url": "http://arxiv.org/abs/2610.38595v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Do Audio LLMs HEAR Pain? Tracing Acoustic Evidence from Speech to Language Reasoning",
-      "date": "2026-10-28T10:05:41.000Z",
-      "url": "http://arxiv.org/abs/2610.38570v1",
       "source": "arxiv"
     }
   ],
