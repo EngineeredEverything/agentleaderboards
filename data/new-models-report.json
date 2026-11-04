@@ -1,8 +1,62 @@
 {
-  "timestamp": "2026-11-03T16:48:58.526Z",
+  "timestamp": "2026-11-04T16:49:03.712Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "Knowingly Wrong: Training LLMs Against Their Own Beliefs can Induce Misalignment",
+      "date": "2026-11-03T18:02:21.000Z",
+      "url": "http://arxiv.org/abs/2611.05287v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "What Does the Model See? Representation Validity in Multimodal LLM-Based Video Analysis",
+      "date": "2026-11-03T16:42:49.000Z",
+      "url": "http://arxiv.org/abs/2611.05181v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Right Source Is Not Enough: Understanding History Interference in Speech-LLM Memory",
+      "date": "2026-11-03T16:11:16.000Z",
+      "url": "http://arxiv.org/abs/2611.05124v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Who is the Pronoun Pro? Comparing LLMs and Humans at Number-Disambiguation of 'they'",
+      "date": "2026-11-03T14:26:17.000Z",
+      "url": "http://arxiv.org/abs/2611.04968v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Evaluating LLMs as Judges of Counterspeech Quality Against Online Hate Speech",
+      "date": "2026-11-03T10:17:27.000Z",
+      "url": "http://arxiv.org/abs/2611.04627v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "When Strong Reasoners Join the Pool: Small Union Premiums and Costly Runaway Generations in LLM Routing",
+      "date": "2026-11-03T00:17:03.000Z",
+      "url": "http://arxiv.org/abs/2611.04098v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Same Rule, Different Verdicts: Rubric Language and Clause Structure in LLM Judges for Korean Support Dialogues",
+      "date": "2026-11-03T00:01:56.000Z",
+      "url": "http://arxiv.org/abs/2611.04091v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Swapping the Judge Changes the Ranking: A Preregistered Study of Cross-Provider Replication in LLM-Judged System Comparisons",
+      "date": "2026-11-03T00:01:35.000Z",
+      "url": "http://arxiv.org/abs/2611.04090v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Whose startup does the AI back? An algorithm audit of reputation and demographic signals in LLM-assisted crowdfunding",
+      "date": "2026-11-02T21:31:37.000Z",
+      "url": "http://arxiv.org/abs/2611.03993v1",
+      "source": "arxiv"
+    },
     {
       "title": "Tracing the Scientific Discovery Capacity of LLMs to Their Training Data",
       "date": "2026-11-02T18:50:54.000Z",
@@ -67,60 +121,6 @@
       "title": "User Attributes and Political Ideology Shape LLM Receptiveness in Online Political Debates",
       "date": "2026-11-02T10:40:22.000Z",
       "url": "http://arxiv.org/abs/2611.02908v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Creating Hybrid Interactive Narrative Systems with LLM: From Formal Description to Evaluation",
-      "date": "2026-11-02T09:15:01.000Z",
-      "url": "http://arxiv.org/abs/2611.02807v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Replay for LLM Continual Learning with Multi-Teacher On-Policy Distillation",
-      "date": "2026-11-02T08:35:18.000Z",
-      "url": "http://arxiv.org/abs/2611.02746v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLMs Cannot Be Neutral: Gender Sensitivity Across Candidates, Evaluators, and Models",
-      "date": "2026-11-02T07:41:05.000Z",
-      "url": "http://arxiv.org/abs/2611.02692v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "They Know Where It Is, But Not What It Says: A Bilingual Hallucination Benchmark of Hadith Recall in Open LLMs",
-      "date": "2026-11-02T06:12:57.000Z",
-      "url": "http://arxiv.org/abs/2611.02587v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "From Language to Country to Valence: A Multilingual Audit of Stereotype Bias Across LLMs",
-      "date": "2026-11-02T06:11:09.000Z",
-      "url": "http://arxiv.org/abs/2611.02585v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "PixelBench: Can LLMs Understand and Generate Images Pixel by Pixel?",
-      "date": "2026-11-02T05:10:12.000Z",
-      "url": "http://arxiv.org/abs/2611.02540v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Same Sentence, Different Construct: Identity-Swapped Rationales Reveal Measurement Non-Invariance in LLM Hate Speech Classifiers",
-      "date": "2026-11-02T04:06:11.000Z",
-      "url": "http://arxiv.org/abs/2611.02491v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "As Expected? Efficient LLM Planning via Expectation-Observation Consistency Verification",
-      "date": "2026-11-02T02:59:57.000Z",
-      "url": "http://arxiv.org/abs/2611.02438v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "MemShift: Separating Detection from Repair in LLM-Derived Personal Memory",
-      "date": "2026-11-02T00:35:19.000Z",
-      "url": "http://arxiv.org/abs/2611.02338v1",
       "source": "arxiv"
     }
   ],
