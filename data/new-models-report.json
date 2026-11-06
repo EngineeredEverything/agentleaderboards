@@ -1,7 +1,128 @@
 {
-  "timestamp": "2026-11-05T17:05:03.754Z",
+  "timestamp": "2026-11-06T16:34:50.844Z",
   "existingCount": 0,
   "newModels": [],
-  "recentPapers": [],
+  "recentPapers": [
+    {
+      "title": "LLM-Assisted Label Noise Correction for EEG-Based Sleep Stage Classification",
+      "date": "2026-11-05T17:12:05.000Z",
+      "url": "http://arxiv.org/abs/2611.08311v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "From Twisted Facts to Rogue Agents: Can LLMs Reliably Detect Multi-Dimensional Hallucinations?",
+      "date": "2026-11-05T16:15:18.000Z",
+      "url": "http://arxiv.org/abs/2611.08231v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "RouteAlign: Aligning Task Requirements with Model Profiles for LLM Service Selection",
+      "date": "2026-11-05T15:21:16.000Z",
+      "url": "http://arxiv.org/abs/2611.08162v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Beyond K/V Caches: Cross-Model State Handoff in Hybrid Linear-Attention LLMs",
+      "date": "2026-11-05T15:00:50.000Z",
+      "url": "http://arxiv.org/abs/2611.08133v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Compression Through a Context Lens: Evaluating Adaptation, Quantization, and Distillation in Arabic Legal LLMs",
+      "date": "2026-11-05T13:15:55.000Z",
+      "url": "http://arxiv.org/abs/2611.07988v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "How Far Can Lightweight LLMs Go in Intent-to-SLO Translation?",
+      "date": "2026-11-05T13:12:30.000Z",
+      "url": "http://arxiv.org/abs/2611.07982v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "TCSExam: Evaluating Frontier LLMs on the Full Range of TCS Research",
+      "date": "2026-11-05T12:58:43.000Z",
+      "url": "http://arxiv.org/abs/2611.07962v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Do Recommenders Need to Think in Words? Latent Reasoning for Efficient LLM-Based Recommendation",
+      "date": "2026-11-05T11:43:45.000Z",
+      "url": "http://arxiv.org/abs/2611.07866v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "MEvince: Knowledge-Constrained LLM Reasoning for Technique Identification from Malware Reports",
+      "date": "2026-11-05T05:45:20.000Z",
+      "url": "http://arxiv.org/abs/2611.07486v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Localization Does Not Imply Steerability: A Mechanistic Study of Sign Errors in LLM Mathematics",
+      "date": "2026-11-05T05:36:28.000Z",
+      "url": "http://arxiv.org/abs/2611.07478v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Adapting LLM Judges to Observed Human Annotation Policy through Soft Prompt Tuning",
+      "date": "2026-11-04T20:48:34.000Z",
+      "url": "http://arxiv.org/abs/2611.07126v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Framework for Context Enrichment and Selective Robustness in LLM Social Agents",
+      "date": "2026-11-04T18:58:23.000Z",
+      "url": "http://arxiv.org/abs/2611.06914v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "SpecCompact: Accelerating LLM Agent Context Compaction with Slot-Parallel Semantic Speculative Verification",
+      "date": "2026-11-04T18:34:41.000Z",
+      "url": "http://arxiv.org/abs/2611.06876v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Persona Perspectives: Adopting Viewpoints Reorganizes Representations in LLMs",
+      "date": "2026-11-04T18:05:17.000Z",
+      "url": "http://arxiv.org/abs/2611.06848v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLMs Don't Know What They Know: Benchmarking Temporal Self-Knowledge for Financial Backtesting",
+      "date": "2026-11-04T17:24:02.000Z",
+      "url": "http://arxiv.org/abs/2611.06808v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Measuring Risk, Not Harm: Detecting Psychological Harm Risk Factors in LLM Conversations",
+      "date": "2026-11-04T17:22:23.000Z",
+      "url": "http://arxiv.org/abs/2611.06806v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Reasoning over Non-Parametric Memory in Multilingual LLMs: A Cognitive-Based Analysis of Relational Knowledge",
+      "date": "2026-11-04T16:11:26.000Z",
+      "url": "http://arxiv.org/abs/2611.06715v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "When Do Summaries Become Instructions? Unsupported Policy in LLM Agents' Self-Written Handoff Summaries",
+      "date": "2026-11-04T14:12:09.000Z",
+      "url": "http://arxiv.org/abs/2611.06545v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
+      "date": "2026-11-04T13:40:05.000Z",
+      "url": "http://arxiv.org/abs/2611.06977v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?",
+      "date": "2026-11-04T13:24:54.000Z",
+      "url": "http://arxiv.org/abs/2611.06483v1",
+      "source": "arxiv"
+    }
+  ],
   "withBenchmarks": 0
 }
