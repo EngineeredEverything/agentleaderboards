@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-11-09T19:28:43.121Z",
+  "timestamp": "2026-11-10T16:46:18.610Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
-      "title": "Are These Programmers Ripe Enough to Eat? Evaluating How LLMs Handle Lexical Knowledge Conflicts in Translation",
-      "date": "2026-11-06T17:44:14.000Z",
-      "url": "http://arxiv.org/abs/2611.09785v1",
+      "title": "WorkflowArena: Benchmarking Executable Workflow Orchestration in LLM-Based Multi-Agent Systems",
+      "date": "2026-11-09T18:45:28.000Z",
+      "url": "http://arxiv.org/abs/2611.12856v1",
       "source": "arxiv"
     },
     {
-      "title": "Language as Trait, Politeness as Strategy: Controlled Tests of Linguistic Effects in LLM Social-Deduction Agents",
-      "date": "2026-11-06T17:31:01.000Z",
-      "url": "http://arxiv.org/abs/2611.09768v1",
+      "title": "The Narrative Gap: Can LLMs Help Us Navigate Diverse Narratives Across Languages?",
+      "date": "2026-11-09T17:31:47.000Z",
+      "url": "http://arxiv.org/abs/2611.12750v1",
       "source": "arxiv"
     },
     {
-      "title": "MemoryDojo: Benchmarking Poisoning Through LLM Agent Memory",
-      "date": "2026-11-06T17:00:09.000Z",
-      "url": "http://arxiv.org/abs/2611.09721v1",
+      "title": "Fairness in Explainable AI Narratives: Decomposing Social Disparities in LLM-Generated Explanations",
+      "date": "2026-11-09T15:42:42.000Z",
+      "url": "http://arxiv.org/abs/2611.12592v1",
       "source": "arxiv"
     },
     {
-      "title": "Query-Guided RoPE Modulation for Lost-in-the-Middle Mitigation in Long-Context LLMs",
-      "date": "2026-11-06T15:01:03.000Z",
-      "url": "http://arxiv.org/abs/2611.09554v1",
+      "title": "Unprompted coordination through shared memory in LLM agents: a locked two-implementation replication and extension",
+      "date": "2026-11-09T13:43:52.000Z",
+      "url": "http://arxiv.org/abs/2611.12412v1",
       "source": "arxiv"
     },
     {
-      "title": "On the Effectiveness and Limitations of Open-Weight LLMs for Low-Resource Offensive Language Detection in Danish",
-      "date": "2026-11-06T14:23:41.000Z",
-      "url": "http://arxiv.org/abs/2611.09506v1",
+      "title": "BDBBQ: A Human-AI Collaborative Benchmark for Bengali Social Bias in LLMs",
+      "date": "2026-11-09T13:40:09.000Z",
+      "url": "http://arxiv.org/abs/2611.12407v1",
       "source": "arxiv"
     },
     {
-      "title": "KLEAR: Knowledge-Matched LLM Evaluation in Korean across Application Requirements via Controlled Benchmark Transformation",
-      "date": "2026-11-06T09:42:50.000Z",
-      "url": "http://arxiv.org/abs/2611.09223v1",
+      "title": "Agent4Crypto: A Dual-Reflective and Market-Feedback-Aligned LLM-Based Multi-Agent System for Cryptocurrency Trading",
+      "date": "2026-11-09T11:57:33.000Z",
+      "url": "http://arxiv.org/abs/2611.12269v1",
       "source": "arxiv"
     },
     {
-      "title": "Copies Are Not Confirmations: How News Duplication Fools LLM Judges and Continual Learners",
-      "date": "2026-11-06T09:22:29.000Z",
-      "url": "http://arxiv.org/abs/2611.09203v1",
+      "title": "Prune, Don't Merge: Expert Compression of Mixture-of-Experts LLMs on Multilingual Production Tasks",
+      "date": "2026-11-09T11:30:23.000Z",
+      "url": "http://arxiv.org/abs/2611.12240v1",
       "source": "arxiv"
     },
     {
-      "title": "Seeing vs. Counting: Complexity Twins Show Where Multimodal LLMs Fail on Diagrams",
-      "date": "2026-11-06T05:17:08.000Z",
-      "url": "http://arxiv.org/abs/2611.08998v1",
+      "title": "CHO-Bench: How Do Context Hints Affect Ad Rankings in LLM Advertising?",
+      "date": "2026-11-09T06:19:53.000Z",
+      "url": "http://arxiv.org/abs/2611.11955v1",
       "source": "arxiv"
     },
     {
-      "title": "Same Facts, Different Remedy: Linguistic Profiling and Arbitrariness in LLM and System One Decisions",
-      "date": "2026-11-06T05:10:09.000Z",
-      "url": "http://arxiv.org/abs/2611.08995v1",
+      "title": "Competing Influence in LLM Populations: Budget Timing and Baseline Drift",
+      "date": "2026-11-09T04:44:17.000Z",
+      "url": "http://arxiv.org/abs/2611.11867v1",
       "source": "arxiv"
     },
     {
-      "title": "Beyond Truncation? Entailment-Licensed Elision and the Limits of Semantic Preservation in LLM Decoding",
-      "date": "2026-11-06T04:39:25.000Z",
-      "url": "http://arxiv.org/abs/2611.08975v1",
+      "title": "BridgeKV: Large-Model Prefill and Small-Model Decoding for LLM Inference via KV Cache Translation",
+      "date": "2026-11-09T02:03:03.000Z",
+      "url": "http://arxiv.org/abs/2611.11761v1",
       "source": "arxiv"
     },
     {
-      "title": "Phantom Consensus: Measuring Social Reasoning in Multi-Agent LLM Decision-Making",
-      "date": "2026-11-06T04:33:59.000Z",
-      "url": "http://arxiv.org/abs/2611.08971v1",
+      "title": "The Value of Not Knowing: How Fresh Eyes through Naive LLMs Fuel Creativity",
+      "date": "2026-11-09T00:53:51.000Z",
+      "url": "http://arxiv.org/abs/2611.11725v1",
       "source": "arxiv"
     },
     {
-      "title": "Using an LLM to Tackle Difficult Cases in NER for Nepali Tweets",
-      "date": "2026-11-06T04:24:46.000Z",
-      "url": "http://arxiv.org/abs/2611.08967v1",
+      "title": "FinCutBench: A Continually Updated Benchmark for Measuring the Temporal Boundaries of LLM Financial Knowledge",
+      "date": "2026-11-08T20:07:52.000Z",
+      "url": "http://arxiv.org/abs/2611.11588v1",
       "source": "arxiv"
     },
     {
-      "title": "Guardrail Erosion in Domain Fine-Tuned Large Language Models: A Paired Audit of Knowledge-Centric Abstention in Biomedical LLMs",
-      "date": "2026-11-05T23:03:11.000Z",
-      "url": "http://arxiv.org/abs/2611.08780v1",
+      "title": "THEATRON: A Benchmark for Evaluating Persona Persistence in Long-Horizon LLM Decision-Making",
+      "date": "2026-11-08T16:29:09.000Z",
+      "url": "http://arxiv.org/abs/2611.11487v1",
       "source": "arxiv"
     },
     {
-      "title": "AttentionSwitch: Jailbreak Defense for LLMs via Joint Learning of Sparse Attention-Head Selection and Scaling",
-      "date": "2026-11-05T22:00:17.000Z",
-      "url": "http://arxiv.org/abs/2611.08752v1",
+      "title": "LLM-based Multi-Criteria Deep Reinforcement Learning for Dynamic Efficient 5G UPF Selection",
+      "date": "2026-11-08T13:30:20.000Z",
+      "url": "http://arxiv.org/abs/2611.11372v1",
       "source": "arxiv"
     },
     {
-      "title": "Structuring Survey Histories for LLM Digital Twins: A Controlled Study of Background, Decision Procedure, and Evaluation Profiles",
-      "date": "2026-11-05T21:25:46.000Z",
-      "url": "http://arxiv.org/abs/2611.08730v1",
+      "title": "WarBias: A Bilingual LLM Benchmark of Stereotypes About Internally Displaced People and Veterans",
+      "date": "2026-11-08T10:12:11.000Z",
+      "url": "http://arxiv.org/abs/2611.11284v1",
       "source": "arxiv"
     },
     {
-      "title": "Patching the Blind Spots: Reversible LLM Rule Overlay for Frozen Fraud Detectors",
-      "date": "2026-11-05T21:12:11.000Z",
-      "url": "http://arxiv.org/abs/2611.08714v1",
+      "title": "A Layer-wise Study of How Style Rewriting Breaks the Calibration of Zero-Shot LLM Fake-News Detectors",
+      "date": "2026-11-08T08:48:36.000Z",
+      "url": "http://arxiv.org/abs/2611.11239v1",
       "source": "arxiv"
     },
     {
-      "title": "Dual-Stream LLM-Guided Reward Design for Reject-Inference-Aware Reinforcement Learning in E-Commerce Payment Fraud Detection",
-      "date": "2026-11-05T21:02:58.000Z",
-      "url": "http://arxiv.org/abs/2611.08706v1",
+      "title": "SGA-Sparse: Training Native SwiGLU Gates for Activation-Sparse and Low-Bit LLMs",
+      "date": "2026-11-08T08:13:39.000Z",
+      "url": "http://arxiv.org/abs/2611.11223v1",
       "source": "arxiv"
     },
     {
-      "title": "LLM-Assisted Label Noise Correction for EEG-Based Sleep Stage Classification",
-      "date": "2026-11-05T17:12:05.000Z",
-      "url": "http://arxiv.org/abs/2611.08311v1",
+      "title": "Deterministic Narrative Gravity: Bridging Theory of Mind and Historical Simulation through ABM-LLM Architectures",
+      "date": "2026-11-08T08:00:06.000Z",
+      "url": "http://arxiv.org/abs/2611.11212v1",
       "source": "arxiv"
     },
     {
-      "title": "From Twisted Facts to Rogue Agents: Can LLMs Reliably Detect Multi-Dimensional Hallucinations?",
-      "date": "2026-11-05T16:15:18.000Z",
-      "url": "http://arxiv.org/abs/2611.08231v1",
+      "title": "Beyond Hard Labels: LLM Probabilities Improve Human-Assisted Regression",
+      "date": "2026-11-08T03:50:15.000Z",
+      "url": "http://arxiv.org/abs/2611.11111v1",
       "source": "arxiv"
     },
     {
-      "title": "RouteAlign: Aligning Task Requirements with Model Profiles for LLM Service Selection",
-      "date": "2026-11-05T15:21:16.000Z",
-      "url": "http://arxiv.org/abs/2611.08162v2",
+      "title": "Task presentation and execution paths shape LLM mathematical performance",
+      "date": "2026-11-08T03:33:24.000Z",
+      "url": "http://arxiv.org/abs/2611.11102v1",
       "source": "arxiv"
     }
   ],
