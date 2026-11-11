@@ -1,8 +1,68 @@
 {
-  "timestamp": "2026-11-10T16:46:18.610Z",
+  "timestamp": "2026-11-11T16:52:08.610Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "EngineAgent: Agentizing On-Device LLM Inference Engines with Inference Stack Hierarchy Awareness and Hardware Abilities",
+      "date": "2026-11-10T17:16:47.000Z",
+      "url": "http://arxiv.org/abs/2611.14356v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LLM Validation Makes Minimal-Pair Benchmarks Easier for Language Models",
+      "date": "2026-11-10T09:22:38.000Z",
+      "url": "http://arxiv.org/abs/2611.13788v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "One Byte, One Token: Byteifying a 27B Hybrid-Attention LLM with Self-Generated Data",
+      "date": "2026-11-10T05:33:41.000Z",
+      "url": "http://arxiv.org/abs/2611.13607v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "IFRS Compliance Verification: An Open Multi-LLM Benchmark and Content-Conditioned Ensemble Classifier",
+      "date": "2026-11-10T05:12:13.000Z",
+      "url": "http://arxiv.org/abs/2611.13595v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "BioMem: Agentic Memory for Biomedical LLM Agents",
+      "date": "2026-11-10T01:09:11.000Z",
+      "url": "http://arxiv.org/abs/2611.13426v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Free Lunch Uncertainty: Sequence-Level Rényi Entropy from Particle Decoding for Adaptive LLM Reasoning",
+      "date": "2026-11-10T00:49:36.000Z",
+      "url": "http://arxiv.org/abs/2611.13414v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Measuring Definition Sensitivity in LLM Annotation of Social Science Concepts",
+      "date": "2026-11-09T23:04:13.000Z",
+      "url": "http://arxiv.org/abs/2611.13339v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Decode Token Parallelism: Memory-Efficient Distributed Attention Parallelism for Scalable LLM Decoding",
+      "date": "2026-11-09T22:01:46.000Z",
+      "url": "http://arxiv.org/abs/2611.13293v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Agreeing on the Answer but Not the Reason: Measurement Limits of LLM Reasoning Failure Taxonomies",
+      "date": "2026-11-09T19:21:12.000Z",
+      "url": "http://arxiv.org/abs/2611.13140v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Catch It Where It Happens: Real Time Error Correction During LLM Reasoning",
+      "date": "2026-11-09T19:00:40.000Z",
+      "url": "http://arxiv.org/abs/2611.13107v1",
+      "source": "arxiv"
+    },
     {
       "title": "WorkflowArena: Benchmarking Executable Workflow Orchestration in LLM-Based Multi-Agent Systems",
       "date": "2026-11-09T18:45:28.000Z",
@@ -61,66 +121,6 @@
       "title": "BridgeKV: Large-Model Prefill and Small-Model Decoding for LLM Inference via KV Cache Translation",
       "date": "2026-11-09T02:03:03.000Z",
       "url": "http://arxiv.org/abs/2611.11761v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "The Value of Not Knowing: How Fresh Eyes through Naive LLMs Fuel Creativity",
-      "date": "2026-11-09T00:53:51.000Z",
-      "url": "http://arxiv.org/abs/2611.11725v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "FinCutBench: A Continually Updated Benchmark for Measuring the Temporal Boundaries of LLM Financial Knowledge",
-      "date": "2026-11-08T20:07:52.000Z",
-      "url": "http://arxiv.org/abs/2611.11588v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "THEATRON: A Benchmark for Evaluating Persona Persistence in Long-Horizon LLM Decision-Making",
-      "date": "2026-11-08T16:29:09.000Z",
-      "url": "http://arxiv.org/abs/2611.11487v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "LLM-based Multi-Criteria Deep Reinforcement Learning for Dynamic Efficient 5G UPF Selection",
-      "date": "2026-11-08T13:30:20.000Z",
-      "url": "http://arxiv.org/abs/2611.11372v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "WarBias: A Bilingual LLM Benchmark of Stereotypes About Internally Displaced People and Veterans",
-      "date": "2026-11-08T10:12:11.000Z",
-      "url": "http://arxiv.org/abs/2611.11284v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "A Layer-wise Study of How Style Rewriting Breaks the Calibration of Zero-Shot LLM Fake-News Detectors",
-      "date": "2026-11-08T08:48:36.000Z",
-      "url": "http://arxiv.org/abs/2611.11239v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "SGA-Sparse: Training Native SwiGLU Gates for Activation-Sparse and Low-Bit LLMs",
-      "date": "2026-11-08T08:13:39.000Z",
-      "url": "http://arxiv.org/abs/2611.11223v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Deterministic Narrative Gravity: Bridging Theory of Mind and Historical Simulation through ABM-LLM Architectures",
-      "date": "2026-11-08T08:00:06.000Z",
-      "url": "http://arxiv.org/abs/2611.11212v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Beyond Hard Labels: LLM Probabilities Improve Human-Assisted Regression",
-      "date": "2026-11-08T03:50:15.000Z",
-      "url": "http://arxiv.org/abs/2611.11111v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Task presentation and execution paths shape LLM mathematical performance",
-      "date": "2026-11-08T03:33:24.000Z",
-      "url": "http://arxiv.org/abs/2611.11102v1",
       "source": "arxiv"
     }
   ],
