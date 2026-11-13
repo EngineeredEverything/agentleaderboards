@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-11-12T17:20:05.973Z",
+  "timestamp": "2026-11-13T16:56:07.322Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
-      "title": "EngineAgent: Agentizing On-Device LLM Inference Engines with Inference Stack Hierarchy Awareness and Hardware Abilities",
-      "date": "2026-11-10T17:16:47.000Z",
-      "url": "http://arxiv.org/abs/2611.14356v1",
+      "title": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
+      "date": "2026-11-12T18:59:52.000Z",
+      "url": "http://arxiv.org/abs/2611.17332v1",
       "source": "arxiv"
     },
     {
-      "title": "LLM Validation Makes Minimal-Pair Benchmarks Easier for Language Models",
-      "date": "2026-11-10T09:22:38.000Z",
-      "url": "http://arxiv.org/abs/2611.13788v1",
+      "title": "Goal Encoding in LLMs",
+      "date": "2026-11-12T18:55:06.000Z",
+      "url": "http://arxiv.org/abs/2611.17297v1",
       "source": "arxiv"
     },
     {
-      "title": "One Byte, One Token: Byteifying a 27B Hybrid-Attention LLM with Self-Generated Data",
-      "date": "2026-11-10T05:33:41.000Z",
-      "url": "http://arxiv.org/abs/2611.13607v1",
+      "title": "Synthesis Smuggling: Maliciously Hiding Inferred Personal Attributes in LLM Outputs",
+      "date": "2026-11-12T18:51:05.000Z",
+      "url": "http://arxiv.org/abs/2611.17280v1",
       "source": "arxiv"
     },
     {
-      "title": "IFRS Compliance Verification: An Open Multi-LLM Benchmark and Content-Conditioned Ensemble Classifier",
-      "date": "2026-11-10T05:12:13.000Z",
-      "url": "http://arxiv.org/abs/2611.13595v1",
+      "title": "LazyWeights: Decode-on-Demand Edge LLMs",
+      "date": "2026-11-12T17:03:40.000Z",
+      "url": "http://arxiv.org/abs/2611.17108v1",
       "source": "arxiv"
     },
     {
-      "title": "BioMem: Agentic Memory for Biomedical LLM Agents",
-      "date": "2026-11-10T01:09:11.000Z",
-      "url": "http://arxiv.org/abs/2611.13426v1",
+      "title": "Look It Up: Multi-bit LLM Watermarking via Codebook Search",
+      "date": "2026-11-12T14:49:23.000Z",
+      "url": "http://arxiv.org/abs/2611.16890v1",
       "source": "arxiv"
     },
     {
-      "title": "Free Lunch Uncertainty: Sequence-Level Rényi Entropy from Particle Decoding for Adaptive LLM Reasoning",
-      "date": "2026-11-10T00:49:36.000Z",
-      "url": "http://arxiv.org/abs/2611.13414v1",
+      "title": "Outcome-Mass Alignment: Controlling Length-Dependent Trajectory Influence in Multi-Turn LLM Agent Reinforcement Learning",
+      "date": "2026-11-12T13:52:12.000Z",
+      "url": "http://arxiv.org/abs/2611.16816v1",
       "source": "arxiv"
     },
     {
-      "title": "Measuring Definition Sensitivity in LLM Annotation of Social Science Concepts",
-      "date": "2026-11-09T23:04:13.000Z",
-      "url": "http://arxiv.org/abs/2611.13339v1",
+      "title": "When Expert Disagreement Hurts: Prestige and Selectivity in LLM Decision Revision",
+      "date": "2026-11-12T12:11:03.000Z",
+      "url": "http://arxiv.org/abs/2611.16694v1",
       "source": "arxiv"
     },
     {
-      "title": "Decode Token Parallelism: Memory-Efficient Distributed Attention Parallelism for Scalable LLM Decoding",
-      "date": "2026-11-09T22:01:46.000Z",
-      "url": "http://arxiv.org/abs/2611.13293v1",
+      "title": "Data-Efficient LLM Safety Alignment Guided by Interpretable Features",
+      "date": "2026-11-12T02:15:45.000Z",
+      "url": "http://arxiv.org/abs/2611.16183v1",
       "source": "arxiv"
     },
     {
-      "title": "Agreeing on the Answer but Not the Reason: Measurement Limits of LLM Reasoning Failure Taxonomies",
-      "date": "2026-11-09T19:21:12.000Z",
-      "url": "http://arxiv.org/abs/2611.13140v1",
+      "title": "JudgeMix: Judge-Guided Mixed-Rollout Data Synthesis for LLM Agents",
+      "date": "2026-11-12T02:03:23.000Z",
+      "url": "http://arxiv.org/abs/2611.16174v1",
       "source": "arxiv"
     },
     {
-      "title": "Catch It Where It Happens: Real Time Error Correction During LLM Reasoning",
-      "date": "2026-11-09T19:00:40.000Z",
-      "url": "http://arxiv.org/abs/2611.13107v1",
+      "title": "What Roles Do System Prompts Really Assign? Validating and Steering Occupational Role Vectors in LLMs",
+      "date": "2026-11-11T20:43:45.000Z",
+      "url": "http://arxiv.org/abs/2611.15989v1",
       "source": "arxiv"
     },
     {
-      "title": "WorkflowArena: Benchmarking Executable Workflow Orchestration in LLM-Based Multi-Agent Systems",
-      "date": "2026-11-09T18:45:28.000Z",
-      "url": "http://arxiv.org/abs/2611.12856v1",
+      "title": "Where Is Uncertainty Observed? A Mechanistic Understanding of Uncertainty Quantification in LLMs",
+      "date": "2026-11-11T17:14:57.000Z",
+      "url": "http://arxiv.org/abs/2611.15735v1",
       "source": "arxiv"
     },
     {
-      "title": "The Narrative Gap: Can LLMs Help Us Navigate Diverse Narratives Across Languages?",
-      "date": "2026-11-09T17:31:47.000Z",
-      "url": "http://arxiv.org/abs/2611.12750v1",
+      "title": "Can We Make an LLM Dumber, or Is It Just Playing Dumb? An Empirical Study of Believable Performance Throttling",
+      "date": "2026-11-11T14:53:50.000Z",
+      "url": "http://arxiv.org/abs/2611.15568v1",
       "source": "arxiv"
     },
     {
-      "title": "Fairness in Explainable AI Narratives: Decomposing Social Disparities in LLM-Generated Explanations",
-      "date": "2026-11-09T15:42:42.000Z",
-      "url": "http://arxiv.org/abs/2611.12592v1",
+      "title": "Is the Importance Ratio Necessary for Stable Reinforcement Learning in LLMs?",
+      "date": "2026-11-11T12:31:55.000Z",
+      "url": "http://arxiv.org/abs/2611.15404v1",
       "source": "arxiv"
     },
     {
-      "title": "Unprompted coordination through shared memory in LLM agents: a locked two-implementation replication and extension",
-      "date": "2026-11-09T13:43:52.000Z",
-      "url": "http://arxiv.org/abs/2611.12412v1",
+      "title": "Towards Better Legal Reasoning LLMs: Signal Balancing and Reward Scheduling",
+      "date": "2026-11-11T11:23:50.000Z",
+      "url": "http://arxiv.org/abs/2611.15346v1",
       "source": "arxiv"
     },
     {
-      "title": "BDBBQ: A Human-AI Collaborative Benchmark for Bengali Social Bias in LLMs",
-      "date": "2026-11-09T13:40:09.000Z",
-      "url": "http://arxiv.org/abs/2611.12407v1",
+      "title": "Knowledge in the Harness, Reliability in the Weights: Teacher-Free Co-Evolution of an LLM Agent",
+      "date": "2026-11-11T09:56:09.000Z",
+      "url": "http://arxiv.org/abs/2611.15268v1",
       "source": "arxiv"
     },
     {
-      "title": "Agent4Crypto: A Dual-Reflective and Market-Feedback-Aligned LLM-Based Multi-Agent System for Cryptocurrency Trading",
-      "date": "2026-11-09T11:57:33.000Z",
-      "url": "http://arxiv.org/abs/2611.12269v1",
+      "title": "Read Once, Answer Many: Parallel Prompting for Shared-Context LLM Inference",
+      "date": "2026-11-11T07:15:18.000Z",
+      "url": "http://arxiv.org/abs/2611.15130v1",
       "source": "arxiv"
     },
     {
-      "title": "Prune, Don't Merge: Expert Compression of Mixture-of-Experts LLMs on Multilingual Production Tasks",
-      "date": "2026-11-09T11:30:23.000Z",
-      "url": "http://arxiv.org/abs/2611.12240v1",
+      "title": "One Fabrication Is Enough: A Fake News Article Changes the Forecasts of LLM Forecasting Systems",
+      "date": "2026-11-11T06:29:13.000Z",
+      "url": "http://arxiv.org/abs/2611.15102v1",
       "source": "arxiv"
     },
     {
-      "title": "CHO-Bench: How Do Context Hints Affect Ad Rankings in LLM Advertising?",
-      "date": "2026-11-09T06:19:53.000Z",
-      "url": "http://arxiv.org/abs/2611.11955v1",
+      "title": "FIBER: Bayesian Fusion of Fast-DetectGPT and IRT-Informed Detector Evidence for LLM-Generated Text Detection",
+      "date": "2026-11-11T05:31:56.000Z",
+      "url": "http://arxiv.org/abs/2611.15058v1",
       "source": "arxiv"
     },
     {
-      "title": "Competing Influence in LLM Populations: Budget Timing and Baseline Drift",
-      "date": "2026-11-09T04:44:17.000Z",
-      "url": "http://arxiv.org/abs/2611.11867v1",
+      "title": "CoLFA: Collaboration-Guided Lightweight Failure Attribution for LLM-Based Multi-Agent Systems",
+      "date": "2026-11-11T03:38:54.000Z",
+      "url": "http://arxiv.org/abs/2611.14980v1",
       "source": "arxiv"
     },
     {
-      "title": "BridgeKV: Large-Model Prefill and Small-Model Decoding for LLM Inference via KV Cache Translation",
-      "date": "2026-11-09T02:03:03.000Z",
-      "url": "http://arxiv.org/abs/2611.11761v1",
+      "title": "ToolTurns: Benchmarking LLM Agents in Multi-Turn Dialogue",
+      "date": "2026-11-11T02:27:30.000Z",
+      "url": "http://arxiv.org/abs/2611.14925v1",
       "source": "arxiv"
     }
   ],
