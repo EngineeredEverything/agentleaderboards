@@ -1,12 +1,96 @@
 {
-  "timestamp": "2026-11-15T16:03:08.818Z",
+  "timestamp": "2026-11-16T19:15:13.294Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
+      "title": "Can Mechanistic Interpretability Help Explain LLM Agent Failures? A Case Study on Web Element Hallucination",
+      "date": "2026-11-13T18:30:58.000Z",
+      "url": "http://arxiv.org/abs/2611.18514v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Do Verifier Judgments Survive Abstraction? Measuring Verification Transport for LLM Agent Evaluation",
+      "date": "2026-11-13T17:44:01.000Z",
+      "url": "http://arxiv.org/abs/2611.18471v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Contagious Fingerprints: When LLMs Inherit Another Model's Identity",
+      "date": "2026-11-13T12:32:44.000Z",
+      "url": "http://arxiv.org/abs/2611.18104v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "PerfArena: Ranking LLMs by Code Performance",
+      "date": "2026-11-13T10:58:12.000Z",
+      "url": "http://arxiv.org/abs/2611.18030v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "MineralExp: Benchmarking LLM Agents for Experimental Design in Real-World Mineral Exploration",
+      "date": "2026-11-13T09:10:58.000Z",
+      "url": "http://arxiv.org/abs/2611.17931v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Is Abliteration Getting Harder? Not Uniformly: Refusal Removal by Direction-Based Ablation and ARA in Heretic on the Qwen3.8, Gemma 4, Olmo 3.1 and Mistral Small 3.2 LLMs Versus Their Predecessors",
+      "date": "2026-11-13T07:29:43.000Z",
+      "url": "http://arxiv.org/abs/2611.17846v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "CarryOn: Learning What to Keep in Context for Long-Horizon LLM Agents",
+      "date": "2026-11-13T06:43:19.000Z",
+      "url": "http://arxiv.org/abs/2611.17808v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LuthorSQL: A One-Pass Text-to-SQL Model as System 1 for a Slower LLM Agent",
+      "date": "2026-11-13T05:44:08.000Z",
+      "url": "http://arxiv.org/abs/2611.17780v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Superfluid: Local AI Server for Distributed LLM Inference",
+      "date": "2026-11-13T05:10:32.000Z",
+      "url": "http://arxiv.org/abs/2611.17753v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "What LLM Agents See and What Users Say",
+      "date": "2026-11-13T01:16:46.000Z",
+      "url": "http://arxiv.org/abs/2611.17639v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs",
+      "date": "2026-11-13T00:18:25.000Z",
+      "url": "http://arxiv.org/abs/2611.17610v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
+      "date": "2026-11-12T21:09:43.000Z",
+      "url": "http://arxiv.org/abs/2611.17515v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Poetry 'resurrection' from LLMs",
+      "date": "2026-11-12T19:46:39.000Z",
+      "url": "http://arxiv.org/abs/2611.17464v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Tracing Knowledge and Reasoning in LLM",
+      "date": "2026-11-12T19:39:00.000Z",
+      "url": "http://arxiv.org/abs/2611.17461v1",
+      "source": "arxiv"
+    },
+    {
       "title": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
       "date": "2026-11-12T18:59:52.000Z",
-      "url": "http://arxiv.org/abs/2611.17332v1",
+      "url": "http://arxiv.org/abs/2611.17332v2",
       "source": "arxiv"
     },
     {
@@ -24,7 +108,7 @@
     {
       "title": "LazyWeights: Decode-on-Demand Edge LLMs",
       "date": "2026-11-12T17:03:40.000Z",
-      "url": "http://arxiv.org/abs/2611.17108v1",
+      "url": "http://arxiv.org/abs/2611.17108v2",
       "source": "arxiv"
     },
     {
@@ -37,90 +121,6 @@
       "title": "Outcome-Mass Alignment: Controlling Length-Dependent Trajectory Influence in Multi-Turn LLM Agent Reinforcement Learning",
       "date": "2026-11-12T13:52:12.000Z",
       "url": "http://arxiv.org/abs/2611.16816v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "When Expert Disagreement Hurts: Prestige and Selectivity in LLM Decision Revision",
-      "date": "2026-11-12T12:11:03.000Z",
-      "url": "http://arxiv.org/abs/2611.16694v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Data-Efficient LLM Safety Alignment Guided by Interpretable Features",
-      "date": "2026-11-12T02:15:45.000Z",
-      "url": "http://arxiv.org/abs/2611.16183v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "JudgeMix: Judge-Guided Mixed-Rollout Data Synthesis for LLM Agents",
-      "date": "2026-11-12T02:03:23.000Z",
-      "url": "http://arxiv.org/abs/2611.16174v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "What Roles Do System Prompts Really Assign? Validating and Steering Occupational Role Vectors in LLMs",
-      "date": "2026-11-11T20:43:45.000Z",
-      "url": "http://arxiv.org/abs/2611.15989v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Where Is Uncertainty Observed? A Mechanistic Understanding of Uncertainty Quantification in LLMs",
-      "date": "2026-11-11T17:14:57.000Z",
-      "url": "http://arxiv.org/abs/2611.15735v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Can We Make an LLM Dumber, or Is It Just Playing Dumb? An Empirical Study of Believable Performance Throttling",
-      "date": "2026-11-11T14:53:50.000Z",
-      "url": "http://arxiv.org/abs/2611.15568v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Is the Importance Ratio Necessary for Stable Reinforcement Learning in LLMs?",
-      "date": "2026-11-11T12:31:55.000Z",
-      "url": "http://arxiv.org/abs/2611.15404v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Towards Better Legal Reasoning LLMs: Signal Balancing and Reward Scheduling",
-      "date": "2026-11-11T11:23:50.000Z",
-      "url": "http://arxiv.org/abs/2611.15346v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Knowledge in the Harness, Reliability in the Weights: Teacher-Free Co-Evolution of an LLM Agent",
-      "date": "2026-11-11T09:56:09.000Z",
-      "url": "http://arxiv.org/abs/2611.15268v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Read Once, Answer Many: Parallel Prompting for Shared-Context LLM Inference",
-      "date": "2026-11-11T07:15:18.000Z",
-      "url": "http://arxiv.org/abs/2611.15130v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "One Fabrication Is Enough: A Fake News Article Changes the Forecasts of LLM Forecasting Systems",
-      "date": "2026-11-11T06:29:13.000Z",
-      "url": "http://arxiv.org/abs/2611.15102v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "FIBER: Bayesian Fusion of Fast-DetectGPT and IRT-Informed Detector Evidence for LLM-Generated Text Detection",
-      "date": "2026-11-11T05:31:56.000Z",
-      "url": "http://arxiv.org/abs/2611.15058v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "CoLFA: Collaboration-Guided Lightweight Failure Attribution for LLM-Based Multi-Agent Systems",
-      "date": "2026-11-11T03:38:54.000Z",
-      "url": "http://arxiv.org/abs/2611.14980v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "ToolTurns: Benchmarking LLM Agents in Multi-Turn Dialogue",
-      "date": "2026-11-11T02:27:30.000Z",
-      "url": "http://arxiv.org/abs/2611.14925v1",
       "source": "arxiv"
     }
   ],
