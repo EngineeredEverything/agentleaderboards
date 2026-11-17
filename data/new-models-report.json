@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-11-16T19:15:13.294Z",
+  "timestamp": "2026-11-17T18:07:28.834Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
-      "title": "Can Mechanistic Interpretability Help Explain LLM Agent Failures? A Case Study on Web Element Hallucination",
-      "date": "2026-11-13T18:30:58.000Z",
-      "url": "http://arxiv.org/abs/2611.18514v1",
+      "title": "Right Reason, Wrong Advice: Evaluating Recourse in LLM Explanations of Denied Requests",
+      "date": "2026-11-16T18:30:11.000Z",
+      "url": "http://arxiv.org/abs/2611.21545v1",
       "source": "arxiv"
     },
     {
-      "title": "Do Verifier Judgments Survive Abstraction? Measuring Verification Transport for LLM Agent Evaluation",
-      "date": "2026-11-13T17:44:01.000Z",
-      "url": "http://arxiv.org/abs/2611.18471v1",
+      "title": "Evaluating Cultural Reasoning and Robustness in LLMs for Spanish Political Discourse",
+      "date": "2026-11-16T18:24:48.000Z",
+      "url": "http://arxiv.org/abs/2611.21535v1",
       "source": "arxiv"
     },
     {
-      "title": "Contagious Fingerprints: When LLMs Inherit Another Model's Identity",
-      "date": "2026-11-13T12:32:44.000Z",
-      "url": "http://arxiv.org/abs/2611.18104v1",
+      "title": "Replicating and Extending Weight-Space Programming: Frontier LLMs Compile Programs into Weights and Read Input Layers",
+      "date": "2026-11-16T17:35:18.000Z",
+      "url": "http://arxiv.org/abs/2611.21449v1",
       "source": "arxiv"
     },
     {
-      "title": "PerfArena: Ranking LLMs by Code Performance",
-      "date": "2026-11-13T10:58:12.000Z",
-      "url": "http://arxiv.org/abs/2611.18030v1",
+      "title": "Rubric-Based AES with LLM Ensembles: Scoring of Student Responses in Critical Online Reasoning Using Ensembles of LLMs",
+      "date": "2026-11-16T17:12:36.000Z",
+      "url": "http://arxiv.org/abs/2611.21422v1",
       "source": "arxiv"
     },
     {
-      "title": "MineralExp: Benchmarking LLM Agents for Experimental Design in Real-World Mineral Exploration",
-      "date": "2026-11-13T09:10:58.000Z",
-      "url": "http://arxiv.org/abs/2611.17931v1",
+      "title": "Do Embedding-Map Distances Guide LLM Ideation? Four Tests Against What Came Next",
+      "date": "2026-11-16T17:00:27.000Z",
+      "url": "http://arxiv.org/abs/2611.21408v1",
       "source": "arxiv"
     },
     {
-      "title": "Is Abliteration Getting Harder? Not Uniformly: Refusal Removal by Direction-Based Ablation and ARA in Heretic on the Qwen3.8, Gemma 4, Olmo 3.1 and Mistral Small 3.2 LLMs Versus Their Predecessors",
-      "date": "2026-11-13T07:29:43.000Z",
-      "url": "http://arxiv.org/abs/2611.17846v1",
+      "title": "A Crowd-Audited Atlas of Implicit Bias in LLM-Powered Agents",
+      "date": "2026-11-16T16:36:47.000Z",
+      "url": "http://arxiv.org/abs/2611.21376v1",
       "source": "arxiv"
     },
     {
-      "title": "CarryOn: Learning What to Keep in Context for Long-Horizon LLM Agents",
-      "date": "2026-11-13T06:43:19.000Z",
-      "url": "http://arxiv.org/abs/2611.17808v1",
+      "title": "Validating LLM-Based Essay Scorers: A Comparative Analysis in Critical Online Reasoning in Medical Education",
+      "date": "2026-11-16T15:01:38.000Z",
+      "url": "http://arxiv.org/abs/2611.21208v1",
       "source": "arxiv"
     },
     {
-      "title": "LuthorSQL: A One-Pass Text-to-SQL Model as System 1 for a Slower LLM Agent",
-      "date": "2026-11-13T05:44:08.000Z",
-      "url": "http://arxiv.org/abs/2611.17780v1",
+      "title": "Edit Recommendation: Can LLMs Anticipate Edit Requests from Users, and When?",
+      "date": "2026-11-16T14:21:54.000Z",
+      "url": "http://arxiv.org/abs/2611.21155v1",
       "source": "arxiv"
     },
     {
-      "title": "Superfluid: Local AI Server for Distributed LLM Inference",
-      "date": "2026-11-13T05:10:32.000Z",
-      "url": "http://arxiv.org/abs/2611.17753v1",
+      "title": "MolReps: Taking SELFIES, Making SMILES, Teaching LLMs",
+      "date": "2026-11-16T10:23:23.000Z",
+      "url": "http://arxiv.org/abs/2611.20848v1",
       "source": "arxiv"
     },
     {
-      "title": "What LLM Agents See and What Users Say",
-      "date": "2026-11-13T01:16:46.000Z",
-      "url": "http://arxiv.org/abs/2611.17639v1",
+      "title": "Instant Weight-Space Consolidation for Long-Term Memory in LLMs",
+      "date": "2026-11-16T09:09:55.000Z",
+      "url": "http://arxiv.org/abs/2611.20759v1",
       "source": "arxiv"
     },
     {
-      "title": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs",
-      "date": "2026-11-13T00:18:25.000Z",
-      "url": "http://arxiv.org/abs/2611.17610v1",
+      "title": "Can LLMs Give Good Product Advice? A Framework for Diagnosing Failures",
+      "date": "2026-11-16T08:39:16.000Z",
+      "url": "http://arxiv.org/abs/2611.20734v1",
       "source": "arxiv"
     },
     {
-      "title": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
-      "date": "2026-11-12T21:09:43.000Z",
-      "url": "http://arxiv.org/abs/2611.17515v1",
+      "title": "IndustrialKnowEval: A Benchmark for Evaluating Multi-Level Industrial Knowledge in LLMs",
+      "date": "2026-11-16T08:01:54.000Z",
+      "url": "http://arxiv.org/abs/2611.20695v1",
       "source": "arxiv"
     },
     {
-      "title": "Poetry 'resurrection' from LLMs",
-      "date": "2026-11-12T19:46:39.000Z",
-      "url": "http://arxiv.org/abs/2611.17464v1",
+      "title": "Safety-Preserving Medical LLM Fine-Tuning via Bilevel Data Selection",
+      "date": "2026-11-16T07:03:59.000Z",
+      "url": "http://arxiv.org/abs/2611.20643v1",
       "source": "arxiv"
     },
     {
-      "title": "Tracing Knowledge and Reasoning in LLM",
-      "date": "2026-11-12T19:39:00.000Z",
-      "url": "http://arxiv.org/abs/2611.17461v1",
+      "title": "Same Papers, Different Verdicts: Tracing Version Drift in LLM Peer Review",
+      "date": "2026-11-16T06:32:42.000Z",
+      "url": "http://arxiv.org/abs/2611.20608v1",
       "source": "arxiv"
     },
     {
-      "title": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
-      "date": "2026-11-12T18:59:52.000Z",
-      "url": "http://arxiv.org/abs/2611.17332v2",
+      "title": "Necessary for What? Auditing Demographic Disclosure to LLM Synthetic Respondents",
+      "date": "2026-11-16T06:29:50.000Z",
+      "url": "http://arxiv.org/abs/2611.20606v1",
       "source": "arxiv"
     },
     {
-      "title": "Goal Encoding in LLMs",
-      "date": "2026-11-12T18:55:06.000Z",
-      "url": "http://arxiv.org/abs/2611.17297v1",
+      "title": "Invariant-Aware Harness Enforcement to Protect LLM Agents from Silent API Failures",
+      "date": "2026-11-16T06:22:28.000Z",
+      "url": "http://arxiv.org/abs/2611.20595v1",
       "source": "arxiv"
     },
     {
-      "title": "Synthesis Smuggling: Maliciously Hiding Inferred Personal Attributes in LLM Outputs",
-      "date": "2026-11-12T18:51:05.000Z",
-      "url": "http://arxiv.org/abs/2611.17280v1",
+      "title": "Weight-Space Programming Changes How an LLM Uses Python for Computational Biology",
+      "date": "2026-11-16T05:44:25.000Z",
+      "url": "http://arxiv.org/abs/2611.20566v1",
       "source": "arxiv"
     },
     {
-      "title": "LazyWeights: Decode-on-Demand Edge LLMs",
-      "date": "2026-11-12T17:03:40.000Z",
-      "url": "http://arxiv.org/abs/2611.17108v2",
+      "title": "ReconPotBench: Evaluating LLM Honeypots in Multi-Round Linux Reconnaissance",
+      "date": "2026-11-16T05:04:13.000Z",
+      "url": "http://arxiv.org/abs/2611.20528v1",
       "source": "arxiv"
     },
     {
-      "title": "Look It Up: Multi-bit LLM Watermarking via Codebook Search",
-      "date": "2026-11-12T14:49:23.000Z",
-      "url": "http://arxiv.org/abs/2611.16890v1",
+      "title": "TrainExplorer: Autonomous LLM Post-Training via Plan-and-Decouple Exploration",
+      "date": "2026-11-16T02:46:30.000Z",
+      "url": "http://arxiv.org/abs/2611.20430v1",
       "source": "arxiv"
     },
     {
-      "title": "Outcome-Mass Alignment: Controlling Length-Dependent Trajectory Influence in Multi-Turn LLM Agent Reinforcement Learning",
-      "date": "2026-11-12T13:52:12.000Z",
-      "url": "http://arxiv.org/abs/2611.16816v1",
+      "title": "When the Cheapest Feasible Router Fails: Auditing Deployment Commitments in Cost-Aware LLM Routing",
+      "date": "2026-11-16T02:25:42.000Z",
+      "url": "http://arxiv.org/abs/2611.20417v1",
       "source": "arxiv"
     }
   ],
