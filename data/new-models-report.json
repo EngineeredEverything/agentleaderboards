@@ -1,8 +1,98 @@
 {
-  "timestamp": "2026-11-17T18:07:28.834Z",
+  "timestamp": "2026-11-18T17:46:19.007Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
+      "date": "2026-11-17T18:59:37.000Z",
+      "url": "http://arxiv.org/abs/2611.23229v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Can Decision Models Replace LLMs in Real-World Contact Center Classification and Judging Tasks?",
+      "date": "2026-11-17T15:39:40.000Z",
+      "url": "http://arxiv.org/abs/2611.22949v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "The Between-Round Decision in Autonomous Research: An LLM Controller That Reads the Whole Trajectory",
+      "date": "2026-11-17T12:20:01.000Z",
+      "url": "http://arxiv.org/abs/2611.22661v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "AfriNORM: An Evaluation Benchmark for Normative Reasoning of LLMs Across African Cultures",
+      "date": "2026-11-17T11:04:36.000Z",
+      "url": "http://arxiv.org/abs/2611.22580v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "LMLineage: Content Lineage and Context Governance for LLM Agents",
+      "date": "2026-11-17T10:05:59.000Z",
+      "url": "http://arxiv.org/abs/2611.22511v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Growing Clusters Lower the Bar: Profile Accretion in LLM-Based Incremental Entity Resolution",
+      "date": "2026-11-17T09:42:41.000Z",
+      "url": "http://arxiv.org/abs/2611.22485v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Bad Apples in the Kitchen: How LLM Teams Detect, Correct, and Calibrate Against Their Misaligned Members",
+      "date": "2026-11-17T07:51:55.000Z",
+      "url": "http://arxiv.org/abs/2611.22342v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "VRLLM: Turning LLMs into Powerful Tabular Classifiers",
+      "date": "2026-11-17T07:06:25.000Z",
+      "url": "http://arxiv.org/abs/2611.22308v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "SOTA or Luck? The Winner's Curse in LLM Leaderboards",
+      "date": "2026-11-17T05:18:14.000Z",
+      "url": "http://arxiv.org/abs/2611.22227v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "EGS: A Complementary Safety Framework for Educational LLMs",
+      "date": "2026-11-17T04:40:42.000Z",
+      "url": "http://arxiv.org/abs/2611.22203v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Thinking Harder Doesn't Lead to Better Choices: Reasoning Effort Increases the Confidence but Not the Correctness of LLM Shopping Agents",
+      "date": "2026-11-17T00:55:58.000Z",
+      "url": "http://arxiv.org/abs/2611.22033v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "GauntletScore: Auditable Fact-Checking That Matches the Best Published Checkers on LLM-AggreFact",
+      "date": "2026-11-17T00:38:54.000Z",
+      "url": "http://arxiv.org/abs/2611.22027v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Beyond Bitwidth: Deployment-Constrained Mixed-Precision Quantization for Multilingual LLM Inference on NVIDIA Blackwell",
+      "date": "2026-11-16T22:58:32.000Z",
+      "url": "http://arxiv.org/abs/2611.21974v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Solver to System: LLM Reasoning Across Representations and Execution in Scientific Simulation",
+      "date": "2026-11-16T22:47:37.000Z",
+      "url": "http://arxiv.org/abs/2611.21964v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Call-Efficient ICD-10 Code Prediction via Supervised Candidate Generation and Selective LLM Invocation",
+      "date": "2026-11-16T21:05:59.000Z",
+      "url": "http://arxiv.org/abs/2611.21891v1",
+      "source": "arxiv"
+    },
     {
       "title": "Right Reason, Wrong Advice: Evaluating Recourse in LLM Explanations of Denied Requests",
       "date": "2026-11-16T18:30:11.000Z",
@@ -31,96 +121,6 @@
       "title": "Do Embedding-Map Distances Guide LLM Ideation? Four Tests Against What Came Next",
       "date": "2026-11-16T17:00:27.000Z",
       "url": "http://arxiv.org/abs/2611.21408v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "A Crowd-Audited Atlas of Implicit Bias in LLM-Powered Agents",
-      "date": "2026-11-16T16:36:47.000Z",
-      "url": "http://arxiv.org/abs/2611.21376v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Validating LLM-Based Essay Scorers: A Comparative Analysis in Critical Online Reasoning in Medical Education",
-      "date": "2026-11-16T15:01:38.000Z",
-      "url": "http://arxiv.org/abs/2611.21208v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Edit Recommendation: Can LLMs Anticipate Edit Requests from Users, and When?",
-      "date": "2026-11-16T14:21:54.000Z",
-      "url": "http://arxiv.org/abs/2611.21155v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "MolReps: Taking SELFIES, Making SMILES, Teaching LLMs",
-      "date": "2026-11-16T10:23:23.000Z",
-      "url": "http://arxiv.org/abs/2611.20848v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Instant Weight-Space Consolidation for Long-Term Memory in LLMs",
-      "date": "2026-11-16T09:09:55.000Z",
-      "url": "http://arxiv.org/abs/2611.20759v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Can LLMs Give Good Product Advice? A Framework for Diagnosing Failures",
-      "date": "2026-11-16T08:39:16.000Z",
-      "url": "http://arxiv.org/abs/2611.20734v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "IndustrialKnowEval: A Benchmark for Evaluating Multi-Level Industrial Knowledge in LLMs",
-      "date": "2026-11-16T08:01:54.000Z",
-      "url": "http://arxiv.org/abs/2611.20695v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Safety-Preserving Medical LLM Fine-Tuning via Bilevel Data Selection",
-      "date": "2026-11-16T07:03:59.000Z",
-      "url": "http://arxiv.org/abs/2611.20643v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Same Papers, Different Verdicts: Tracing Version Drift in LLM Peer Review",
-      "date": "2026-11-16T06:32:42.000Z",
-      "url": "http://arxiv.org/abs/2611.20608v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Necessary for What? Auditing Demographic Disclosure to LLM Synthetic Respondents",
-      "date": "2026-11-16T06:29:50.000Z",
-      "url": "http://arxiv.org/abs/2611.20606v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Invariant-Aware Harness Enforcement to Protect LLM Agents from Silent API Failures",
-      "date": "2026-11-16T06:22:28.000Z",
-      "url": "http://arxiv.org/abs/2611.20595v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Weight-Space Programming Changes How an LLM Uses Python for Computational Biology",
-      "date": "2026-11-16T05:44:25.000Z",
-      "url": "http://arxiv.org/abs/2611.20566v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "ReconPotBench: Evaluating LLM Honeypots in Multi-Round Linux Reconnaissance",
-      "date": "2026-11-16T05:04:13.000Z",
-      "url": "http://arxiv.org/abs/2611.20528v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "TrainExplorer: Autonomous LLM Post-Training via Plan-and-Decouple Exploration",
-      "date": "2026-11-16T02:46:30.000Z",
-      "url": "http://arxiv.org/abs/2611.20430v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "When the Cheapest Feasible Router Fails: Auditing Deployment Commitments in Cost-Aware LLM Routing",
-      "date": "2026-11-16T02:25:42.000Z",
-      "url": "http://arxiv.org/abs/2611.20417v1",
       "source": "arxiv"
     }
   ],
