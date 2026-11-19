@@ -1,8 +1,74 @@
 {
-  "timestamp": "2026-11-18T17:46:19.007Z",
+  "timestamp": "2026-11-19T17:57:19.972Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
+    {
+      "title": "Can Programs Replace LLM Judges? Executable Program Judges for Scalable and Efficient Relevance Labeling",
+      "date": "2026-11-18T18:09:16.000Z",
+      "url": "http://arxiv.org/abs/2611.24849v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Once Upon a Bias: Gender Stereotyping in LLM-Generated Children's Stories",
+      "date": "2026-11-18T10:01:35.000Z",
+      "url": "http://arxiv.org/abs/2611.24156v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Measuring and Charging for Retained Context in Long-Context LLM Services",
+      "date": "2026-11-18T09:03:03.000Z",
+      "url": "http://arxiv.org/abs/2611.24071v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "A Hybrid RAG Framework for Deceptive Review Detection: Integrating RoBERTa-LoRA, FAISS-Based Retrieval, and LLM Reasoning",
+      "date": "2026-11-18T08:39:46.000Z",
+      "url": "http://arxiv.org/abs/2611.24049v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "ReflectRec: Cycle-Consistency Preference Verification for LLM-based Recommendation",
+      "date": "2026-11-18T07:10:39.000Z",
+      "url": "http://arxiv.org/abs/2611.23969v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "FutureBench: A Renewable Framework for Evaluating Knowledge-Context Conflict in LLMs",
+      "date": "2026-11-17T22:55:12.000Z",
+      "url": "http://arxiv.org/abs/2611.23601v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Safe to Omit, Worth Omitting? Keeping the Answer and Cutting Latency When an LLM Agent Skips Another's Message",
+      "date": "2026-11-17T22:16:11.000Z",
+      "url": "http://arxiv.org/abs/2611.23570v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Can LLMs Understand What They Predict? Evaluating Latent Causal Structure Inference in Financial Markets",
+      "date": "2026-11-17T21:39:56.000Z",
+      "url": "http://arxiv.org/abs/2611.23533v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Dreaming Up Authors: Factual Prevalence and LLM Hallucinations in Academic Authorship Attribution",
+      "date": "2026-11-17T21:37:02.000Z",
+      "url": "http://arxiv.org/abs/2611.23530v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "Tracking Representations in LLM Reasoning Traces for Iterated Games",
+      "date": "2026-11-17T19:03:18.000Z",
+      "url": "http://arxiv.org/abs/2611.23403v1",
+      "source": "arxiv"
+    },
+    {
+      "title": "QDA: Closed-Loop LLM Quantization Design with Agents",
+      "date": "2026-11-17T19:00:09.000Z",
+      "url": "http://arxiv.org/abs/2611.23388v1",
+      "source": "arxiv"
+    },
     {
       "title": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
       "date": "2026-11-17T18:59:37.000Z",
@@ -55,72 +121,6 @@
       "title": "SOTA or Luck? The Winner's Curse in LLM Leaderboards",
       "date": "2026-11-17T05:18:14.000Z",
       "url": "http://arxiv.org/abs/2611.22227v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "EGS: A Complementary Safety Framework for Educational LLMs",
-      "date": "2026-11-17T04:40:42.000Z",
-      "url": "http://arxiv.org/abs/2611.22203v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Thinking Harder Doesn't Lead to Better Choices: Reasoning Effort Increases the Confidence but Not the Correctness of LLM Shopping Agents",
-      "date": "2026-11-17T00:55:58.000Z",
-      "url": "http://arxiv.org/abs/2611.22033v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "GauntletScore: Auditable Fact-Checking That Matches the Best Published Checkers on LLM-AggreFact",
-      "date": "2026-11-17T00:38:54.000Z",
-      "url": "http://arxiv.org/abs/2611.22027v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Beyond Bitwidth: Deployment-Constrained Mixed-Precision Quantization for Multilingual LLM Inference on NVIDIA Blackwell",
-      "date": "2026-11-16T22:58:32.000Z",
-      "url": "http://arxiv.org/abs/2611.21974v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Solver to System: LLM Reasoning Across Representations and Execution in Scientific Simulation",
-      "date": "2026-11-16T22:47:37.000Z",
-      "url": "http://arxiv.org/abs/2611.21964v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Call-Efficient ICD-10 Code Prediction via Supervised Candidate Generation and Selective LLM Invocation",
-      "date": "2026-11-16T21:05:59.000Z",
-      "url": "http://arxiv.org/abs/2611.21891v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Right Reason, Wrong Advice: Evaluating Recourse in LLM Explanations of Denied Requests",
-      "date": "2026-11-16T18:30:11.000Z",
-      "url": "http://arxiv.org/abs/2611.21545v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Evaluating Cultural Reasoning and Robustness in LLMs for Spanish Political Discourse",
-      "date": "2026-11-16T18:24:48.000Z",
-      "url": "http://arxiv.org/abs/2611.21535v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Replicating and Extending Weight-Space Programming: Frontier LLMs Compile Programs into Weights and Read Input Layers",
-      "date": "2026-11-16T17:35:18.000Z",
-      "url": "http://arxiv.org/abs/2611.21449v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Rubric-Based AES with LLM Ensembles: Scoring of Student Responses in Critical Online Reasoning Using Ensembles of LLMs",
-      "date": "2026-11-16T17:12:36.000Z",
-      "url": "http://arxiv.org/abs/2611.21422v1",
-      "source": "arxiv"
-    },
-    {
-      "title": "Do Embedding-Map Distances Guide LLM Ideation? Four Tests Against What Came Next",
-      "date": "2026-11-16T17:00:27.000Z",
-      "url": "http://arxiv.org/abs/2611.21408v1",
       "source": "arxiv"
     }
   ],
