@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-11-19T17:57:19.972Z",
+  "timestamp": "2026-11-20T17:31:01.792Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
-      "title": "Can Programs Replace LLM Judges? Executable Program Judges for Scalable and Efficient Relevance Labeling",
-      "date": "2026-11-18T18:09:16.000Z",
-      "url": "http://arxiv.org/abs/2611.24849v1",
+      "title": "HiSA: Sparsifying the Hidden Dimension of RoPE Attention in LLMs",
+      "date": "2026-11-19T16:31:46.000Z",
+      "url": "http://arxiv.org/abs/2611.26363v1",
       "source": "arxiv"
     },
     {
-      "title": "Once Upon a Bias: Gender Stereotyping in LLM-Generated Children's Stories",
-      "date": "2026-11-18T10:01:35.000Z",
-      "url": "http://arxiv.org/abs/2611.24156v1",
+      "title": "One Framework to Diagnose Them All: A Stratified Benchmark for Bengali LLM Hallucination",
+      "date": "2026-11-19T16:15:38.000Z",
+      "url": "http://arxiv.org/abs/2611.26336v1",
       "source": "arxiv"
     },
     {
-      "title": "Measuring and Charging for Retained Context in Long-Context LLM Services",
-      "date": "2026-11-18T09:03:03.000Z",
-      "url": "http://arxiv.org/abs/2611.24071v1",
+      "title": "Twice-Told Critiques: Claim-Level Homogenization of Peer Review in the LLM Era",
+      "date": "2026-11-19T15:45:51.000Z",
+      "url": "http://arxiv.org/abs/2611.26286v1",
       "source": "arxiv"
     },
     {
-      "title": "A Hybrid RAG Framework for Deceptive Review Detection: Integrating RoBERTa-LoRA, FAISS-Based Retrieval, and LLM Reasoning",
-      "date": "2026-11-18T08:39:46.000Z",
-      "url": "http://arxiv.org/abs/2611.24049v1",
+      "title": "Same Judgement, Different Scores: Numerical Scoring Topology in LLM-as-a-Judge Evaluation",
+      "date": "2026-11-19T13:17:49.000Z",
+      "url": "http://arxiv.org/abs/2611.26077v1",
       "source": "arxiv"
     },
     {
-      "title": "ReflectRec: Cycle-Consistency Preference Verification for LLM-based Recommendation",
-      "date": "2026-11-18T07:10:39.000Z",
-      "url": "http://arxiv.org/abs/2611.23969v1",
+      "title": "AltRA-Test: An Alternative Annotator Test for LLM Judges Without Shared Annotators",
+      "date": "2026-11-19T13:15:13.000Z",
+      "url": "http://arxiv.org/abs/2611.26073v1",
       "source": "arxiv"
     },
     {
-      "title": "FutureBench: A Renewable Framework for Evaluating Knowledge-Context Conflict in LLMs",
-      "date": "2026-11-17T22:55:12.000Z",
-      "url": "http://arxiv.org/abs/2611.23601v1",
+      "title": "Complete-SVD: A Functional Norm Approach to Low-Rank LLM Compression",
+      "date": "2026-11-19T13:04:57.000Z",
+      "url": "http://arxiv.org/abs/2611.26059v1",
       "source": "arxiv"
     },
     {
-      "title": "Safe to Omit, Worth Omitting? Keeping the Answer and Cutting Latency When an LLM Agent Skips Another's Message",
-      "date": "2026-11-17T22:16:11.000Z",
-      "url": "http://arxiv.org/abs/2611.23570v1",
+      "title": "When Sounds Turn Heads: Recovering Event Timing That Audio LLMs Fail to Say",
+      "date": "2026-11-19T11:48:01.000Z",
+      "url": "http://arxiv.org/abs/2611.25960v1",
       "source": "arxiv"
     },
     {
-      "title": "Can LLMs Understand What They Predict? Evaluating Latent Causal Structure Inference in Financial Markets",
-      "date": "2026-11-17T21:39:56.000Z",
-      "url": "http://arxiv.org/abs/2611.23533v1",
+      "title": "Verifiable Logic in Medical LLMs: A Critical Review of Agentic Clinical Reasoning Optimization and Neuro-Symbolic Grounding",
+      "date": "2026-11-19T10:49:23.000Z",
+      "url": "http://arxiv.org/abs/2611.25898v1",
       "source": "arxiv"
     },
     {
-      "title": "Dreaming Up Authors: Factual Prevalence and LLM Hallucinations in Academic Authorship Attribution",
-      "date": "2026-11-17T21:37:02.000Z",
-      "url": "http://arxiv.org/abs/2611.23530v1",
+      "title": "Anchor and Check: Deterministic Cross-Prompt, Cross-Model Reconciliation for Auditable LLM Decisions",
+      "date": "2026-11-19T09:38:16.000Z",
+      "url": "http://arxiv.org/abs/2611.25818v1",
       "source": "arxiv"
     },
     {
-      "title": "Tracking Representations in LLM Reasoning Traces for Iterated Games",
-      "date": "2026-11-17T19:03:18.000Z",
-      "url": "http://arxiv.org/abs/2611.23403v1",
+      "title": "FoodReact-AR: Learning Audience Reactions that Zero-Shot LLMs Miss in Arabic Food-Insecurity Discourse",
+      "date": "2026-11-19T08:01:05.000Z",
+      "url": "http://arxiv.org/abs/2611.25682v1",
       "source": "arxiv"
     },
     {
-      "title": "QDA: Closed-Loop LLM Quantization Design with Agents",
-      "date": "2026-11-17T19:00:09.000Z",
-      "url": "http://arxiv.org/abs/2611.23388v1",
+      "title": "Rubric Semantics or Numerical Priors? Auditing Scale-Direction Bias in LLM Judges",
+      "date": "2026-11-19T06:31:51.000Z",
+      "url": "http://arxiv.org/abs/2611.25588v1",
       "source": "arxiv"
     },
     {
-      "title": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
-      "date": "2026-11-17T18:59:37.000Z",
-      "url": "http://arxiv.org/abs/2611.23229v1",
+      "title": "AutoRAGBench: A Benchmark for LLM Agents Automating RAG System Development",
+      "date": "2026-11-19T06:26:28.000Z",
+      "url": "http://arxiv.org/abs/2611.25582v1",
       "source": "arxiv"
     },
     {
-      "title": "Can Decision Models Replace LLMs in Real-World Contact Center Classification and Judging Tasks?",
-      "date": "2026-11-17T15:39:40.000Z",
-      "url": "http://arxiv.org/abs/2611.22949v1",
+      "title": "The Coverage Selection Gap: Ranking, Not Generation, Limits LLM Rubric Construction",
+      "date": "2026-11-19T06:03:17.000Z",
+      "url": "http://arxiv.org/abs/2611.25557v1",
       "source": "arxiv"
     },
     {
-      "title": "The Between-Round Decision in Autonomous Research: An LLM Controller That Reads the Whole Trajectory",
-      "date": "2026-11-17T12:20:01.000Z",
-      "url": "http://arxiv.org/abs/2611.22661v1",
+      "title": "COVERAGE-TRACE: Source-Side Counterfactual Tracing for Detecting Omissions in LLM Summaries",
+      "date": "2026-11-19T05:40:28.000Z",
+      "url": "http://arxiv.org/abs/2611.25539v1",
       "source": "arxiv"
     },
     {
-      "title": "AfriNORM: An Evaluation Benchmark for Normative Reasoning of LLMs Across African Cultures",
-      "date": "2026-11-17T11:04:36.000Z",
-      "url": "http://arxiv.org/abs/2611.22580v1",
+      "title": "RoCoKV: Accelerating LLM Inference Serving through Uncertainty and Redundancy Aware KV Cache Compression",
+      "date": "2026-11-19T03:16:18.000Z",
+      "url": "http://arxiv.org/abs/2611.25433v1",
       "source": "arxiv"
     },
     {
-      "title": "LMLineage: Content Lineage and Context Governance for LLM Agents",
-      "date": "2026-11-17T10:05:59.000Z",
-      "url": "http://arxiv.org/abs/2611.22511v1",
+      "title": "Incorporating argumentation frameworks for LLM decision-making: Task-specific design and evaluation",
+      "date": "2026-11-19T02:00:57.000Z",
+      "url": "http://arxiv.org/abs/2611.25361v1",
       "source": "arxiv"
     },
     {
-      "title": "Growing Clusters Lower the Bar: Profile Accretion in LLM-Based Incremental Entity Resolution",
-      "date": "2026-11-17T09:42:41.000Z",
-      "url": "http://arxiv.org/abs/2611.22485v1",
+      "title": "LLMs Are Already Confidence-Aware Zero-Shot Classifiers",
+      "date": "2026-11-18T23:33:16.000Z",
+      "url": "http://arxiv.org/abs/2611.25289v1",
       "source": "arxiv"
     },
     {
-      "title": "Bad Apples in the Kitchen: How LLM Teams Detect, Correct, and Calibrate Against Their Misaligned Members",
-      "date": "2026-11-17T07:51:55.000Z",
-      "url": "http://arxiv.org/abs/2611.22342v1",
+      "title": "Blind Spots Travel, Knowledge Stays Home: What RL Inherits from an LLM Judge",
+      "date": "2026-11-18T21:13:28.000Z",
+      "url": "http://arxiv.org/abs/2611.25191v1",
       "source": "arxiv"
     },
     {
-      "title": "VRLLM: Turning LLMs into Powerful Tabular Classifiers",
-      "date": "2026-11-17T07:06:25.000Z",
-      "url": "http://arxiv.org/abs/2611.22308v1",
+      "title": "Forget Freely, Grep Later: Lossless, Index-Free Memory for Long-Horizon LLM Agents",
+      "date": "2026-11-18T20:02:57.000Z",
+      "url": "http://arxiv.org/abs/2611.25123v1",
       "source": "arxiv"
     },
     {
-      "title": "SOTA or Luck? The Winner's Curse in LLM Leaderboards",
-      "date": "2026-11-17T05:18:14.000Z",
-      "url": "http://arxiv.org/abs/2611.22227v1",
+      "title": "CoMPASS: A Multi-Turn Benchmark for Measuring LLM Reinforcement of Parasocial Behavior",
+      "date": "2026-11-18T19:44:59.000Z",
+      "url": "http://arxiv.org/abs/2611.25109v1",
       "source": "arxiv"
     }
   ],
