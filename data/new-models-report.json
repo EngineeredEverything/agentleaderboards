@@ -1,126 +1,126 @@
 {
-  "timestamp": "2026-11-24T19:55:31.717Z",
+  "timestamp": "2026-11-25T18:57:41.665Z",
   "existingCount": 0,
   "newModels": [],
   "recentPapers": [
     {
-      "title": "Precision-Aware Learning Rate Transfer Across Block Count in LLM Post-Training",
-      "date": "2026-11-23T18:27:57.000Z",
-      "url": "http://arxiv.org/abs/2611.31166v1",
+      "title": "AIChipBench: Benchmarking LLM Agents for Automated AI Accelerator Design",
+      "date": "2026-11-24T18:28:41.000Z",
+      "url": "http://arxiv.org/abs/2611.33093v1",
       "source": "arxiv"
     },
     {
-      "title": "Unlocking the Power of Loops in Pretrained LLMs with Loop Residuals",
-      "date": "2026-11-23T17:38:43.000Z",
-      "url": "http://arxiv.org/abs/2611.31094v1",
+      "title": "FOL-Proof: Verifying LLM Text-to-Logic Translations via Deterministic Semantics",
+      "date": "2026-11-24T18:13:28.000Z",
+      "url": "http://arxiv.org/abs/2611.33078v1",
       "source": "arxiv"
     },
     {
-      "title": "Can Latent Reasoning Drive LLM Outputs Without a Trace?",
-      "date": "2026-11-23T16:59:12.000Z",
-      "url": "http://arxiv.org/abs/2611.31015v1",
+      "title": "Towards Realistic Evaluation of Uncertainty Quantification for LLM-Based Recommender Systems",
+      "date": "2026-11-24T17:48:54.000Z",
+      "url": "http://arxiv.org/abs/2611.33036v1",
       "source": "arxiv"
     },
     {
-      "title": "SARA: An Auditor-in-the-Loop LLM Recommender for Sustainability Reports",
-      "date": "2026-11-23T15:23:50.000Z",
-      "url": "http://arxiv.org/abs/2611.30839v1",
+      "title": "Can a Frontier LLM Repair a Quantized Network by Tool-Free Weight-Space Programming?",
+      "date": "2026-11-24T17:43:09.000Z",
+      "url": "http://arxiv.org/abs/2611.33031v1",
       "source": "arxiv"
     },
     {
-      "title": "Trallie: from Free-Form Text to Structured Data with LLMs",
-      "date": "2026-11-23T14:41:32.000Z",
-      "url": "http://arxiv.org/abs/2611.30773v1",
+      "title": "SALSA: Sampling Adversarial Suffixes from Learned Distributions for LLM Safety Assessment",
+      "date": "2026-11-24T17:43:09.000Z",
+      "url": "http://arxiv.org/abs/2611.33030v1",
       "source": "arxiv"
     },
     {
-      "title": "Empirical Margin Sensitivity: An Interventional Neuron-Level Probe of Post-Trained Medical LLMs",
-      "date": "2026-11-23T13:29:09.000Z",
-      "url": "http://arxiv.org/abs/2611.30675v1",
+      "title": "Can LLM Judges Catch Unsafe Clinical Actions? A Fault-Injection Study",
+      "date": "2026-11-24T17:32:40.000Z",
+      "url": "http://arxiv.org/abs/2611.33012v1",
       "source": "arxiv"
     },
     {
-      "title": "Uncovering the Tells: Efficient Black-Box Audits for LLM Data Contamination",
-      "date": "2026-11-23T13:05:26.000Z",
-      "url": "http://arxiv.org/abs/2611.30639v1",
+      "title": "Modelling Billingual Learning Through LLM Training: A Critical-Period Exploration",
+      "date": "2026-11-24T17:25:04.000Z",
+      "url": "http://arxiv.org/abs/2611.32997v1",
       "source": "arxiv"
     },
     {
-      "title": "From Rewarding What Models Say to How They Think: Attention Process Reward Model for LLM Reinforcement Learning",
-      "date": "2026-11-23T12:57:42.000Z",
-      "url": "http://arxiv.org/abs/2611.30627v1",
+      "title": "\"I Do Intend to Deliver\": Will LLMs Run a Marketplace Advance-Fee Scam?",
+      "date": "2026-11-24T16:56:34.000Z",
+      "url": "http://arxiv.org/abs/2611.32957v1",
       "source": "arxiv"
     },
     {
-      "title": "Quantizing Diffusion LLMs under Parallel Decoding: Commitment Risk and the Parallelism Tax",
-      "date": "2026-11-23T12:27:42.000Z",
-      "url": "http://arxiv.org/abs/2611.30587v1",
+      "title": "Fresh Keys, Stale Secrets: Numeric Leakage across Linked LLM Prompts",
+      "date": "2026-11-24T16:02:46.000Z",
+      "url": "http://arxiv.org/abs/2611.32864v1",
       "source": "arxiv"
     },
     {
-      "title": "When Does Continual Pre-Training Help? An Empirical Study of Decoupled Knowledge and Generation Trajectories in Clinical LLMs",
-      "date": "2026-11-23T11:25:31.000Z",
-      "url": "http://arxiv.org/abs/2611.30507v1",
+      "title": "Measuring Layer-wise Intrinsic Dimensionality of FFNs in LLMs via PCA",
+      "date": "2026-11-24T15:11:53.000Z",
+      "url": "http://arxiv.org/abs/2611.32782v1",
       "source": "arxiv"
     },
     {
-      "title": "When Does Reasoning Help Entity Disambiguation? Small LLMs In-Domain and Under Shift",
-      "date": "2026-11-23T09:11:54.000Z",
-      "url": "http://arxiv.org/abs/2611.30334v1",
+      "title": "Red-Teaming a Sovereign LLM, Its Reasoning and Its Training Stages",
+      "date": "2026-11-24T14:36:06.000Z",
+      "url": "http://arxiv.org/abs/2611.32710v1",
       "source": "arxiv"
     },
     {
-      "title": "Evaluating Persona Consistency in LLM User Simulators Without External Reference Annotations",
-      "date": "2026-11-23T08:38:35.000Z",
-      "url": "http://arxiv.org/abs/2611.30280v1",
+      "title": "Privacy Disclosure Control Benchmark (PDC-Bench): How Faithfully Do LLMs Keep Privacy Constraints on In-Context Disclosure Granularity?",
+      "date": "2026-11-24T13:43:03.000Z",
+      "url": "http://arxiv.org/abs/2611.32610v1",
       "source": "arxiv"
     },
     {
-      "title": "Tracing Attacker Diversity Reduction in Adaptive LLM Red Teaming",
-      "date": "2026-11-23T03:23:01.000Z",
-      "url": "http://arxiv.org/abs/2611.29960v1",
+      "title": "ASTERISM: Do Multimodal LLMs Actually Look at All the Images?",
+      "date": "2026-11-24T10:12:44.000Z",
+      "url": "http://arxiv.org/abs/2611.32316v1",
       "source": "arxiv"
     },
     {
-      "title": "Sánchez, Feijóo, or Abascal? Speaker Attribution and Ideological Congruence in LLM Personas Reading Posts on X of the Leaders of the Three Main Parties of the 29N General Election in Spain",
-      "date": "2026-11-22T20:55:14.000Z",
-      "url": "http://arxiv.org/abs/2611.29765v1",
+      "title": "Fix How It Acts, Not How It Thinks: Surgical Fine-Tuning of Frontier LLMs",
+      "date": "2026-11-24T06:51:43.000Z",
+      "url": "http://arxiv.org/abs/2611.32064v1",
       "source": "arxiv"
     },
     {
-      "title": "Do More Roles or Larger Models Improve LLM Fact-Checking? A Controlled Study on Fixed Evidence",
-      "date": "2026-11-22T18:47:32.000Z",
-      "url": "http://arxiv.org/abs/2611.29687v1",
+      "title": "Do Clinician-Scored Examples Help LLMs Code ADOS-2 from Hour-Long Transcripts?",
+      "date": "2026-11-24T06:33:29.000Z",
+      "url": "http://arxiv.org/abs/2611.32050v1",
       "source": "arxiv"
     },
     {
-      "title": "Which Loopholes Get Found? Predicting Reward Hacking of LLM Judges Before RL Training",
-      "date": "2026-11-22T17:52:26.000Z",
-      "url": "http://arxiv.org/abs/2611.29651v1",
+      "title": "Learning Compact State Abstractions for LLM Agents",
+      "date": "2026-11-24T01:52:56.000Z",
+      "url": "http://arxiv.org/abs/2611.31800v1",
       "source": "arxiv"
     },
     {
-      "title": "Estimating Silenced Tokens in Quantized LLMs",
-      "date": "2026-11-22T15:00:07.000Z",
-      "url": "http://arxiv.org/abs/2611.29536v1",
+      "title": "SwarmLeak: Does Coordination Improve Privacy Attacks on LLM Agents?",
+      "date": "2026-11-24T01:43:42.000Z",
+      "url": "http://arxiv.org/abs/2611.31791v1",
       "source": "arxiv"
     },
     {
-      "title": "Recursive Self-Editing: LLMs Program Their Own Weight Edits for Self-Improvement",
-      "date": "2026-11-22T14:30:51.000Z",
-      "url": "http://arxiv.org/abs/2611.29513v1",
+      "title": "fork() for Agents: Agent Kernel for Non-blocking LLM Orchestration",
+      "date": "2026-11-24T00:33:20.000Z",
+      "url": "http://arxiv.org/abs/2611.31727v1",
       "source": "arxiv"
     },
     {
-      "title": "Beyond Accuracy: A Diagnostic Benchmark for Hypothesis-Driven Experiment Planning in LLM Agents",
-      "date": "2026-11-22T13:13:12.000Z",
-      "url": "http://arxiv.org/abs/2611.29467v1",
+      "title": "LUCID: Statistically Grounded Self-Correction for LLM Reasoning Evaluation",
+      "date": "2026-11-23T21:40:54.000Z",
+      "url": "http://arxiv.org/abs/2611.31595v1",
       "source": "arxiv"
     },
     {
-      "title": "Can Speech LLMs Recognize When Audio Evidence Is Insufficient? A Diagnostic Study and a Pre-Generation Probing Mitigation",
-      "date": "2026-11-22T11:08:50.000Z",
-      "url": "http://arxiv.org/abs/2611.29393v1",
+      "title": "Can LLM-Simulated Respondents Pre-Test Survey Questions? Evidence From Preregistered Prospective Validation",
+      "date": "2026-11-23T20:39:37.000Z",
+      "url": "http://arxiv.org/abs/2611.31532v1",
       "source": "arxiv"
     }
   ],
